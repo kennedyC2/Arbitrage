@@ -100,7 +100,6 @@ def Single():
         soup = BeautifulSoup(Browser.page_source, 'html5lib')
         ln = len(soup.select('#sportList > div.game-list > ul.sport-list > li:nth-child(' +
                              str(l + 1) + ') > div.tournament-list > ul > li'))
-        print(ln)
 
         # loop and click
         actions.move_to_element(item).perform()
@@ -126,11 +125,12 @@ def Single():
 
         for each in elem:
             # Compile
-            info = {}
-            info['category'] = each.find('span', 'text')[1].get_text().strip()
+            category = each.find('span', 'text').get_text().strip()
             div = each.find_all('div', 'm-content-row')
 
             for cc in div:
+                info = {}
+                info['category'] = category
                 home_team = cc.find(
                     'div', 'home-team').get_text().strip()
                 away_team = cc.find(
@@ -164,7 +164,7 @@ def Single():
 # Double
 def Double():
     # Odds
-    odds = {}
+    odds = []
 
     # fetch links
     with open('./Sportybet/sportybet_menu.txt', 'r') as json_file:
@@ -202,50 +202,51 @@ def Double():
         # Activate Double
         for j in range(ln):
             Browser.find_element(By.XPATH,
-                                 '/html/body/div[2]/div/div[2]/div/div[2]/div/div[2]/div[2]/div[' + str(2 + j) + ']/div/div[2]/div[2]').click()
+                                 '/html/body/div[2]/div/div[2]/div/div[2]/div/div[2]/div[2]/div[' + str(2 + j) + ']/div/div[3]/div[2]').click()
 
         # Wait 5 seconds
         time.sleep(5)
 
         # Parse HtmlDoc
         soup = BeautifulSoup(Browser.page_source, "html5lib")
-        elem = soup.find_all('div', 'm-content-row')
-
-        # Line
-        olympics = []
+        elem = soup.find_all('div', 'match-league')
 
         for each in elem:
             # Compile
-            info = {}
-            home_team = each.find(
-                'div', 'home-team').get_text().strip()
-            away_team = each.find(
-                'div', 'away-team').get_text().strip()
-            info['match'] = home_team + ' vs ' + away_team
-            info['time'] = each.find(
-                'div', 'clock-time').get_text().replace('&nbsp;', '').strip()
+            category = each.find('span', 'text').get_text().strip()
+            div = each.find_all('div', 'm-content-row')
 
-            if not(each.find_all('div', 'm-outcome--disabled')):
-                info['1X'] = each.find_all(
-                    'span', 'm-outcome-odds')[0].get_text().strip() or 0
-                info['2X'] = each.find_all(
-                    'span', 'm-outcome-odds')[2].get_text().strip() or 0
-            else:
-                if each.select('.m-market > div')[0]['class'].index('m-outcome--disabled') > -1:
-                    info['1X'] = 0
-                else:
-                    info['1X'] = each.find_all(
+            for cc in div:
+                info = {}
+                info['category'] = category
+                home_team = cc.find(
+                    'div', 'home-team').get_text().strip()
+                away_team = cc.find(
+                    'div', 'away-team').get_text().strip()
+                info['match'] = home_team + ' vs ' + away_team
+                info['time'] = cc.find(
+                    'div', 'clock-time').get_text().replace('&nbsp;', '').strip()
+
+                if not(cc.find_all('div', 'm-outcome--disabled')):
+                    info['1X'] = cc.find_all(
                         'span', 'm-outcome-odds')[0].get_text().strip() or 0
-
-                if each.select('.m-market > div')[2]['class'].index('m-outcome--disabled') > -1:
-                    info['2X'] = 0
-                else:
-                    info['2X'] = each.find_all(
+                    info['2X'] = cc.find_all(
                         'span', 'm-outcome-odds')[2].get_text().strip() or 0
+                else:
+                    if cc.select('.m-market > div')[0]['class'].index('m-outcome--disabled') > -1:
+                        info['1X'] = 0
+                    else:
+                        info['1X'] = cc.find_all(
+                            'span', 'm-outcome-odds')[0].get_text().strip() or 0
 
-            # Upload
-            olympics.append(info)
-        odds[e] = olympics
+                    if cc.select('.m-market > div')[2]['class'].index('m-outcome--disabled') > -1:
+                        info['2X'] = 0
+                    else:
+                        info['2X'] = cc.find_all(
+                            'span', 'm-outcome-odds')[2].get_text().strip() or 0
+
+                # Upload
+                odds.append(info)
 
         actions.move_to_element(item).perform()
         for z in range(1, ln + 1):
@@ -265,7 +266,7 @@ def Double():
 # GGNG
 def GGNG():
     # Odds
-    odds = {}
+    odds = []
 
     # fetch links
     with open('./Sportybet/sportybet_menu.txt', 'r') as json_file:
@@ -303,50 +304,51 @@ def GGNG():
         # Activate GGNG
         for j in range(ln):
             Browser.find_element(By.XPATH,
-                                 '/html/body/div[2]/div/div[2]/div/div[2]/div/div[2]/div[2]/div[' + str(2 + j) + ']/div/div[2]/div[3]').click()
+                                 '/html/body/div[2]/div/div[2]/div/div[2]/div/div[2]/div[2]/div[' + str(2 + j) + ']/div/div[3]/div[3]').click()
 
         # Wait 5 seconds
         time.sleep(5)
 
         # Parse HtmlDoc
         soup = BeautifulSoup(Browser.page_source, "html5lib")
-        elem = soup.find_all('div', 'm-content-row')
-
-        # Line
-        olympics = []
+        elem = soup.find_all('div', 'match-league')
 
         for each in elem:
             # Compile
-            info = {}
-            home_team = each.find(
-                'div', 'home-team').get_text().strip()
-            away_team = each.find(
-                'div', 'away-team').get_text().strip()
-            info['match'] = home_team + ' vs ' + away_team
-            info['time'] = each.find(
-                'div', 'clock-time').get_text().replace('&nbsp;', '').strip()
+            category = each.find('span', 'text').get_text().strip()
+            div = each.find_all('div', 'm-content-row')
 
-            if not(each.find_all('div', 'm-outcome--disabled')):
-                info['GG'] = each.find_all(
-                    'span', 'm-outcome-odds')[0].get_text().strip() or 0
-                info['NG'] = each.find_all(
-                    'span', 'm-outcome-odds')[1].get_text().strip() or 0
-            else:
-                if each.select('.m-market > div')[0]['class'].index('m-outcome--disabled') > -1:
-                    info['GG'] = 0
-                else:
-                    info['GG'] = each.find_all(
+            for cc in div:
+                info = {}
+                info['category'] = category
+                home_team = cc.find(
+                    'div', 'home-team').get_text().strip()
+                away_team = cc.find(
+                    'div', 'away-team').get_text().strip()
+                info['match'] = home_team + ' vs ' + away_team
+                info['time'] = cc.find(
+                    'div', 'clock-time').get_text().replace('&nbsp;', '').strip()
+
+                if not(cc.find_all('div', 'm-outcome--disabled')):
+                    info['GG'] = cc.find_all(
                         'span', 'm-outcome-odds')[0].get_text().strip() or 0
-
-                if each.select('.m-market > div')[1]['class'].index('m-outcome--disabled') > -1:
-                    info['NG'] = 0
-                else:
-                    info['NG'] = each.find_all(
+                    info['NG'] = cc.find_all(
                         'span', 'm-outcome-odds')[1].get_text().strip() or 0
+                else:
+                    if cc.select('.m-market > div')[0]['class'].index('m-outcome--disabled') > -1:
+                        info['GG'] = 0
+                    else:
+                        info['GG'] = cc.find_all(
+                            'span', 'm-outcome-odds')[0].get_text().strip() or 0
 
-            # Upload
-            olympics.append(info)
-        odds[e] = olympics
+                    if cc.select('.m-market > div')[1]['class'].index('m-outcome--disabled') > -1:
+                        info['NG'] = 0
+                    else:
+                        info['NG'] = cc.find_all(
+                            'span', 'm-outcome-odds')[1].get_text().strip() or 0
+
+                # Upload
+                odds.append(info)
 
         actions.move_to_element(item).perform()
         for z in range(1, ln + 1):
@@ -366,7 +368,7 @@ def GGNG():
 # DNB
 def DNB():
     # Odds
-    odds = {}
+    odds = []
 
     # fetch links
     with open('./Sportybet/sportybet_menu.txt', 'r') as json_file:
@@ -404,50 +406,51 @@ def DNB():
         # Activate Draw No Bet
         for j in range(ln):
             Browser.find_element(By.XPATH,
-                                 '/html/body/div[2]/div/div[2]/div/div[2]/div/div[2]/div[2]/div[' + str(2 + j) + ']/div/div[2]/div[4]').click()
+                                 '/html/body/div[2]/div/div[2]/div/div[2]/div/div[2]/div[2]/div[' + str(2 + j) + ']/div/div[3]/div[4]').click()
 
         # Wait 5 seconds
         time.sleep(5)
 
         # Parse HtmlDoc
         soup = BeautifulSoup(Browser.page_source, "html5lib")
-        elem = soup.find_all('div', 'm-content-row')
-
-        # Line
-        olympics = []
+        elem = soup.find_all('div', 'match-league')
 
         for each in elem:
             # Compile
-            info = {}
-            home_team = each.find(
-                'div', 'home-team').get_text().strip()
-            away_team = each.find(
-                'div', 'away-team').get_text().strip()
-            info['match'] = home_team + ' vs ' + away_team
-            info['time'] = each.find(
-                'div', 'clock-time').get_text().replace('&nbsp;', '').strip()
+            category = each.find('span', 'text').get_text().strip()
+            div = each.find_all('div', 'm-content-row')
 
-            if not(each.find_all('div', 'm-outcome--disabled')):
-                info['home'] = each.find_all(
-                    'span', 'm-outcome-odds')[0].get_text().strip() or 0
-                info['away'] = each.find_all(
-                    'span', 'm-outcome-odds')[1].get_text().strip() or 0
-            else:
-                if each.select('.m-market > div')[0]['class'].index('m-outcome--disabled') > -1:
-                    info['home'] = 0
-                else:
-                    info['home'] = each.find_all(
+            for cc in div:
+                info = {}
+                info['category'] = category
+                home_team = cc.find(
+                    'div', 'home-team').get_text().strip()
+                away_team = cc.find(
+                    'div', 'away-team').get_text().strip()
+                info['match'] = home_team + ' vs ' + away_team
+                info['time'] = cc.find(
+                    'div', 'clock-time').get_text().replace('&nbsp;', '').strip()
+
+                if not(cc.find_all('div', 'm-outcome--disabled')):
+                    info['home'] = cc.find_all(
                         'span', 'm-outcome-odds')[0].get_text().strip() or 0
-
-                if each.select('.m-market > div')[1]['class'].index('m-outcome--disabled') > -1:
-                    info['away'] = 0
-                else:
-                    info['away'] = each.find_all(
+                    info['away'] = cc.find_all(
                         'span', 'm-outcome-odds')[1].get_text().strip() or 0
+                else:
+                    if cc.select('.m-market > div')[0]['class'].index('m-outcome--disabled') > -1:
+                        info['home'] = 0
+                    else:
+                        info['home'] = cc.find_all(
+                            'span', 'm-outcome-odds')[0].get_text().strip() or 0
 
-            # Upload
-            olympics.append(info)
-        odds[e] = olympics
+                    if cc.select('.m-market > div')[1]['class'].index('m-outcome--disabled') > -1:
+                        info['away'] = 0
+                    else:
+                        info['away'] = cc.find_all(
+                            'span', 'm-outcome-odds')[1].get_text().strip() or 0
+
+                # Upload
+                odds.append(info)
 
         actions.move_to_element(item).perform()
         for z in range(1, ln + 1):

@@ -31,10 +31,10 @@ n = 2
 # Fetch
 def fetch(bookmarker_1, bookmaker_1_oddType, bookmarker_2, bookmaker_2_oddType):
     # Define f path
-    f_1 = bookmarker_1 + '_' + bookmaker_1_oddType + '.txt'
-    fd_1 = bookmarker_1.capitalize()
-    f_2 = bookmarker_2 + '_' + bookmaker_2_oddType + '.txt'
-    fd_2 = bookmarker_2.capitalize()
+    f_1 = bookmarker_1.lower() + '_' + bookmaker_1_oddType + '.txt'
+    fd_1 = bookmarker_1
+    f_2 = bookmarker_2.lower() + '_' + bookmaker_2_oddType + '.txt'
+    fd_2 = bookmarker_2
 
     # Get file
     with open('./' + fd_1 + '/' + f_1, 'r') as json_file_1:
@@ -46,24 +46,33 @@ def fetch(bookmarker_1, bookmaker_1_oddType, bookmarker_2, bookmaker_2_oddType):
         data_2 = json.load(json_file_2)
 
     # loop and search
-    for i in data_1:
-        for k in data_1[i]:
-            arr_1a = data_1[i][k]['match'].split(' vs ')[0]
-            arr_1b = data_1[i][k]['match'].split(' vs ')[1]
-            for j in data_2:
-                for l in data_2[j]:
-                    arr_2a = data_2[j][l]['match'].split(' vs ')[0]
-                    arr_2b = data_2[j][l]['match'].split(' vs ')[1]
+    for i in range(len(data_1)):
+        match_1 = data_1[i]['match'].split(' vs ')
+        home_team_1 = match_1[0].split(' ')
+        away_team_1 = match_1[1].split(' ')
+        for j in range(len(data_2)):
+            match_2 = data_2[j]['match'].split(' vs ')
+            home_team_2 = match_2[0].split(' ')
+            away_team_2 = match_2[1].split(' ')
 
-                    # Find Match
-                    if re.findall(arr_1a, arr_2a) or re.findall(arr_2a, arr_1a):
-                        if re.findall(arr_1b, arr_2b) or re.findall(arr_2b, arr_1b):
-                            data = {}
-                            data[i] = data_1[i][k]
-                            data[j] = data_2[j][l]
+            # Check
+            for h_team in home_team_1:
+                # Compare Home teams
+                if h_team in home_team_2 and len(h_team) > 2:
+                    for a_team in away_team_1:
+                        # Compare Away teams
+                        if a_team in away_team_2 and len(a_team) > 2:
+                            pair = []
+                            pair.append(data_1[i])
+                            pair.append(data_2[j])
+                            print(pair)
+                            break
+                        else:
+                            pass
+                        continue
+                else:
+                    pass
+                break
 
-                            # Send Information
-                            return data
 
-
-# Calculator
+fetch(u, a, z, a)

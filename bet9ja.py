@@ -9,19 +9,13 @@ from bs4 import BeautifulSoup
 import time
 import json
 import re
-import os
 from pathlib import Path
 
 # Browser Configurations
 # =============================================================================================================
-
-# Create empty profile
-os.mkdir('./chrome_profile')
-Path('./chrome_profile/First Run').touch()
-
-# Continue
 BrowserMode = uc.ChromeOptions()
 BrowserMode.headless = False
+BrowserMode.add_argument('--user-data-dir=./chrome_profile/')
 BrowserMode.add_argument("--start-maximized")
 Browser = uc.Chrome(options=BrowserMode)
 actions = ActionChains(Browser)
@@ -126,7 +120,7 @@ def getLinks_Bet9ja():
 # DNB
 def DNB():
     # Odds
-    odds = {}
+    odds = []
 
     # fetch links
     with open('./Bet9ja/bet9ja_links.txt', 'r') as json_file:
@@ -172,9 +166,6 @@ def DNB():
             soup = BeautifulSoup(Browser.page_source, "html5lib")
             elem = soup.select('.sports-table > .table-f')
 
-            # Line
-            olympics = []
-
             for each in elem:
                 # Compile
                 info = {}
@@ -182,6 +173,8 @@ def DNB():
                     'div', 'sports-table__home').get_text().strip()
                 away_team = each.find(
                     'div', 'sports-table__away').get_text().strip()
+
+                info['category'] = e
                 info['match'] = home_team + ' vs ' + away_team
                 info['time'] = each.find('span').get_text().strip()
                 info['home'] = each.find_all(
@@ -190,8 +183,7 @@ def DNB():
                     'li', 'sports-table__odds-item')[1].get_text().strip() or 0
 
                 # Upload
-                olympics.append(info)
-            odds[e] = olympics
+                odds.append(info)
         else:
             pass
         continue
@@ -204,7 +196,7 @@ def DNB():
 # GGNG
 def GGNG():
     # Odds
-    odds = {}
+    odds = []
 
     # fetch links
     with open('./Bet9ja/bet9ja_links.txt', 'r') as json_file:
@@ -250,9 +242,6 @@ def GGNG():
             soup = BeautifulSoup(Browser.page_source, "html5lib")
             elem = soup.select('.sports-table > .table-f')
 
-            # Line
-            olympics = []
-
             for each in elem:
                 # Compile
                 info = {}
@@ -260,6 +249,8 @@ def GGNG():
                     'div', 'sports-table__home').get_text().strip()
                 away_team = each.find(
                     'div', 'sports-table__away').get_text().strip()
+
+                info['category'] = e
                 info['match'] = home_team + ' vs ' + away_team
                 info['time'] = each.find('span').get_text().strip()
                 info['GG'] = each.find_all(
@@ -268,8 +259,7 @@ def GGNG():
                     'li', 'sports-table__odds-item')[1].get_text().strip() or 0
 
                 # Upload
-                olympics.append(info)
-            odds[e] = olympics
+                odds.append(info)
         else:
             pass
         continue
