@@ -1,0 +1,736 @@
+{
+    "England Premier League": [
+        {
+            "match": "Brentford vs Arsenal",
+            "time": "20:00",
+            "home": "1.83",
+            "away": "1.22"
+        },
+        {
+            "match": "Man Utd vs Leeds",
+            "time": "12:30",
+            "home": "1.14",
+            "away": "2.50"
+        },
+        {
+            "match": "Burnley vs Brighton",
+            "time": "15:00",
+            "home": "1.53",
+            "away": "1.36"
+        },
+        {
+            "match": "Chelsea vs Crystal Palace",
+            "time": "15:00",
+            "home": "1.04",
+            "away": "4.00"
+        },
+        {
+            "match": "Everton vs Southampton",
+            "time": "15:00",
+            "home": "1.25",
+            "away": "1.80"
+        },
+        {
+            "match": "Leicester vs Wolverhampton",
+            "time": "15:00",
+            "home": "1.14",
+            "away": "2.25"
+        },
+        {
+            "match": "Watford vs Aston Villa",
+            "time": "15:00",
+            "home": "1.66",
+            "away": "1.30"
+        },
+        {
+            "match": "Norwich vs Liverpool",
+            "time": "17:30",
+            "home": "3.50",
+            "away": "1.071"
+        },
+        {
+            "match": "Newcastle vs West Ham",
+            "time": "14:00",
+            "home": "1.66",
+            "away": "1.36"
+        },
+        {
+            "match": "Tottenham vs Man City",
+            "time": "16:30",
+            "home": "2.37",
+            "away": "1.14"
+        },
+        {
+            "match": "Liverpool vs Burnley",
+            "time": "12:30",
+            "home": "1.062",
+            "away": "3.75"
+        },
+        {
+            "match": "Aston Villa vs Newcastle",
+            "time": "15:00",
+            "home": "1.18",
+            "away": "2.00"
+        },
+        {
+            "match": "Crystal Palace vs Brentford",
+            "time": "15:00",
+            "home": "1.36",
+            "away": "1.57"
+        },
+        {
+            "match": "Leeds vs Everton",
+            "time": "15:00",
+            "home": "1.30",
+            "away": "1.72"
+        },
+        {
+            "match": "Man City vs Norwich",
+            "time": "15:00",
+            "home": "1.02",
+            "away": "7.00"
+        },
+        {
+            "match": "Brighton vs Watford",
+            "time": "17:30",
+            "home": "1.18",
+            "away": "2.00"
+        },
+        {
+            "match": "Southampton vs Man Utd",
+            "time": "14:00",
+            "home": "1.90",
+            "away": "1.20"
+        },
+        {
+            "match": "Wolverhampton vs Tottenham",
+            "time": "14:00",
+            "home": "1.72",
+            "away": "1.25"
+        },
+        {
+            "match": "Arsenal vs Chelsea",
+            "time": "16:30",
+            "home": "1.61",
+            "away": "1.36"
+        },
+        {
+            "match": "West Ham vs Leicester",
+            "time": "20:00",
+            "home": "1.53",
+            "away": "1.40"
+        }
+    ],
+    "England Championship": [
+        {
+            "match": "Peterborough vs Derby",
+            "time": "12:30",
+            "home": "1.30",
+            "away": "1.61"
+        },
+        {
+            "match": "Barnsley vs Coventry",
+            "time": "15:00",
+            "home": "1.18",
+            "away": "1.80"
+        },
+        {
+            "match": "Birmingham vs Stoke",
+            "time": "15:00",
+            "home": "1.40",
+            "away": "1.50"
+        },
+        {
+            "match": "Blackpool vs Cardiff",
+            "time": "15:00",
+            "home": "1.61",
+            "away": "1.28"
+        },
+        {
+            "match": "Huddersfield vs Fulham",
+            "time": "15:00",
+            "home": "1.80",
+            "away": "1.18"
+        },
+        {
+            "match": "Hull vs QPR",
+            "time": "15:00",
+            "home": "1.53",
+            "away": "1.40"
+        },
+        {
+            "match": "Middlesbrough vs Bristol City",
+            "time": "15:00",
+            "home": "1.16",
+            "away": "2.00"
+        },
+        {
+            "match": "Millwall vs Blackburn",
+            "time": "15:00",
+            "home": "1.36",
+            "away": "1.53"
+        },
+        {
+            "match": "Nottm Forest vs Bournemouth",
+            "time": "15:00",
+            "home": "1.66",
+            "away": "1.25"
+        },
+        {
+            "match": "Reading vs Preston",
+            "time": "15:00",
+            "home": "1.33",
+            "away": "1.61"
+        },
+        {
+            "match": "West Brom vs Luton",
+            "time": "15:00",
+            "home": "1.14",
+            "away": "2.10"
+        },
+        {
+            "match": "Swansea vs Sheff Utd",
+            "time": "20:00",
+            "home": "1.53",
+            "away": "1.36"
+        }
+    ],
+    "England League 1": [
+        {
+            "match": "Accrington Stanley vs Cambridge Utd",
+            "time": "15:00",
+            "home": "1.28",
+            "away": "1.72"
+        },
+        {
+            "match": "AFC Wimbledon vs Bolton",
+            "time": "15:00",
+            "home": "1.53",
+            "away": "1.40"
+        },
+        {
+            "match": "Burton Albion vs Ipswich",
+            "time": "15:00",
+            "home": "1.57",
+            "away": "1.36"
+        },
+        {
+            "match": "Cheltenham vs Wycombe",
+            "time": "15:00",
+            "home": "1.53",
+            "away": "1.36"
+        },
+        {
+            "match": "Lincoln City vs Fleetwood Town",
+            "time": "15:00",
+            "home": "1.28",
+            "away": "1.72"
+        },
+        {
+            "match": "Milton Keynes Dons vs Sunderland",
+            "time": "15:00",
+            "home": "1.72",
+            "away": "1.28"
+        },
+        {
+            "match": "Morecambe vs Shrewsbury",
+            "time": "15:00",
+            "home": "1.53",
+            "away": "1.40"
+        },
+        {
+            "match": "Oxford Utd vs Charlton",
+            "time": "15:00",
+            "home": "1.40",
+            "away": "1.53"
+        },
+        {
+            "match": "Plymouth vs Gillingham",
+            "time": "15:00",
+            "home": "1.36",
+            "away": "1.57"
+        },
+        {
+            "match": "Portsmouth vs Crewe",
+            "time": "15:00",
+            "home": "1.18",
+            "away": "2.00"
+        },
+        {
+            "match": "Sheff Wed vs Doncaster",
+            "time": "15:00",
+            "home": "1.18",
+            "away": "2.00"
+        },
+        {
+            "match": "Wigan vs Rotherham",
+            "time": "15:00",
+            "home": "1.44",
+            "away": "1.50"
+        }
+    ],
+    "England League 2": [
+        {
+            "match": "Barrow vs Hartlepool",
+            "time": "15:00",
+            "home": "1.40",
+            "away": "1.53"
+        },
+        {
+            "match": "Bradford vs Oldham",
+            "time": "15:00",
+            "home": "1.25",
+            "away": "1.72"
+        },
+        {
+            "match": "Bristol Rovers vs Stevenage",
+            "time": "15:00",
+            "home": "1.30",
+            "away": "1.66"
+        },
+        {
+            "match": "Colchester vs Northampton",
+            "time": "15:00",
+            "home": "1.44",
+            "away": "1.44"
+        },
+        {
+            "match": "Crawley Town vs Harrogate Town",
+            "time": "15:00",
+            "home": "1.44",
+            "away": "1.44"
+        },
+        {
+            "match": "Leyton Orient vs Exeter",
+            "time": "15:00",
+            "home": "1.50",
+            "away": "1.40"
+        },
+        {
+            "match": "Mansfield vs Newport County",
+            "time": "15:00",
+            "home": "1.28",
+            "away": "1.66"
+        },
+        {
+            "match": "Port Vale vs Tranmere",
+            "time": "15:00",
+            "home": "1.40",
+            "away": "1.44"
+        },
+        {
+            "match": "Rochdale vs Scunthorpe",
+            "time": "15:00",
+            "home": "1.36",
+            "away": "1.57"
+        },
+        {
+            "match": "Salford City vs Sutton Utd",
+            "time": "15:00",
+            "home": "1.22",
+            "away": "1.83"
+        },
+        {
+            "match": "Swindon vs Carlisle",
+            "time": "15:00",
+            "home": "1.50",
+            "away": "1.40"
+        }
+    ],
+    "England EFL Cup": [
+        {
+            "match": "Cardiff vs Sutton Utd",
+            "time": "19:00",
+            "home": "1.083",
+            "away": "3.25"
+        },
+        {
+            "match": "Hartlepool vs Crewe",
+            "time": "19:00",
+            "home": "1.53",
+            "away": "1.40"
+        },
+        {
+            "match": "Crawley Town vs Gillingham",
+            "time": "19:30",
+            "home": "1.66",
+            "away": "1.30"
+        },
+        {
+            "match": "Barrow vs Scunthorpe",
+            "time": "19:45",
+            "home": "1.28",
+            "away": "1.72"
+        },
+        {
+            "match": "Birmingham vs Colchester",
+            "time": "19:45",
+            "home": "1.10",
+            "away": "2.75"
+        },
+        {
+            "match": "Blackburn vs Morecambe",
+            "time": "19:45",
+            "home": "1.14",
+            "away": "2.37"
+        },
+        {
+            "match": "Bristol Rovers vs Cheltenham",
+            "time": "19:45",
+            "home": "1.40",
+            "away": "1.50"
+        },
+        {
+            "match": "Cambridge Utd vs Swindon",
+            "time": "19:45",
+            "home": "1.16",
+            "away": "2.25"
+        },
+        {
+            "match": "Charlton vs AFC Wimbledon",
+            "time": "19:45",
+            "home": "1.22",
+            "away": "1.83"
+        },
+        {
+            "match": "Exeter vs Wycombe",
+            "time": "19:45",
+            "home": "1.80",
+            "away": "1.22"
+        },
+        {
+            "match": "Forest Green vs Bristol City",
+            "time": "19:45",
+            "home": "1.72",
+            "away": "1.28"
+        },
+        {
+            "match": "Harrogate Town vs Rochdale",
+            "time": "19:45",
+            "home": "1.40",
+            "away": "1.50"
+        },
+        {
+            "match": "Hull vs Wigan",
+            "time": "19:45",
+            "home": "1.25",
+            "away": "1.80"
+        },
+        {
+            "match": "Ipswich vs Newport County",
+            "time": "19:45",
+            "home": "1.22",
+            "away": "1.83"
+        },
+        {
+            "match": "Mansfield vs Preston",
+            "time": "19:45",
+            "home": "1.66",
+            "away": "1.30"
+        },
+        {
+            "match": "Millwall vs Portsmouth",
+            "time": "19:45",
+            "home": "1.22",
+            "away": "1.80"
+        },
+        {
+            "match": "Oldham vs Tranmere",
+            "time": "19:45",
+            "home": "1.53",
+            "away": "1.40"
+        },
+        {
+            "match": "Peterborough vs Plymouth",
+            "time": "19:45",
+            "home": "1.16",
+            "away": "2.10"
+        },
+        {
+            "match": "Port Vale vs Sunderland",
+            "time": "19:45",
+            "home": "2.00",
+            "away": "1.18"
+        },
+        {
+            "match": "Rotherham vs Accrington Stanley",
+            "time": "19:45",
+            "home": "1.18",
+            "away": "1.90"
+        },
+        {
+            "match": "Sheff Utd vs Carlisle",
+            "time": "19:45",
+            "home": "1.11",
+            "away": "2.62"
+        },
+        {
+            "match": "Shrewsbury vs Lincoln City",
+            "time": "19:45",
+            "home": "1.53",
+            "away": "1.40"
+        },
+        {
+            "match": "Stevenage vs Luton",
+            "time": "19:45",
+            "home": "2.10",
+            "away": "1.16"
+        },
+        {
+            "match": "Stoke vs Fleetwood Town",
+            "time": "19:45",
+            "home": "1.16",
+            "away": "2.37"
+        },
+        {
+            "match": "Walsall vs Doncaster",
+            "time": "19:45",
+            "home": "1.66",
+            "away": "1.30"
+        },
+        {
+            "match": "Bolton vs Barnsley",
+            "time": "20:00",
+            "home": "1.72",
+            "away": "1.28"
+        },
+        {
+            "match": "Reading vs Swansea",
+            "time": "20:00",
+            "home": "1.36",
+            "away": "1.53"
+        },
+        {
+            "match": "Blackpool vs Middlesbrough",
+            "time": "19:45",
+            "home": "1.53",
+            "away": "1.40"
+        },
+        {
+            "match": "Burton Albion vs Oxford Utd",
+            "time": "19:45",
+            "home": "1.57",
+            "away": "1.36"
+        },
+        {
+            "match": "Coventry vs Northampton",
+            "time": "19:45",
+            "home": "1.16",
+            "away": "2.25"
+        },
+        {
+            "match": "Leyton Orient vs QPR",
+            "time": "19:45",
+            "home": "1.80",
+            "away": "1.25"
+        },
+        {
+            "match": "Nottm Forest vs Bradford",
+            "time": "19:45",
+            "home": "1.12",
+            "away": "2.50"
+        }
+    ],
+    "Scotland Premiership": [
+        {
+            "match": "Celtic vs St Mirren",
+            "time": "15:00",
+            "home": "1.12",
+            "away": "3.25"
+        },
+        {
+            "match": "Hearts vs Aberdeen",
+            "time": "15:00",
+            "home": "1.36",
+            "away": "1.53"
+        },
+        {
+            "match": "Livingston vs Motherwell",
+            "time": "15:00",
+            "home": "1.30",
+            "away": "1.66"
+        },
+        {
+            "match": "Ross County vs Rangers",
+            "time": "15:00",
+            "home": "3.75",
+            "away": "1.071"
+        },
+        {
+            "match": "Dundee vs Hibernian",
+            "time": "12:00",
+            "home": "1.80",
+            "away": "1.36"
+        },
+        {
+            "match": "St Johnstone vs Dundee Utd",
+            "time": "15:00",
+            "home": "1.30",
+            "away": "1.66"
+        }
+    ],
+    "England National League": [
+        {
+            "match": "Aldershot vs Chesterfield",
+            "time": "15:00",
+            "home": "1.72",
+            "away": "1.25"
+        },
+        {
+            "match": "Barnet vs Notts County",
+            "time": "15:00",
+            "home": "1.66",
+            "away": "1.36"
+        },
+        {
+            "match": "Dover vs Solihull Moors",
+            "time": "15:00",
+            "home": "1.80",
+            "away": "1.22"
+        },
+        {
+            "match": "Halifax vs Maidenhead Utd",
+            "time": "15:00",
+            "home": "1.16",
+            "away": "2.00"
+        },
+        {
+            "match": "Kings Lynn Town vs Southend",
+            "time": "15:00",
+            "home": "1.80",
+            "away": "1.25"
+        },
+        {
+            "match": "Stockport vs Dag & Red",
+            "time": "15:00",
+            "home": "1.14",
+            "away": "2.10"
+        },
+        {
+            "match": "Torquay vs Altrincham",
+            "time": "15:00",
+            "home": "1.14",
+            "away": "2.10"
+        },
+        {
+            "match": "Wealdstone vs Woking",
+            "time": "15:00",
+            "home": "1.36",
+            "away": "1.61"
+        },
+        {
+            "match": "Weymouth vs Boreham Wood",
+            "time": "15:00",
+            "home": "1.44",
+            "away": "1.53"
+        },
+        {
+            "match": "Wrexham vs Yeovil",
+            "time": "15:00",
+            "home": "1.16",
+            "away": "2.25"
+        },
+        {
+            "match": "Bromley vs Grimsby",
+            "time": "17:20",
+            "home": "1.50",
+            "away": "1.40"
+        }
+    ],
+    "Scotland Championship": [
+        {
+            "match": "Raith vs Dunfermline",
+            "time": "19:45",
+            "home": "1.36",
+            "away": "1.53"
+        },
+        {
+            "match": "Arbroath vs Partick",
+            "time": "15:00",
+            "home": "1.66",
+            "away": "1.30"
+        },
+        {
+            "match": "Hamilton vs Kilmarnock",
+            "time": "15:00",
+            "home": "1.72",
+            "away": "1.25"
+        },
+        {
+            "match": "Inverness CT vs Ayr",
+            "time": "15:00",
+            "home": "1.083",
+            "away": "2.50"
+        },
+        {
+            "match": "Morton vs Queen of South",
+            "time": "15:00",
+            "home": "1.36",
+            "away": "1.53"
+        }
+    ],
+    "Scotland League One": [
+        {
+            "match": "Airdrieonians vs Falkirk",
+            "time": "15:00",
+            "home": "1.72",
+            "away": "1.28"
+        },
+        {
+            "match": "Clyde vs Alloa",
+            "time": "15:00",
+            "home": "1.90",
+            "away": "1.20"
+        },
+        {
+            "match": "Cove Rangers vs East Fife",
+            "time": "15:00",
+            "home": "1.12",
+            "away": "2.37"
+        },
+        {
+            "match": "Montrose vs Peterhead",
+            "time": "15:00",
+            "home": "1.36",
+            "away": "1.61"
+        },
+        {
+            "match": "Queen's Park vs Dumbarton",
+            "time": "15:00",
+            "home": "1.10",
+            "away": "2.62"
+        }
+    ],
+    "Scotland League Two": [
+        {
+            "match": "Edinburgh City vs Stenhousemuir",
+            "time": "19:45",
+            "home": "1.20",
+            "away": "1.90"
+        },
+        {
+            "match": "Annan Athletic vs Stirling",
+            "time": "15:00",
+            "home": "1.66",
+            "away": "1.33"
+        },
+        {
+            "match": "Cowdenbeath vs Stranraer",
+            "time": "15:00",
+            "home": "1.53",
+            "away": "1.36"
+        },
+        {
+            "match": "Elgin vs Albion",
+            "time": "15:00",
+            "home": "1.33",
+            "away": "1.66"
+        },
+        {
+            "match": "Forfar vs Kelty Hearts",
+            "time": "15:00",
+            "home": "2.10",
+            "away": "1.14"
+        }
+    ]
+}

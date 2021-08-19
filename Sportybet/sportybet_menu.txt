@@ -1,0 +1,417 @@
+{
+    "Argentina": {
+        "location": 0,
+        "submenu": [
+            "Superliga",
+            "Primera Nacional",
+            "Primera C"
+        ]
+    },
+    "Armenia": {
+        "location": 1,
+        "submenu": [
+            "First League"
+        ]
+    },
+    "Austria": {
+        "location": 2,
+        "submenu": [
+            "Bundesliga",
+            "2. Liga"
+        ]
+    },
+    "Bangladesh": {
+        "location": 3,
+        "submenu": [
+            "Premier League"
+        ]
+    },
+    "Belarus": {
+        "location": 4,
+        "submenu": [
+            "Vysshaya Liga",
+            "Pervaya Liga"
+        ]
+    },
+    "Belgium": {
+        "location": 5,
+        "submenu": [
+            "Super League, Women",
+            "Pro League"
+        ]
+    },
+    "Bolivia": {
+        "location": 6,
+        "submenu": [
+            "Division Profesional"
+        ]
+    },
+    "Brazil": {
+        "location": 7,
+        "submenu": [
+            "Brasileiro Serie C",
+            "Brasileiro Serie B",
+            "Brasileiro Serie A"
+        ]
+    },
+    "Bulgaria": {
+        "location": 8,
+        "submenu": [
+            "First Professional League",
+            "Second Prof. League"
+        ]
+    },
+    "Canada": {
+        "location": 9,
+        "submenu": [
+            "Canadian Premier League"
+        ]
+    },
+    "Chile": {
+        "location": 10,
+        "submenu": [
+            "Primera Division",
+            "Primera B"
+        ]
+    },
+    "China": {
+        "location": 11,
+        "submenu": [
+            "China League 1"
+        ]
+    },
+    "Colombia": {
+        "location": 12,
+        "submenu": [
+            "Primera B",
+            "Primera A, Clausura"
+        ]
+    },
+    "Costa Rica": {
+        "location": 13,
+        "submenu": [
+            "Primera Division, Apertura"
+        ]
+    },
+    "Croatia": {
+        "location": 14,
+        "submenu": [
+            "1. HNL"
+        ]
+    },
+    "Cyprus": {
+        "location": 15,
+        "submenu": [
+            "1st Division"
+        ]
+    },
+    "Czech Republic": {
+        "location": 16,
+        "submenu": [
+            "1. Liga",
+            "FNL",
+            "U19 1st Division"
+        ]
+    },
+    "Denmark": {
+        "location": 17,
+        "submenu": [
+            "DBU Pokalen",
+            "Superligaen",
+            "1st Division"
+        ]
+    },
+    "Denmark Amateur": {
+        "location": 18,
+        "submenu": [
+            "Danmarksserien, Pulje 4"
+        ]
+    },
+    "Ecuador": {
+        "location": 19,
+        "submenu": [
+            "Serie B",
+            "LigaPro Primera A"
+        ]
+    },
+    "Egypt": {
+        "location": 20,
+        "submenu": [
+            "Premier League"
+        ]
+    },
+    "England": {
+        "location": 21,
+        "submenu": [
+            "League One",
+            "Championship",
+            "Premier League",
+            "National League",
+            "League Two"
+        ]
+    },
+    "England Amateur": {
+        "location": 22,
+        "submenu": [
+            "Northern Premier League, Premier Division",
+            "Southern Football League,premier Division Central",
+            "Southern Football League, Premier Division South",
+            "Professional Development League"
+        ]
+    },
+    "Estonia": {
+        "location": 23,
+        "submenu": [
+            "Esiliiga"
+        ]
+    },
+    "Finland": {
+        "location": 24,
+        "submenu": [
+            "Ykkonen",
+            "Kakkonen, Group B",
+            "Veikkausliiga"
+        ]
+    },
+    "France": {
+        "location": 25,
+        "submenu": [
+            "Ligue 2",
+            "Ligue 1"
+        ]
+    },
+    "Germany": {
+        "location": 26,
+        "submenu": [
+            "Bundesliga",
+            "Super Cup",
+            "2nd Bundesliga",
+            "3rd Liga"
+        ]
+    },
+    "Germany Amateur": {
+        "location": 27,
+        "submenu": [
+            "A-Jun-BL S/S-W",
+            "Regionalliga Northeast",
+            "Bayernliga South",
+            "Regionalliga Bavaria"
+        ]
+    },
+    "Greece": {
+        "location": 28,
+        "submenu": [
+            "Super League 1"
+        ]
+    },
+    "Hungary": {
+        "location": 29,
+        "submenu": [
+            "NB I"
+        ]
+    },
+    "Iceland": {
+        "location": 30,
+        "submenu": [
+            "Urvalsdeild, Women",
+            "1st deild",
+            "3. Deild",
+            "Urvalsdeild"
+        ]
+    },
+    "International": {
+        "location": 31,
+        "submenu": [
+            "UEFA Nations League"
+        ]
+    },
+    "International Clubs": {
+        "location": 32,
+        "submenu": [
+            "UEFA Europa League",
+            "UEFA Europa Conference League",
+            "CONCACAF League",
+            "UEFA Champions League",
+            "Copa Libertadores",
+            "Copa Sudamericana"
+        ]
+    },
+    "Ireland": {
+        "location": 33,
+        "submenu": [
+            "Premier Division",
+            "First Division"
+        ]
+    },
+    "Italy": {
+        "location": 34,
+        "submenu": [
+            "Serie B",
+            "Serie A"
+        ]
+    },
+    "Japan": {
+        "location": 35,
+        "submenu": [
+            "Emperor Cup",
+            "J.League 2",
+            "J.League"
+        ]
+    },
+    "Malaysia": {
+        "location": 36,
+        "submenu": [
+            "Super League"
+        ]
+    },
+    "Mexico": {
+        "location": 37,
+        "submenu": [
+            "Liga de Expansion MX, Apertura",
+            "U20 League",
+            "Primera Division, Apertura",
+            "Liga MX, Women, Apertura"
+        ]
+    },
+    "Netherlands": {
+        "location": 38,
+        "submenu": [
+            "Eredivisie",
+            "Eerste Divisie"
+        ]
+    },
+    "Norway": {
+        "location": 39,
+        "submenu": [
+            "1st Division",
+            "3rd Division Group 3",
+            "Eliteserien"
+        ]
+    },
+    "Paraguay": {
+        "location": 40,
+        "submenu": [
+            "Segunda Division",
+            "Primera Division, Clausura"
+        ]
+    },
+    "Peru": {
+        "location": 41,
+        "submenu": [
+            "Primera Division"
+        ]
+    },
+    "Poland": {
+        "location": 42,
+        "submenu": [
+            "I Liga",
+            "II Liga",
+            "Ekstraklasa",
+            "III Liga, Group 1"
+        ]
+    },
+    "Portugal": {
+        "location": 43,
+        "submenu": [
+            "Primeira Liga"
+        ]
+    },
+    "Republic of Korea": {
+        "location": 44,
+        "submenu": [
+            "K-League 2",
+            "K-League 1",
+            "K3 League"
+        ]
+    },
+    "Romania": {
+        "location": 45,
+        "submenu": [
+            "Liga I",
+            "Liga 2"
+        ]
+    },
+    "Russia": {
+        "location": 46,
+        "submenu": [
+            "Premier League"
+        ]
+    },
+    "Scotland": {
+        "location": 47,
+        "submenu": [
+            "League One",
+            "Championship",
+            "Challenge Cup",
+            "Premiership",
+            "League Two"
+        ]
+    },
+    "Simulated Reality League": {
+        "location": 48,
+        "submenu": [
+            "Copa Libertadores SRL"
+        ]
+    },
+    "Slovakia": {
+        "location": 49,
+        "submenu": [
+            "Superliga"
+        ]
+    },
+    "Slovenia": {
+        "location": 50,
+        "submenu": [
+            "PrvaLiga"
+        ]
+    },
+    "Spain": {
+        "location": 51,
+        "submenu": [
+            "LaLiga",
+            "LaLiga 2"
+        ]
+    },
+    "Sweden": {
+        "location": 52,
+        "submenu": [
+            "Allsvenskan",
+            "Division 2, Norra Gotaland",
+            "Superettan"
+        ]
+    },
+    "Switzerland": {
+        "location": 53,
+        "submenu": [
+            "Super League",
+            "Challenge League"
+        ]
+    },
+    "Turkey": {
+        "location": 54,
+        "submenu": [
+            "Super Lig"
+        ]
+    },
+    "Ukraine": {
+        "location": 55,
+        "submenu": [
+            "Premier League"
+        ]
+    },
+    "Uruguay": {
+        "location": 56,
+        "submenu": [
+            "Primera Division"
+        ]
+    },
+    "USA": {
+        "location": 57,
+        "submenu": [
+            "USL League One",
+            "Major League Soccer",
+            "USL Championship",
+            "National Womens Soccer League"
+        ]
+    }
+}

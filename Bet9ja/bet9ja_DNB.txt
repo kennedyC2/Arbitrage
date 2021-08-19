@@ -1,0 +1,3236 @@
+{
+    "Olympic Tournament, Final Round": [
+        {
+            "match": "Spain vs Ivory Coast",
+            "time": "09:00",
+            "home": "1.11",
+            "away": "5.50"
+        },
+        {
+            "match": "Japan vs New Zealand",
+            "time": "10:00",
+            "home": "1.04",
+            "away": "8.20"
+        },
+        {
+            "match": "Brazil vs Egypt",
+            "time": "11:00",
+            "home": "1.10",
+            "away": "5.90"
+        },
+        {
+            "match": "Republic of Korea vs Mexico",
+            "time": "12:00",
+            "home": "2.22",
+            "away": "1.59"
+        }
+    ],
+    "CONCACAF Gold Cup, Knockout stage": [
+        {
+            "match": "Qatar vs USA",
+            "time": "00:30",
+            "home": "2.88",
+            "away": "1.35"
+        },
+        {
+            "match": "Mexico vs Canada",
+            "time": "03:00",
+            "home": "1.18",
+            "away": "4.10"
+        }
+    ],
+    "Olympic Tournament Women, Playoffs": [
+        {
+            "match": "Canada vs Brazil",
+            "time": "09:00",
+            "home": "2.66",
+            "away": "1.40"
+        },
+        {
+            "match": "Great Britain vs Australia",
+            "time": "10:00",
+            "home": "1.30",
+            "away": "3.15"
+        },
+        {
+            "match": "Sweden vs Japan",
+            "time": "11:00",
+            "home": "1.18",
+            "away": "4.15"
+        },
+        {
+            "match": "Netherlands vs USA",
+            "time": "12:00",
+            "home": "2.05",
+            "away": "1.66"
+        }
+    ],
+    "UEFA Champions League, Qualification": [
+        {
+            "match": "Malmo FF vs Rangers",
+            "time": "18:00",
+            "home": "2.14",
+            "away": "1.61"
+        },
+        {
+            "match": "Genk vs Shakhtar Donetsk",
+            "time": "19:00",
+            "home": "2.08",
+            "away": "1.64"
+        },
+        {
+            "match": "Spartak Moscow vs Benfica",
+            "time": "18:00",
+            "home": "2.08",
+            "away": "1.64"
+        },
+        {
+            "match": "Ferencvarosi vs Slavia Prague",
+            "time": "19:00",
+            "home": "2.17",
+            "away": "1.59"
+        },
+        {
+            "match": "Dinamo Zagreb vs Legia Warsaw",
+            "time": "19:00",
+            "home": "1.26",
+            "away": "3.40"
+        }
+    ],
+    "Copa Libertadores": [
+        {
+            "match": "Fluminense vs Cerro Porteno",
+            "time": "23:15",
+            "home": "1.25",
+            "away": "3.45"
+        },
+        {
+            "match": "Sao Paulo vs Palmeiras",
+            "time": "01:30",
+            "home": "1.72",
+            "away": "1.96"
+        },
+        {
+            "match": "Club Olimpia vs Flamengo",
+            "time": "23:15",
+            "home": "2.52",
+            "away": "1.44"
+        },
+        {
+            "match": "River Plate vs Atletico MG",
+            "time": "01:30",
+            "home": "1.33",
+            "away": "2.98"
+        }
+    ],
+    "UEFA Super Cup": [
+        {
+            "match": "Chelsea vs Villarreal",
+            "time": "20:00",
+            "home": "1.36",
+            "away": "3.00"
+        }
+    ],
+    "Florida Cup": [
+        {
+            "match": "Millonarios vs Atl. Nacional",
+            "time": "01:30",
+            "home": "1.92",
+            "away": "1.72"
+        }
+    ],
+    "UEFA Europa Conference League, Qualification": [
+        {
+            "match": "Shakhter Karagandy vs Steaua Bucharest",
+            "time": "14:00",
+            "home": "4.00",
+            "away": "1.18"
+        },
+        {
+            "match": "Liepaja vs CSKA Sofia",
+            "time": "15:00",
+            "home": "2.34",
+            "away": "1.49"
+        },
+        {
+            "match": "Tobol Kostanay vs Hajduk Split",
+            "time": "16:00",
+            "home": "2.16",
+            "away": "1.57"
+        },
+        {
+            "match": "Keshla vs PFK Sochi",
+            "time": "17:00",
+            "home": "3.75",
+            "away": "1.19"
+        },
+        {
+            "match": "Vorskla Poltava vs Kuopio",
+            "time": "17:00",
+            "home": "1.47",
+            "away": "2.39"
+        },
+        {
+            "match": "Birkirkara vs Olimpija",
+            "time": "17:00",
+            "home": "2.48",
+            "away": "1.43"
+        },
+        {
+            "match": "Honka vs Domzale",
+            "time": "17:00",
+            "home": "1.89",
+            "away": "1.75"
+        },
+        {
+            "match": "Dinamo Brest vs Viktoria Plzen",
+            "time": "17:00",
+            "home": "3.45",
+            "away": "1.23"
+        },
+        {
+            "match": "Vaduz vs Ujpest",
+            "time": "17:00",
+            "home": "1.51",
+            "away": "2.30"
+        },
+        {
+            "match": "Bodoe/Glimt vs Valur Reykjavik",
+            "time": "17:00",
+            "home": "1.09",
+            "away": "5.60"
+        },
+        {
+            "match": "Sumgayit vs Cukaricki",
+            "time": "17:00",
+            "home": "2.84",
+            "away": "1.34"
+        },
+        {
+            "match": "Santa Coloma vs Hibernian",
+            "time": "17:30",
+            "home": "5.90",
+            "away": "1.07"
+        },
+        {
+            "match": "Hacken vs Aberdeen",
+            "time": "17:30",
+            "home": "1.67",
+            "away": "1.99"
+        },
+        {
+            "match": "Levadia Tallinn vs Dundalk",
+            "time": "17:30",
+            "home": "1.64",
+            "away": "2.04"
+        },
+        {
+            "match": "MSK Zilina vs Apollon Limassol",
+            "time": "17:45",
+            "home": "1.67",
+            "away": "1.99"
+        },
+        {
+            "match": "Slovacko vs Lokomotiv Plovdiv",
+            "time": "18:00",
+            "home": "1.39",
+            "away": "2.63"
+        },
+        {
+            "match": "Torpedo Belaz Zhodino vs Copenhagen",
+            "time": "18:00",
+            "home": "4.50",
+            "away": "1.14"
+        },
+        {
+            "match": "Sivasspor vs Petrocub Hincesti",
+            "time": "18:00",
+            "home": "1.12",
+            "away": "4.90"
+        },
+        {
+            "match": "Ashdod vs Qarabag",
+            "time": "18:00",
+            "home": "2.23",
+            "away": "1.53"
+        },
+        {
+            "match": "Maccabi Haifa vs Dinamo Tbilisi",
+            "time": "18:00",
+            "home": "1.16",
+            "away": "4.25"
+        },
+        {
+            "match": "BATE Borisov vs Dinamo Batumi",
+            "time": "18:00",
+            "home": "1.29",
+            "away": "3.05"
+        },
+        {
+            "match": "RKS Rakow Czestochowa vs FK Suduva Marijampole",
+            "time": "18:00",
+            "home": "1.02",
+            "away": "8.00"
+        },
+        {
+            "match": "Valerenga IF Oslo vs Gent",
+            "time": "18:00",
+            "home": "1.91",
+            "away": "1.74"
+        },
+        {
+            "match": "Milsami vs Elfsborg",
+            "time": "18:00",
+            "home": "6.40",
+            "away": "1.06"
+        },
+        {
+            "match": "Aarhus vs Larne",
+            "time": "18:00",
+            "home": "1.05",
+            "away": "6.80"
+        },
+        {
+            "match": "Hapoel Beer Sheva vs Arda Kurdzhali",
+            "time": "18:00",
+            "home": "1.22",
+            "away": "3.60"
+        },
+        {
+            "match": "Rosenborg BK vs FH Hafnarfjordur",
+            "time": "18:00",
+            "home": "1.10",
+            "away": "5.15"
+        },
+        {
+            "match": "The New Saints FC vs Kauno Zalgiris",
+            "time": "18:15",
+            "home": "1.37",
+            "away": "2.69"
+        },
+        {
+            "match": "Breidablik Kopavogur vs Austria Vienna",
+            "time": "18:30",
+            "home": "2.16",
+            "away": "1.57"
+        },
+        {
+            "match": "CS Fola Esch vs FC Shakhter Soligorsk",
+            "time": "18:30",
+            "home": "2.89",
+            "away": "1.33"
+        },
+        {
+            "match": "Maccabi Tel Aviv vs Sutjeska",
+            "time": "18:30",
+            "home": "1.07",
+            "away": "5.90"
+        },
+        {
+            "match": "Vojvodina vs Panevezys",
+            "time": "19:00",
+            "home": "1.21",
+            "away": "3.60"
+        },
+        {
+            "match": "Connah'S Quay Nomads vs Prishtina",
+            "time": "19:00",
+            "home": "2.04",
+            "away": "1.64"
+        },
+        {
+            "match": "AEK Athens vs Velez Mostar",
+            "time": "19:00",
+            "home": "1.03",
+            "away": "7.90"
+        },
+        {
+            "match": "Borac Banja Luka vs Linfield",
+            "time": "19:00",
+            "home": "1.17",
+            "away": "4.10"
+        },
+        {
+            "match": "Partizani Tirana vs Basel",
+            "time": "19:00",
+            "home": "3.05",
+            "away": "1.30"
+        },
+        {
+            "match": "Shkendija vs Riga",
+            "time": "19:00",
+            "home": "1.47",
+            "away": "2.38"
+        },
+        {
+            "match": "Rijeka vs Gzira Utd",
+            "time": "19:00",
+            "home": "1.14",
+            "away": "4.50"
+        },
+        {
+            "match": "WKS Slask Wroclaw vs Ararat Yerevan",
+            "time": "19:00",
+            "home": "1.27",
+            "away": "3.20"
+        },
+        {
+            "match": "Puskas Akademia vs Rigas Futbola Skola",
+            "time": "19:00",
+            "home": "1.11",
+            "away": "5.10"
+        },
+        {
+            "match": "Feyenoord vs Drita",
+            "time": "19:00",
+            "home": 0,
+            "away": "16.00"
+        },
+        {
+            "match": "CS Universitatea Craiova 1948 vs Laci",
+            "time": "19:30",
+            "home": "1.03",
+            "away": "7.90"
+        },
+        {
+            "match": "Aris vs Astana",
+            "time": "19:30",
+            "home": "1.28",
+            "away": "3.15"
+        },
+        {
+            "match": "Servette vs Molde",
+            "time": "19:30",
+            "home": "1.62",
+            "away": "2.07"
+        },
+        {
+            "match": "Bohemians Dublin vs F91 Dudelange",
+            "time": "19:45",
+            "home": "1.29",
+            "away": "3.10"
+        },
+        {
+            "match": "Dac 1904 Dunajska Streda vs Partizan",
+            "time": "19:45",
+            "home": "1.98",
+            "away": "1.68"
+        },
+        {
+            "match": "Maribor vs Hammarby",
+            "time": "19:45",
+            "home": "1.70",
+            "away": "1.96"
+        },
+        {
+            "match": "Osijek vs MKS Pogon Szczecin",
+            "time": "20:00",
+            "home": "1.42",
+            "away": "2.52"
+        },
+        {
+            "match": "Vllaznia Shkoder vs AEL Limassol",
+            "time": "20:00",
+            "home": "2.03",
+            "away": "1.65"
+        }
+    ],
+    "Club Friendly Games": [
+        {
+            "match": "Fiorentina vs Levico Terme",
+            "time": "16:00",
+            "home": 0,
+            "away": "16.00"
+        },
+        {
+            "match": "Pisa vs Pro Sesto",
+            "time": "16:30",
+            "home": "1.15",
+            "away": "4.30"
+        },
+        {
+            "match": "Palermo vs Monopoli",
+            "time": "17:00",
+            "home": "1.70",
+            "away": "1.95"
+        },
+        {
+            "match": "Offenbacher Kickers 1901 vs Rot-Weiss Essen",
+            "time": "18:00",
+            "home": "1.69",
+            "away": "1.96"
+        },
+        {
+            "match": "Liverpool vs Hertha BSC",
+            "time": "19:20",
+            "home": "1.23",
+            "away": "3.50"
+        }
+    ],
+    "EFL Cup": [
+        {
+            "match": "Bournemouth vs MK Dons",
+            "time": "15:00",
+            "home": "1.19",
+            "away": "3.85"
+        },
+        {
+            "match": "Sheffield Weds vs Huddersfield Town",
+            "time": "13:00",
+            "home": "1.65",
+            "away": "2.07"
+        }
+    ],
+    "Premier League": [
+        {
+            "match": "Lviv vs Shakhtar Donetsk",
+            "time": "17:00",
+            "home": "10.75",
+            "away": 0
+        },
+        {
+            "match": "Kolos Kovalivka vs Metalist 1925",
+            "time": "19:00",
+            "home": "1.32",
+            "away": "2.94"
+        },
+        {
+            "match": "Minaj vs Oleksandriya",
+            "time": "15:00",
+            "home": "2.99",
+            "away": "1.31"
+        },
+        {
+            "match": "Chernomorets Odessa vs SC Dnipro-1",
+            "time": "17:30",
+            "home": "3.40",
+            "away": "1.24"
+        },
+        {
+            "match": "Mariupol vs Desna Chernihiv",
+            "time": "15:00",
+            "home": "2.97",
+            "away": "1.31"
+        },
+        {
+            "match": "Dynamo Kiev vs Veres Rivne",
+            "time": "17:30",
+            "home": 0,
+            "away": "14.00"
+        },
+        {
+            "match": "Vorskla Poltava vs FC Rukh Lviv",
+            "time": "17:30",
+            "home": "1.36",
+            "away": "2.76"
+        },
+        {
+            "match": "Ingulets vs Zorya Lugansk",
+            "time": "17:30",
+            "home": "3.65",
+            "away": "1.21"
+        }
+    ],
+    "Community Shield": [
+        {
+            "match": "Manchester City vs Leicester City",
+            "time": "17:00",
+            "home": "1.47",
+            "away": "2.45"
+        }
+    ],
+    "Championship": [
+        {
+            "match": "Raith Rovers vs Hamilton",
+            "time": "15:00",
+            "home": "1.53",
+            "away": "2.29"
+        },
+        {
+            "match": "Arbroath vs Inverness",
+            "time": "15:00",
+            "home": "2.01",
+            "away": "1.69"
+        },
+        {
+            "match": "Greenock Morton vs Dunfermline",
+            "time": "15:00",
+            "home": "2.11",
+            "away": "1.62"
+        },
+        {
+            "match": "Partick Thistle vs Queen of The South",
+            "time": "15:00",
+            "home": "1.37",
+            "away": "2.79"
+        },
+        {
+            "match": "Kilmarnock vs Ayr Utd",
+            "time": "19:45",
+            "home": "1.19",
+            "away": "3.90"
+        }
+    ],
+    "League One": [
+        {
+            "match": "Airdrie vs Montrose",
+            "time": "15:00",
+            "home": "1.58",
+            "away": "2.19"
+        },
+        {
+            "match": "East Fife vs Queens Park",
+            "time": "15:00",
+            "home": "2.13",
+            "away": "1.61"
+        },
+        {
+            "match": "Clyde vs Dumbarton",
+            "time": "15:00",
+            "home": "1.36",
+            "away": "2.82"
+        },
+        {
+            "match": "Cove Rangers vs Falkirk",
+            "time": "15:00",
+            "home": "1.23",
+            "away": "3.60"
+        },
+        {
+            "match": "Peterhead vs Alloa Athletic",
+            "time": "15:00",
+            "home": "1.99",
+            "away": "1.70"
+        }
+    ],
+    "League Two": [
+        {
+            "match": "Annan Athletic vs Forfar Athletic",
+            "time": "15:00",
+            "home": "1.99",
+            "away": "1.70"
+        },
+        {
+            "match": "Kelty Hearts vs Cowdenbeath",
+            "time": "15:00",
+            "home": "1.12",
+            "away": "5.10"
+        },
+        {
+            "match": "Stenhousemuir vs Stirling Albion",
+            "time": "15:00",
+            "home": "2.23",
+            "away": "1.56"
+        },
+        {
+            "match": "Albion Rovers vs Edinburgh City",
+            "time": "15:00",
+            "home": "3.20",
+            "away": "1.28"
+        },
+        {
+            "match": "Elgin City vs Stranraer",
+            "time": "15:00",
+            "home": "2.06",
+            "away": "1.66"
+        }
+    ],
+    "National League": [
+        {
+            "match": "Bromley vs Grimsby Town",
+            "time": "15:00",
+            "home": "1.99",
+            "away": "1.68"
+        },
+        {
+            "match": "Wrexham vs Yeovil Town",
+            "time": "15:00",
+            "home": "1.19",
+            "away": "3.90"
+        },
+        {
+            "match": "Aldershot Town vs Chesterfield",
+            "time": "15:00",
+            "home": "2.22",
+            "away": "1.54"
+        },
+        {
+            "match": "Torquay Utd vs Altrincham",
+            "time": "15:00",
+            "home": "1.19",
+            "away": "3.90"
+        },
+        {
+            "match": "Wealdstone vs Woking",
+            "time": "15:00",
+            "home": "1.61",
+            "away": "2.09"
+        },
+        {
+            "match": "Weymouth vs Boreham Wood",
+            "time": "15:00",
+            "home": "1.74",
+            "away": "1.91"
+        },
+        {
+            "match": "Dover Athletic FC vs Solihull Moors",
+            "time": "15:00",
+            "home": "2.54",
+            "away": "1.42"
+        },
+        {
+            "match": "Barnet vs Notts County",
+            "time": "15:00",
+            "home": "2.22",
+            "away": "1.54"
+        },
+        {
+            "match": "FC Halifax Town vs Maidenhead Utd",
+            "time": "15:00",
+            "home": "1.26",
+            "away": "3.25"
+        },
+        {
+            "match": "Kings Lynn vs Southend Utd",
+            "time": "15:00",
+            "home": "2.62",
+            "away": "1.39"
+        },
+        {
+            "match": "Stockport vs Dagenham & Redbridge",
+            "time": "15:00",
+            "home": "1.24",
+            "away": "3.45"
+        }
+    ],
+    "LaLiga": [
+        {
+            "match": "Valencia vs Getafe",
+            "time": "20:00",
+            "home": "1.66",
+            "away": "2.05"
+        },
+        {
+            "match": "Osasuna vs Espanyol",
+            "time": "16:00",
+            "home": "1.52",
+            "away": "2.32"
+        },
+        {
+            "match": "Mallorca vs Real Betis",
+            "time": "18:30",
+            "home": "2.32",
+            "away": "1.52"
+        },
+        {
+            "match": "Cadiz CF vs Levante",
+            "time": "18:30",
+            "home": "1.89",
+            "away": "1.78"
+        },
+        {
+            "match": "Alaves vs Real Madrid",
+            "time": "21:00",
+            "home": "5.60",
+            "away": "1.10"
+        },
+        {
+            "match": "Celta Vigo vs Atl. Madrid",
+            "time": "16:30",
+            "home": "3.25",
+            "away": "1.28"
+        },
+        {
+            "match": "Barcelona vs Real Sociedad",
+            "time": "19:00",
+            "home": "1.15",
+            "away": "4.50"
+        },
+        {
+            "match": "Sevilla vs Rayo Vallecano",
+            "time": "21:15",
+            "home": "1.11",
+            "away": "5.30"
+        },
+        {
+            "match": "Villarreal vs Granada",
+            "time": "19:00",
+            "home": "1.14",
+            "away": "4.75"
+        },
+        {
+            "match": "Elche vs Ath. Bilbao",
+            "time": "21:00",
+            "home": "2.51",
+            "away": "1.45"
+        }
+    ],
+    "LaLiga 2": [],
+    "Serie A": [
+        {
+            "match": "Hellas Verona vs Sassuolo",
+            "time": "17:30",
+            "home": "1.99",
+            "away": "1.70"
+        },
+        {
+            "match": "Inter vs Genoa",
+            "time": "17:30",
+            "home": "1.05",
+            "away": "7.10"
+        },
+        {
+            "match": "Empoli vs Lazio",
+            "time": "19:45",
+            "home": "3.30",
+            "away": "1.27"
+        },
+        {
+            "match": "Torino vs Atalanta",
+            "time": "19:45",
+            "home": "3.75",
+            "away": "1.21"
+        },
+        {
+            "match": "Udinese vs Juventus",
+            "time": "17:30",
+            "home": "4.45",
+            "away": "1.16"
+        },
+        {
+            "match": "Bologna vs Salernitana",
+            "time": "17:30",
+            "home": "1.26",
+            "away": "3.40"
+        },
+        {
+            "match": "Roma vs Fiorentina",
+            "time": "19:45",
+            "home": "1.29",
+            "away": "3.15"
+        },
+        {
+            "match": "Napoli vs Venezia",
+            "time": "19:45",
+            "home": "1.06",
+            "away": "6.80"
+        },
+        {
+            "match": "Cagliari vs Spezia",
+            "time": "17:30",
+            "home": "1.56",
+            "away": "2.23"
+        },
+        {
+            "match": "Sampdoria vs Milan",
+            "time": "19:45",
+            "home": "3.25",
+            "away": "1.28"
+        }
+    ],
+    "DFB Pokal": [
+        {
+            "match": "Dynamo Dresden vs Paderborn",
+            "time": "19:45",
+            "home": "1.78",
+            "away": "1.89"
+        },
+        {
+            "match": "Munich 1860 vs Darmstadt 98",
+            "time": "19:45",
+            "home": "1.82",
+            "away": "1.85"
+        },
+        {
+            "match": "Bremer 1906 vs Bayern Munich",
+            "time": "19:45",
+            "home": "19.00",
+            "away": 0
+        },
+        {
+            "match": "Osnabruck vs Werder Bremen",
+            "time": "14:30",
+            "home": "3.20",
+            "away": "1.28"
+        },
+        {
+            "match": "Eintracht Norderstedt vs Hannover",
+            "time": "14:30",
+            "home": "8.50",
+            "away": "1.03"
+        },
+        {
+            "match": "Lokomotive Leipzig vs Bayer Leverkusen",
+            "time": "14:30",
+            "home": "11.75",
+            "away": 0
+        },
+        {
+            "match": "Sandhausen vs Leipzig",
+            "time": "14:30",
+            "home": "6.90",
+            "away": "1.06"
+        },
+        {
+            "match": "Wuppertaler SV vs Bochum",
+            "time": "14:30",
+            "home": "7.00",
+            "away": "1.06"
+        },
+        {
+            "match": "SC Weiche Flensburg 08 vs Holstein Kiel",
+            "time": "14:30",
+            "home": "4.00",
+            "away": "1.19"
+        },
+        {
+            "match": "Spvgg Bayreuth vs Arminia Bielefeld",
+            "time": "14:30",
+            "home": "6.90",
+            "away": "1.06"
+        },
+        {
+            "match": "Greifswalder vs Augsburg",
+            "time": "14:30",
+            "home": "19.00",
+            "away": 0
+        },
+        {
+            "match": "Babelsberg vs Greuther Furth",
+            "time": "17:30",
+            "home": "8.40",
+            "away": "1.03"
+        },
+        {
+            "match": "1. FC Magdeburg vs St. Pauli",
+            "time": "17:30",
+            "home": "1.96",
+            "away": "1.72"
+        },
+        {
+            "match": "SSV Ulm 1846 vs Nurnberg",
+            "time": "17:30",
+            "home": "3.60",
+            "away": "1.23"
+        },
+        {
+            "match": "Wehen Wiesbaden vs Borussia Dortmund",
+            "time": "19:45",
+            "home": "11.75",
+            "away": 0
+        },
+        {
+            "match": "TUS Rot-Weiss Koblenz vs Regensburg",
+            "time": "14:30",
+            "home": "4.85",
+            "away": "1.13"
+        },
+        {
+            "match": "Preussen Munster vs Wolfsburg",
+            "time": "14:30",
+            "home": "12.00",
+            "away": 0
+        },
+        {
+            "match": "FC Carl Zeiss Jena vs Cologne",
+            "time": "14:30",
+            "home": "7.60",
+            "away": "1.04"
+        },
+        {
+            "match": "Meppen 1912 vs Hertha BSC",
+            "time": "14:30",
+            "home": "4.95",
+            "away": "1.13"
+        },
+        {
+            "match": "SV 07 Elversberg vs Mainz",
+            "time": "14:30",
+            "home": "5.30",
+            "away": "1.11"
+        },
+        {
+            "match": "VfL Oldenburg vs Fortuna Dusseldorf",
+            "time": "14:30",
+            "home": "13.25",
+            "away": 0
+        },
+        {
+            "match": "FC 08 Villingen vs Schalke",
+            "time": "14:30",
+            "home": "11.25",
+            "away": 0
+        },
+        {
+            "match": "Waldhof Mannheim 07 vs Eintracht Frankfurt",
+            "time": "14:30",
+            "home": "4.80",
+            "away": "1.13"
+        },
+        {
+            "match": "Turkgucu Munich vs Union Berlin",
+            "time": "14:30",
+            "home": "3.90",
+            "away": "1.19"
+        },
+        {
+            "match": "Wurzburger Kickers vs Freiburg",
+            "time": "17:30",
+            "home": "3.55",
+            "away": "1.24"
+        },
+        {
+            "match": "Hansa Rostock vs Heidenheim",
+            "time": "17:30",
+            "home": "1.79",
+            "away": "1.88"
+        },
+        {
+            "match": "Braunschweig vs Hamburg",
+            "time": "17:30",
+            "home": "3.10",
+            "away": "1.31"
+        },
+        {
+            "match": "Viktoria Cologne vs Hoffenheim",
+            "time": "17:30",
+            "home": "5.25",
+            "away": "1.11"
+        },
+        {
+            "match": "Ingolstadt vs Erzgebirge Aue",
+            "time": "17:30",
+            "home": "1.47",
+            "away": "2.44"
+        },
+        {
+            "match": "Sportfreunde Lotte 1929 vs Karlsruher",
+            "time": "17:30",
+            "home": "5.25",
+            "away": "1.11"
+        },
+        {
+            "match": "Kaiserslautern vs Monchengladbach",
+            "time": "19:45",
+            "home": "6.10",
+            "away": "1.08"
+        }
+    ],
+    "Bundesliga": [
+        {
+            "match": "LASK Linz vs Rapid Vienna",
+            "time": "16:00",
+            "home": "1.49",
+            "away": "2.38"
+        },
+        {
+            "match": "Admira vs Austria Klagenfurt",
+            "time": "16:00",
+            "home": "1.53",
+            "away": "2.29"
+        },
+        {
+            "match": "Hartberg vs Altach",
+            "time": "16:00",
+            "home": "1.48",
+            "away": "2.41"
+        },
+        {
+            "match": "Salzburg vs Ried",
+            "time": "16:00",
+            "home": 0,
+            "away": "11.50"
+        },
+        {
+            "match": "Austria Vienna vs WSG Tirol",
+            "time": "16:00",
+            "home": "1.42",
+            "away": "2.59"
+        },
+        {
+            "match": "Wolfsberger vs Sturm Graz",
+            "time": "16:00",
+            "home": "2.24",
+            "away": "1.55"
+        }
+    ],
+    "Supercup": [
+        {
+            "match": "Borussia Dortmund vs Bayern Munich",
+            "time": "19:30",
+            "home": "2.46",
+            "away": "1.49"
+        }
+    ],
+    "2. Bundesliga": [],
+    "3. Liga": [],
+    "Ligue 1": [],
+    "Trophee des Champions": [
+        {
+            "match": "Lille vs PSG",
+            "time": "19:00",
+            "home": "3.00",
+            "away": "1.34"
+        }
+    ],
+    "Ligue 2": [],
+    "Eredivisie": [
+        {
+            "match": "G.a. Eagles vs Heerenveen",
+            "time": "20:00",
+            "home": "1.94",
+            "away": "1.74"
+        },
+        {
+            "match": "Waalwijk vs AZ Alkmaar",
+            "time": "16:30",
+            "home": "4.75",
+            "away": "1.14"
+        },
+        {
+            "match": "Heracles vs PSV",
+            "time": "18:45",
+            "home": "3.70",
+            "away": "1.22"
+        },
+        {
+            "match": "Sittard vs Twente",
+            "time": "20:00",
+            "home": "1.72",
+            "away": "1.96"
+        },
+        {
+            "match": "Ajax vs Nijmegen",
+            "time": "21:00",
+            "home": 0,
+            "away": "16.00"
+        },
+        {
+            "match": "Cambuur vs Groningen",
+            "time": "12:15",
+            "home": "2.03",
+            "away": "1.67"
+        },
+        {
+            "match": "Zwolle vs Vitesse",
+            "time": "14:30",
+            "home": "2.54",
+            "away": "1.44"
+        },
+        {
+            "match": "Utrecht vs Sparta Rotterdam",
+            "time": "14:30",
+            "home": "1.24",
+            "away": "3.55"
+        },
+        {
+            "match": "Willem II vs Feyenoord",
+            "time": "16:45",
+            "home": "2.53",
+            "away": "1.44"
+        }
+    ],
+    "Eerste Divisie": [
+        {
+            "match": "Den Bosch vs Helmond",
+            "time": "19:00",
+            "home": "1.55",
+            "away": "2.25"
+        },
+        {
+            "match": "Excelsior vs FC Oss",
+            "time": "19:00",
+            "home": "1.30",
+            "away": "3.15"
+        },
+        {
+            "match": "FC Eindhoven vs Volendam",
+            "time": "19:00",
+            "home": "2.38",
+            "away": "1.49"
+        },
+        {
+            "match": "Dordrecht vs Jong Psv",
+            "time": "19:00",
+            "home": "2.01",
+            "away": "1.69"
+        },
+        {
+            "match": "Stormvogels Telstar vs Emmen",
+            "time": "19:00",
+            "home": "2.02",
+            "away": "1.68"
+        },
+        {
+            "match": "Graafschap vs Roda",
+            "time": "15:30",
+            "home": "1.54",
+            "away": "2.27"
+        },
+        {
+            "match": "Den Haag vs Jong Ajax",
+            "time": "11:15",
+            "home": "1.58",
+            "away": "2.19"
+        },
+        {
+            "match": "Venlo vs Breda",
+            "time": "13:30",
+            "home": "1.61",
+            "away": "2.12"
+        },
+        {
+            "match": "Jong AZ Alkmaar vs Almere",
+            "time": "19:00",
+            "home": "3.30",
+            "away": "1.27"
+        },
+        {
+            "match": "Jong Utrecht vs Maastricht",
+            "time": "19:00",
+            "home": "1.70",
+            "away": "1.99"
+        }
+    ],
+    "Johan Cruijff Schaal": [
+        {
+            "match": "Ajax vs PSV",
+            "time": "19:00",
+            "home": "1.26",
+            "away": "3.40"
+        }
+    ],
+    "Primeira Liga": [
+        {
+            "match": "Sporting vs Vizela",
+            "time": "20:15",
+            "home": "1.03",
+            "away": "8.50"
+        },
+        {
+            "match": "FC Arouca vs Estoril",
+            "time": "15:30",
+            "home": "1.63",
+            "away": "2.10"
+        },
+        {
+            "match": "Moreirense vs Benfica",
+            "time": "18:00",
+            "home": "5.70",
+            "away": "1.09"
+        },
+        {
+            "match": "Maritimo vs Braga",
+            "time": "20:30",
+            "home": "2.64",
+            "away": "1.41"
+        },
+        {
+            "match": "V. Guimaraes vs Portimonense SC",
+            "time": "15:30",
+            "home": "1.35",
+            "away": "2.88"
+        },
+        {
+            "match": "CD Tondela vs Santa Clara Azores",
+            "time": "15:30",
+            "home": "1.77",
+            "away": "1.90"
+        },
+        {
+            "match": "Porto vs Belenenses",
+            "time": "18:00",
+            "home": "1.06",
+            "away": "6.90"
+        },
+        {
+            "match": "Pacos Ferreira vs FC Famalicao",
+            "time": "20:30",
+            "home": "1.48",
+            "away": "2.42"
+        },
+        {
+            "match": "Gil Vicente vs Boavista",
+            "time": "20:15",
+            "home": "1.63",
+            "away": "2.10"
+        }
+    ],
+    "Super Cup": [
+        {
+            "match": "Sporting vs Braga",
+            "time": "20:45",
+            "home": "1.74",
+            "away": "1.94"
+        }
+    ],
+    "First Division A": [
+        {
+            "match": "Genk vs Oostende",
+            "time": "19:45",
+            "home": "1.18",
+            "away": "4.15"
+        },
+        {
+            "match": "Royal Charleroi vs St. Truidense",
+            "time": "15:15",
+            "home": "1.48",
+            "away": "2.41"
+        },
+        {
+            "match": "Seraing vs YR Mechelen",
+            "time": "17:30",
+            "home": "2.49",
+            "away": "1.45"
+        },
+        {
+            "match": "Cercle Brugge vs OH Leuven",
+            "time": "17:30",
+            "home": "1.71",
+            "away": "1.98"
+        },
+        {
+            "match": "Eupen vs Anderlecht",
+            "time": "19:45",
+            "home": "2.60",
+            "away": "1.42"
+        },
+        {
+            "match": "Union St. Gilloise vs Club Brugge",
+            "time": "12:30",
+            "home": "3.55",
+            "away": "1.24"
+        },
+        {
+            "match": "Zulte Waregem vs Standard Liege",
+            "time": "15:00",
+            "home": "2.19",
+            "away": "1.58"
+        },
+        {
+            "match": "Gent vs K Beerschot VA",
+            "time": "17:30",
+            "home": "1.10",
+            "away": "5.50"
+        },
+        {
+            "match": "Royal Antwerp vs Kortrijk",
+            "time": "20:00",
+            "home": "1.27",
+            "away": "3.30"
+        }
+    ],
+    "Liga Profesional": [
+        {
+            "match": "Atletico Lanus vs River Plate",
+            "time": "01:00",
+            "home": "3.60",
+            "away": "1.23"
+        },
+        {
+            "match": "Central Cordoba Sde vs Tallares de Cordoba",
+            "time": "18:15",
+            "home": "2.12",
+            "away": "1.62"
+        },
+        {
+            "match": "Arsenal de Sarandi vs Argentinos Juniors",
+            "time": "20:30",
+            "home": "2.30",
+            "away": "1.52"
+        },
+        {
+            "match": "Esgrima La Plata vs Atletico Rosario",
+            "time": "22:45",
+            "home": "1.65",
+            "away": "2.07"
+        },
+        {
+            "match": "Newell's Old Boys vs Estudiantes La Plata",
+            "time": "01:00",
+            "home": "2.12",
+            "away": "1.62"
+        }
+    ],
+    "2. Liga": [],
+    "Vysshaya League": [
+        {
+            "match": "BGU Minsk vs Ruh Brest",
+            "time": "18:30",
+            "home": "2.91",
+            "away": "1.34"
+        }
+    ],
+    "Brasileiro Serie A": [
+        {
+            "match": "Sao Paulo vs Palmeiras",
+            "time": "23:00",
+            "home": "2.04",
+            "away": "1.67"
+        },
+        {
+            "match": "Internacional vs Cuiaba",
+            "time": "00:00",
+            "home": "1.21",
+            "away": "3.75"
+        },
+        {
+            "match": "Bragantino vs Gremio",
+            "time": "01:00",
+            "home": "1.45",
+            "away": "2.51"
+        },
+        {
+            "match": "Atletico MG vs Atletico PR",
+            "time": "20:00",
+            "home": "1.22",
+            "away": "3.70"
+        },
+        {
+            "match": "Corinthians vs Flamengo",
+            "time": "20:00",
+            "home": "3.20",
+            "away": "1.28"
+        },
+        {
+            "match": "Chapecoense SC vs Santos",
+            "time": "22:15",
+            "home": "2.59",
+            "away": "1.42"
+        },
+        {
+            "match": "Bahia vs Sport Recife",
+            "time": "22:15",
+            "home": "1.32",
+            "away": "2.98"
+        },
+        {
+            "match": "Atletico GO vs America Mineiro",
+            "time": "00:30",
+            "home": "1.59",
+            "away": "2.16"
+        },
+        {
+            "match": "Ceara vs Fortaleza",
+            "time": "00:30",
+            "home": "1.91",
+            "away": "1.77"
+        }
+    ],
+    "Brasileiro Serie B": [
+        {
+            "match": "Goias vs Operario Ferroviario EC PR",
+            "time": "20:00",
+            "home": "1.37",
+            "away": "2.69"
+        },
+        {
+            "match": "Coritiba vs Nautico",
+            "time": "00:00",
+            "home": "1.63",
+            "away": "2.06"
+        },
+        {
+            "match": "Cruzeiro vs Londrina EC PR",
+            "time": "01:30",
+            "home": "1.21",
+            "away": "3.65"
+        },
+        {
+            "match": "Guarani vs Vila Nova",
+            "time": "15:00",
+            "home": "1.19",
+            "away": "3.90"
+        },
+        {
+            "match": "Vitoria vs Avai",
+            "time": "20:30",
+            "home": "1.72",
+            "away": "1.92"
+        },
+        {
+            "match": "Brasil de Pelotas vs Sampaio Correa",
+            "time": "23:00",
+            "home": "1.91",
+            "away": "1.74"
+        },
+        {
+            "match": "Brusque vs AD Confianca SE",
+            "time": "01:00",
+            "home": "1.37",
+            "away": "2.71"
+        },
+        {
+            "match": "Botafogo RJ vs Vasco DA Gama",
+            "time": "01:00",
+            "home": "1.64",
+            "away": "2.04"
+        },
+        {
+            "match": "CR Brasil AL vs Ponte Preta",
+            "time": "22:15",
+            "home": "1.62",
+            "away": "2.07"
+        },
+        {
+            "match": "Clube Do Remo PA vs CS Alagoano AL",
+            "time": "22:15",
+            "home": "1.70",
+            "away": "1.95"
+        }
+    ],
+    "Campeonato Amapaense": [],
+    "Copa do Brasil": [
+        {
+            "match": "Sao Paulo vs Vasco DA Gama",
+            "time": "01:30",
+            "home": "1.15",
+            "away": "4.35"
+        },
+        {
+            "match": "Atletico MG vs Bahia",
+            "time": "01:30",
+            "home": "1.12",
+            "away": "4.90"
+        },
+        {
+            "match": "Fortaleza vs CR Brasil AL",
+            "time": "20:30",
+            "home": "1.14",
+            "away": "4.55"
+        },
+        {
+            "match": "Flamengo vs ABC",
+            "time": "00:00",
+            "home": 0,
+            "away": "17.00"
+        }
+    ],
+    "U20 Campeonato Brasileiro": [],
+    "U23 Brasileiro de Aspirantes": [],
+    "First Professional League": [
+        {
+            "match": "Slavia Sofia vs Tsarsko Selo Sofia",
+            "time": "19:00",
+            "home": "1.39",
+            "away": "2.65"
+        },
+        {
+            "match": "Botev Vratsa vs Levski Sofia",
+            "time": "16:45",
+            "home": "2.26",
+            "away": "1.52"
+        },
+        {
+            "match": "Ludogorets 1945 Razgrad vs CSKA 1948",
+            "time": "19:00",
+            "home": "1.07",
+            "away": "5.90"
+        },
+        {
+            "match": "Cherno More vs Botev Plovdiv",
+            "time": "16:45",
+            "home": "1.33",
+            "away": "2.87"
+        },
+        {
+            "match": "Pirin Blagoevgrad vs Beroe",
+            "time": "19:00",
+            "home": "1.83",
+            "away": "1.80"
+        }
+    ],
+    "Primera Division": [
+        {
+            "match": "Academia Puerto Cabello vs Deportivo La Guaira",
+            "time": "00:00",
+            "home": "1.79",
+            "away": "1.85"
+        },
+        {
+            "match": "Trujillanos vs Zamora",
+            "time": "17:00",
+            "home": "15.00",
+            "away": 0
+        },
+        {
+            "match": "Lala vs Caracas",
+            "time": "22:00",
+            "home": "4.50",
+            "away": "1.14"
+        }
+    ],
+    "Primera B": [
+        {
+            "match": "Arturo Fernandez Vial vs Deportes Iquique",
+            "time": "23:00",
+            "home": "1.75",
+            "away": "1.89"
+        }
+    ],
+    "Chinese Super League": [
+        {
+            "match": "Guangzhou R&f vs Qingdao Huanghai",
+            "time": "11:00",
+            "home": "1.19",
+            "away": "3.85"
+        },
+        {
+            "match": "Shandong Taishan FC vs Henan Songshan Longmen FC",
+            "time": "11:00",
+            "home": "1.15",
+            "away": "4.55"
+        },
+        {
+            "match": "Shenzhen vs Guangzhou FC",
+            "time": "13:00",
+            "home": "2.58",
+            "away": "1.42"
+        },
+        {
+            "match": "Shijiazhuang Ever Bright vs Chongqing Liangjiang Athletic",
+            "time": "13:00",
+            "home": "1.62",
+            "away": "2.11"
+        },
+        {
+            "match": "Wuhan Zall vs Changchun Yatai",
+            "time": "09:30",
+            "home": "2.41",
+            "away": "1.48"
+        },
+        {
+            "match": "Dalian Yifang vs Beijing Guoan",
+            "time": "11:30",
+            "home": "6.25",
+            "away": "1.07"
+        },
+        {
+            "match": "Hebei China Fortune vs Tianjin Jinmen Tiger",
+            "time": "13:30",
+            "home": "1.33",
+            "away": "2.97"
+        },
+        {
+            "match": "Shanghai Port FC vs Shanghai Shenhua",
+            "time": "13:30",
+            "home": "1.59",
+            "away": "2.16"
+        }
+    ],
+    "Primera A, Clausura": [
+        {
+            "match": "Quindio vs Rionegro Aguilas",
+            "time": "02:00",
+            "home": "1.83",
+            "away": "1.83"
+        },
+        {
+            "match": "Tolima vs Petrolera",
+            "time": "22:00",
+            "home": "1.11",
+            "away": "5.25"
+        },
+        {
+            "match": "Dep. Cali vs CA Bucaramanga",
+            "time": "00:05",
+            "home": "1.19",
+            "away": "4.00"
+        },
+        {
+            "match": "Ind. Medellin vs Junior",
+            "time": "02:10",
+            "home": "2.17",
+            "away": "1.59"
+        },
+        {
+            "match": "Patriotas vs La Equidad",
+            "time": "20:00",
+            "home": "2.38",
+            "away": "1.49"
+        },
+        {
+            "match": "Envigado vs America de Cali",
+            "time": "22:00",
+            "home": "2.82",
+            "away": "1.36"
+        },
+        {
+            "match": "Once Caldas vs Millonarios",
+            "time": "00:05",
+            "home": "2.27",
+            "away": "1.54"
+        },
+        {
+            "match": "Jaguares de Cordoba vs Huila",
+            "time": "02:10",
+            "home": "1.36",
+            "away": "2.82"
+        },
+        {
+            "match": "Pasto vs Pereira",
+            "time": "02:00",
+            "home": "1.43",
+            "away": "2.55"
+        },
+        {
+            "match": "Santa Fe vs Atl. Nacional",
+            "time": "02:00",
+            "home": "1.55",
+            "away": "2.25"
+        }
+    ],
+    "Primera B, Clausura": [
+        {
+            "match": "Atletico FC vs Tigres",
+            "time": "21:00",
+            "home": "1.52",
+            "away": "2.31"
+        }
+    ],
+    "Copa Colombia": [
+        {
+            "match": "CA Bucaramanga vs Envigado",
+            "time": "00:00",
+            "home": "1.31",
+            "away": "3.05"
+        },
+        {
+            "match": "Ind. Medellin vs Once Caldas",
+            "time": "02:05",
+            "home": "1.37",
+            "away": "2.77"
+        },
+        {
+            "match": "Jaguares de Cordoba vs Barranquilla",
+            "time": "23:30",
+            "home": "1.11",
+            "away": "5.30"
+        },
+        {
+            "match": "Chico vs Llaneros",
+            "time": "01:00",
+            "home": "1.29",
+            "away": "3.20"
+        },
+        {
+            "match": "Pereira vs Boca Juniors de Cali",
+            "time": "01:40",
+            "home": "1.11",
+            "away": "5.25"
+        }
+    ],
+    "Primera Division, Apertura": [
+        {
+            "match": "CA Rentistas vs Cerro Largo",
+            "time": "19:00",
+            "home": "1.58",
+            "away": "2.13"
+        },
+        {
+            "match": "CA Boston River vs Sud America",
+            "time": "19:00",
+            "home": "1.36",
+            "away": "2.76"
+        },
+        {
+            "match": "Montevideo Wanderers vs CA Progreso",
+            "time": "21:15",
+            "home": "1.44",
+            "away": "2.46"
+        },
+        {
+            "match": "Montevideo City Torque vs Liverpool Montevideo",
+            "time": "16:45",
+            "home": "1.70",
+            "away": "1.95"
+        },
+        {
+            "match": "Atletico Fenix Montevideo vs Plaza Colonia",
+            "time": "19:00",
+            "home": "2.50",
+            "away": "1.43"
+        },
+        {
+            "match": "Penarol Montevideo vs CA River Plate (Uru)",
+            "time": "22:00",
+            "home": "1.28",
+            "away": "3.15"
+        },
+        {
+            "match": "Club Nacional de Football vs Deportivo Maldonado",
+            "time": "00:30",
+            "home": "1.12",
+            "away": "4.80"
+        },
+        {
+            "match": "CD Villa Espanola vs CS Cerrito",
+            "time": "19:00",
+            "home": "1.99",
+            "away": "1.67"
+        }
+    ],
+    "1. HNL": [],
+    "1. Liga": [],
+    "FNL": [
+        {
+            "match": "Usti Nad Labem vs Jihlava",
+            "time": "17:00",
+            "home": "1.50",
+            "away": "2.31"
+        },
+        {
+            "match": "Fotbal Trinec vs Dukla Prague",
+            "time": "09:15",
+            "home": "2.16",
+            "away": "1.57"
+        },
+        {
+            "match": "MFK Vyskov vs Lisen",
+            "time": "09:15",
+            "home": "2.80",
+            "away": "1.35"
+        },
+        {
+            "match": "Pribram vs Mas Taborsko",
+            "time": "16:00",
+            "home": "1.15",
+            "away": "4.40"
+        },
+        {
+            "match": "Sparta Prague B vs Prostejov",
+            "time": "09:30",
+            "home": "1.40",
+            "away": "2.60"
+        },
+        {
+            "match": "Varnsdorf vs Zizkov",
+            "time": "16:00",
+            "home": "2.37",
+            "away": "1.48"
+        },
+        {
+            "match": "Sellier & Bellot Vlasim vs Chrudim",
+            "time": "16:00",
+            "home": "1.35",
+            "away": "2.78"
+        },
+        {
+            "match": "Brno vs Opava",
+            "time": "19:00",
+            "home": "1.19",
+            "away": "3.80"
+        }
+    ],
+    "MSFL": [
+        {
+            "match": "Velke Mezirici vs Msa Dolni Benesov",
+            "time": "16:30",
+            "home": "1.12",
+            "away": "4.80"
+        },
+        {
+            "match": "Viktoria Otrokovice vs Hlucin",
+            "time": "09:15",
+            "home": "1.59",
+            "away": "2.12"
+        },
+        {
+            "match": "Hanacka Slavia Kromeriz vs Znojmo",
+            "time": "16:00",
+            "home": "1.06",
+            "away": "6.20"
+        },
+        {
+            "match": "Apos Blansko vs Vratimov",
+            "time": "16:00",
+            "home": "1.23",
+            "away": "3.50"
+        },
+        {
+            "match": "Sigma Olomouc B vs Banik Ostrava B",
+            "time": "09:15",
+            "home": "1.82",
+            "away": "1.82"
+        },
+        {
+            "match": "Fastav Zlin B vs SFK Vrchovina",
+            "time": "09:30",
+            "home": "1.33",
+            "away": "2.88"
+        }
+    ],
+    "Superligaen": [
+        {
+            "match": "Viborg vs Midtjylland",
+            "time": "15:00",
+            "home": "2.18",
+            "away": "1.59"
+        },
+        {
+            "match": "Silkeborg vs Aalborg",
+            "time": "13:00",
+            "home": "1.79",
+            "away": "1.88"
+        },
+        {
+            "match": "Aarhus vs Randers",
+            "time": "13:00",
+            "home": "1.76",
+            "away": "1.91"
+        },
+        {
+            "match": "Vejle vs Brondby",
+            "time": "15:00",
+            "home": "2.37",
+            "away": "1.50"
+        },
+        {
+            "match": "Odense vs Copenhagen",
+            "time": "17:00",
+            "home": "2.29",
+            "away": "1.53"
+        },
+        {
+            "match": "Sonderjyske vs Nordsjaelland",
+            "time": "18:00",
+            "home": "1.73",
+            "away": "1.95"
+        }
+    ],
+    "1st Division": [],
+    "LigaPro Primera B": [
+        {
+            "match": "Guayaquil SC vs Chacaritas FC",
+            "time": "01:00",
+            "home": "1.60",
+            "away": "2.11"
+        },
+        {
+            "match": "El Nacional vs Porteno",
+            "time": "01:00",
+            "home": "1.22",
+            "away": "3.60"
+        }
+    ],
+    "Veikkausliiga": [
+        {
+            "match": "Ilves vs Oulu",
+            "time": "16:30",
+            "home": "1.27",
+            "away": "3.30"
+        },
+        {
+            "match": "Lahti vs Kooteepee",
+            "time": "16:30",
+            "home": "1.15",
+            "away": "4.50"
+        },
+        {
+            "match": "Haka vs Hifk",
+            "time": "13:00",
+            "home": "1.83",
+            "away": "1.83"
+        },
+        {
+            "match": "HJK vs SJK",
+            "time": "15:00",
+            "home": "1.21",
+            "away": "3.80"
+        },
+        {
+            "match": "Inter Turku vs Honka",
+            "time": "16:30",
+            "home": "1.28",
+            "away": "3.20"
+        }
+    ],
+    "NB I": [
+        {
+            "match": "Paksi vs Mezokovesd Zsory SE",
+            "time": "17:15",
+            "home": "1.59",
+            "away": "2.13"
+        },
+        {
+            "match": "Gyirmot Gyor vs MTK Budapest",
+            "time": "19:30",
+            "home": "2.25",
+            "away": "1.52"
+        },
+        {
+            "match": "Ferencvarosi vs Kisvarda",
+            "time": "16:45",
+            "home": "1.05",
+            "away": "6.80"
+        },
+        {
+            "match": "Budapest Honved vs Debreceni",
+            "time": "19:00",
+            "home": "1.51",
+            "away": "2.28"
+        },
+        {
+            "match": "Zalaegerszeg vs Fehervar",
+            "time": "16:45",
+            "home": "2.76",
+            "away": "1.36"
+        },
+        {
+            "match": "Ujpest vs Puskas Akademia",
+            "time": "19:00",
+            "home": "2.11",
+            "away": "1.60"
+        }
+    ],
+    "1. deild": [],
+    "3. deild": [],
+    "Premier Division": [
+        {
+            "match": "Drogheda Utd vs Waterford Utd",
+            "time": "19:45",
+            "home": "1.26",
+            "away": "3.40"
+        },
+        {
+            "match": "Shamrock Rovers vs Saint Patrick's Athletic",
+            "time": "20:00",
+            "home": "1.33",
+            "away": "2.97"
+        },
+        {
+            "match": "Longford Town vs Derry City",
+            "time": "19:30",
+            "home": "2.99",
+            "away": "1.32"
+        },
+        {
+            "match": "Finn Harps vs Bohemians Dublin",
+            "time": "15:00",
+            "home": "2.92",
+            "away": "1.34"
+        },
+        {
+            "match": "Sligo Rovers vs Dundalk",
+            "time": "15:00",
+            "home": "1.92",
+            "away": "1.76"
+        }
+    ],
+    "J.League": [
+        {
+            "match": "Hokkaido Consadole Sapporo vs Gamba Osaka",
+            "time": "10:00",
+            "home": "1.47",
+            "away": "2.45"
+        },
+        {
+            "match": "Vegalta Sendai vs Gamba Osaka",
+            "time": "11:00",
+            "home": "1.97",
+            "away": "1.72"
+        },
+        {
+            "match": "Hokkaido Consadole Sapporo vs Urawa Red Diamonds",
+            "time": "07:00",
+            "home": "1.55",
+            "away": "2.26"
+        },
+        {
+            "match": "Shimizu S-Pulse vs Yokohama Marinos",
+            "time": "10:00",
+            "home": "2.55",
+            "away": "1.43"
+        },
+        {
+            "match": "Vissel Kobe vs Kashiwa Reysol",
+            "time": "10:00",
+            "home": "1.42",
+            "away": "2.60"
+        },
+        {
+            "match": "Avispa Fukuoka vs Sanfrecce Hiroshima",
+            "time": "11:00",
+            "home": "2.33",
+            "away": "1.51"
+        },
+        {
+            "match": "Oita Trinita vs Kawasaki Frontale",
+            "time": "11:00",
+            "home": "6.10",
+            "away": "1.08"
+        },
+        {
+            "match": "Cerezo Osaka vs Vegalta Sendai",
+            "time": "11:00",
+            "home": "1.26",
+            "away": "3.35"
+        },
+        {
+            "match": "Shonan Bellmare vs Kashima Antlers",
+            "time": "11:00",
+            "home": "3.10",
+            "away": "1.31"
+        }
+    ],
+    "J.League 2": [],
+    "Virsliga": [
+        {
+            "match": "Valmiera vs Spartaks Jurmala",
+            "time": "17:00",
+            "home": "1.08",
+            "away": "5.70"
+        },
+        {
+            "match": "Riga vs BFC Daugavpils",
+            "time": "14:00",
+            "home": 0,
+            "away": "14.50"
+        },
+        {
+            "match": "Rigas Futbola Skola vs Metta/Lu",
+            "time": "18:00",
+            "home": 0,
+            "away": "21.00"
+        }
+    ],
+    "I Lyga": [
+        {
+            "match": "FK Kauno Zalgiris B vs Vilnius Bfa",
+            "time": "17:00",
+            "home": "3.15",
+            "away": "1.28"
+        }
+    ],
+    "Liga MX, Apertura": [
+        {
+            "match": "Mazatlan FC vs CF Pachuca",
+            "time": "01:00",
+            "home": "2.28",
+            "away": "1.51"
+        },
+        {
+            "match": "Puebla vs Guadalajara Chivas",
+            "time": "03:05",
+            "home": "1.73",
+            "away": "1.92"
+        },
+        {
+            "match": "Club Leon vs Club Tijuana de Caliente",
+            "time": "23:00",
+            "home": "1.22",
+            "away": "3.55"
+        },
+        {
+            "match": "CF America vs Necaxa",
+            "time": "01:00",
+            "home": "1.18",
+            "away": "4.00"
+        },
+        {
+            "match": "CF Monterrey vs Pumas Unam",
+            "time": "03:00",
+            "home": "1.17",
+            "away": "4.05"
+        },
+        {
+            "match": "Atlas vs Juarez",
+            "time": "03:00",
+            "home": "1.23",
+            "away": "3.50"
+        },
+        {
+            "match": "Deportivo Toluca vs Tigres Uanl",
+            "time": "18:00",
+            "home": "1.99",
+            "away": "1.67"
+        },
+        {
+            "match": "Club Santos Laguna vs Cruz Azul",
+            "time": "00:00",
+            "home": "1.68",
+            "away": "1.99"
+        },
+        {
+            "match": "Atletico San Luis vs Queretaro",
+            "time": "03:00",
+            "home": "1.56",
+            "away": "2.18"
+        },
+        {
+            "match": "Queretaro vs Club Leon",
+            "time": "03:00",
+            "home": "2.27",
+            "away": "1.52"
+        },
+        {
+            "match": "Mazatlan FC vs CF Monterrey",
+            "time": "00:00",
+            "home": "3.60",
+            "away": "1.22"
+        },
+        {
+            "match": "Club Tijuana de Caliente vs Deportivo Toluca",
+            "time": "01:00",
+            "home": "1.58",
+            "away": "2.14"
+        },
+        {
+            "match": "Necaxa vs Cruz Azul",
+            "time": "03:00",
+            "home": "2.81",
+            "away": "1.34"
+        },
+        {
+            "match": "Guadalajara Chivas vs Juarez",
+            "time": "23:00",
+            "home": "1.31",
+            "away": "2.96"
+        },
+        {
+            "match": "CF America vs Puebla",
+            "time": "01:00",
+            "home": "1.18",
+            "away": "4.00"
+        },
+        {
+            "match": "Tigres Uanl vs Club Santos Laguna",
+            "time": "03:00",
+            "home": "1.45",
+            "away": "2.44"
+        },
+        {
+            "match": "Pumas Unam vs Atletico San Luis",
+            "time": "18:00",
+            "home": "1.38",
+            "away": "2.67"
+        },
+        {
+            "match": "CF Pachuca vs Atlas",
+            "time": "03:00",
+            "home": "1.48",
+            "away": "2.36"
+        }
+    ],
+    "Liga de Expansion MX, Apertura": [
+        {
+            "match": "Tampico Madero vs Leones Negros Udeg",
+            "time": "01:05",
+            "home": "1.30",
+            "away": "3.05"
+        },
+        {
+            "match": "Raya2 Expansion vs Cancun FC",
+            "time": "03:05",
+            "home": "2.21",
+            "away": "1.54"
+        },
+        {
+            "match": "Atletico Morelia vs CD Mineros de Zacatecas",
+            "time": "22:00",
+            "home": "1.45",
+            "away": "2.44"
+        },
+        {
+            "match": "Pumas De Tabasco vs Alebrijes de Oaxaca",
+            "time": "01:00",
+            "home": "1.47",
+            "away": "2.39"
+        },
+        {
+            "match": "Atlante vs CF Correcaminos Uat",
+            "time": "22:00",
+            "home": "1.21",
+            "away": "3.70"
+        }
+    ],
+    "Eliteserien": [
+        {
+            "match": "Molde vs FK Haugesund",
+            "time": "17:00",
+            "home": "1.12",
+            "away": "5.00"
+        },
+        {
+            "match": "Mjondalen IF vs Tromso",
+            "time": "17:00",
+            "home": "1.63",
+            "away": "2.10"
+        },
+        {
+            "match": "Viking vs Kristiansund BK",
+            "time": "17:00",
+            "home": "1.34",
+            "away": "2.93"
+        },
+        {
+            "match": "Sandefjord Fotball vs Lillestrom",
+            "time": "17:00",
+            "home": "1.90",
+            "away": "1.78"
+        },
+        {
+            "match": "Stabaek IF vs Sarpsborg 08",
+            "time": "19:00",
+            "home": "1.72",
+            "away": "1.96"
+        }
+    ],
+    "2nd Division": [],
+    "Primera Division, Clausura": [
+        {
+            "match": "AD Cantolao vs Ayacucho",
+            "time": "17:00",
+            "home": "3.15",
+            "away": "1.29"
+        },
+        {
+            "match": "CDU San Martin vs CS Cienciano",
+            "time": "19:15",
+            "home": "2.31",
+            "away": "1.52"
+        },
+        {
+            "match": "Deportivo Municipal vs Sporting Cristal",
+            "time": "21:30",
+            "home": "3.20",
+            "away": "1.28"
+        },
+        {
+            "match": "CD Universidad Cesar Vallejo vs Alianza Atletico",
+            "time": "17:00",
+            "home": "1.28",
+            "away": "3.25"
+        },
+        {
+            "match": "Universitario de Deportes vs Carlos Mannucci",
+            "time": "19:15",
+            "home": "1.57",
+            "away": "2.20"
+        },
+        {
+            "match": "Sport Huancayo vs UTC de Cajamarca",
+            "time": "21:30",
+            "home": "1.66",
+            "away": "2.05"
+        },
+        {
+            "match": "Cusco FC vs Alianza Universidad De Huanuco",
+            "time": "17:00",
+            "home": "1.35",
+            "away": "2.87"
+        },
+        {
+            "match": "Em Deportivo Binacional vs FBC Melgar",
+            "time": "19:15",
+            "home": "3.60",
+            "away": "1.23"
+        },
+        {
+            "match": "Sport Boys Association vs Alianza Lima",
+            "time": "21:30",
+            "home": "3.30",
+            "away": "1.27"
+        }
+    ],
+    "Segunda Division": [
+        {
+            "match": "Albion vs Racing Club Montevideo",
+            "time": "00:30",
+            "home": "2.11",
+            "away": "1.60"
+        },
+        {
+            "match": "Danubio FC vs Rocha",
+            "time": "19:30",
+            "home": "1.23",
+            "away": "3.45"
+        },
+        {
+            "match": "CA Juventud De Las Piedras vs Central Espanol FC",
+            "time": "22:00",
+            "home": "1.24",
+            "away": "3.45"
+        },
+        {
+            "match": "Villa Teresa vs CA Atenas de San Carlos",
+            "time": "00:30",
+            "home": "2.71",
+            "away": "1.37"
+        }
+    ],
+    "Ekstraklasa": [
+        {
+            "match": "Kghm Zaglebie Lubin vs Gornik Leczna",
+            "time": "17:00",
+            "home": "1.25",
+            "away": "3.45"
+        },
+        {
+            "match": "KS Gornik Zabrze vs KKS Lech Poznan",
+            "time": "19:30",
+            "home": "2.24",
+            "away": "1.55"
+        },
+        {
+            "match": "FKS Stal Mielec vs GKS Piast Gliwice",
+            "time": "14:00",
+            "home": "2.40",
+            "away": "1.48"
+        },
+        {
+            "match": "Bruk-Bet Termalica Nieciecza vs Wisla Krakow",
+            "time": "16:30",
+            "home": "2.03",
+            "away": "1.68"
+        },
+        {
+            "match": "RKS Radomiak Radom vs Legia Warsaw",
+            "time": "19:00",
+            "home": "2.92",
+            "away": "1.34"
+        },
+        {
+            "match": "KS Warta Poznan vs MKS Pogon Szczecin",
+            "time": "14:00",
+            "home": "2.44",
+            "away": "1.47"
+        },
+        {
+            "match": "MKS Cracovia Krakow vs WKS Slask Wroclaw",
+            "time": "16:30",
+            "home": "1.57",
+            "away": "2.21"
+        },
+        {
+            "match": "Jagiellonia Bialystok vs RKS Rakow Czestochowa",
+            "time": "19:00",
+            "home": "2.29",
+            "away": "1.53"
+        },
+        {
+            "match": "KS Lechia Gdansk vs Wisla Plock",
+            "time": "17:00",
+            "home": "1.56",
+            "away": "2.22"
+        }
+    ],
+    "I Liga": [
+        {
+            "match": "Odra Opole vs Miedz Legnica",
+            "time": "17:00",
+            "home": "1.82",
+            "away": "1.82"
+        },
+        {
+            "match": "Korona Kielce vs Skra Czestochowa",
+            "time": "19:00",
+            "home": "1.18",
+            "away": "4.00"
+        },
+        {
+            "match": "GKS Tychy vs LKS Lodz",
+            "time": "19:30",
+            "home": "1.65",
+            "away": "2.03"
+        },
+        {
+            "match": "GKS Katowice vs Cwks Resovia",
+            "time": "11:40",
+            "home": "1.53",
+            "away": "2.23"
+        },
+        {
+            "match": "GKS Jastrzebie vs Puszcza Niepolomice",
+            "time": "17:00",
+            "home": "1.45",
+            "away": "2.44"
+        },
+        {
+            "match": "MKS Arka Gdynia vs Zaglebie Sosnowiec",
+            "time": "19:30",
+            "home": "1.26",
+            "away": "3.25"
+        },
+        {
+            "match": "Widzew Lodz vs Sandecja Nowy Sacz",
+            "time": "11:40",
+            "home": "1.48",
+            "away": "2.35"
+        },
+        {
+            "match": "KS Gornik Polkowice vs Podbeskidzie Bielsko-Biala",
+            "time": "14:00",
+            "home": "2.44",
+            "away": "1.45"
+        },
+        {
+            "match": "OKS Stomil Olsztyn vs Chrobry Glogow",
+            "time": "17:00",
+            "home": "1.89",
+            "away": "1.75"
+        }
+    ],
+    "II Liga": [
+        {
+            "match": "Ruch Chorzow vs Pogon Siedlce",
+            "time": "18:20",
+            "home": "1.61",
+            "away": "2.10"
+        },
+        {
+            "match": "MKS Znicz Pruszkow vs LKP Motor Lublin",
+            "time": "16:00",
+            "home": "2.01",
+            "away": "1.66"
+        },
+        {
+            "match": "Radunia Stezyca vs Lech II Poznan",
+            "time": "16:00",
+            "home": "1.56",
+            "away": "2.19"
+        },
+        {
+            "match": "KKS 1925 Kalisz vs PKS Olimpia Elblag",
+            "time": "17:00",
+            "home": "1.22",
+            "away": "3.55"
+        },
+        {
+            "match": "Sokol Ostroda vs Pogon Grodzisk Mazowiecki",
+            "time": "17:00",
+            "home": "1.56",
+            "away": "2.19"
+        },
+        {
+            "match": "KS Wisla Pulawy vs GKS Belchatow",
+            "time": "17:00",
+            "home": "1.48",
+            "away": "2.36"
+        },
+        {
+            "match": "ZKS Stal Rzeszow vs RKS Garbarnia Krakow",
+            "time": "18:00",
+            "home": "1.37",
+            "away": "2.71"
+        },
+        {
+            "match": "Slask II Wroclaw vs KS Hutnik Krakow Ssa",
+            "time": "11:00",
+            "home": "1.56",
+            "away": "2.19"
+        },
+        {
+            "match": "Wigry Suwalki vs MKS Chojniczanka Chojnice",
+            "time": "17:00",
+            "home": "2.01",
+            "away": "1.66"
+        }
+    ],
+    "Liga 1": [],
+    "Liga 2": [],
+    "Football National League": [
+        {
+            "match": "Yenisey Krasnoyarsk vs Alania Vladikavkaz",
+            "time": "11:00",
+            "home": "2.13",
+            "away": "1.61"
+        },
+        {
+            "match": "Orenburg vs Fakel Voronezh",
+            "time": "15:00",
+            "home": "1.14",
+            "away": "4.75"
+        },
+        {
+            "match": "Torpedo Moscow vs FC Tekstilshchik Ivanovo",
+            "time": "15:00",
+            "home": "1.03",
+            "away": "8.10"
+        },
+        {
+            "match": "FK Akron Tolyatti vs Baltika Kaliningrad",
+            "time": "15:00",
+            "home": "2.47",
+            "away": "1.46"
+        },
+        {
+            "match": "Kamaz Naberezhnye Chelny vs Ska-Khabarovsk",
+            "time": "15:00",
+            "home": "2.25",
+            "away": "1.55"
+        },
+        {
+            "match": "FK Veles Moscow vs TOM Tomsk",
+            "time": "15:30",
+            "home": "1.41",
+            "away": "2.63"
+        },
+        {
+            "match": "Krasnodar-2 vs FC Olimp Dolgoprudny",
+            "time": "16:00",
+            "home": "1.60",
+            "away": "2.14"
+        },
+        {
+            "match": "Neftekhimik Nizhnekamsk vs FC Metallurg Lipetsk",
+            "time": "16:00",
+            "home": "1.16",
+            "away": "4.40"
+        },
+        {
+            "match": "Rotor Volgograd vs Volgar Astrakhan",
+            "time": "17:00",
+            "home": "1.45",
+            "away": "2.50"
+        },
+        {
+            "match": "PFK Kuban Krasnodar vs Spartak-2 Moscow",
+            "time": "17:00",
+            "home": "1.45",
+            "away": "2.50"
+        }
+    ],
+    "Premiership": [
+        {
+            "match": "Rangers vs Livingston",
+            "time": "13:30",
+            "home": 0,
+            "away": "11.00"
+        },
+        {
+            "match": "Dundee vs St Mirren",
+            "time": "15:00",
+            "home": "1.69",
+            "away": "2.00"
+        },
+        {
+            "match": "Ross County vs St Johnstone",
+            "time": "15:00",
+            "home": "2.62",
+            "away": "1.41"
+        },
+        {
+            "match": "Hearts vs Celtic",
+            "time": "20:00",
+            "home": "3.90",
+            "away": "1.19"
+        },
+        {
+            "match": "Aberdeen vs Dundee Utd",
+            "time": "15:00",
+            "home": "1.25",
+            "away": "3.45"
+        },
+        {
+            "match": "Motherwell vs Hibernian",
+            "time": "16:30",
+            "home": "2.35",
+            "away": "1.51"
+        }
+    ],
+    "Summer SRL Friendlies": [
+        {
+            "match": "Real Betis Balompie Srl vs Villarreal CF Srl",
+            "time": "06:00",
+            "home": "2.02",
+            "away": "1.65"
+        },
+        {
+            "match": "RCD Mallorca Srl vs Valencia CF Srl",
+            "time": "07:00",
+            "home": "3.50",
+            "away": "1.23"
+        },
+        {
+            "match": "Torino FC Srl vs Spal Srl",
+            "time": "08:00",
+            "home": "1.07",
+            "away": "6.10"
+        },
+        {
+            "match": "Ajax Amsterdam Srl vs Vitesse Arnhem Srl",
+            "time": "09:00",
+            "home": "1.04",
+            "away": "7.30"
+        },
+        {
+            "match": "Cagliari Srl vs SS Lazio Srl",
+            "time": "10:00",
+            "home": "3.40",
+            "away": "1.24"
+        },
+        {
+            "match": "DSC Arminia Bielefeld Srl vs TSG 1899 Hoffenheim Srl",
+            "time": "11:00",
+            "home": "2.52",
+            "away": "1.42"
+        },
+        {
+            "match": "RC Lens Srl vs Olympique Lyon Srl",
+            "time": "12:00",
+            "home": "3.20",
+            "away": "1.27"
+        },
+        {
+            "match": "FC Metz Srl vs Montpellier Hsc Srl",
+            "time": "14:00",
+            "home": "1.93",
+            "away": "1.72"
+        },
+        {
+            "match": "Newcastle United Srl vs Fulham FC Srl",
+            "time": "15:00",
+            "home": "1.84",
+            "away": "1.80"
+        }
+    ],
+    "Superliga": [
+        {
+            "match": "SKF Sered vs MFK Ruzomberok",
+            "time": "19:00",
+            "home": "1.79",
+            "away": "1.89"
+        },
+        {
+            "match": "Pohronie Ziar Nad Hronom Dolna Zdana vs MFK Zemplin Michalovce",
+            "time": "17:00",
+            "home": "1.63",
+            "away": "2.10"
+        },
+        {
+            "match": "Slovan Bratislava vs AS Trencin",
+            "time": "19:00",
+            "home": "1.12",
+            "away": "5.10"
+        },
+        {
+            "match": "Senica vs Spartak Trnava",
+            "time": "17:00",
+            "home": "3.20",
+            "away": "1.29"
+        },
+        {
+            "match": "Vion Zlate Moravce vs Vrable",
+            "time": "17:00",
+            "home": "3.05",
+            "away": "1.31"
+        },
+        {
+            "match": "Dac 1904 Dunajska Streda vs MFK Tatran Liptovsky Mikulas",
+            "time": "17:00",
+            "home": 0,
+            "away": "11.25"
+        }
+    ],
+    "Allsvenskan": [
+        {
+            "match": "Degerfors vs Varbergs",
+            "time": "16:30",
+            "home": "1.70",
+            "away": "2.00"
+        },
+        {
+            "match": "Djurgarden vs Hacken",
+            "time": "14:00",
+            "home": "1.25",
+            "away": "3.50"
+        },
+        {
+            "match": "Ostersunds vs Hammarby",
+            "time": "16:30",
+            "home": "3.85",
+            "away": "1.19"
+        },
+        {
+            "match": "Kalmar vs Mjallby",
+            "time": "16:30",
+            "home": "1.41",
+            "away": "2.63"
+        },
+        {
+            "match": "AIK vs Halmstad",
+            "time": "18:00",
+            "home": "1.24",
+            "away": "3.50"
+        },
+        {
+            "match": "IFK Goteborg vs Norrkoping",
+            "time": "18:00",
+            "home": "1.69",
+            "away": "2.01"
+        },
+        {
+            "match": "IK Sirius vs Orebro",
+            "time": "18:00",
+            "home": "1.45",
+            "away": "2.51"
+        },
+        {
+            "match": "Halmstad vs Malmo FF",
+            "time": "16:30",
+            "home": "3.45",
+            "away": "1.25"
+        },
+        {
+            "match": "Orebro vs Mjallby",
+            "time": "16:30",
+            "home": "1.79",
+            "away": "1.88"
+        },
+        {
+            "match": "Hacken vs Ostersunds",
+            "time": "14:00",
+            "home": "1.10",
+            "away": "5.60"
+        },
+        {
+            "match": "Djurgarden vs AIK",
+            "time": "14:00",
+            "home": "1.36",
+            "away": "2.81"
+        },
+        {
+            "match": "Elfsborg vs Degerfors",
+            "time": "16:30",
+            "home": "1.17",
+            "away": "4.20"
+        },
+        {
+            "match": "IFK Goteborg vs Hammarby",
+            "time": "16:30",
+            "home": "1.81",
+            "away": "1.86"
+        },
+        {
+            "match": "Varbergs vs IK Sirius",
+            "time": "18:00",
+            "home": "1.71",
+            "away": "1.97"
+        },
+        {
+            "match": "Norrkoping vs Kalmar",
+            "time": "18:00",
+            "home": "1.39",
+            "away": "2.71"
+        }
+    ],
+    "Superettan": [
+        {
+            "match": "Trelleborgs vs Helsingborg",
+            "time": "16:00",
+            "home": "2.04",
+            "away": "1.67"
+        },
+        {
+            "match": "Vasalunds vs Eskilstuna",
+            "time": "16:00",
+            "home": "2.07",
+            "away": "1.65"
+        },
+        {
+            "match": "Vasteras vs Landskrona",
+            "time": "16:00",
+            "home": "1.80",
+            "away": "1.87"
+        },
+        {
+            "match": "Falkenbergs vs Norrby",
+            "time": "16:00",
+            "home": "1.79",
+            "away": "1.88"
+        },
+        {
+            "match": "Jonkopings vs Varnamo",
+            "time": "18:00",
+            "home": "1.53",
+            "away": "2.28"
+        },
+        {
+            "match": "GIF Sundsvall vs Brage",
+            "time": "18:00",
+            "home": "1.25",
+            "away": "3.40"
+        },
+        {
+            "match": "Orgryte vs Gais",
+            "time": "18:00",
+            "home": "1.60",
+            "away": "2.15"
+        },
+        {
+            "match": "Akropolis vs Osters",
+            "time": "18:00",
+            "home": "2.29",
+            "away": "1.53"
+        },
+        {
+            "match": "Falkenbergs vs GIF Sundsvall",
+            "time": "16:00",
+            "home": "2.05",
+            "away": "1.66"
+        },
+        {
+            "match": "Varnamo vs Eskilstuna",
+            "time": "16:00",
+            "home": "1.43",
+            "away": "2.57"
+        },
+        {
+            "match": "Brage vs Jonkopings",
+            "time": "16:00",
+            "home": "2.01",
+            "away": "1.69"
+        },
+        {
+            "match": "Norrby vs Orgryte",
+            "time": "18:00",
+            "home": "1.29",
+            "away": "3.15"
+        },
+        {
+            "match": "Vasteras vs Akropolis",
+            "time": "18:00",
+            "home": "1.55",
+            "away": "2.26"
+        },
+        {
+            "match": "Osters vs Trelleborgs",
+            "time": "18:00",
+            "home": "1.53",
+            "away": "2.29"
+        }
+    ],
+    "Super League": [
+        {
+            "match": "Zurich vs Lausanne-Sport",
+            "time": "17:00",
+            "home": "1.73",
+            "away": "1.95"
+        },
+        {
+            "match": "Young Boys Bern vs Grasshopper Club Zurich",
+            "time": "19:30",
+            "home": "1.07",
+            "away": "6.30"
+        },
+        {
+            "match": "St. Gallen vs Luzern",
+            "time": "13:15",
+            "home": "1.54",
+            "away": "2.27"
+        },
+        {
+            "match": "Basel vs Sion",
+            "time": "15:30",
+            "home": "1.18",
+            "away": "4.20"
+        },
+        {
+            "match": "Servette vs Lugano",
+            "time": "15:30",
+            "home": "1.38",
+            "away": "2.73"
+        }
+    ],
+    "Challenge League": [
+        {
+            "match": "Winterthur vs Wil 1900",
+            "time": "19:30",
+            "home": "1.60",
+            "away": "2.11"
+        },
+        {
+            "match": "Kriens vs Thun",
+            "time": "17:00",
+            "home": "2.23",
+            "away": "1.53"
+        },
+        {
+            "match": "Yverdon-Spor vs Stade Ls Ouchy",
+            "time": "17:00",
+            "home": "1.63",
+            "away": "2.06"
+        },
+        {
+            "match": "Aarau vs Schaffhausen",
+            "time": "17:00",
+            "home": "1.41",
+            "away": "2.56"
+        },
+        {
+            "match": "Vaduz vs Neuchatel Xamax",
+            "time": "13:15",
+            "home": "1.47",
+            "away": "2.39"
+        }
+    ],
+    "Super Lig": [
+        {
+            "match": "Giresunspor vs Galatasaray",
+            "time": "16:00",
+            "home": "4.05",
+            "away": "1.19"
+        },
+        {
+            "match": "Fatih Karagumruk vs Gazisehir Gaziantep",
+            "time": "16:00",
+            "home": "1.51",
+            "away": "2.35"
+        },
+        {
+            "match": "Istanbul Basaksehir vs Alanyaspor",
+            "time": "16:00",
+            "home": "1.72",
+            "away": "1.96"
+        },
+        {
+            "match": "Altay Izmir vs Kayserispor",
+            "time": "16:00",
+            "home": "1.96",
+            "away": "1.73"
+        },
+        {
+            "match": "Hatayspor Antakya vs Kasimpasa Istanbul",
+            "time": "16:00",
+            "home": "1.51",
+            "away": "2.35"
+        },
+        {
+            "match": "Besiktas vs Caykur Rizespor",
+            "time": "16:00",
+            "home": "1.05",
+            "away": "7.30"
+        },
+        {
+            "match": "Yeni Malatyaspor vs Trabzonspor",
+            "time": "16:00",
+            "home": "2.60",
+            "away": "1.42"
+        },
+        {
+            "match": "Sivasspor vs Konyaspor",
+            "time": "16:00",
+            "home": "1.39",
+            "away": "2.69"
+        },
+        {
+            "match": "Antalyaspor AS vs Goztepe",
+            "time": "16:00",
+            "home": "1.65",
+            "away": "2.07"
+        }
+    ],
+    "Major League Soccer": [
+        {
+            "match": "Los Angeles vs Minnesota Utd",
+            "time": "03:30",
+            "home": "1.19",
+            "away": "4.00"
+        },
+        {
+            "match": "New York City vs Columbus Crew",
+            "time": "00:30",
+            "home": "1.13",
+            "away": "4.85"
+        },
+        {
+            "match": "Orlando City vs Atlanta Utd",
+            "time": "01:00",
+            "home": "1.37",
+            "away": "2.79"
+        },
+        {
+            "match": "Los Angeles Galaxy vs Portland Timbers",
+            "time": "03:00",
+            "home": "1.51",
+            "away": "2.33"
+        },
+        {
+            "match": "Seattle Sounders vs San Jose Earthquakes",
+            "time": "22:00",
+            "home": "1.22",
+            "away": "3.65"
+        },
+        {
+            "match": "New York Red Bulls vs New England Revolution",
+            "time": "23:00",
+            "home": "1.61",
+            "away": "2.13"
+        },
+        {
+            "match": "Cincinnati vs DC United",
+            "time": "00:30",
+            "home": "1.99",
+            "away": "1.70"
+        },
+        {
+            "match": "Inter Miami CF vs CF Montreal",
+            "time": "01:00",
+            "home": "1.51",
+            "away": "2.33"
+        },
+        {
+            "match": "Houston Dynamo vs Real Salt Lake",
+            "time": "01:30",
+            "home": "1.49",
+            "away": "2.40"
+        },
+        {
+            "match": "Sporting Kansas City vs Dallas",
+            "time": "01:30",
+            "home": "1.19",
+            "away": "4.05"
+        },
+        {
+            "match": "Austin FC vs Colorado Rapids",
+            "time": "02:00",
+            "home": "1.55",
+            "away": "2.24"
+        },
+        {
+            "match": "Vancouver Whitecaps vs Minnesota Utd",
+            "time": "03:00",
+            "home": "2.76",
+            "away": "1.37"
+        },
+        {
+            "match": "Philadelphia Union vs Chicago Fire",
+            "time": "23:00",
+            "home": "1.28",
+            "away": "3.25"
+        },
+        {
+            "match": "Toronto vs Nashville SC",
+            "time": "00:30",
+            "home": "1.67",
+            "away": "2.03"
+        },
+        {
+            "match": "New England Revolution vs Nashville SC",
+            "time": "00:00",
+            "home": "1.27",
+            "away": "3.30"
+        },
+        {
+            "match": "Columbus Crew vs DC United",
+            "time": "00:30",
+            "home": "1.41",
+            "away": "2.63"
+        },
+        {
+            "match": "CF Montreal vs Atlanta Utd",
+            "time": "00:30",
+            "home": "1.53",
+            "away": "2.30"
+        },
+        {
+            "match": "Philadelphia Union vs Toronto",
+            "time": "00:30",
+            "home": "1.17",
+            "away": "4.30"
+        },
+        {
+            "match": "Orlando City vs Inter Miami CF",
+            "time": "01:00",
+            "home": "1.26",
+            "away": "3.40"
+        },
+        {
+            "match": "Chicago Fire vs New York City",
+            "time": "01:00",
+            "home": "2.48",
+            "away": "1.46"
+        },
+        {
+            "match": "New York Red Bulls vs Cincinnati",
+            "time": "01:00",
+            "home": "1.12",
+            "away": "5.10"
+        },
+        {
+            "match": "Austin FC vs Houston Dynamo",
+            "time": "02:00",
+            "home": "1.44",
+            "away": "2.52"
+        },
+        {
+            "match": "Seattle Sounders vs Dallas",
+            "time": "03:00",
+            "home": "1.22",
+            "away": "3.70"
+        },
+        {
+            "match": "Los Angeles Galaxy vs Real Salt Lake",
+            "time": "03:30",
+            "home": "1.45",
+            "away": "2.49"
+        },
+        {
+            "match": "Los Angeles vs Sporting Kansas City",
+            "time": "03:30",
+            "home": "1.36",
+            "away": "2.84"
+        },
+        {
+            "match": "Portland Timbers vs San Jose Earthquakes",
+            "time": "03:30",
+            "home": "1.33",
+            "away": "2.98"
+        }
+    ],
+    "USL, Championship": [
+        {
+            "match": "Atlanta Utd 2 vs Tulsa Roughnecks",
+            "time": "00:30",
+            "home": "1.96",
+            "away": "1.69"
+        },
+        {
+            "match": "Sporting Kansas City II vs Louisville City",
+            "time": "01:00",
+            "home": "3.40",
+            "away": "1.24"
+        },
+        {
+            "match": "San Antonio vs El Paso Locomotive",
+            "time": "01:30",
+            "home": "1.63",
+            "away": "2.06"
+        },
+        {
+            "match": "Tacoma Defiance vs San Diego Loyal SC",
+            "time": "03:00",
+            "home": "2.27",
+            "away": "1.52"
+        }
+    ],
+    "National Womens Soccer League": [
+        {
+            "match": "North Carolina Courage vs Orlando Pride",
+            "time": "23:00",
+            "home": "1.19",
+            "away": "3.75"
+        },
+        {
+            "match": "Reign vs Racing Louisville FC",
+            "time": "03:00",
+            "home": "1.35",
+            "away": "2.76"
+        },
+        {
+            "match": "Chicago Red Stars vs Washington Spirit",
+            "time": "23:00",
+            "home": "1.75",
+            "away": "1.89"
+        }
+    ],
+    "Cymru Championship, South": [
+        {
+            "match": "Ammanford vs Taffs Well",
+            "time": "19:30",
+            "home": "2.08",
+            "away": "1.61"
+        }
+    ]
+}

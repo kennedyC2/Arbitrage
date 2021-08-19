@@ -1,0 +1,428 @@
+{
+    "Special Offer": {
+        "location": 0
+    },
+    "UEFA Super Cup": {
+        "location": 1,
+        "submenu": [
+            "UEFA Super Cup"
+        ]
+    },
+    "Champions L.": {
+        "location": 2,
+        "submenu": [
+            "CL - Qualification"
+        ]
+    },
+    "Europa L.": {
+        "location": 3,
+        "submenu": [
+            "EL - Qualification"
+        ]
+    },
+    "Europa Conference League": {
+        "location": 4,
+        "submenu": [
+            "ECL - Qualification"
+        ]
+    },
+    "England": {
+        "location": 5,
+        "submenu": [
+            "ENG - Premier League",
+            "ENG - Championship",
+            "ENG - EFL Cup",
+            "ENG - League One",
+            "ENG - League Two",
+            "ENG - Community Shield",
+            "ENG - National League"
+        ]
+    },
+    "Spain": {
+        "location": 6,
+        "submenu": [
+            "ESP - LaLiga",
+            "ESP - LaLiga2"
+        ]
+    },
+    "Italy": {
+        "location": 7,
+        "submenu": [
+            "ITA - Serie A",
+            "ITA - Serie B"
+        ]
+    },
+    "Germany": {
+        "location": 8,
+        "submenu": [
+            "GER - Bundesliga",
+            "GER - Bundesliga 2",
+            "GER - Bundesliga 3",
+            "GER - Super Cup",
+            "GER - DFB Pokal"
+        ]
+    },
+    "France": {
+        "location": 9,
+        "submenu": [
+            "FRA - Ligue 1",
+            "FRA - Ligue 2",
+            "FRA - National"
+        ]
+    },
+    "Netherlands": {
+        "location": 10,
+        "submenu": [
+            "NED - Eredivisie",
+            "NED - Eerste Divisie",
+            "NED - Johan Cruijff Schaal"
+        ]
+    },
+    "Portugal": {
+        "location": 11,
+        "submenu": [
+            "POR - Primeira Liga",
+            "POR - Liga Portugal 2"
+        ]
+    },
+    "Belgium": {
+        "location": 12,
+        "submenu": [
+            "BEL - First Division A"
+        ]
+    },
+    "Scotland": {
+        "location": 13,
+        "submenu": [
+            "SCO - Premiership",
+            "SCO - Championship",
+            "SCO - League One",
+            "SCO - League Two"
+        ]
+    },
+    "Turkey": {
+        "location": 14,
+        "submenu": [
+            "TUR - S\u00fcper Lig"
+        ]
+    },
+    "Copa Sudamericana": {
+        "location": 15,
+        "submenu": [
+            "Copa Sudamericana, Knockout Stage"
+        ]
+    },
+    "International Club": {
+        "location": 16,
+        "submenu": [
+            "Club Friendly",
+            "Copa Libertadores",
+            "CONCACAF League"
+        ]
+    },
+    "Argentina": {
+        "location": 17,
+        "submenu": [
+            "ARG - Superliga"
+        ]
+    },
+    "Armenia": {
+        "location": 18,
+        "submenu": [
+            "ARM - First League"
+        ]
+    },
+    "Austria": {
+        "location": 19,
+        "submenu": [
+            "AUT - Bundesliga",
+            "AUT - 2. Liga"
+        ]
+    },
+    "Bangladesh": {
+        "location": 20,
+        "submenu": [
+            "BAN - Premier League"
+        ]
+    },
+    "Bolivia": {
+        "location": 21,
+        "submenu": [
+            "BOL - Liga Profesional"
+        ]
+    },
+    "Brazil": {
+        "location": 22,
+        "submenu": [
+            "BRA - Brasileiro A",
+            "BRA - Brasileiro B",
+            "BRA - Copa",
+            "BRA - Brasileiro U23",
+            "BRA - U20 Paulista 1st Division",
+            "BRA - Campeonato Amapaense"
+        ]
+    },
+    "Bulgaria": {
+        "location": 23,
+        "submenu": [
+            "BUL - Parva liga"
+        ]
+    },
+    "Cameroon": {
+        "location": 24,
+        "submenu": [
+            "BUL - Parva liga",
+            "CMR - Elite One"
+        ]
+    },
+    "Chile": {
+        "location": 25,
+        "submenu": [
+            "BUL - Parva liga",
+            "CHI - Primera Division"
+        ]
+    },
+    "China": {
+        "location": 26,
+        "submenu": [
+            "BUL - Parva liga",
+            "CHN - Super League",
+            "CHN - League 1"
+        ]
+    },
+    "Colombia": {
+        "location": 27,
+        "submenu": [
+            "BUL - Parva liga",
+            "COL - Primera A",
+            "COL - Copa Postobon"
+        ]
+    },
+    "Croatia": {
+        "location": 28,
+        "submenu": [
+            "BUL - Parva liga",
+            "CRO - 1.HNL"
+        ]
+    },
+    "Czech": {
+        "location": 29,
+        "submenu": [
+            "BUL - Parva liga",
+            "CZE - 1.Liga",
+            "CZE - FNL",
+            "CZE - CFL Group A",
+            "CZE - CFL Group B",
+            "CZE - MSFL"
+        ]
+    },
+    "Denmark": {
+        "location": 30,
+        "submenu": [
+            "BUL - Parva liga",
+            "DEN - Superligaen",
+            "DEN - 1st Division",
+            "DEN - 2nd Division"
+        ]
+    },
+    "Estonia": {
+        "location": 31,
+        "submenu": [
+            "BUL - Parva liga",
+            "EST - Premium League",
+            "EST - Esiliiga"
+        ]
+    },
+    "Faroe Islands": {
+        "location": 32,
+        "submenu": [
+            "BUL - Parva liga",
+            "FRO - 1 Deild"
+        ]
+    },
+    "Finland": {
+        "location": 33,
+        "submenu": [
+            "BUL - Parva liga",
+            "FIN - Veikkausliiga",
+            "FIN - Ykkonen"
+        ]
+    },
+    "Hungary": {
+        "location": 34,
+        "submenu": [
+            "BUL - Parva liga",
+            "HUN - NB I"
+        ]
+    },
+    "Iceland": {
+        "location": 35,
+        "submenu": [
+            "BUL - Parva liga",
+            "ICE - Inkasso-deildin",
+            "ICE - 3 Delid",
+            "ICE - 1. Deild, Women"
+        ]
+    },
+    "Ireland": {
+        "location": 36,
+        "submenu": [
+            "BUL - Parva liga",
+            "IRE - Premier Division",
+            "IRE - 1.Division"
+        ]
+    },
+    "Israel": {
+        "location": 37,
+        "submenu": [
+            "BUL - Parva liga",
+            "ISR - League Cup National"
+        ]
+    },
+    "Japan": {
+        "location": 38,
+        "submenu": [
+            "BUL - Parva liga",
+            "JPN - J.League",
+            "JPN - J.League 2"
+        ]
+    },
+    "Jordan": {
+        "location": 39,
+        "submenu": [
+            "BUL - Parva liga",
+            "JOR - Premier League"
+        ]
+    },
+    "Lithuania": {
+        "location": 40,
+        "submenu": [
+            "BUL - Parva liga",
+            "LTU - A Lyga"
+        ]
+    },
+    "Mexico": {
+        "location": 41,
+        "submenu": [
+            "BUL - Parva liga",
+            "MEX - Primera Division",
+            "MEX - Liga de Expansion MX, Apertura",
+            "MEX - U20 League"
+        ]
+    },
+    "Norway": {
+        "location": 42,
+        "submenu": [
+            "BUL - Parva liga",
+            "NOR - Eliteserien",
+            "NOR - OBOS-Ligaen",
+            "NOR - Toppserien - Women"
+        ]
+    },
+    "Olympic Soccer": {
+        "location": 43,
+        "submenu": [
+            "BUL - Parva liga",
+            "Olympic Games",
+            "Olympic Games, Women, Playoffs"
+        ]
+    },
+    "Poland": {
+        "location": 44,
+        "submenu": [
+            "BUL - Parva liga",
+            "POL - Ekstraklasa",
+            "POL - I Liga",
+            "POL - II Liga"
+        ]
+    },
+    "Romania": {
+        "location": 45,
+        "submenu": [
+            "BUL - Parva liga",
+            "ROM - Liga 1",
+            "ROM - Liga 2"
+        ]
+    },
+    "Russia": {
+        "location": 46,
+        "submenu": [
+            "BUL - Parva liga",
+            "RUS - Premier League"
+        ]
+    },
+    "Serbia": {
+        "location": 47,
+        "submenu": [
+            "BUL - Parva liga",
+            "SRB - Superliga",
+            "SRB - Prva Liga"
+        ]
+    },
+    "Slovakia": {
+        "location": 48,
+        "submenu": [
+            "BUL - Parva liga",
+            "SVK - Superliga",
+            "SVK - 2. Liga",
+            "SVK - Cup"
+        ]
+    },
+    "South Korea": {
+        "location": 49,
+        "submenu": [
+            "BUL - Parva liga",
+            "KOR - K-League Classic",
+            "KOR - K-League Challenge",
+            "KOR - FA Cup"
+        ]
+    },
+    "Sweden": {
+        "location": 50,
+        "submenu": [
+            "BUL - Parva liga",
+            "SWE - Allsvenskan",
+            "SWE - Superettan"
+        ]
+    },
+    "Switzerland": {
+        "location": 51,
+        "submenu": [
+            "BUL - Parva liga",
+            "SUI - Super League",
+            "SUI - Challenge League"
+        ]
+    },
+    "Ukraine": {
+        "location": 52,
+        "submenu": [
+            "BUL - Parva liga",
+            "UKR - Premier League"
+        ]
+    },
+    "Uruguay": {
+        "location": 53,
+        "submenu": [
+            "BUL - Parva liga",
+            "URU - Segunda Division"
+        ]
+    },
+    "USA": {
+        "location": 54,
+        "submenu": [
+            "BUL - Parva liga",
+            "USA - MLS",
+            "USA - USL, Championship",
+            "USA - USL, League One",
+            "USA - National Women's Soccer League"
+        ]
+    },
+    "Venezuela": {
+        "location": 55,
+        "submenu": [
+            "BUL - Parva liga",
+            "VEN - Primera Division, Grupo Occidental",
+            "VEN - Primera Division, Grupo Oriental"
+        ]
+    }
+}

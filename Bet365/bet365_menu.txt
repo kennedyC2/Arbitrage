@@ -1,0 +1,250 @@
+{
+    "Main Lists": {
+        "location": 0
+    },
+    "United Kingdom": {
+        "location": 1,
+        "submenu": [
+            "England Premier League",
+            "England Championship",
+            "England League 1",
+            "England EFL Cup",
+            "Scotland Premiership",
+            "England National League",
+            "England FA Cup Qualification"
+        ]
+    },
+    "UEFA Competitions": {
+        "location": 2,
+        "submenu": [
+            "UEFA Super Cup",
+            "UEFA Europa Conference League Qualifying"
+        ]
+    },
+    "Italy": {
+        "location": 3,
+        "submenu": [
+            "Italy Serie A",
+            "Coppa Italia",
+            "Italy Serie B"
+        ]
+    },
+    "Spain": {
+        "location": 4,
+        "submenu": [
+            "Spain Primera Liga",
+            "Spain Segunda",
+            "Spain Copa Federacion"
+        ]
+    },
+    "Germany": {
+        "location": 5,
+        "submenu": [
+            "Germany Bundesliga I",
+            "Germany Super Cup",
+            "Germany DFB Pokal",
+            "Germany Bundesliga II",
+            "Germany 3.Liga",
+            "Germany Landespokal",
+            "Germany Regionalliga North East"
+        ]
+    },
+    "France": {
+        "location": 6,
+        "submenu": [
+            "France Ligue 1",
+            "France Ligue 2",
+            "France National"
+        ]
+    },
+    "Denmark": {
+        "location": 7,
+        "submenu": [
+            "Denmark Superligaen"
+        ]
+    },
+    "Europe": {
+        "location": 8,
+        "submenu": [
+            "Elite Club Friendlies",
+            "Austria Bundesliga",
+            "Austria Regionalliga Vorarlberg",
+            "Belarus Cup",
+            "Belgium First Division A",
+            "Belgium Cup",
+            "Bosnia & Herzegovina Premier Liga",
+            "Bulgaria First League",
+            "Croatia 1.HNL",
+            "Czech Republic First League",
+            "Czech Republic 2. Liga",
+            "Czech Republic 3. Ligy",
+            "Czech Republic 4. Ligy",
+            "Czech Republic 5. Ligy",
+            "Finland Veikkausliiga",
+            "Finland Kakkonen Group A",
+            "Finland Kakkonen Group B",
+            "Finland Kakkonen Group C",
+            "Finland U20 League",
+            "Georgia Erovnuli Liga",
+            "Hungary NB I",
+            "Hungary NB II",
+            "Iceland Premier League",
+            "Iceland 3 Deild",
+            "Iceland 4 Deild",
+            "Iceland 1 Deild Women",
+            "Israel Cup",
+            "Kazakhstan Cup",
+            "Lithuania A Lyga",
+            "Luxembourg Division Nationale",
+            "Netherlands Eredivisie",
+            "Netherlands Eerste Divisie",
+            "Poland Ekstraklasa",
+            "Poland I Liga",
+            "Poland II Liga",
+            "Poland III Liga",
+            "Portugal Primeira Liga",
+            "Portugal Segunda Liga",
+            "Romania Liga I",
+            "Romania Liga II",
+            "Russia Premier League",
+            "Russia Division 1",
+            "Russia Division 2",
+            "Serbia Super Liga",
+            "Serbia Prva Liga",
+            "Slovakia Super Liga",
+            "Slovakia 3. Liga",
+            "Slovenia Prva Liga",
+            "Slovenia 2. SNL",
+            "Switzerland Super League",
+            "Turkey Super Lig",
+            "Ukraine Vyscha Liga",
+            "Ukraine Persha Liga",
+            "Europe Friendlies"
+        ]
+    },
+    "Norway": {
+        "location": 9,
+        "submenu": [
+            "Norway Eliteserien",
+            "Norway Division 1",
+            "Norway Division 3 Group 1",
+            "Norway Division 3 Group 2",
+            "Norway Division 3 Group 6"
+        ]
+    },
+    "Sweden": {
+        "location": 10,
+        "submenu": [
+            "Sweden Allsvenskan",
+            "Sweden Superettan",
+            "Sweden 2.div Norra Svealand",
+            "Sweden 2.div S\u00f6dra G\u00f6taland",
+            "Sweden 2.div V\u00e4stra G\u00f6taland"
+        ]
+    },
+    "Rep of Ireland": {
+        "location": 11,
+        "submenu": [
+            "Republic of Ireland First Division",
+            "Republic of Ireland Leinster Senior League"
+        ]
+    },
+    "Rest of the World": {
+        "location": 12,
+        "submenu": [
+            "Algeria Division 1",
+            "Bangladesh Premier League",
+            "Cameroon League Women",
+            "China Super League",
+            "Egypt Division 1",
+            "Gambia Division 2",
+            "Ghana FA Cup",
+            "Iran Cup",
+            "Japan J-League",
+            "Japan J2-League",
+            "Malaysia Premier League",
+            "Nigeria Cup",
+            "South Korea K League 1",
+            "South Korea Cup",
+            "South Korea K League 2",
+            "Syria Cup",
+            "Womens Friendly"
+        ]
+    },
+    "The Americas": {
+        "location": 13,
+        "submenu": [
+            "Copa Libertadores",
+            "Copa Sudamericana",
+            "Argentina Liga Profesional",
+            "Argentina Nacional B",
+            "Argentina Torneo A",
+            "Argentina Primera C Metropolitana",
+            "Argentina Regional League",
+            "Argentina Youth League",
+            "Bolivia Apertura",
+            "Brazil Serie A",
+            "Brazil Serie B",
+            "Brazil Serie C",
+            "Brazil Serie D",
+            "Brazil Campeonato Amapaense",
+            "Brazil Campeonato Baiano 2",
+            "Brazil Campeonato Carioca C",
+            "Brazil Catarinense 2",
+            "Brazil U20 League",
+            "Canada Premier League",
+            "Chile Primera Division",
+            "Chile Primera B",
+            "Chile Segunda",
+            "Colombia Primera A",
+            "Colombia Primera B",
+            "Colombia Primera C",
+            "Colombia Regional League",
+            "Colombia Liga Femenina",
+            "Costa Rica Primera Division",
+            "Costa Rica Segunda",
+            "Costa Rica Primera Division Women",
+            "Curacao League",
+            "Dominican Republic Liga",
+            "Ecuador Campeonato Nacional",
+            "Ecuador Primera Women",
+            "El Salvador Apertura",
+            "El Salvador Reserves League",
+            "Guatemala Liga Nacional",
+            "Guatemala Primera Division",
+            "Honduras Liga Nacional",
+            "Mexico Apertura",
+            "Mexico Liga de Expansion",
+            "Mexico Liga MX Femenil",
+            "Nicaragua Apertura",
+            "Nicaragua Segunda Division",
+            "Panama LPF",
+            "Panama Liga Prom",
+            "Paraguay Division Profesional",
+            "Peru Primera Division",
+            "Peru Segunda",
+            "Uruguay Apertura",
+            "USA MLS",
+            "USA USL Championship",
+            "USA UPSL",
+            "USA NWSL Women",
+            "Venezuela Primera Division"
+        ]
+    },
+    "Esoccer": {
+        "location": 14,
+        "submenu": [
+            "Esoccer Battle - 8 mins play",
+            "Esoccer Live Arena - 10 mins play"
+        ]
+    },
+    "Virtual Soccer": {
+        "location": 15,
+        "submenu": [
+            "Euro Cup",
+            "Premiership",
+            "Superleague",
+            "World Cup"
+        ]
+    }
+}

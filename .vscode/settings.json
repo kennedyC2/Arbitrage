@@ -1,0 +1,5 @@
+{
+    "python.autoComplete.addBrackets": true,
+    "python.analysis.completeFunctionParens": true,
+    "cSpell.ignoreWords": ["betpawa", "get", "ggng", "odds"]
+}
