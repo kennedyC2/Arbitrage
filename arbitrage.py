@@ -1,6 +1,5 @@
 # Dependencies
 # ===============================================================================================
-import re
 import json
 
 # Keys
@@ -29,7 +28,7 @@ n = 2
 # ===============================================================================================
 
 # Fetch
-def fetch(bookmarker_1, bookmaker_1_oddType, bookmarker_2, bookmaker_2_oddType):
+def fetch(bookmarker_1, bookmaker_1_oddType, bookmarker_1_angle, bookmarker_2, bookmaker_2_oddType, bookmarker_2_angle):
     # Define f path
     f_1 = bookmarker_1.lower() + '_' + bookmaker_1_oddType + '.txt'
     fd_1 = bookmarker_1
@@ -65,7 +64,8 @@ def fetch(bookmarker_1, bookmaker_1_oddType, bookmarker_2, bookmaker_2_oddType):
                             pair = []
                             pair.append(data_1[i])
                             pair.append(data_2[j])
-                            print(pair)
+                            calculate(pair, bookmarker_1_angle,
+                                      bookmarker_2_angle)
                             break
                         else:
                             pass
@@ -75,4 +75,27 @@ def fetch(bookmarker_1, bookmaker_1_oddType, bookmarker_2, bookmaker_2_oddType):
                 break
 
 
-fetch(u, a, z, a)
+# Calculate Possibilities
+def calculate(odd_pair, bookmarker_1_angle, bookmarker_2_angle):
+    global check_1
+    global check_2
+
+    if int(bookmarker_1_angle) == 1:
+        check_1 = odd_pair[0]['home'] or odd_pair[0]['GG'] or odd_pair[0]['1X']
+    else:
+        check_1 = odd_pair[0]['away'] or odd_pair[0]['NG'] or odd_pair[0]['2X']
+
+    if int(bookmarker_2_angle) == 1:
+        check_2 = odd_pair[1]['home'] or odd_pair[1]['GG'] or odd_pair[1]['1X']
+    else:
+        check_2 = odd_pair[1]['away'] or odd_pair[1]['NG'] or odd_pair[1]['2X']
+
+    # Check
+    if (1/float(check_1) * 100) + (1/float(check_2) * 100) < 100:
+        profit = 100 - ((1/float(check_1) * 100) + (1/float(check_2) * 100))
+        odd_pair.append(profit)
+        print(odd_pair)
+        return
+
+
+fetch(u, a, m, z, a, n)
