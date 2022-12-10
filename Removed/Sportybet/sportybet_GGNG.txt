@@ -1,0 +1,5348 @@
+{
+    "Argentina": [
+        {
+            "match": "CA Sarmiento vs Club Atletico Rosario Central",
+            "time": "23:00",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "Newell\u00b4s Old Boys vs CA Platense",
+            "time": "01:15",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "CA Banfield vs CA Talleres de Cordoba",
+            "time": "17:30",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "Union de Santa Fe vs CA San Lorenzo de Almagro",
+            "time": "19:45",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "CA Huracan vs Atletico Lanus",
+            "time": "22:00",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "CD Godoy Cruz vs CA River Plate (ARG)",
+            "time": "00:15",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "CA Tigre vs CA Independiente Avellaneda",
+            "time": "20:00",
+            "GG": "1.98",
+            "NG": "1.71"
+        },
+        {
+            "match": "Boca Juniors vs CA River Plate (ARG)",
+            "time": "23:00",
+            "GG": "1.83",
+            "NG": "1.83"
+        }
+    ],
+    "Austria": [
+        {
+            "match": "Austria Lustenau vs FC Liefering",
+            "time": "17:30",
+            "GG": "1.47",
+            "NG": "2.45"
+        },
+        {
+            "match": "Kapfenberger SV vs FAC Wien",
+            "time": "17:30",
+            "GG": "1.56",
+            "NG": "2.20"
+        },
+        {
+            "match": "SKU Amstetten vs Vorwarts Steyr",
+            "time": "17:30",
+            "GG": "1.55",
+            "NG": "2.25"
+        },
+        {
+            "match": "Young Violets Wien vs Grazer AK",
+            "time": "17:30",
+            "GG": "1.41",
+            "NG": "2.65"
+        },
+        {
+            "match": "Blau-Weiss Linz vs SKN St Polten",
+            "time": "19:25",
+            "GG": "1.50",
+            "NG": "2.35"
+        },
+        {
+            "match": "Juniors Oo Pasching vs FC Dornbirn",
+            "time": "13:30",
+            "GG": "1.48",
+            "NG": "2.40"
+        },
+        {
+            "match": "Wacker Innsbruck vs SV Lafnitz",
+            "time": "19:00",
+            "GG": "1.57",
+            "NG": "2.20"
+        },
+        {
+            "match": "SV Horn vs Rapid Wien II",
+            "time": "09:30",
+            "GG": "1.46",
+            "NG": "2.50"
+        }
+    ],
+    "Belgium": [
+        {
+            "match": "Arambagh KS vs Sheikh Russel KC",
+            "time": "11:00",
+            "GG": "1.76",
+            "NG": "1.91"
+        },
+        {
+            "match": "Muktijoddha Sangsad KC vs Bashundhara Kings",
+            "time": "11:00",
+            "GG": "1.78",
+            "NG": "1.90"
+        }
+    ],
+    "Bolivia": [
+        {
+            "match": "Brugge vs Cercle Brugge",
+            "time": "19:45",
+            "GG": "1.88",
+            "NG": "1.93"
+        },
+        {
+            "match": "K Beerschot VA vs Union Saint-Gilloise",
+            "time": "15:15",
+            "GG": "1.73",
+            "NG": "2.10"
+        },
+        {
+            "match": "St. Truidense VV vs SV Zulte Waregem",
+            "time": "17:30",
+            "GG": "1.67",
+            "NG": "2.20"
+        },
+        {
+            "match": "Yellow-Red KV Mechelen vs KAS Eupen",
+            "time": "17:30",
+            "GG": "1.67",
+            "NG": "2.20"
+        },
+        {
+            "match": "KV Kortrijk vs KRC Genk",
+            "time": "19:45",
+            "GG": "1.64",
+            "NG": "2.30"
+        },
+        {
+            "match": "Standard Liege vs Royal Antwerp FC",
+            "time": "12:30",
+            "GG": "1.70",
+            "NG": "2.15"
+        },
+        {
+            "match": "Oud-Heverlee Leuven vs Royal Charleroi SC",
+            "time": "15:00",
+            "GG": "1.65",
+            "NG": "2.25"
+        },
+        {
+            "match": "RSC Anderlecht vs RFC Seraing",
+            "time": "17:30",
+            "GG": "1.82",
+            "NG": "1.99"
+        },
+        {
+            "match": "KV Oostende vs Gent",
+            "time": "20:00",
+            "GG": "1.61",
+            "NG": "2.35"
+        }
+    ],
+    "Brazil": [
+        {
+            "match": "Independiente Petrolero vs Real Potosi",
+            "time": "01:30",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "Always Ready vs Blooming Santa Cruz",
+            "time": "20:00",
+            "GG": "1.73",
+            "NG": "1.95"
+        },
+        {
+            "match": "The Strongest vs Cd Real Tomayapo",
+            "time": "01:30",
+            "GG": "1.70",
+            "NG": "1.99"
+        },
+        {
+            "match": "Royal Pari FC vs Guabira Montero",
+            "time": "20:00",
+            "GG": "1.46",
+            "NG": "2.45"
+        },
+        {
+            "match": "Jorge Wilstermann vs Club Aurora",
+            "time": "00:00",
+            "GG": "1.62",
+            "NG": "2.10"
+        }
+    ],
+    "Bulgaria": [
+        {
+            "match": "Independente EC AP vs Ypiranga AP",
+            "time": "00:00",
+            "GG": "1.61",
+            "NG": "2.15"
+        },
+        {
+            "match": "Rio Branco FC AC vs Andira AC",
+            "time": "21:00",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "Clube Do Remo PA vs Operario Ferroviario EC PR",
+            "time": "20:00",
+            "GG": "2.20",
+            "NG": "1.57"
+        },
+        {
+            "match": "Guarani FC SP vs Gremio Esportivo Brasil",
+            "time": "23:00",
+            "GG": "2.30",
+            "NG": "1.53"
+        },
+        {
+            "match": "Coritiba FC PR vs Goias EC GO",
+            "time": "23:30",
+            "GG": "2.15",
+            "NG": "1.60"
+        },
+        {
+            "match": "Brusque FC SC vs Cruzeiro EC MG",
+            "time": "15:00",
+            "GG": "2.05",
+            "NG": "1.66"
+        },
+        {
+            "match": "Nautico PE vs AD Confianca SE",
+            "time": "20:30",
+            "GG": "2.00",
+            "NG": "1.70"
+        },
+        {
+            "match": "CS Alagoano AL vs Avai FC SC",
+            "time": "23:00",
+            "GG": "2.10",
+            "NG": "1.63"
+        },
+        {
+            "match": "EC Vitoria BA vs CR Vasco da Gama RJ",
+            "time": "23:30",
+            "GG": "1.98",
+            "NG": "1.71"
+        },
+        {
+            "match": "Vila Nova FC GO vs Sampaio Correa FC MA",
+            "time": "01:30",
+            "GG": "2.20",
+            "NG": "1.58"
+        },
+        {
+            "match": "Botafogo FR RJ vs AA Ponte Preta SP",
+            "time": "00:30",
+            "GG": "2.20",
+            "NG": "1.57"
+        },
+        {
+            "match": "Londrina EC PR vs CR Brasil AL",
+            "time": "00:30",
+            "GG": "2.05",
+            "NG": "1.66"
+        },
+        {
+            "match": "CR Brasil AL vs Fortaleza EC CE",
+            "time": "20:30",
+            "GG": "2.10",
+            "NG": "1.63"
+        },
+        {
+            "match": "AC Goianiense GO vs CA Paranaense PR",
+            "time": "23:15",
+            "GG": "2.05",
+            "NG": "1.67"
+        },
+        {
+            "match": "CR Vasco da Gama RJ vs Sao Paulo FC SP",
+            "time": "01:30",
+            "GG": "1.91",
+            "NG": "1.76"
+        },
+        {
+            "match": "EC Bahia BA vs Atletico Mineiro MG",
+            "time": "01:30",
+            "GG": "1.75",
+            "NG": "1.93"
+        },
+        {
+            "match": "SD Juazeirense BA vs Santos FC SP",
+            "time": "23:15",
+            "GG": "1.78",
+            "NG": "1.90"
+        },
+        {
+            "match": "ABC FC RN vs CR Flamengo RJ",
+            "time": "01:30",
+            "GG": "1.92",
+            "NG": "1.76"
+        },
+        {
+            "match": "SC Recife PE vs Red Bull Bragantino SP",
+            "time": "23:00",
+            "GG": "2.15",
+            "NG": "1.70"
+        },
+        {
+            "match": "CA Paranaense PR vs Sao Paulo FC SP",
+            "time": "22:00",
+            "GG": "2.10",
+            "NG": "1.73"
+        },
+        {
+            "match": "Cuiaba Esporte Clube MT vs EC Bahia BA",
+            "time": "01:00",
+            "GG": "2.05",
+            "NG": "1.78"
+        },
+        {
+            "match": "SE Palmeiras SP vs Fortaleza EC CE",
+            "time": "01:00",
+            "GG": "2.05",
+            "NG": "1.80"
+        },
+        {
+            "match": "America FC MG vs Fluminense FC RJ",
+            "time": "20:00",
+            "GG": "2.10",
+            "NG": "1.74"
+        },
+        {
+            "match": "EC Juventude RS vs Atletico Mineiro MG",
+            "time": "20:00",
+            "GG": "2.25",
+            "NG": "1.64"
+        },
+        {
+            "match": "Santos FC SP vs SC Corinthians SP",
+            "time": "20:00",
+            "GG": "2.20",
+            "NG": "1.68"
+        },
+        {
+            "match": "Ceara SC CE vs AC Goianiense GO",
+            "time": "22:15",
+            "GG": "2.15",
+            "NG": "1.72"
+        },
+        {
+            "match": "CR Flamengo RJ vs SC Internacional RS",
+            "time": "22:15",
+            "GG": "2.10",
+            "NG": "1.76"
+        },
+        {
+            "match": "Gremio FB Porto Alegrense RS vs Chapecoense SC",
+            "time": "00:00",
+            "GG": "2.35",
+            "NG": "1.61"
+        },
+        {
+            "match": "Ituano FC SP vs Criciuma EC SC",
+            "time": "21:00",
+            "GG": "1.87",
+            "NG": "1.80"
+        }
+    ],
+    "Canada": [
+        {
+            "match": "FC Tsarsko Selo Sofia vs POFC Botev Vratsa",
+            "time": "16:45",
+            "GG": "2.05",
+            "NG": "1.66"
+        },
+        {
+            "match": "Botev Plovdiv vs PFC Slavia Sofia",
+            "time": "16:45",
+            "GG": "1.87",
+            "NG": "1.80"
+        },
+        {
+            "match": "PFK Beroe Stara Zagora vs PFC Cherno More Varna",
+            "time": "19:00",
+            "GG": "1.84",
+            "NG": "1.83"
+        },
+        {
+            "match": "PFC Levski Sofia vs FC Arda Kardzhali",
+            "time": "19:00",
+            "GG": "1.84",
+            "NG": "1.83"
+        },
+        {
+            "match": "FC Strumska Slava Radomir vs Fk Cska 1948 Ii",
+            "time": "16:00",
+            "GG": "1.69",
+            "NG": "2.00"
+        },
+        {
+            "match": "FC Yantra Gabrovo vs Marek Dupnica",
+            "time": "16:00",
+            "GG": "1.79",
+            "NG": "1.88"
+        },
+        {
+            "match": "FK Septemvri Sofia vs FK Spartak 1918 Varna",
+            "time": "16:00",
+            "GG": "1.80",
+            "NG": "1.87"
+        },
+        {
+            "match": "PFK Sportist Svoge vs PFC Dobrudzha Dobrich",
+            "time": "16:00",
+            "GG": "2.15",
+            "NG": "1.59"
+        },
+        {
+            "match": "SFC Etar Veliko Tarnovo vs FK Hebar Pazardzhik",
+            "time": "16:30",
+            "GG": "1.79",
+            "NG": "1.88"
+        },
+        {
+            "match": "Sozopol vs PFC Ludogorets Razgrad II",
+            "time": "17:00",
+            "GG": "1.94",
+            "NG": "1.74"
+        },
+        {
+            "match": "PFC Montana 1921 vs Litex Lovech",
+            "time": "18:00",
+            "GG": "1.94",
+            "NG": "1.74"
+        },
+        {
+            "match": "Pfk Botev Plovdiv Ii vs Fc Levski 2020 Lom",
+            "time": "18:00",
+            "GG": "1.70",
+            "NG": "1.99"
+        }
+    ],
+    "Chile": [
+        {
+            "match": "Cavalry FC vs FC Edmonton",
+            "time": "02:00",
+            "GG": "2.05",
+            "NG": "1.71"
+        },
+        {
+            "match": "Forge FC Hamilton vs York United FC",
+            "time": "00:00",
+            "GG": "2.10",
+            "NG": "1.64"
+        },
+        {
+            "match": "Pacific FC vs Valour FC",
+            "time": "02:30",
+            "GG": "1.83",
+            "NG": "1.84"
+        }
+    ],
+    "China": [
+        {
+            "match": "CD Everton Vina del Mar vs Cobresal",
+            "time": "01:30",
+            "GG": "2.00",
+            "NG": "1.74"
+        },
+        {
+            "match": "CD O\u00b4Higgins vs Universidad de Chile",
+            "time": "20:00",
+            "GG": "1.74",
+            "NG": "1.94"
+        },
+        {
+            "match": "Union Espanola vs Nublense",
+            "time": "22:30",
+            "GG": "1.62",
+            "NG": "2.10"
+        },
+        {
+            "match": "CD Universidad Catolica vs Deportes La Serena",
+            "time": "01:00",
+            "GG": "2.10",
+            "NG": "1.63"
+        },
+        {
+            "match": "Santiago Wanderers vs Huachipato",
+            "time": "17:30",
+            "GG": "1.76",
+            "NG": "1.92"
+        },
+        {
+            "match": "CD Antofagasta vs Audax Italiano",
+            "time": "20:00",
+            "GG": "1.73",
+            "NG": "1.95"
+        },
+        {
+            "match": "Colo-Colo vs Curico Unido",
+            "time": "22:30",
+            "GG": "1.92",
+            "NG": "1.76"
+        },
+        {
+            "match": "Deportes Union La Calera vs CD Everton Vina del Mar",
+            "time": "01:00",
+            "GG": "1.85",
+            "NG": "1.82"
+        },
+        {
+            "match": "Cobresal vs CD Palestino",
+            "time": "16:00",
+            "GG": "1.66",
+            "NG": "2.05"
+        },
+        {
+            "match": "Audax Italiano vs Santiago Wanderers",
+            "time": "00:00",
+            "GG": "1.94",
+            "NG": "1.74"
+        }
+    ],
+    "Colombia": [
+        {
+            "match": "Cangzhou Mighty Lions vs Guangzhou City",
+            "time": "11:00",
+            "GG": "1.67",
+            "NG": "2.20"
+        },
+        {
+            "match": "Shandong Taishan vs Shenzhen FC",
+            "time": "11:00",
+            "GG": "1.83",
+            "NG": "1.99"
+        },
+        {
+            "match": "Chongqing Liangjiang vs Qingdao FC",
+            "time": "13:00",
+            "GG": "1.87",
+            "NG": "1.94"
+        },
+        {
+            "match": "Guangzhou FC vs Henan Songshan Longmen",
+            "time": "13:00",
+            "GG": "2.20",
+            "NG": "1.69"
+        },
+        {
+            "match": "Wuhan FC vs Tianjin Jinmen Tiger",
+            "time": "09:30",
+            "GG": "2.35",
+            "NG": "1.61"
+        },
+        {
+            "match": "Shanghai Shenhua vs Changchun Yatai",
+            "time": "11:30",
+            "GG": "1.74",
+            "NG": "2.10"
+        },
+        {
+            "match": "Dalian Professional vs Shanghai Port FC",
+            "time": "13:30",
+            "GG": "2.50",
+            "NG": "1.55"
+        },
+        {
+            "match": "Hebei FC vs Beijing Guoan",
+            "time": "13:30",
+            "GG": "1.85",
+            "NG": "1.96"
+        },
+        {
+            "match": "China vs Wuxi Wuguo",
+            "time": "08:30",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "Qingdao Youth Island vs Xiamen Egret Island",
+            "time": "08:30",
+            "GG": 0,
+            "NG": 0
+        }
+    ],
+    "Croatia": [
+        {
+            "match": "Independiente Santa Fe vs Atletico Nacional Medellin",
+            "time": "02:00",
+            "GG": "1.74",
+            "NG": "2.00"
+        },
+        {
+            "match": "CD Atletico Huila vs Deportes Quindio",
+            "time": "02:05",
+            "GG": "1.95",
+            "NG": "1.74"
+        },
+        {
+            "match": "America de Cali vs CD Once Caldas",
+            "time": "21:00",
+            "GG": "2.15",
+            "NG": "1.59"
+        },
+        {
+            "match": "Atletico Nacional Medellin vs AD Cali",
+            "time": "23:30",
+            "GG": "1.71",
+            "NG": "1.98"
+        },
+        {
+            "match": "Millonarios FC vs Independiente Santa Fe",
+            "time": "02:00",
+            "GG": "1.75",
+            "NG": "1.92"
+        },
+        {
+            "match": "CD La Equidad vs Independiente Medellin",
+            "time": "22:00",
+            "GG": "2.05",
+            "NG": "1.65"
+        },
+        {
+            "match": "CD Junior FC vs CD Tolima",
+            "time": "00:05",
+            "GG": "1.83",
+            "NG": "1.84"
+        },
+        {
+            "match": "CD Alianza Petrolera vs AD Pasto",
+            "time": "02:10",
+            "GG": "2.00",
+            "NG": "1.69"
+        },
+        {
+            "match": "CA Bucaramanga vs Jaguares de Cordoba",
+            "time": "01:40",
+            "GG": "2.05",
+            "NG": "1.67"
+        },
+        {
+            "match": "Rionegro Aguilas vs Boyaca Patriotas",
+            "time": "00:00",
+            "GG": "2.10",
+            "NG": "1.62"
+        },
+        {
+            "match": "CS Deportivo Pereira vs Envigado FC",
+            "time": "02:00",
+            "GG": "2.00",
+            "NG": "1.68"
+        },
+        {
+            "match": "CD Real Santander vs Boyaca Patriotas",
+            "time": "21:00",
+            "GG": "2.05",
+            "NG": "1.67"
+        },
+        {
+            "match": "CD Once Caldas vs Independiente Medellin",
+            "time": "23:40",
+            "GG": "2.05",
+            "NG": "1.67"
+        },
+        {
+            "match": "CD Alianza Petrolera vs Millonarios FC",
+            "time": "02:05",
+            "GG": "2.10",
+            "NG": "1.62"
+        },
+        {
+            "match": "Boca Juniors de Cali vs CS Deportivo Pereira",
+            "time": "21:00",
+            "GG": "2.05",
+            "NG": "1.65"
+        },
+        {
+            "match": "Llaneros FC vs Boyaca Chico FC",
+            "time": "21:00",
+            "GG": "2.10",
+            "NG": "1.63"
+        },
+        {
+            "match": "Envigado FC vs CA Bucaramanga",
+            "time": "23:30",
+            "GG": "2.05",
+            "NG": "1.66"
+        },
+        {
+            "match": "Barranquilla FC vs Jaguares de Cordoba",
+            "time": "02:00",
+            "GG": "2.15",
+            "NG": "1.61"
+        }
+    ],
+    "Czech Republic": [
+        {
+            "match": "NK Slaven vs HNK Sibenik",
+            "time": "17:55",
+            "GG": "1.99",
+            "NG": "1.70"
+        },
+        {
+            "match": "HNK Gorica vs HNK Hajduk Split",
+            "time": "20:00",
+            "GG": "1.58",
+            "NG": "2.20"
+        },
+        {
+            "match": "NK Hrvatski Dragovoljac vs NK Osijek",
+            "time": "17:55",
+            "GG": "2.25",
+            "NG": "1.56"
+        }
+    ],
+    "Denmark": [
+        {
+            "match": "1. SC Znojmo FK vs FC Velke Mezirici",
+            "time": "16:00",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "FC Hlucin vs SFK Vrchovina",
+            "time": "18:00",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "FC Viktoria Otrokovice vs CSK Uhersky Brod",
+            "time": "09:15",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "Fc Vysocina Jihlava B vs FK Blansko",
+            "time": "09:15",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "Vratimov vs FC Fastav Zlin B",
+            "time": "09:15",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "FC Slovan Rosice vs SK Hanacka Slavia Kromeriz",
+            "time": "15:30",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "FC Dolni Benesov vs SK Unicov",
+            "time": "16:00",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "Fc Banik Ostrava B vs Fotbal Frydek Mistek",
+            "time": "09:00",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "1. FC Slovacko B vs SK Sigma Olomouc B",
+            "time": "09:15",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "FC Vysocina Jihlava vs Dukla Prague",
+            "time": "17:00",
+            "GG": "1.57",
+            "NG": "2.20"
+        },
+        {
+            "match": "MFK Chrudim vs FK Fotbal Trinec",
+            "time": "09:15",
+            "GG": "1.60",
+            "NG": "2.15"
+        },
+        {
+            "match": "1.SK Prostejov vs FC Zbrojovka Brno",
+            "time": "16:00",
+            "GG": "1.67",
+            "NG": "2.05"
+        },
+        {
+            "match": "SFC Opava vs MFk Vyskov",
+            "time": "16:00",
+            "GG": "1.61",
+            "NG": "2.15"
+        },
+        {
+            "match": "SK Lisen Brno vs FK Usti nad Labem",
+            "time": "16:00",
+            "GG": "1.69",
+            "NG": "2.00"
+        },
+        {
+            "match": "FK Viktoria Zizkov vs 1. FK Pribram",
+            "time": "09:15",
+            "GG": "1.55",
+            "NG": "2.25"
+        },
+        {
+            "match": "FK Varnsdorf vs Sparta Prague B",
+            "time": "16:00",
+            "GG": "1.52",
+            "NG": "2.30"
+        },
+        {
+            "match": "Mas Taborsko vs FC Vlasim",
+            "time": "16:00",
+            "GG": "1.50",
+            "NG": "2.35"
+        },
+        {
+            "match": "FC Fastav Zlin vs FK Teplice",
+            "time": "15:00",
+            "GG": "1.85",
+            "NG": "1.89"
+        },
+        {
+            "match": "FC Hradec Kralove vs FC Slovan Liberec",
+            "time": "15:00",
+            "GG": "1.94",
+            "NG": "1.81"
+        },
+        {
+            "match": "SK Dynamo Ceske Budejovice vs FC Banik Ostrava",
+            "time": "15:00",
+            "GG": "1.71",
+            "NG": "2.05"
+        },
+        {
+            "match": "Sparta Prague vs MFK Karvina",
+            "time": "15:00",
+            "GG": "1.85",
+            "NG": "1.89"
+        },
+        {
+            "match": "Slavia Prague vs SK Sigma Olomouc",
+            "time": "18:00",
+            "GG": "2.05",
+            "NG": "1.70"
+        },
+        {
+            "match": "FK Jablonec vs Bohemians Prague 1905",
+            "time": "15:00",
+            "GG": "1.90",
+            "NG": "1.84"
+        },
+        {
+            "match": "FK Pardubice vs FK Mlada Boleslav",
+            "time": "15:00",
+            "GG": "1.80",
+            "NG": "1.94"
+        },
+        {
+            "match": "FC Viktoria Plzen vs 1. FC Slovacko Uherske Hradiste",
+            "time": "18:00",
+            "GG": "1.71",
+            "NG": "2.05"
+        },
+        {
+            "match": "FC Pisek vs Tj Jiskra Domazlice",
+            "time": "09:15",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "FC Slavoj Vysehrad vs Fk Pribram B",
+            "time": "09:15",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "Fk Jablonec B vs Tj Jiskra Usti Nad Orlici",
+            "time": "09:15",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "FK Motorlet Prague vs FC Slavia Karlovy Vary",
+            "time": "09:15",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "FK Zbuzany 1953 vs FC Slovan Liberec B",
+            "time": "09:15",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "Loko Vltavin vs SK Slavia Prague B",
+            "time": "09:15",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "SK Rakovnik vs FK Admira Prague",
+            "time": "09:15",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "FA Povltavska vs SK Benesov",
+            "time": "09:30",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "FK Teplice B vs FC Hradec Kralove B",
+            "time": "10:00",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "Tj Sokol Zivanice vs SK Zapy",
+            "time": "16:00",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "Bohemians Prague 1905 B vs Tj Slovan Velvary",
+            "time": "09:15",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "Dukla Prague B vs Fk Pardubice B",
+            "time": "09:15",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "Fk Mlada Boleslav B vs FK Chlumec Nad Cidlinou",
+            "time": "09:15",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "Fc Viktoria Plzen B vs Sokol Hostoun",
+            "time": "09:30",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "SK Sokol Brozany vs FK Prepere",
+            "time": "16:00",
+            "GG": 0,
+            "NG": 0
+        }
+    ],
+    "Ecuador": [
+        {
+            "match": "B93 Copenhagen vs Brabrand IF",
+            "time": "12:00",
+            "GG": "1.66",
+            "NG": "2.05"
+        },
+        {
+            "match": "Kolding IF vs Thisted FC",
+            "time": "12:00",
+            "GG": "1.58",
+            "NG": "2.20"
+        },
+        {
+            "match": "Hillerod Fodbold vs HIK Hellerup",
+            "time": "13:00",
+            "GG": "1.67",
+            "NG": "2.05"
+        },
+        {
+            "match": "Middelfart BK vs Aarhus Fremad",
+            "time": "13:00",
+            "GG": "1.47",
+            "NG": "2.45"
+        },
+        {
+            "match": "Skive IK vs Naestved BK",
+            "time": "13:00",
+            "GG": "1.62",
+            "NG": "2.10"
+        },
+        {
+            "match": "AB Gladsaxe vs FA 2000",
+            "time": "12:00",
+            "GG": "1.65",
+            "NG": "2.05"
+        },
+        {
+            "match": "Hvidovre IF vs BK Fremad Amager",
+            "time": "17:30",
+            "GG": "1.65",
+            "NG": "2.15"
+        },
+        {
+            "match": "AC Horsens vs FC Helsingoer",
+            "time": "18:00",
+            "GG": "1.63",
+            "NG": "2.20"
+        },
+        {
+            "match": "Jammerbugt FC vs FC Fredericia",
+            "time": "13:00",
+            "GG": "1.65",
+            "NG": "2.15"
+        },
+        {
+            "match": "Lyngby BK vs Esbjerg FB",
+            "time": "14:00",
+            "GG": "1.79",
+            "NG": "1.96"
+        },
+        {
+            "match": "HB Koege vs Hobro IK",
+            "time": "12:30",
+            "GG": "1.75",
+            "NG": "2.00"
+        },
+        {
+            "match": "Vendsyssel FF vs Nykoebing FC",
+            "time": "14:00",
+            "GG": "1.70",
+            "NG": "2.10"
+        },
+        {
+            "match": "AB Taarnby vs Tarnby FF",
+            "time": "17:00",
+            "GG": "1.54",
+            "NG": "2.25"
+        },
+        {
+            "match": "B 1908 Amager vs Nykoebing FC",
+            "time": "17:00",
+            "GG": "1.40",
+            "NG": "2.65"
+        },
+        {
+            "match": "BK Fremad Valby vs Bronshoj BK",
+            "time": "17:00",
+            "GG": "1.41",
+            "NG": "2.65"
+        },
+        {
+            "match": "Dollefjelde Musse vs Frederikssund",
+            "time": "17:00",
+            "GG": "1.51",
+            "NG": "2.35"
+        },
+        {
+            "match": "Kvik/Aalestrup IF vs Kjellerup IF",
+            "time": "17:00",
+            "GG": "1.44",
+            "NG": "2.55"
+        },
+        {
+            "match": "Svebolle BI vs Greve Fodbold",
+            "time": "17:00",
+            "GG": "1.57",
+            "NG": "2.20"
+        },
+        {
+            "match": "Varde IF vs B 1909 Odense",
+            "time": "17:00",
+            "GG": "1.31",
+            "NG": "3.00"
+        },
+        {
+            "match": "Viby IF vs Vsk Aarhus",
+            "time": "17:00",
+            "GG": "1.47",
+            "NG": "2.45"
+        },
+        {
+            "match": "Silkeborg IF vs Viborg FF",
+            "time": "17:30",
+            "GG": "1.73",
+            "NG": "2.10"
+        },
+        {
+            "match": "FC Midtjylland vs Vejle BK",
+            "time": "19:30",
+            "GG": "1.79",
+            "NG": "2.05"
+        },
+        {
+            "match": "Randers FC vs Sonderjyske",
+            "time": "13:00",
+            "GG": "1.92",
+            "NG": "1.89"
+        },
+        {
+            "match": "Copenhagen vs Broendby IF",
+            "time": "15:00",
+            "GG": "1.65",
+            "NG": "2.25"
+        },
+        {
+            "match": "Aalborg BK vs AGF Aarhus",
+            "time": "17:00",
+            "GG": "1.77",
+            "NG": "2.05"
+        },
+        {
+            "match": "FC Nordsjaelland vs Odense Boldklub",
+            "time": "18:00",
+            "GG": "1.66",
+            "NG": "2.25"
+        }
+    ],
+    "Egypt": [
+        {
+            "match": "CD America de Quito vs Guayaquil Sc",
+            "time": "01:00",
+            "GG": "2.25",
+            "NG": "1.55"
+        },
+        {
+            "match": "CA Porteno vs CD Independiente Juniors",
+            "time": "21:00",
+            "GG": "1.86",
+            "NG": "1.81"
+        },
+        {
+            "match": "LDU Portoviejo vs Gualaceo SC",
+            "time": "21:00",
+            "GG": "2.00",
+            "NG": "1.70"
+        },
+        {
+            "match": "CD El Nacional vs CDA Santo Domingo",
+            "time": "01:00",
+            "GG": "2.00",
+            "NG": "1.69"
+        }
+    ],
+    "El Salvador": [
+        {
+            "match": "Pyramids FC vs Ismaily SC",
+            "time": "18:00",
+            "GG": "1.74",
+            "NG": "1.94"
+        },
+        {
+            "match": "Wadi Degla SC vs AL Ahly SC (Egy)",
+            "time": "20:00",
+            "GG": "2.35",
+            "NG": "1.51"
+        }
+    ],
+    "England": [
+        {
+            "match": "CD FAS Santa Ana vs Jocoro FC",
+            "time": "22:30",
+            "GG": "1.90",
+            "NG": "1.77"
+        }
+    ],
+    "Estonia": [
+        {
+            "match": "Carlisle United vs Colchester United",
+            "time": "15:00",
+            "GG": "1.88",
+            "NG": "1.86"
+        },
+        {
+            "match": "Exeter City vs Bradford City",
+            "time": "15:00",
+            "GG": "1.90",
+            "NG": "1.84"
+        },
+        {
+            "match": "Forest Green Rovers vs Sutton United",
+            "time": "15:00",
+            "GG": "1.76",
+            "NG": "2.00"
+        },
+        {
+            "match": "Harrogate Town vs Rochdale AFC",
+            "time": "15:00",
+            "GG": "1.82",
+            "NG": "1.92"
+        },
+        {
+            "match": "Hartlepool United vs Crawley Town",
+            "time": "15:00",
+            "GG": "1.84",
+            "NG": "1.90"
+        },
+        {
+            "match": "Mansfield Town vs Bristol Rovers",
+            "time": "15:00",
+            "GG": "1.87",
+            "NG": "1.87"
+        },
+        {
+            "match": "Northampton Town vs Port Vale",
+            "time": "15:00",
+            "GG": "1.85",
+            "NG": "1.88"
+        },
+        {
+            "match": "Oldham Athletic vs Newport County",
+            "time": "15:00",
+            "GG": "1.76",
+            "NG": "1.99"
+        },
+        {
+            "match": "Salford City vs Leyton Orient London",
+            "time": "15:00",
+            "GG": "1.96",
+            "NG": "1.79"
+        },
+        {
+            "match": "Scunthorpe United vs Swindon Town",
+            "time": "15:00",
+            "GG": "1.87",
+            "NG": "1.87"
+        },
+        {
+            "match": "Stevenage FC vs Barrow AFC",
+            "time": "15:00",
+            "GG": "1.92",
+            "NG": "1.82"
+        },
+        {
+            "match": "Tranmere Rovers Birkenhead vs Walsall FC",
+            "time": "15:00",
+            "GG": "1.96",
+            "NG": "1.78"
+        },
+        {
+            "match": "Aldershot Town FC vs Chesterfield FC",
+            "time": "15:00",
+            "GG": "1.59",
+            "NG": "2.15"
+        },
+        {
+            "match": "Barnet FC vs Notts County",
+            "time": "15:00",
+            "GG": "1.61",
+            "NG": "2.15"
+        },
+        {
+            "match": "Bromley FC vs Grimsby Town",
+            "time": "15:00",
+            "GG": "1.68",
+            "NG": "2.00"
+        },
+        {
+            "match": "Dover Athletic FC vs Solihull Moors FC",
+            "time": "15:00",
+            "GG": "1.73",
+            "NG": "1.95"
+        },
+        {
+            "match": "FC Halifax Town vs Maidenhead United FC",
+            "time": "15:00",
+            "GG": "1.67",
+            "NG": "2.05"
+        },
+        {
+            "match": "Kings Lynn FC vs Southend United",
+            "time": "15:00",
+            "GG": "1.62",
+            "NG": "2.10"
+        },
+        {
+            "match": "Stockport County FC vs Dagenham and Redbridge FC",
+            "time": "15:00",
+            "GG": "1.74",
+            "NG": "1.94"
+        },
+        {
+            "match": "Torquay United vs Altrincham FC",
+            "time": "15:00",
+            "GG": "1.75",
+            "NG": "1.93"
+        },
+        {
+            "match": "Wealdstone FC vs Woking FC",
+            "time": "15:00",
+            "GG": "1.62",
+            "NG": "2.10"
+        },
+        {
+            "match": "Weymouth FC vs Boreham Wood FC",
+            "time": "15:00",
+            "GG": "1.62",
+            "NG": "2.10"
+        },
+        {
+            "match": "Wrexham AFC vs Yeovil Town",
+            "time": "15:00",
+            "GG": "1.75",
+            "NG": "1.93"
+        },
+        {
+            "match": "Leicester vs Man City",
+            "time": "17:15",
+            "GG": "1.62",
+            "NG": "2.30"
+        },
+        {
+            "match": "Bournemouth vs West Bromwich",
+            "time": "19:45",
+            "GG": "1.86",
+            "NG": "1.96"
+        },
+        {
+            "match": "Blackburn Rovers vs Swansea",
+            "time": "15:00",
+            "GG": "2.00",
+            "NG": "1.82"
+        },
+        {
+            "match": "Bristol City vs Blackpool",
+            "time": "15:00",
+            "GG": "1.92",
+            "NG": "1.89"
+        },
+        {
+            "match": "Cardiff vs Barnsley",
+            "time": "15:00",
+            "GG": "2.00",
+            "NG": "1.80"
+        },
+        {
+            "match": "Derby County vs Huddersfield",
+            "time": "15:00",
+            "GG": "2.05",
+            "NG": "1.78"
+        },
+        {
+            "match": "Luton Town vs Peterborough United",
+            "time": "15:00",
+            "GG": "1.83",
+            "NG": "1.98"
+        },
+        {
+            "match": "Preston North End vs Hull City",
+            "time": "15:00",
+            "GG": "1.81",
+            "NG": "2.00"
+        },
+        {
+            "match": "Queens Park Rangers vs Millwall FC",
+            "time": "15:00",
+            "GG": "1.98",
+            "NG": "1.83"
+        },
+        {
+            "match": "Stoke City vs Reading FC",
+            "time": "15:00",
+            "GG": "2.10",
+            "NG": "1.74"
+        },
+        {
+            "match": "Sheffield Utd vs Birmingham City",
+            "time": "20:00",
+            "GG": "2.10",
+            "NG": "1.73"
+        },
+        {
+            "match": "Fulham vs Middlesbrough FC",
+            "time": "13:30",
+            "GG": "1.92",
+            "NG": "1.89"
+        },
+        {
+            "match": "Coventry City vs Nottingham Forest",
+            "time": "16:30",
+            "GG": "2.05",
+            "NG": "1.76"
+        },
+        {
+            "match": "Peterborough United vs Derby County",
+            "time": "12:30",
+            "GG": "1.96",
+            "NG": "1.85"
+        },
+        {
+            "match": "Barnsley vs Coventry City",
+            "time": "15:00",
+            "GG": "1.93",
+            "NG": "1.88"
+        },
+        {
+            "match": "Birmingham City vs Stoke City",
+            "time": "15:00",
+            "GG": "2.05",
+            "NG": "1.76"
+        },
+        {
+            "match": "Blackpool vs Cardiff",
+            "time": "15:00",
+            "GG": "1.96",
+            "NG": "1.85"
+        },
+        {
+            "match": "Huddersfield vs Fulham",
+            "time": "15:00",
+            "GG": "1.96",
+            "NG": "1.85"
+        },
+        {
+            "match": "Hull City vs Queens Park Rangers",
+            "time": "15:00",
+            "GG": "1.85",
+            "NG": "1.97"
+        },
+        {
+            "match": "Middlesbrough FC vs Bristol City",
+            "time": "15:00",
+            "GG": "1.97",
+            "NG": "1.85"
+        },
+        {
+            "match": "Millwall FC vs Blackburn Rovers",
+            "time": "15:00",
+            "GG": "1.98",
+            "NG": "1.84"
+        },
+        {
+            "match": "Nottingham Forest vs Bournemouth",
+            "time": "15:00",
+            "GG": "1.95",
+            "NG": "1.86"
+        },
+        {
+            "match": "Reading FC vs Preston North End",
+            "time": "15:00",
+            "GG": "1.87",
+            "NG": "1.94"
+        },
+        {
+            "match": "West Bromwich Albion vs Luton Town",
+            "time": "15:00",
+            "GG": "1.93",
+            "NG": "1.88"
+        },
+        {
+            "match": "Swansea City vs Sheffield Utd",
+            "time": "20:00",
+            "GG": "1.97",
+            "NG": "1.84"
+        },
+        {
+            "match": "Brentford FC vs Arsenal",
+            "time": "20:00",
+            "GG": "1.71",
+            "NG": "2.15"
+        },
+        {
+            "match": "Man Utd vs Leeds United",
+            "time": "12:30",
+            "GG": "1.63",
+            "NG": "2.30"
+        },
+        {
+            "match": "Burnley vs Brighton",
+            "time": "15:00",
+            "GG": "2.10",
+            "NG": "1.75"
+        },
+        {
+            "match": "Chelsea vs Crystal Palace",
+            "time": "15:00",
+            "GG": "2.35",
+            "NG": "1.60"
+        },
+        {
+            "match": "Everton vs Southampton",
+            "time": "15:00",
+            "GG": "1.76",
+            "NG": "2.05"
+        },
+        {
+            "match": "Leicester vs Wolverhampton",
+            "time": "15:00",
+            "GG": "2.00",
+            "NG": "1.80"
+        },
+        {
+            "match": "Watford vs Aston Villa",
+            "time": "15:00",
+            "GG": "1.82",
+            "NG": "2.00"
+        },
+        {
+            "match": "Norwich vs Liverpool",
+            "time": "17:30",
+            "GG": "1.80",
+            "NG": "2.05"
+        },
+        {
+            "match": "Newcastle vs West Ham",
+            "time": "14:00",
+            "GG": "1.78",
+            "NG": "2.05"
+        },
+        {
+            "match": "Tottenham vs Man City",
+            "time": "16:30",
+            "GG": "1.79",
+            "NG": "2.05"
+        },
+        {
+            "match": "Bolton Wanderers vs Milton Keynes Dons",
+            "time": "15:00",
+            "GG": "1.66",
+            "NG": "2.15"
+        },
+        {
+            "match": "Cambridge United vs Oxford United",
+            "time": "15:00",
+            "GG": "1.77",
+            "NG": "1.99"
+        },
+        {
+            "match": "Crewe Alexandra vs Cheltenham Town",
+            "time": "15:00",
+            "GG": "1.88",
+            "NG": "1.86"
+        },
+        {
+            "match": "Doncaster Rovers vs AFC Wimbledon",
+            "time": "15:00",
+            "GG": "1.80",
+            "NG": "1.94"
+        },
+        {
+            "match": "Fleetwood Town vs Portsmouth FC",
+            "time": "15:00",
+            "GG": "1.92",
+            "NG": "1.82"
+        },
+        {
+            "match": "Gillingham FC vs Lincoln City",
+            "time": "15:00",
+            "GG": "1.76",
+            "NG": "1.99"
+        },
+        {
+            "match": "Ipswich Town vs Morecambe FC",
+            "time": "15:00",
+            "GG": "1.79",
+            "NG": "1.96"
+        },
+        {
+            "match": "Rotherham United vs Plymouth Argyle",
+            "time": "15:00",
+            "GG": "1.80",
+            "NG": "1.94"
+        },
+        {
+            "match": "Shrewsbury Town vs Burton Albion",
+            "time": "15:00",
+            "GG": "1.92",
+            "NG": "1.82"
+        },
+        {
+            "match": "Sunderland AFC vs Wigan Athletic",
+            "time": "15:00",
+            "GG": "1.78",
+            "NG": "1.97"
+        },
+        {
+            "match": "Wycombe Wanderers vs Accrington Stanley",
+            "time": "15:00",
+            "GG": "1.81",
+            "NG": "1.93"
+        },
+        {
+            "match": "Charlton Athletic vs Sheffield Wednesday",
+            "time": "17:30",
+            "GG": "1.85",
+            "NG": "1.89"
+        }
+    ],
+    "Faroe Islands": [
+        {
+            "match": "Tallinna JK Legion vs Parnu JK Vaprus",
+            "time": "17:30",
+            "GG": "1.78",
+            "NG": "1.90"
+        },
+        {
+            "match": "FCI Levadia Tallinn vs FC Kuressaare",
+            "time": "14:00",
+            "GG": "1.44",
+            "NG": "2.55"
+        },
+        {
+            "match": "Paide Linnameeskond vs Viljandi JK Tulevik",
+            "time": "17:00",
+            "GG": "1.56",
+            "NG": "2.20"
+        },
+        {
+            "match": "Tartu JK Tammeka vs Nomme Kalju FC",
+            "time": "13:00",
+            "GG": "1.54",
+            "NG": "2.25"
+        }
+    ],
+    "Finland": [
+        {
+            "match": "HB Torshavn II vs AB Argir",
+            "time": "20:00",
+            "GG": "1.37",
+            "NG": "2.75"
+        }
+    ],
+    "France": [
+        {
+            "match": "FC Jazz vs Espoon Palloseura",
+            "time": "16:30",
+            "GG": "1.62",
+            "NG": "2.10"
+        },
+        {
+            "match": "AC Oulu vs IFK Mariehamn",
+            "time": "13:00",
+            "GG": "1.93",
+            "NG": "1.81"
+        },
+        {
+            "match": "FC KTP Kotka vs HJK Helsinki",
+            "time": "15:00",
+            "GG": "2.10",
+            "NG": "1.69"
+        },
+        {
+            "match": "FC Haka Valkeakoski vs FC Inter Turku",
+            "time": "14:00",
+            "GG": "1.96",
+            "NG": "1.79"
+        },
+        {
+            "match": "FC Honka vs Tampereen Ilves",
+            "time": "16:30",
+            "GG": "1.91",
+            "NG": "1.83"
+        },
+        {
+            "match": "Kuopion Palloseura vs FC Lahti",
+            "time": "16:30",
+            "GG": "1.88",
+            "NG": "1.86"
+        },
+        {
+            "match": "Ekenas Idrottsforening vs Rovaniemen Palloseura",
+            "time": "12:00",
+            "GG": "1.69",
+            "NG": "2.00"
+        },
+        {
+            "match": "Klubi 04 vs Musan Salama",
+            "time": "12:00",
+            "GG": "1.75",
+            "NG": "1.93"
+        },
+        {
+            "match": "IF Gnistan vs FF Jaro",
+            "time": "13:00",
+            "GG": "1.62",
+            "NG": "2.10"
+        },
+        {
+            "match": "KPV Kokkola vs Mikkelin Palloilijat",
+            "time": "15:00",
+            "GG": "1.59",
+            "NG": "2.15"
+        },
+        {
+            "match": "Turun Palloseura vs PK-35",
+            "time": "15:00",
+            "GG": "2.05",
+            "NG": "1.65"
+        },
+        {
+            "match": "Vaasan Palloseura vs JIPPO",
+            "time": "15:00",
+            "GG": "1.87",
+            "NG": "1.80"
+        }
+    ],
+    "Germany": [
+        {
+            "match": "Monaco vs Nantes",
+            "time": "20:00",
+            "GG": "1.80",
+            "NG": "2.00"
+        },
+        {
+            "match": "Lyon vs Brest",
+            "time": "16:00",
+            "GG": "1.60",
+            "NG": "2.35"
+        },
+        {
+            "match": "ESTAC Troyes vs PSG",
+            "time": "20:00",
+            "GG": "2.05",
+            "NG": "1.78"
+        },
+        {
+            "match": "Rennes vs RC Lens",
+            "time": "12:00",
+            "GG": "1.82",
+            "NG": "2.00"
+        },
+        {
+            "match": "Bordeaux vs Clermont Foot 63",
+            "time": "14:00",
+            "GG": "1.90",
+            "NG": "1.91"
+        },
+        {
+            "match": "Nice vs Reims",
+            "time": "14:00",
+            "GG": "1.93",
+            "NG": "1.88"
+        },
+        {
+            "match": "St. Etienne vs FC Lorient",
+            "time": "14:00",
+            "GG": "1.74",
+            "NG": "2.10"
+        },
+        {
+            "match": "Strasbourg vs Angers",
+            "time": "14:00",
+            "GG": "1.98",
+            "NG": "1.83"
+        },
+        {
+            "match": "Metz vs Lille",
+            "time": "16:00",
+            "GG": "2.25",
+            "NG": "1.66"
+        },
+        {
+            "match": "Montpellier vs Marseille",
+            "time": "19:45",
+            "GG": "1.63",
+            "NG": "2.30"
+        },
+        {
+            "match": "PSG vs Strasbourg",
+            "time": "20:00",
+            "GG": "1.84",
+            "NG": "1.98"
+        },
+        {
+            "match": "Brest vs Rennes",
+            "time": "14:00",
+            "GG": "1.68",
+            "NG": "2.20"
+        },
+        {
+            "match": "Clermont Foot 63 vs ESTAC Troyes",
+            "time": "14:00",
+            "GG": "1.82",
+            "NG": "1.99"
+        },
+        {
+            "match": "Nantes vs Metz",
+            "time": "14:00",
+            "GG": "1.99",
+            "NG": "1.83"
+        },
+        {
+            "match": "Reims vs Montpellier",
+            "time": "14:00",
+            "GG": "1.71",
+            "NG": "2.15"
+        },
+        {
+            "match": "Angers vs Lyon",
+            "time": "16:00",
+            "GG": "1.75",
+            "NG": "2.10"
+        },
+        {
+            "match": "FC Lorient vs Monaco",
+            "time": "16:00",
+            "GG": "1.88",
+            "NG": "1.93"
+        },
+        {
+            "match": "Lille vs Nice",
+            "time": "16:00",
+            "GG": "2.05",
+            "NG": "1.76"
+        },
+        {
+            "match": "Marseille vs Bordeaux",
+            "time": "16:00",
+            "GG": "1.85",
+            "NG": "1.96"
+        },
+        {
+            "match": "RC Lens vs St. Etienne",
+            "time": "16:00",
+            "GG": "1.78",
+            "NG": "2.05"
+        },
+        {
+            "match": "Caen vs Sochaux-Montbeliard",
+            "time": "14:00",
+            "GG": "2.00",
+            "NG": "1.74"
+        },
+        {
+            "match": "AJ Auxerre vs AC Ajaccio",
+            "time": "18:00",
+            "GG": "1.81",
+            "NG": "1.94"
+        },
+        {
+            "match": "Amiens vs Quevilly-Rouen Metropole",
+            "time": "18:00",
+            "GG": "2.00",
+            "NG": "1.75"
+        },
+        {
+            "match": "Dijon vs Rodez Aveyron",
+            "time": "18:00",
+            "GG": "1.93",
+            "NG": "1.81"
+        },
+        {
+            "match": "Grenoble Foot vs Guingamp",
+            "time": "18:00",
+            "GG": "1.78",
+            "NG": "1.96"
+        },
+        {
+            "match": "Le Havre AC vs Paris FC",
+            "time": "18:00",
+            "GG": "1.87",
+            "NG": "1.87"
+        },
+        {
+            "match": "Pau FC vs Toulouse",
+            "time": "18:00",
+            "GG": "1.76",
+            "NG": "1.99"
+        },
+        {
+            "match": "USL Dunkerque vs Chamois Niort FC",
+            "time": "18:00",
+            "GG": "1.84",
+            "NG": "1.90"
+        },
+        {
+            "match": "Valenciennes FC vs Nimes",
+            "time": "18:00",
+            "GG": "1.77",
+            "NG": "1.98"
+        },
+        {
+            "match": "FC Sete 34 vs FC Bastia Borgo",
+            "time": "18:00",
+            "GG": "2.05",
+            "NG": "1.65"
+        },
+        {
+            "match": "Football Bourg-En-Bresse Peronnas 01 vs FC Villefranche-Beaujolais",
+            "time": "18:00",
+            "GG": "2.10",
+            "NG": "1.64"
+        },
+        {
+            "match": "LB Chateauroux vs Stade Olympique Choletais",
+            "time": "18:00",
+            "GG": "2.00",
+            "NG": "1.69"
+        },
+        {
+            "match": "Le Mans FC vs Stade Briochin",
+            "time": "18:00",
+            "GG": "1.96",
+            "NG": "1.72"
+        },
+        {
+            "match": "Stade Lavallois Mayenne vs US Orleans",
+            "time": "18:00",
+            "GG": "1.91",
+            "NG": "1.76"
+        },
+        {
+            "match": "US Boulogne vs FC Chambly Oise",
+            "time": "18:00",
+            "GG": "1.94",
+            "NG": "1.74"
+        },
+        {
+            "match": "US Concarneau vs Red Star FC",
+            "time": "18:00",
+            "GG": "2.10",
+            "NG": "1.62"
+        },
+        {
+            "match": "US Creteil-Lusitanos vs US Avranches",
+            "time": "18:00",
+            "GG": "1.94",
+            "NG": "1.74"
+        }
+    ],
+    "Germany Amateur": [
+        {
+            "match": "FC St. Pauli vs Hamburg",
+            "time": "17:30",
+            "GG": "1.55",
+            "NG": "2.45"
+        },
+        {
+            "match": "Schalke vs Erzgebirge Aue",
+            "time": "17:30",
+            "GG": "1.79",
+            "NG": "2.05"
+        },
+        {
+            "match": "Holstein Kiel vs Jahn Regensburg",
+            "time": "12:30",
+            "GG": "1.67",
+            "NG": "2.20"
+        },
+        {
+            "match": "Nuremberg vs Fortuna Dusseldorf",
+            "time": "12:30",
+            "GG": "1.63",
+            "NG": "2.30"
+        },
+        {
+            "match": "SV Sandhausen vs Karlsruher SC",
+            "time": "12:30",
+            "GG": "1.64",
+            "NG": "2.30"
+        },
+        {
+            "match": "Dynamo Dresden vs Hannover 96",
+            "time": "19:30",
+            "GG": "1.64",
+            "NG": "2.25"
+        },
+        {
+            "match": "1. FC Heidenheim 1846 vs Hansa Rostock",
+            "time": "12:30",
+            "GG": "1.65",
+            "NG": "2.25"
+        },
+        {
+            "match": "SV Darmstadt 98 vs FC Ingolstadt 04",
+            "time": "12:30",
+            "GG": "1.67",
+            "NG": "2.20"
+        },
+        {
+            "match": "Werder Bremen vs Paderborn",
+            "time": "12:30",
+            "GG": "1.66",
+            "NG": "2.25"
+        },
+        {
+            "match": "Dynamo Dresden vs Paderborn",
+            "time": "19:45",
+            "GG": "1.62",
+            "NG": "2.30"
+        },
+        {
+            "match": "TSV 1860 Munich vs SV Darmstadt 98",
+            "time": "19:45",
+            "GG": "1.71",
+            "NG": "2.15"
+        },
+        {
+            "match": "1. FC Lokomotive Leipzig vs Bayer Leverkusen",
+            "time": "14:30",
+            "GG": "1.88",
+            "NG": "1.93"
+        },
+        {
+            "match": "BFC Dynamo vs Stuttgart",
+            "time": "14:30",
+            "GG": "1.79",
+            "NG": "2.05"
+        },
+        {
+            "match": "Eintracht Norderstedt vs Hannover 96",
+            "time": "14:30",
+            "GG": "1.81",
+            "NG": "2.00"
+        },
+        {
+            "match": "Greifswalder FC vs Augsburg",
+            "time": "14:30",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "SC Weiche Flensburg 08 vs Holstein Kiel",
+            "time": "14:30",
+            "GG": "1.73",
+            "NG": "2.10"
+        },
+        {
+            "match": "SpVgg Bayreuth vs Arminia Bielefeld",
+            "time": "14:30",
+            "GG": "1.85",
+            "NG": "1.97"
+        },
+        {
+            "match": "SV Sandhausen vs RB Leipzig",
+            "time": "14:30",
+            "GG": "1.98",
+            "NG": "1.84"
+        },
+        {
+            "match": "VfL 1899 Osnabruck vs Werder Bremen",
+            "time": "14:30",
+            "GG": "1.68",
+            "NG": "2.20"
+        },
+        {
+            "match": "Wuppertaler SV vs VfL Bochum",
+            "time": "14:30",
+            "GG": "1.89",
+            "NG": "1.92"
+        },
+        {
+            "match": "1. FC Magdeburg vs FC St. Pauli",
+            "time": "17:30",
+            "GG": "1.58",
+            "NG": "2.40"
+        },
+        {
+            "match": "SSV Ulm 1846 vs Nuremberg",
+            "time": "17:30",
+            "GG": "1.64",
+            "NG": "2.25"
+        },
+        {
+            "match": "SV Babelsberg vs Greuther Furth",
+            "time": "17:30",
+            "GG": "2.05",
+            "NG": "1.76"
+        },
+        {
+            "match": "SV Wehen Wiesbaden vs Dortmund",
+            "time": "19:45",
+            "GG": "1.84",
+            "NG": "1.98"
+        },
+        {
+            "match": "FC 08 Villingen vs Schalke",
+            "time": "14:30",
+            "GG": "2.10",
+            "NG": "1.76"
+        },
+        {
+            "match": "FC Carl Zeiss Jena vs Cologne",
+            "time": "14:30",
+            "GG": "1.80",
+            "NG": "2.05"
+        },
+        {
+            "match": "SC Preussen 06 Munster vs Wolfsburg",
+            "time": "14:30",
+            "GG": "2.00",
+            "NG": "1.81"
+        },
+        {
+            "match": "SV 07 Elversberg vs Mainz",
+            "time": "14:30",
+            "GG": "1.74",
+            "NG": "2.10"
+        },
+        {
+            "match": "SV Meppen 1912 vs Hertha Berlin",
+            "time": "14:30",
+            "GG": "1.72",
+            "NG": "2.15"
+        },
+        {
+            "match": "SV Waldhof Mannheim 07 vs Eintracht Frankfurt",
+            "time": "14:30",
+            "GG": "1.70",
+            "NG": "2.15"
+        },
+        {
+            "match": "Turkgucu Munich vs Union Berlin",
+            "time": "14:30",
+            "GG": "1.78",
+            "NG": "2.05"
+        },
+        {
+            "match": "TUS Rot-Weiss Koblenz vs Jahn Regensburg",
+            "time": "14:30",
+            "GG": "1.95",
+            "NG": "1.86"
+        },
+        {
+            "match": "VfL Oldenburg vs Fortuna Dusseldorf",
+            "time": "14:30",
+            "GG": "2.15",
+            "NG": "1.70"
+        },
+        {
+            "match": "Eintracht Braunschweig vs Hamburger SV",
+            "time": "17:30",
+            "GG": "1.72",
+            "NG": "2.15"
+        },
+        {
+            "match": "FC Wurzburger Kickers vs SC Freiburg",
+            "time": "17:30",
+            "GG": "1.82",
+            "NG": "1.99"
+        },
+        {
+            "match": "Hansa Rostock vs 1. FC Heidenheim 1846",
+            "time": "17:30",
+            "GG": "1.69",
+            "NG": "2.15"
+        },
+        {
+            "match": "FC Ingolstadt 04 vs Erzgebirge Aue",
+            "time": "17:30",
+            "GG": "1.71",
+            "NG": "2.15"
+        },
+        {
+            "match": "FC Viktoria Cologne vs TSG Hoffenheim",
+            "time": "17:30",
+            "GG": "1.62",
+            "NG": "2.30"
+        },
+        {
+            "match": "VfL Sportfreunde Lotte 1929 vs Karlsruher SC",
+            "time": "17:30",
+            "GG": "1.98",
+            "NG": "1.83"
+        },
+        {
+            "match": "1 FC Kaiserslautern vs Borussia M'gladbach",
+            "time": "19:45",
+            "GG": "1.81",
+            "NG": "2.00"
+        },
+        {
+            "match": "Borussia M'gladbach vs Bayern Munich",
+            "time": "19:30",
+            "GG": "1.41",
+            "NG": "2.95"
+        },
+        {
+            "match": "Arminia Bielefeld vs SC Freiburg",
+            "time": "14:30",
+            "GG": "1.67",
+            "NG": "2.20"
+        },
+        {
+            "match": "Augsburg vs TSG Hoffenheim",
+            "time": "14:30",
+            "GG": "1.57",
+            "NG": "2.45"
+        },
+        {
+            "match": "Stuttgart vs Greuther Furth",
+            "time": "14:30",
+            "GG": "1.57",
+            "NG": "2.45"
+        },
+        {
+            "match": "Union Berlin vs Bayer Leverkusen",
+            "time": "14:30",
+            "GG": "1.68",
+            "NG": "2.20"
+        },
+        {
+            "match": "Wolfsburg vs VfL Bochum",
+            "time": "14:30",
+            "GG": "1.73",
+            "NG": "2.10"
+        },
+        {
+            "match": "Dortmund vs Eintracht Frankfurt",
+            "time": "17:30",
+            "GG": "1.49",
+            "NG": "2.65"
+        },
+        {
+            "match": "Mainz vs RB Leipzig",
+            "time": "14:30",
+            "GG": "1.69",
+            "NG": "2.15"
+        },
+        {
+            "match": "Cologne vs Hertha Berlin",
+            "time": "16:30",
+            "GG": "1.77",
+            "NG": "2.05"
+        },
+        {
+            "match": "RB Leipzig vs Stuttgart",
+            "time": "19:30",
+            "GG": "1.72",
+            "NG": "2.15"
+        },
+        {
+            "match": "Eintracht Frankfurt vs Augsburg",
+            "time": "14:30",
+            "GG": "1.61",
+            "NG": "2.35"
+        },
+        {
+            "match": "Greuther Furth vs Arminia Bielefeld",
+            "time": "14:30",
+            "GG": "1.73",
+            "NG": "2.10"
+        },
+        {
+            "match": "Hertha Berlin vs Wolfsburg",
+            "time": "14:30",
+            "GG": "1.66",
+            "NG": "2.25"
+        },
+        {
+            "match": "SC Freiburg vs Dortmund",
+            "time": "14:30",
+            "GG": "1.61",
+            "NG": "2.35"
+        },
+        {
+            "match": "VfL Bochum vs Mainz",
+            "time": "14:30",
+            "GG": "1.51",
+            "NG": "2.60"
+        },
+        {
+            "match": "Bayer Leverkusen vs Borussia M'gladbach",
+            "time": "17:30",
+            "GG": "1.62",
+            "NG": "2.30"
+        },
+        {
+            "match": "TSG Hoffenheim vs Union Berlin",
+            "time": "14:30",
+            "GG": "1.65",
+            "NG": "2.25"
+        },
+        {
+            "match": "Bayern Munich vs Cologne",
+            "time": "16:30",
+            "GG": "2.25",
+            "NG": "1.65"
+        }
+    ],
+    "Hungary": [
+        {
+            "match": "1 FC Sand vs Bayern Hof",
+            "time": "17:30",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "DJK Ammerthal vs DJK Gebenbach",
+            "time": "17:30",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "FC Deisenhofen vs TSV 1860 Munich II",
+            "time": "17:30",
+            "GG": "1.47",
+            "NG": "2.45"
+        },
+        {
+            "match": "FC Ingolstadt II vs TSV Landsberg am Lech",
+            "time": "17:30",
+            "GG": "1.47",
+            "NG": "2.45"
+        },
+        {
+            "match": "Schwaben Augsburg vs SV Kirchanschoring",
+            "time": "17:30",
+            "GG": "1.55",
+            "NG": "2.25"
+        },
+        {
+            "match": "SV Donaustauf vs FC Gundelfingen",
+            "time": "17:30",
+            "GG": "1.56",
+            "NG": "2.25"
+        },
+        {
+            "match": "TSV Schwabmunchen vs SV Pullach",
+            "time": "17:30",
+            "GG": "1.37",
+            "NG": "2.80"
+        },
+        {
+            "match": "Turkspor Augsburg vs TSV 1874 Kottern",
+            "time": "17:30",
+            "GG": "1.49",
+            "NG": "2.40"
+        },
+        {
+            "match": "TSV 1880 Wasserburg vs Hankofen-Hailing",
+            "time": "18:30",
+            "GG": "1.54",
+            "NG": "2.25"
+        },
+        {
+            "match": "VFB Hallbergmoos vs TSV Dachau",
+            "time": "18:30",
+            "GG": "1.44",
+            "NG": "2.50"
+        }
+    ],
+    "Iceland": [
+        {
+            "match": "Kisvarda FC vs Gyirmot FC Gyor",
+            "time": "19:00",
+            "GG": "1.71",
+            "NG": "1.97"
+        },
+        {
+            "match": "Mezokovesd Zsory SE vs Zalaegerszeg TE",
+            "time": "16:45",
+            "GG": "1.62",
+            "NG": "2.10"
+        },
+        {
+            "match": "MTK Budapest vs Budapest Honved FC",
+            "time": "19:00",
+            "GG": "1.66",
+            "NG": "2.05"
+        },
+        {
+            "match": "Debreceni VSC vs Ujpest FC Budapest",
+            "time": "16:45",
+            "GG": "1.50",
+            "NG": "2.35"
+        },
+        {
+            "match": "Puskas Akademia FC Felcsut vs Paksi FC",
+            "time": "19:00",
+            "GG": "1.52",
+            "NG": "2.30"
+        }
+    ],
+    "International": [
+        {
+            "match": "FH Hafnarfjordur vs HK Kopavogur",
+            "time": "20:15",
+            "GG": "1.68",
+            "NG": "2.00"
+        },
+        {
+            "match": "Stjarnan Gardabae vs IA Akranes",
+            "time": "20:15",
+            "GG": "1.53",
+            "NG": "2.30"
+        },
+        {
+            "match": "Valur Reykjavik vs KR Reykjavik",
+            "time": "20:15",
+            "GG": "1.58",
+            "NG": "2.20"
+        },
+        {
+            "match": "Fram Reykjavik vs Fjolnir",
+            "time": "20:15",
+            "GG": "1.43",
+            "NG": "2.55"
+        },
+        {
+            "match": "Grotta vs UMF Selfoss",
+            "time": "20:15",
+            "GG": "1.32",
+            "NG": "3.00"
+        },
+        {
+            "match": "Afturelding vs Thor Akureyri",
+            "time": "19:00",
+            "GG": "1.32",
+            "NG": "3.00"
+        },
+        {
+            "match": "UMF Grindavik vs IF Vestri",
+            "time": "19:00",
+            "GG": "1.46",
+            "NG": "2.50"
+        },
+        {
+            "match": "Throttur Reykjavik vs Kordrengir",
+            "time": "20:15",
+            "GG": "1.40",
+            "NG": "2.65"
+        },
+        {
+            "match": "Vikingur Olafsvik vs IBV Vestmannaeyjar",
+            "time": "15:00",
+            "GG": "1.76",
+            "NG": "1.91"
+        },
+        {
+            "match": "UMF Selfoss vs UMF Grindavik",
+            "time": "19:00",
+            "GG": "1.36",
+            "NG": "2.80"
+        },
+        {
+            "match": "Throttur Reykjavik vs Grotta",
+            "time": "20:15",
+            "GG": "1.39",
+            "NG": "2.70"
+        },
+        {
+            "match": "Kordrengir vs IBV Vestmannaeyjar",
+            "time": "17:00",
+            "GG": "1.47",
+            "NG": "2.45"
+        },
+        {
+            "match": "Thor Akureyri vs Vikingur Olafsvik",
+            "time": "17:00",
+            "GG": "1.42",
+            "NG": "2.60"
+        }
+    ],
+    "International Clubs": [
+        {
+            "match": "Australia vs USA",
+            "time": "09:00",
+            "GG": "1.75",
+            "NG": "2.00"
+        },
+        {
+            "match": "Sweden vs Canada",
+            "time": "03:00",
+            "GG": "2.25",
+            "NG": "1.59"
+        },
+        {
+            "match": "Mexico vs Japan",
+            "time": "12:00",
+            "GG": "1.70",
+            "NG": "2.10"
+        },
+        {
+            "match": "Brazil vs Spain",
+            "time": "12:30",
+            "GG": "2.05",
+            "NG": "1.71"
+        },
+        {
+            "match": "Italy vs Spain",
+            "time": "20:45",
+            "GG": "1.82",
+            "NG": "2.00"
+        },
+        {
+            "match": "Belgium vs France",
+            "time": "20:45",
+            "GG": "1.74",
+            "NG": "2.10"
+        }
+    ],
+    "Iran": [
+        {
+            "match": "Chelsea vs Villarreal",
+            "time": "20:00",
+            "GG": "2.00",
+            "NG": "1.82"
+        },
+        {
+            "match": "Sao Paulo FC SP vs SE Palmeiras SP",
+            "time": "01:30",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "Club Olimpia vs CR Flamengo RJ",
+            "time": "23:15",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "CA River Plate (ARG) vs Atletico Mineiro MG",
+            "time": "01:30",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "FK Spartak Moscow vs Benfica",
+            "time": "18:00",
+            "GG": "1.77",
+            "NG": "2.05"
+        },
+        {
+            "match": "Ferencvarosi Budapest vs Slavia Prague",
+            "time": "19:00",
+            "GG": "1.92",
+            "NG": "1.89"
+        },
+        {
+            "match": "GNK Dinamo Zagreb vs Legia Warszawa",
+            "time": "19:00",
+            "GG": "2.25",
+            "NG": "1.66"
+        },
+        {
+            "match": "Monaco vs Sparta Prague",
+            "time": "19:00",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "FC Kairat Almaty vs FC Alashkert Yerevan",
+            "time": "15:00",
+            "GG": "2.10",
+            "NG": "1.69"
+        },
+        {
+            "match": "FK Jablonec vs Celtic",
+            "time": "16:45",
+            "GG": "1.86",
+            "NG": "1.87"
+        },
+        {
+            "match": "AC Omonia Nicosia vs Flora Tallinn",
+            "time": "17:00",
+            "GG": "2.20",
+            "NG": "1.63"
+        },
+        {
+            "match": "Lincoln Red Imps vs Slovan Bratislava",
+            "time": "17:00",
+            "GG": "1.98",
+            "NG": "1.77"
+        },
+        {
+            "match": "Galatasaray Istanbul vs St Johnstone FC",
+            "time": "19:00",
+            "GG": "2.20",
+            "NG": "1.64"
+        },
+        {
+            "match": "Mura Murska Sobota vs Vilnius FK Zalgiris",
+            "time": "19:00",
+            "GG": "1.89",
+            "NG": "1.85"
+        },
+        {
+            "match": "SK Rapid Wien vs Anorthosis Famagusta",
+            "time": "19:30",
+            "GG": "1.89",
+            "NG": "1.85"
+        },
+        {
+            "match": "Kuopion Palloseura vs FC Astana",
+            "time": "17:00",
+            "GG": "1.87",
+            "NG": "1.80"
+        },
+        {
+            "match": "PFC Lokomotiv Plovdiv vs Copenhagen",
+            "time": "17:00",
+            "GG": "1.97",
+            "NG": "1.72"
+        },
+        {
+            "match": "PFK Sochi vs FK Partizan Belgrade",
+            "time": "17:00",
+            "GG": "1.66",
+            "NG": "2.05"
+        },
+        {
+            "match": "Tobol Kostanay vs MSK Zilina",
+            "time": "17:00",
+            "GG": "1.68",
+            "NG": "2.05"
+        },
+        {
+            "match": "IF Elfsborg vs FK Velez Mostar",
+            "time": "17:45",
+            "GG": "2.10",
+            "NG": "1.64"
+        },
+        {
+            "match": "AEL Limassol vs Qarabag FK",
+            "time": "18:00",
+            "GG": "1.87",
+            "NG": "1.80"
+        },
+        {
+            "match": "FC Dinamo Batumi vs Sivasspor",
+            "time": "18:00",
+            "GG": "1.80",
+            "NG": "1.87"
+        },
+        {
+            "match": "FK Vojvodina Novi Sad vs LASK",
+            "time": "18:00",
+            "GG": "1.95",
+            "NG": "1.73"
+        },
+        {
+            "match": "KF Laci vs RSC Anderlecht",
+            "time": "18:00",
+            "GG": "1.77",
+            "NG": "1.91"
+        },
+        {
+            "match": "Maccabi Haifa FC vs HB Torshavn",
+            "time": "18:00",
+            "GG": "2.65",
+            "NG": "1.41"
+        },
+        {
+            "match": "PFC CSKA Sofia vs NK Osijek",
+            "time": "18:00",
+            "GG": "1.91",
+            "NG": "1.77"
+        },
+        {
+            "match": "Riga FC vs Hibernians FC Paola",
+            "time": "18:00",
+            "GG": "1.91",
+            "NG": "1.77"
+        },
+        {
+            "match": "Rosenborg BK vs NK Domzale",
+            "time": "18:00",
+            "GG": "1.93",
+            "NG": "1.75"
+        },
+        {
+            "match": "Vitesse Arnhem vs Dundalk FC",
+            "time": "18:00",
+            "GG": "2.15",
+            "NG": "1.61"
+        },
+        {
+            "match": "Trabzonspor vs Molde FK",
+            "time": "18:30",
+            "GG": "1.65",
+            "NG": "2.05"
+        },
+        {
+            "match": "FC Pacos Ferreira vs Larne FC",
+            "time": "19:00",
+            "GG": "2.45",
+            "NG": "1.47"
+        },
+        {
+            "match": "FC Prishtina vs Bodoe/Glimt",
+            "time": "19:00",
+            "GG": "1.72",
+            "NG": "1.97"
+        },
+        {
+            "match": "Kolos Kovalivka vs Shakhtar Karagandy",
+            "time": "19:00",
+            "GG": "2.00",
+            "NG": "1.68"
+        },
+        {
+            "match": "WKS Slask Wroclaw vs Hapoel Be`er Sheva FC",
+            "time": "19:00",
+            "GG": "1.82",
+            "NG": "1.85"
+        },
+        {
+            "match": "FC Spartak Trnava vs Maccabi Tel Aviv FC",
+            "time": "19:15",
+            "GG": "1.92",
+            "NG": "1.75"
+        },
+        {
+            "match": "FC Luzern vs Feyenoord Rotterdam",
+            "time": "19:30",
+            "GG": "1.64",
+            "NG": "2.10"
+        },
+        {
+            "match": "Gent vs FK Rigas Futbola Skola",
+            "time": "19:30",
+            "GG": "2.20",
+            "NG": "1.57"
+        },
+        {
+            "match": "Hibernian FC vs HNK Rijeka",
+            "time": "19:45",
+            "GG": "1.81",
+            "NG": "1.86"
+        },
+        {
+            "match": "The New Saints FC vs FC Viktoria Plzen",
+            "time": "19:45",
+            "GG": "1.70",
+            "NG": "2.00"
+        },
+        {
+            "match": "Breidablik Kopavogur vs Aberdeen FC",
+            "time": "20:00",
+            "GG": "1.62",
+            "NG": "2.10"
+        },
+        {
+            "match": "FK Cukaricki Belgrade vs Hammarby IF",
+            "time": "20:00",
+            "GG": "1.84",
+            "NG": "1.83"
+        },
+        {
+            "match": "RKS Rakow Czestochowa vs FK Rubin Kazan",
+            "time": "20:00",
+            "GG": "1.71",
+            "NG": "1.98"
+        },
+        {
+            "match": "Shamrock Rovers vs KF Teuta",
+            "time": "20:00",
+            "GG": "1.85",
+            "NG": "1.82"
+        },
+        {
+            "match": "Ujpest FC Budapest vs Basel",
+            "time": "20:00",
+            "GG": "1.76",
+            "NG": "1.92"
+        },
+        {
+            "match": "Santa Clara Azores vs Olimpija Ljubljana",
+            "time": "20:30",
+            "GG": "1.87",
+            "NG": "1.80"
+        },
+        {
+            "match": "CE Sabadell FC vs CE Europa",
+            "time": "09:00",
+            "GG": "1.88",
+            "NG": "1.80"
+        },
+        {
+            "match": "Belenenses Lisbon vs Roma",
+            "time": "11:00",
+            "GG": "1.96",
+            "NG": "1.73"
+        },
+        {
+            "match": "Wisla Krakow vs Napoli",
+            "time": "17:00",
+            "GG": "1.75",
+            "NG": "1.92"
+        },
+        {
+            "match": "Bergantinos CF vs RC Deportivo La Coruna",
+            "time": "18:00",
+            "GG": "1.79",
+            "NG": "1.88"
+        },
+        {
+            "match": "Leganes vs CF Fuenlabrada",
+            "time": "18:00",
+            "GG": "1.83",
+            "NG": "1.83"
+        },
+        {
+            "match": "Real Betis vs UD Almeria",
+            "time": "18:00",
+            "GG": "1.62",
+            "NG": "2.10"
+        },
+        {
+            "match": "Salzburg vs Barcelona",
+            "time": "18:00",
+            "GG": "1.48",
+            "NG": "2.55"
+        },
+        {
+            "match": "Cadiz CF vs Atletico Madrid",
+            "time": "19:00",
+            "GG": "1.75",
+            "NG": "1.92"
+        },
+        {
+            "match": "Southampton vs Levante",
+            "time": "19:00",
+            "GG": "1.65",
+            "NG": "2.05"
+        },
+        {
+            "match": "Valladolid vs Rayo Vallecano",
+            "time": "19:00",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "Ajax vs Leeds United",
+            "time": "19:15",
+            "GG": "1.48",
+            "NG": "2.40"
+        },
+        {
+            "match": "Valencia vs AC Milan",
+            "time": "19:30",
+            "GG": "1.56",
+            "NG": "2.35"
+        },
+        {
+            "match": "Chelsea vs Tottenham",
+            "time": "19:45",
+            "GG": "1.58",
+            "NG": "2.30"
+        },
+        {
+            "match": "Leicester vs Villarreal",
+            "time": "19:45",
+            "GG": "1.50",
+            "NG": "2.35"
+        },
+        {
+            "match": "FC Santa Lucia Cotzumalguapa vs Metropolitan FA San Juan",
+            "time": "01:00",
+            "GG": "2.60",
+            "NG": "1.46"
+        },
+        {
+            "match": "Diriangen FC Diriamba vs CD Marathon San Pedro Sula",
+            "time": "03:00",
+            "GG": "1.76",
+            "NG": "2.00"
+        },
+        {
+            "match": "As Samaritaine vs CD Universitario Penonome",
+            "time": "01:00",
+            "GG": "2.00",
+            "NG": "1.70"
+        }
+    ],
+    "Ireland": [
+        {
+            "match": "Esteghlal vs Gol Gohar Sirjan FC",
+            "time": "16:00",
+            "GG": "2.35",
+            "NG": "1.50"
+        },
+        {
+            "match": "Foolad Khuzestan FC vs Malavan Bandar Anzali FC",
+            "time": "17:30",
+            "GG": "2.65",
+            "NG": "1.40"
+        }
+    ],
+    "Israel": [
+        {
+            "match": "Bray Wanderers AFC vs Wexford FC",
+            "time": "19:30",
+            "GG": "2.05",
+            "NG": "1.67"
+        },
+        {
+            "match": "Galway United FC vs Cork City FC",
+            "time": "19:45",
+            "GG": "1.89",
+            "NG": "1.79"
+        },
+        {
+            "match": "Treaty United vs Cabinteely FC",
+            "time": "19:45",
+            "GG": "1.84",
+            "NG": "1.83"
+        },
+        {
+            "match": "University College Dublin vs Shelbourne FC",
+            "time": "19:45",
+            "GG": "1.63",
+            "NG": "2.10"
+        },
+        {
+            "match": "Cobh Ramblers vs Athlone Town AFC",
+            "time": "19:00",
+            "GG": "1.54",
+            "NG": "2.25"
+        },
+        {
+            "match": "Bray Wanderers AFC vs Treaty United",
+            "time": "19:30",
+            "GG": "2.00",
+            "NG": "1.69"
+        },
+        {
+            "match": "Cork City FC vs Cobh Ramblers",
+            "time": "19:45",
+            "GG": "1.97",
+            "NG": "1.72"
+        },
+        {
+            "match": "Galway United FC vs Shelbourne FC",
+            "time": "19:45",
+            "GG": "1.90",
+            "NG": "1.77"
+        },
+        {
+            "match": "University College Dublin vs Athlone Town AFC",
+            "time": "19:45",
+            "GG": "1.45",
+            "NG": "2.50"
+        },
+        {
+            "match": "Wexford FC vs Cabinteely FC",
+            "time": "20:00",
+            "GG": "1.78",
+            "NG": "1.90"
+        }
+    ],
+    "Italy": [
+        {
+            "match": "Maccabi Netanya FC vs Hapoel Jerusalem FC",
+            "time": "18:00",
+            "GG": "1.92",
+            "NG": "1.76"
+        },
+        {
+            "match": "Beitar Jerusalem FC vs Maccabi Petah Tikva FC",
+            "time": "18:30",
+            "GG": "1.96",
+            "NG": "1.72"
+        }
+    ],
+    "Japan": [
+        {
+            "match": "Inter Milan vs Genoa",
+            "time": "17:30",
+            "GG": "1.86",
+            "NG": "1.96"
+        },
+        {
+            "match": "Verona vs Sassuolo",
+            "time": "17:30",
+            "GG": "1.69",
+            "NG": "2.20"
+        },
+        {
+            "match": "Empoli vs Lazio",
+            "time": "19:45",
+            "GG": "1.69",
+            "NG": "2.20"
+        },
+        {
+            "match": "Torino vs Atalanta",
+            "time": "19:45",
+            "GG": "1.59",
+            "NG": "2.40"
+        },
+        {
+            "match": "Bologna vs US Salernitana",
+            "time": "17:30",
+            "GG": "1.83",
+            "NG": "1.99"
+        },
+        {
+            "match": "Udinese vs Juventus",
+            "time": "17:30",
+            "GG": "1.89",
+            "NG": "1.92"
+        },
+        {
+            "match": "Napoli vs Venezia FC",
+            "time": "19:45",
+            "GG": "1.79",
+            "NG": "2.05"
+        },
+        {
+            "match": "Roma vs Fiorentina",
+            "time": "19:45",
+            "GG": "1.64",
+            "NG": "2.30"
+        },
+        {
+            "match": "Cagliari vs Spezia Calcio",
+            "time": "17:30",
+            "GG": "1.71",
+            "NG": "2.15"
+        },
+        {
+            "match": "Sampdoria vs AC Milan",
+            "time": "19:45",
+            "GG": "1.76",
+            "NG": "2.05"
+        },
+        {
+            "match": "Frosinone vs Parma",
+            "time": "19:30",
+            "GG": "1.85",
+            "NG": "1.89"
+        },
+        {
+            "match": "Pordenone Calcio vs Perugia Calcio Spa",
+            "time": "17:00",
+            "GG": "1.87",
+            "NG": "1.87"
+        },
+        {
+            "match": "AS Cittadella vs LR Vicenza",
+            "time": "19:30",
+            "GG": "1.84",
+            "NG": "1.90"
+        },
+        {
+            "match": "Reggina 1914 vs AC Monza",
+            "time": "17:00",
+            "GG": "1.94",
+            "NG": "1.81"
+        },
+        {
+            "match": "Ternana Calcio vs Brescia",
+            "time": "17:00",
+            "GG": "1.71",
+            "NG": "2.05"
+        },
+        {
+            "match": "Benevento vs US Alessandria Calcio 1912",
+            "time": "19:30",
+            "GG": "1.84",
+            "NG": "1.90"
+        },
+        {
+            "match": "FC Crotone vs Como 1907",
+            "time": "19:30",
+            "GG": "1.86",
+            "NG": "1.88"
+        },
+        {
+            "match": "SC Pisa vs Spal",
+            "time": "19:30",
+            "GG": "1.79",
+            "NG": "1.96"
+        },
+        {
+            "match": "US Cremonese vs US Lecce",
+            "time": "19:30",
+            "GG": "1.71",
+            "NG": "2.05"
+        }
+    ],
+    "Jordan": [
+        {
+            "match": "Gamba Osaka vs Yokohama Marinos",
+            "time": "11:00",
+            "GG": "1.58",
+            "NG": "2.40"
+        },
+        {
+            "match": "Hokkaido Consadole Sapporo vs Urawa Red Diamonds",
+            "time": "07:00",
+            "GG": "1.76",
+            "NG": "2.05"
+        },
+        {
+            "match": "Shimizu S-Pulse vs Yokohama Marinos",
+            "time": "10:00",
+            "GG": "1.72",
+            "NG": "2.15"
+        },
+        {
+            "match": "Vissel Kobe vs Kashiwa Reysol",
+            "time": "10:00",
+            "GG": "1.82",
+            "NG": "1.99"
+        },
+        {
+            "match": "Yokohama FC vs Nagoya Grampus",
+            "time": "10:00",
+            "GG": "2.30",
+            "NG": "1.63"
+        },
+        {
+            "match": "Avispa Fukuoka vs Sanfrecce Hiroshima",
+            "time": "11:00",
+            "GG": "2.00",
+            "NG": "1.80"
+        },
+        {
+            "match": "Cerezo Osaka vs Vegalta Sendai",
+            "time": "11:00",
+            "GG": "1.99",
+            "NG": "1.83"
+        },
+        {
+            "match": "Oita Trinita vs Kawasaki Frontale",
+            "time": "11:00",
+            "GG": "2.15",
+            "NG": "1.71"
+        },
+        {
+            "match": "Sagan Tosu vs FC Tokyo",
+            "time": "11:00",
+            "GG": "2.05",
+            "NG": "1.79"
+        },
+        {
+            "match": "Shonan Bellmare vs Kashima Antlers",
+            "time": "11:00",
+            "GG": "1.96",
+            "NG": "1.86"
+        },
+        {
+            "match": "SC Sagamihara vs Tochigi SC",
+            "time": "09:00",
+            "GG": "2.20",
+            "NG": "1.59"
+        },
+        {
+            "match": "Niigata Albirex vs Omiya Ardija",
+            "time": "10:00",
+            "GG": "2.00",
+            "NG": "1.70"
+        },
+        {
+            "match": "Ventforet Kofu vs Jubilo Iwata",
+            "time": "10:00",
+            "GG": "1.87",
+            "NG": "1.80"
+        },
+        {
+            "match": "Blaublitz Akita vs Matsumoto Yamaga FC",
+            "time": "10:30",
+            "GG": "2.20",
+            "NG": "1.57"
+        },
+        {
+            "match": "Kyoto Sanga FC vs Machida Zelvia",
+            "time": "10:30",
+            "GG": "2.05",
+            "NG": "1.65"
+        },
+        {
+            "match": "Fagiano Okayama vs Renofa Yamaguchi",
+            "time": "11:00",
+            "GG": "1.95",
+            "NG": "1.73"
+        },
+        {
+            "match": "Giravanz Kitakyushu vs FC Ryukyu",
+            "time": "11:00",
+            "GG": "1.64",
+            "NG": "2.10"
+        },
+        {
+            "match": "Mito Hollyhock vs Tokyo Verdy",
+            "time": "11:00",
+            "GG": "1.63",
+            "NG": "2.10"
+        },
+        {
+            "match": "Montedio Yamagata vs JEF United Ichihara Chiba",
+            "time": "11:00",
+            "GG": "2.00",
+            "NG": "1.69"
+        },
+        {
+            "match": "Thespakusatsu vs Ehime FC",
+            "time": "11:00",
+            "GG": "1.89",
+            "NG": "1.78"
+        },
+        {
+            "match": "Zweigen Kanazawa vs V-Varen Nagasaki",
+            "time": "11:00",
+            "GG": "1.97",
+            "NG": "1.72"
+        },
+        {
+            "match": "Cerezo Osaka vs Niigata Albirex",
+            "time": "10:00",
+            "GG": "2.00",
+            "NG": "1.69"
+        }
+    ],
+    "Kenya": [
+        {
+            "match": "AL Salt vs Shabab AL Ordun",
+            "time": "16:00",
+            "GG": "2.25",
+            "NG": "1.54"
+        },
+        {
+            "match": "Al-Jalil vs AL Jazeera Club Amman",
+            "time": "18:30",
+            "GG": "2.10",
+            "NG": "1.62"
+        }
+    ],
+    "Latvia": [
+        {
+            "match": "Kariobangi Sharks vs Mathare United FC",
+            "time": "11:00",
+            "GG": "2.05",
+            "NG": "1.67"
+        },
+        {
+            "match": "Bandari FC vs Tusker Football Club",
+            "time": "13:00",
+            "GG": "3.10",
+            "NG": "1.30"
+        },
+        {
+            "match": "Western Stima FC vs Kenya Commercial Bank",
+            "time": "13:00",
+            "GG": "1.91",
+            "NG": "1.76"
+        },
+        {
+            "match": "Gor Mahia FC vs Kakamega Homeboyz",
+            "time": "13:15",
+            "GG": "2.05",
+            "NG": "1.65"
+        },
+        {
+            "match": "Sofapaka FC vs Nzoia Sugar FC",
+            "time": "13:15",
+            "GG": "1.80",
+            "NG": "1.87"
+        }
+    ],
+    "Lithuania": [
+        {
+            "match": "JDFS Alberts vs Rezeknes Fa/Bjss",
+            "time": "13:00",
+            "GG": "1.45",
+            "NG": "2.50"
+        },
+        {
+            "match": "FK Auda vs SK Super Nova",
+            "time": "16:00",
+            "GG": "1.63",
+            "NG": "2.10"
+        },
+        {
+            "match": "FK Tukums 2000/TSS vs Grobinas SC",
+            "time": "16:00",
+            "GG": "1.52",
+            "NG": "2.30"
+        },
+        {
+            "match": "FK Liepaja vs Valmiera FC",
+            "time": "16:00",
+            "GG": "1.82",
+            "NG": "1.85"
+        }
+    ],
+    "Malaysia": [
+        {
+            "match": "FC Dziugas Telsiai vs Kedainiai Nevezis",
+            "time": "16:00",
+            "GG": "1.82",
+            "NG": "1.85"
+        },
+        {
+            "match": "FK Kauno Zalgiris vs FK Riteriai",
+            "time": "18:00",
+            "GG": "1.74",
+            "NG": "1.94"
+        },
+        {
+            "match": "FC Hegelmann Litauen Kaunas vs Dfk Dainava Alytus",
+            "time": "15:00",
+            "GG": "1.72",
+            "NG": "1.96"
+        },
+        {
+            "match": "FK Suduva Marijampole vs FK Panevezys",
+            "time": "17:00",
+            "GG": "1.84",
+            "NG": "1.83"
+        },
+        {
+            "match": "FK Silas vs FK Panevezys B",
+            "time": "16:00",
+            "GG": "1.35",
+            "NG": "2.90"
+        },
+        {
+            "match": "FC Neptunas Klaipeda vs FK Jonava",
+            "time": "17:00",
+            "GG": "1.57",
+            "NG": "2.20"
+        },
+        {
+            "match": "FK Banga B vs FA Siauliai",
+            "time": "17:00",
+            "GG": "1.73",
+            "NG": "1.95"
+        }
+    ],
+    "Mexico": [
+        {
+            "match": "Kelantan United FC vs Selangor FC II",
+            "time": "09:45",
+            "GG": "1.54",
+            "NG": "2.25"
+        },
+        {
+            "match": "Perak FA II vs Johor Darul Takzim FC II",
+            "time": "14:00",
+            "GG": "1.60",
+            "NG": "2.15"
+        },
+        {
+            "match": "Projek Fam-msn vs Negeri Sembilan",
+            "time": "14:00",
+            "GG": "1.92",
+            "NG": "1.76"
+        },
+        {
+            "match": "Sabah FA vs Kuala Lumpur United FC",
+            "time": "13:15",
+            "GG": "1.65",
+            "NG": "2.05"
+        },
+        {
+            "match": "Petaling Jaya City FC vs Terengganu FC",
+            "time": "14:00",
+            "GG": "1.80",
+            "NG": "1.87"
+        }
+    ],
+    "Netherlands": [
+        {
+            "match": "Queretaro FC vs Club Leon",
+            "time": "03:00",
+            "GG": "1.73",
+            "NG": "2.05"
+        },
+        {
+            "match": "Mazatlan FC vs CF Monterrey",
+            "time": "01:00",
+            "GG": "1.81",
+            "NG": "1.94"
+        },
+        {
+            "match": "Necaxa vs Cruz Azul",
+            "time": "03:05",
+            "GG": "1.91",
+            "NG": "1.83"
+        },
+        {
+            "match": "Club Tijuana de Caliente vs Deportivo Toluca FC",
+            "time": "03:06",
+            "GG": "1.70",
+            "NG": "2.10"
+        },
+        {
+            "match": "Guadalajara Chivas vs FC Juarez",
+            "time": "23:00",
+            "GG": "1.99",
+            "NG": "1.76"
+        },
+        {
+            "match": "CF America vs Puebla FC",
+            "time": "01:00",
+            "GG": "2.00",
+            "NG": "1.74"
+        },
+        {
+            "match": "Tigres UANL vs Club Santos Laguna",
+            "time": "03:00",
+            "GG": "1.93",
+            "NG": "1.81"
+        },
+        {
+            "match": "Pumas UNAM vs Atletico San Luis",
+            "time": "18:00",
+            "GG": "1.91",
+            "NG": "1.83"
+        },
+        {
+            "match": "CF Pachuca vs Atlas FC",
+            "time": "03:00",
+            "GG": "1.97",
+            "NG": "1.78"
+        },
+        {
+            "match": "Atletico San Luis vs Necaxa",
+            "time": "03:00",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "Puebla FC vs Tigres UANL",
+            "time": "01:00",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "FC Juarez vs Club Tijuana de Caliente",
+            "time": "03:00",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "Pumas UNAM vs Queretaro FC",
+            "time": "23:00",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "Club Leon vs Mazatlan FC",
+            "time": "01:00",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "Cruz Azul vs Deportivo Toluca FC",
+            "time": "03:00",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "CF Monterrey vs CF Pachuca",
+            "time": "03:06",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "Atlas FC vs CF America",
+            "time": "23:00",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "Club Santos Laguna vs Guadalajara Chivas",
+            "time": "01:00",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "CSD Dorados Sinaloa vs Atletico Morelia",
+            "time": "03:05",
+            "GG": "1.74",
+            "NG": "2.00"
+        },
+        {
+            "match": "CD Mineros de Zacatecas vs Leones Negros UDEG",
+            "time": "23:00",
+            "GG": "1.73",
+            "NG": "1.95"
+        },
+        {
+            "match": "Venados  FC vs Tlaxcala FC",
+            "time": "01:05",
+            "GG": "1.89",
+            "NG": "1.78"
+        },
+        {
+            "match": "CF Correcaminos UAT vs Tepatitlan FC",
+            "time": "03:05",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "CD Tapatio vs Pumas de Tabasco",
+            "time": "01:00",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "Atlante FC vs Raya2 Expansion",
+            "time": "23:00",
+            "GG": 0,
+            "NG": 0
+        }
+    ],
+    "Norway": [
+        {
+            "match": "FC Den Bosch vs Helmond Sport",
+            "time": "19:00",
+            "GG": "1.51",
+            "NG": "2.45"
+        },
+        {
+            "match": "FC Dordrecht vs Jong PSV Eindhoven",
+            "time": "19:00",
+            "GG": "1.41",
+            "NG": "2.75"
+        },
+        {
+            "match": "FC Eindhoven vs FC Volendam",
+            "time": "19:00",
+            "GG": "1.53",
+            "NG": "2.40"
+        },
+        {
+            "match": "SBV Excelsior vs TOP Oss",
+            "time": "19:00",
+            "GG": "1.58",
+            "NG": "2.30"
+        },
+        {
+            "match": "SC Telstar vs FC Emmen",
+            "time": "19:00",
+            "GG": "1.52",
+            "NG": "2.40"
+        },
+        {
+            "match": "De Graafschap vs Roda JC Kerkrade",
+            "time": "15:30",
+            "GG": "1.56",
+            "NG": "2.35"
+        },
+        {
+            "match": "ADO Den Haag vs Jong Ajax Amsterdam",
+            "time": "11:15",
+            "GG": "1.39",
+            "NG": "2.85"
+        },
+        {
+            "match": "VVV Venlo vs NAC Breda",
+            "time": "13:30",
+            "GG": "1.59",
+            "NG": "2.25"
+        },
+        {
+            "match": "Jong AZ Alkmaar vs Almere City FC",
+            "time": "19:00",
+            "GG": "1.47",
+            "NG": "2.60"
+        },
+        {
+            "match": "Jong FC Utrecht vs MVV Maastricht",
+            "time": "19:00",
+            "GG": "1.54",
+            "NG": "2.40"
+        },
+        {
+            "match": "Go Ahead Eagles vs SC Heerenveen",
+            "time": "19:00",
+            "GG": "1.59",
+            "NG": "2.35"
+        },
+        {
+            "match": "RKC Waalwijk vs Alkmaar",
+            "time": "15:30",
+            "GG": "1.68",
+            "NG": "2.20"
+        },
+        {
+            "match": "Heracles Almelo vs PSV Eindhoven",
+            "time": "17:45",
+            "GG": "1.60",
+            "NG": "2.35"
+        },
+        {
+            "match": "Fortuna Sittard vs FC Twente Enschede",
+            "time": "19:00",
+            "GG": "1.65",
+            "NG": "2.25"
+        },
+        {
+            "match": "Ajax vs NEC Nijmegen",
+            "time": "20:00",
+            "GG": "2.25",
+            "NG": "1.65"
+        },
+        {
+            "match": "SC Cambuur vs FC Groningen",
+            "time": "11:15",
+            "GG": "1.59",
+            "NG": "2.35"
+        },
+        {
+            "match": "FC Utrecht vs Sparta Rotterdam",
+            "time": "13:30",
+            "GG": "1.67",
+            "NG": "2.20"
+        },
+        {
+            "match": "PEC Zwolle vs Vitesse Arnhem",
+            "time": "13:30",
+            "GG": "1.70",
+            "NG": "2.15"
+        },
+        {
+            "match": "Willem II Tilburg vs Feyenoord Rotterdam",
+            "time": "15:45",
+            "GG": "1.53",
+            "NG": "2.50"
+        }
+    ],
+    "Peru": [
+        {
+            "match": "Brattvag vs Kvik Halden FK",
+            "time": "13:00",
+            "GG": "1.45",
+            "NG": "2.50"
+        },
+        {
+            "match": "Tromsdalen UIL vs Moss FK",
+            "time": "14:00",
+            "GG": "1.48",
+            "NG": "2.40"
+        },
+        {
+            "match": "Baerum SK vs Asker Fotball",
+            "time": "17:00",
+            "GG": "1.43",
+            "NG": "2.55"
+        },
+        {
+            "match": "Kongsvinger IL Fotball vs Hodd",
+            "time": "17:00",
+            "GG": "1.49",
+            "NG": "2.40"
+        },
+        {
+            "match": "Eidsvold TF vs Alta IF",
+            "time": "18:00",
+            "GG": "1.40",
+            "NG": "2.65"
+        },
+        {
+            "match": "IF Floeya vs FK Senja",
+            "time": "18:00",
+            "GG": "1.37",
+            "NG": "2.80"
+        },
+        {
+            "match": "Mjondalen IF vs Tromsoe IL",
+            "time": "17:00",
+            "GG": "1.89",
+            "NG": "1.92"
+        },
+        {
+            "match": "Molde FK vs FK Haugesund",
+            "time": "17:00",
+            "GG": "1.72",
+            "NG": "2.15"
+        },
+        {
+            "match": "Sandefjord Fotball vs Lillestrom SK",
+            "time": "17:00",
+            "GG": "1.74",
+            "NG": "2.10"
+        },
+        {
+            "match": "Viking FK vs Kristiansund BK",
+            "time": "17:00",
+            "GG": "1.52",
+            "NG": "2.55"
+        },
+        {
+            "match": "Stabaek IF vs Sarpsborg 08",
+            "time": "19:00",
+            "GG": "1.87",
+            "NG": "1.94"
+        },
+        {
+            "match": "Kristiansund BK vs Stabaek IF",
+            "time": "17:00",
+            "GG": "1.83",
+            "NG": "1.99"
+        },
+        {
+            "match": "Lillestrom SK vs Bodoe/Glimt",
+            "time": "19:00",
+            "GG": "1.74",
+            "NG": "2.10"
+        },
+        {
+            "match": "Mjondalen IF vs Rosenborg BK",
+            "time": "17:00",
+            "GG": "1.90",
+            "NG": "1.91"
+        },
+        {
+            "match": "Odds BK vs FK Haugesund",
+            "time": "17:00",
+            "GG": "1.64",
+            "NG": "2.25"
+        },
+        {
+            "match": "SK Brann vs Sandefjord Fotball",
+            "time": "17:00",
+            "GG": "1.86",
+            "NG": "1.96"
+        },
+        {
+            "match": "Tromsoe IL vs Valerenga IF Oslo",
+            "time": "17:00",
+            "GG": "1.75",
+            "NG": "2.10"
+        },
+        {
+            "match": "Viking FK vs Molde FK",
+            "time": "17:00",
+            "GG": "1.47",
+            "NG": "2.70"
+        },
+        {
+            "match": "Sarpsborg 08 vs Stroemsgodset IF",
+            "time": "19:00",
+            "GG": "1.87",
+            "NG": "1.95"
+        },
+        {
+            "match": "Bryne FK vs Staal Joerpeland Il",
+            "time": "17:00",
+            "GG": "1.58",
+            "NG": "2.20"
+        },
+        {
+            "match": "FK Eik Tonsberg vs FL Fart",
+            "time": "17:00",
+            "GG": "1.65",
+            "NG": "2.05"
+        },
+        {
+            "match": "FK Fyllingsdalen vs Stord",
+            "time": "17:00",
+            "GG": "1.29",
+            "NG": "3.20"
+        },
+        {
+            "match": "Frigg Oslo FK vs Grei Kvinner Elite FK",
+            "time": "17:00",
+            "GG": "1.77",
+            "NG": "1.90"
+        },
+        {
+            "match": "Hoeybr/stovner Il vs Roea",
+            "time": "17:00",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "Kaupanger vs Asane Fotball Damer",
+            "time": "17:00",
+            "GG": "1.69",
+            "NG": "2.00"
+        },
+        {
+            "match": "Raufoss IL vs Kongsvinger IL Fotball",
+            "time": "17:00",
+            "GG": "1.43",
+            "NG": "2.55"
+        },
+        {
+            "match": "Viking Fk vs Haugar FK",
+            "time": "17:00",
+            "GG": "1.59",
+            "NG": "2.15"
+        },
+        {
+            "match": "IK Gimletroll vs Amazon Grimstad FK",
+            "time": "18:00",
+            "GG": "1.92",
+            "NG": "1.76"
+        },
+        {
+            "match": "Sarpsborg 08 FF vs Ullensaker/kisa",
+            "time": "18:00",
+            "GG": "1.38",
+            "NG": "2.75"
+        },
+        {
+            "match": "Aalesunds FK vs Ranheim",
+            "time": "17:00",
+            "GG": "1.67",
+            "NG": "2.15"
+        },
+        {
+            "match": "Aasane Fotball vs Grorud IL",
+            "time": "17:00",
+            "GG": "1.53",
+            "NG": "2.40"
+        },
+        {
+            "match": "FK Jerv vs Hamarkameratene",
+            "time": "17:00",
+            "GG": "1.49",
+            "NG": "2.50"
+        },
+        {
+            "match": "Sandnes Ulf vs Stroemmen IF",
+            "time": "17:00",
+            "GG": "1.68",
+            "NG": "2.10"
+        },
+        {
+            "match": "Sogndal IL vs KFUM Oslo",
+            "time": "17:00",
+            "GG": "1.61",
+            "NG": "2.25"
+        },
+        {
+            "match": "Stjordals-Blink vs Raufoss IL",
+            "time": "17:00",
+            "GG": "1.52",
+            "NG": "2.40"
+        },
+        {
+            "match": "Ullensaker/Kisa vs Bryne FK",
+            "time": "17:00",
+            "GG": "1.54",
+            "NG": "2.40"
+        },
+        {
+            "match": "Fredrikstad FK vs IK Start",
+            "time": "19:00",
+            "GG": "1.52",
+            "NG": "2.45"
+        },
+        {
+            "match": "Levanger FK vs Odds BK 2",
+            "time": "15:00",
+            "GG": "1.69",
+            "NG": "2.00"
+        },
+        {
+            "match": "Nardo FK vs Fram Larvik",
+            "time": "15:00",
+            "GG": "1.44",
+            "NG": "2.50"
+        },
+        {
+            "match": "Sotra SK vs Arendal FK",
+            "time": "15:00",
+            "GG": "1.53",
+            "NG": "2.30"
+        },
+        {
+            "match": "Oeygarden FK vs Vard Haugesund",
+            "time": "18:00",
+            "GG": "1.41",
+            "NG": "2.60"
+        }
+    ],
+    "Poland": [
+        {
+            "match": "Sporting Cristal vs Universitario de Deportes",
+            "time": "01:30",
+            "GG": "1.85",
+            "NG": "1.89"
+        },
+        {
+            "match": "Alianza Atletico vs Em Deportivo Binacional",
+            "time": "18:00",
+            "GG": "1.74",
+            "NG": "1.95"
+        },
+        {
+            "match": "FBC Melgar vs Cusco FC",
+            "time": "20:30",
+            "GG": "1.57",
+            "NG": "2.20"
+        },
+        {
+            "match": "Alianza Universidad de Huanuco vs Sport Boys Association",
+            "time": "23:00",
+            "GG": "1.74",
+            "NG": "1.94"
+        },
+        {
+            "match": "Alianza Lima vs AD Cantolao",
+            "time": "01:30",
+            "GG": "1.86",
+            "NG": "1.81"
+        }
+    ],
+    "Portugal": [
+        {
+            "match": "CWKS Resovia vs GKS Tychy",
+            "time": "17:00",
+            "GG": "1.72",
+            "NG": "1.97"
+        },
+        {
+            "match": "Podbeskidzie Bielsko-Bia\u0142a vs Odra Opole",
+            "time": "19:30",
+            "GG": "1.87",
+            "NG": "1.80"
+        },
+        {
+            "match": "Miedz Legnica vs GKS Katowice",
+            "time": "11:40",
+            "GG": "1.73",
+            "NG": "1.96"
+        },
+        {
+            "match": "KS Gornik Polkowice vs Sandecja Nowy Sacz",
+            "time": "17:00",
+            "GG": "1.72",
+            "NG": "1.97"
+        },
+        {
+            "match": "MKS Arka Gdynia vs Chrobry Glogow",
+            "time": "19:30",
+            "GG": "1.91",
+            "NG": "1.77"
+        },
+        {
+            "match": "Zaglebie Sosnowiec vs Widzew Lodz",
+            "time": "11:40",
+            "GG": "1.72",
+            "NG": "1.97"
+        },
+        {
+            "match": "GKS Jastrzebie vs Stomil Olsztyn",
+            "time": "14:00",
+            "GG": "1.89",
+            "NG": "1.78"
+        },
+        {
+            "match": "LKS Lodz vs SKRA Czestochowa",
+            "time": "17:00",
+            "GG": "1.92",
+            "NG": "1.76"
+        },
+        {
+            "match": "Korona Kielce vs Puszcza Niepolomice",
+            "time": "17:00",
+            "GG": "1.88",
+            "NG": "1.80"
+        }
+    ],
+    "Republic of Korea": [
+        {
+            "match": "Academico de Viseu FC vs Casa Pia Lisbon",
+            "time": "10:45",
+            "GG": "1.87",
+            "NG": "1.80"
+        },
+        {
+            "match": "Varzim SC vs GD Chaves",
+            "time": "14:00",
+            "GG": "1.87",
+            "NG": "1.80"
+        },
+        {
+            "match": "FC Porto B vs CD Trofense",
+            "time": "18:00",
+            "GG": "1.96",
+            "NG": "1.72"
+        },
+        {
+            "match": "CD Feirense vs SC Covilha",
+            "time": "19:30",
+            "GG": "2.05",
+            "NG": "1.66"
+        },
+        {
+            "match": "Estrela Amadora vs CD Mafra",
+            "time": "11:00",
+            "GG": "1.77",
+            "NG": "1.91"
+        },
+        {
+            "match": "Rio Ave FC vs Academica de Coimbra",
+            "time": "14:00",
+            "GG": "1.94",
+            "NG": "1.74"
+        },
+        {
+            "match": "Sl Benfica B vs CD Nacional Madeira",
+            "time": "18:00",
+            "GG": "1.65",
+            "NG": "2.05"
+        },
+        {
+            "match": "UD Vilafranquense vs FC Penafiel",
+            "time": "18:00",
+            "GG": "1.91",
+            "NG": "1.77"
+        },
+        {
+            "match": "Leixoes SC vs SC Farense",
+            "time": "18:00",
+            "GG": "1.81",
+            "NG": "1.86"
+        },
+        {
+            "match": "Sporting vs FC Vizela",
+            "time": "20:15",
+            "GG": "2.25",
+            "NG": "1.64"
+        },
+        {
+            "match": "FC Arouca vs Estoril Praia",
+            "time": "12:45",
+            "GG": "2.00",
+            "NG": "1.80"
+        },
+        {
+            "match": "Moreirense FC vs Benfica",
+            "time": "18:00",
+            "GG": "1.89",
+            "NG": "1.92"
+        },
+        {
+            "match": "Maritimo Madeira vs Braga",
+            "time": "20:30",
+            "GG": "1.81",
+            "NG": "2.00"
+        },
+        {
+            "match": "CD Tondela vs Santa Clara Azores",
+            "time": "15:30",
+            "GG": "1.89",
+            "NG": "1.92"
+        },
+        {
+            "match": "Vitoria Guimarares vs Portimonense SC",
+            "time": "15:30",
+            "GG": "1.98",
+            "NG": "1.83"
+        },
+        {
+            "match": "FC Porto vs Belenenses Lisbon",
+            "time": "18:00",
+            "GG": "2.10",
+            "NG": "1.75"
+        },
+        {
+            "match": "FC Pacos Ferreira vs FC Famalicao",
+            "time": "20:30",
+            "GG": "1.99",
+            "NG": "1.83"
+        },
+        {
+            "match": "Gil Vicente Barcelos vs Boavista Porto",
+            "time": "20:15",
+            "GG": "2.10",
+            "NG": "1.73"
+        }
+    ],
+    "Romania": [
+        {
+            "match": "Ulsan Hyundai FC vs Daegu FC",
+            "time": "11:00",
+            "GG": "1.90",
+            "NG": "1.91"
+        },
+        {
+            "match": "Pohang Steelers FC vs Seongnam Ilhwa",
+            "time": "11:30",
+            "GG": "2.05",
+            "NG": "1.78"
+        },
+        {
+            "match": "Suwon FC vs Jeonbuk Hyundai Motors",
+            "time": "11:30",
+            "GG": "1.76",
+            "NG": "2.10"
+        },
+        {
+            "match": "Jeonbuk Hyundai Motors vs Daegu FC",
+            "time": "11:00",
+            "GG": "2.00",
+            "NG": "1.82"
+        },
+        {
+            "match": "Seongnam Ilhwa vs Pohang Steelers FC",
+            "time": "12:00",
+            "GG": "1.99",
+            "NG": "1.83"
+        },
+        {
+            "match": "Suwon Bluewings vs Jeju United FC",
+            "time": "12:00",
+            "GG": "1.89",
+            "NG": "1.92"
+        },
+        {
+            "match": "Ulsan Hyundai FC vs Gangwon FC",
+            "time": "12:00",
+            "GG": "2.05",
+            "NG": "1.79"
+        },
+        {
+            "match": "FC Seoul vs Gwangju FC",
+            "time": "12:00",
+            "GG": "1.90",
+            "NG": "1.91"
+        },
+        {
+            "match": "Incheon United FC vs Suwon FC",
+            "time": "12:00",
+            "GG": "1.72",
+            "NG": "2.15"
+        },
+        {
+            "match": "FC Seoul vs Jeju United FC",
+            "time": "11:30",
+            "GG": "2.10",
+            "NG": "1.75"
+        }
+    ],
+    "Russia": [
+        {
+            "match": "FC Botosani vs FC Uta Arad",
+            "time": "16:30",
+            "GG": "1.92",
+            "NG": "1.76"
+        },
+        {
+            "match": "CS Mioveni vs CFR Cluj",
+            "time": "19:30",
+            "GG": "2.30",
+            "NG": "1.53"
+        },
+        {
+            "match": "FC Academica Clinceni vs FC U Craiova 1948",
+            "time": "16:30",
+            "GG": "1.90",
+            "NG": "1.77"
+        },
+        {
+            "match": "ACS Champions FC Arges vs Rapid Bucuresti 1923",
+            "time": "19:30",
+            "GG": "2.10",
+            "NG": "1.63"
+        },
+        {
+            "match": "AFC Chindia Targoviste vs FC Dinamo Bucuresti 1948",
+            "time": "17:00",
+            "GG": "2.05",
+            "NG": "1.66"
+        },
+        {
+            "match": "Fotbal Club FCSB vs CS Gaz Metan Medias",
+            "time": "20:00",
+            "GG": "2.30",
+            "NG": "1.53"
+        },
+        {
+            "match": "FC Farul Constanta vs ACS Sepsi OSK Sfantu Gheorghe",
+            "time": "16:30",
+            "GG": "2.10",
+            "NG": "1.61"
+        },
+        {
+            "match": "CS Universitatea Craiova 1948 vs FC Voluntari",
+            "time": "19:30",
+            "GG": "2.00",
+            "NG": "1.69"
+        },
+        {
+            "match": "Csa Steaua Bucuresti vs FK Csikszereda Miercurea Ciuc",
+            "time": "18:30",
+            "GG": "1.91",
+            "NG": "1.76"
+        },
+        {
+            "match": "Afc Unirea Constanta vs AFC Hermannstadt",
+            "time": "15:30",
+            "GG": "2.00",
+            "NG": "1.69"
+        },
+        {
+            "match": "Acs Dacia Unirea Braila vs FC Brasov Steagul Renaste",
+            "time": "09:00",
+            "GG": "1.69",
+            "NG": "2.00"
+        },
+        {
+            "match": "CSM Politehnica Iasi vs CS Concordia Chiajna",
+            "time": "09:00",
+            "GG": "1.84",
+            "NG": "1.83"
+        },
+        {
+            "match": "FC Unirea 2004 Slobozia vs CSC 1599 Selimbar",
+            "time": "09:00",
+            "GG": "1.91",
+            "NG": "1.76"
+        },
+        {
+            "match": "Ripensia Timisoara vs FC Unirea Dej",
+            "time": "09:00",
+            "GG": "1.94",
+            "NG": "1.74"
+        },
+        {
+            "match": "Metaloglobus Bucuresti vs FC Petrolul Ploiesti",
+            "time": "11:00",
+            "GG": "1.95",
+            "NG": "1.73"
+        },
+        {
+            "match": "FC Buzau vs FC Universitatea Cluj",
+            "time": "10:00",
+            "GG": "1.85",
+            "NG": "1.82"
+        }
+    ],
+    "Scotland": [
+        {
+            "match": "FC Orenburg-2 vs FC Dynamo Barnaul",
+            "time": "15:00",
+            "GG": "1.62",
+            "NG": "2.10"
+        },
+        {
+            "match": "FK Ufa vs Lokomotiv Moscow",
+            "time": "15:00",
+            "GG": "2.05",
+            "NG": "1.77"
+        },
+        {
+            "match": "FK Zenit Saint Petersburg vs FK Krasnodar",
+            "time": "15:00",
+            "GG": "1.69",
+            "NG": "2.20"
+        },
+        {
+            "match": "PFK Arsenal Tula vs PFK Krylia Sovetov Samara",
+            "time": "15:30",
+            "GG": "1.94",
+            "NG": "1.87"
+        },
+        {
+            "match": "FK Spartak Moscow vs FK Nizhny Novgorod",
+            "time": "18:00",
+            "GG": "2.00",
+            "NG": "1.81"
+        },
+        {
+            "match": "FK Khimki vs FK Rostov",
+            "time": "15:30",
+            "GG": "1.82",
+            "NG": "1.99"
+        },
+        {
+            "match": "FK Dinamo Moscow vs CSKA Moscow",
+            "time": "18:00",
+            "GG": "1.78",
+            "NG": "2.05"
+        },
+        {
+            "match": "FK Rubin Kazan vs RFK Akhmat Grozny",
+            "time": "18:00",
+            "GG": "1.93",
+            "NG": "1.88"
+        },
+        {
+            "match": "PFK Sochi vs FK Ural Yekaterinburg",
+            "time": "17:00",
+            "GG": "1.95",
+            "NG": "1.86"
+        },
+        {
+            "match": "FK Nizhny Novgorod vs FK Ufa",
+            "time": "15:30",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "FK Spartak Moscow vs FK Ural Yekaterinburg",
+            "time": "15:30",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "FK Rostov vs CSKA Moscow",
+            "time": "18:15",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "RFK Akhmat Grozny vs FK Dinamo Moscow",
+            "time": "18:15",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "FK Rubin Kazan vs PFK Krylia Sovetov Samara",
+            "time": "15:30",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "Lokomotiv Moscow vs FK Zenit Saint Petersburg",
+            "time": "15:30",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "FK Krasnodar vs PFK Arsenal Tula",
+            "time": "18:15",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "PFK Sochi vs FK Khimki",
+            "time": "17:15",
+            "GG": 0,
+            "NG": 0
+        },
+        {
+            "match": "FC Yenisey Krasnoyarsk vs FK Akron Tolyatti",
+            "time": "13:00",
+            "GG": "1.97",
+            "NG": "1.72"
+        },
+        {
+            "match": "FC Metallurg Lipetsk vs FC Tekstilshchik Ivanovo",
+            "time": "15:00",
+            "GG": "1.93",
+            "NG": "1.75"
+        },
+        {
+            "match": "Fc Kamaz Naberezhnye Chelny vs FC Neftekhimik Nizhnekamsk",
+            "time": "16:00",
+            "GG": "1.90",
+            "NG": "1.77"
+        },
+        {
+            "match": "FC Volgar Astrakhan vs PFC Kuban Krasnodar",
+            "time": "16:00",
+            "GG": "1.84",
+            "NG": "1.83"
+        },
+        {
+            "match": "FK Veles Moscow vs FC Tom Tomsk",
+            "time": "16:00",
+            "GG": "2.15",
+            "NG": "1.60"
+        },
+        {
+            "match": "FC Fakel Voronezh vs FC Olimp Dolgoprudny",
+            "time": "17:00",
+            "GG": "2.10",
+            "NG": "1.64"
+        },
+        {
+            "match": "Torpedo Moscow vs FC Ska-Khabarovsk",
+            "time": "17:00",
+            "GG": "1.87",
+            "NG": "1.80"
+        },
+        {
+            "match": "FK Ryazan vs Sakhalin Sakhalinsk",
+            "time": "16:00",
+            "GG": 0,
+            "NG": 0
+        }
+    ],
+    "Serbia": [
+        {
+            "match": "Alloa Athletic FC vs East Fife FC",
+            "time": "15:00",
+            "GG": "1.75",
+            "NG": "1.92"
+        },
+        {
+            "match": "Dumbarton FC vs Airdrieonians FC",
+            "time": "15:00",
+            "GG": "1.67",
+            "NG": "2.05"
+        },
+        {
+            "match": "Falkirk FC vs Peterhead FC",
+            "time": "15:00",
+            "GG": "1.94",
+            "NG": "1.74"
+        },
+        {
+            "match": "Montrose FC vs Clyde FC",
+            "time": "15:00",
+            "GG": "1.64",
+            "NG": "2.10"
+        },
+        {
+            "match": "Queens Park FC vs Cove Rangers FC",
+            "time": "15:00",
+            "GG": "1.74",
+            "NG": "1.95"
+        },
+        {
+            "match": "Dundee United vs Rangers",
+            "time": "12:30",
+            "GG": "2.30",
+            "NG": "1.62"
+        },
+        {
+            "match": "St Mirren FC vs Heart of Midlothian FC",
+            "time": "15:00",
+            "GG": "1.90",
+            "NG": "1.91"
+        },
+        {
+            "match": "Celtic vs FC Dundee",
+            "time": "15:00",
+            "GG": "2.05",
+            "NG": "1.77"
+        },
+        {
+            "match": "Hibernian FC vs Ross County FC",
+            "time": "15:00",
+            "GG": "2.00",
+            "NG": "1.82"
+        },
+        {
+            "match": "Livingston FC vs Aberdeen FC",
+            "time": "15:00",
+            "GG": "2.05",
+            "NG": "1.79"
+        },
+        {
+            "match": "St Johnstone FC vs Motherwell FC",
+            "time": "15:00",
+            "GG": "2.00",
+            "NG": "1.80"
+        },
+        {
+            "match": "Albion Rovers FC vs Stenhousemuir FC",
+            "time": "15:00",
+            "GG": "1.52",
+            "NG": "2.30"
+        },
+        {
+            "match": "Cowdenbeath FC vs Elgin City FC",
+            "time": "15:00",
+            "GG": "1.64",
+            "NG": "2.10"
+        },
+        {
+            "match": "Forfar Athletic FC vs Edinburgh City FC",
+            "time": "15:00",
+            "GG": "1.51",
+            "NG": "2.35"
+        },
+        {
+            "match": "Stirling Albion FC vs Kelty Hearts FC",
+            "time": "15:00",
+            "GG": "1.62",
+            "NG": "2.10"
+        },
+        {
+            "match": "Stranraer FC vs Annan Athletic FC",
+            "time": "15:00",
+            "GG": "1.76",
+            "NG": "1.92"
+        },
+        {
+            "match": "Ayr United FC vs Arbroath FC",
+            "time": "15:00",
+            "GG": "1.87",
+            "NG": "1.80"
+        },
+        {
+            "match": "Dunfermline Athletic FC vs Partick Thistle FC",
+            "time": "15:00",
+            "GG": "1.67",
+            "NG": "2.05"
+        },
+        {
+            "match": "Hamilton Academical FC vs Greenock Morton FC",
+            "time": "15:00",
+            "GG": "1.75",
+            "NG": "1.93"
+        },
+        {
+            "match": "Inverness Caledonian Thistle FC vs Raith Rovers FC",
+            "time": "15:00",
+            "GG": "1.79",
+            "NG": "1.88"
+        },
+        {
+            "match": "Queen of The South FC vs Kilmarnock FC",
+            "time": "15:00",
+            "GG": "1.74",
+            "NG": "1.94"
+        }
+    ],
+    "Simulated Reality League": [
+        {
+            "match": "FK Radnicki 1923 Kragujevac vs FK Radnik Surdulica",
+            "time": "16:30",
+            "GG": "1.77",
+            "NG": "1.90"
+        },
+        {
+            "match": "FK Crvena Zvezda Belgrade vs FK Napredak Krusevac",
+            "time": "19:00",
+            "GG": "2.45",
+            "NG": "1.47"
+        },
+        {
+            "match": "FK Mladost Lucani vs FK Spartak Subotica",
+            "time": "17:55",
+            "GG": "1.69",
+            "NG": "2.00"
+        },
+        {
+            "match": "FK Metalac Gornji Milanovac vs FK Proleter Novi Sad",
+            "time": "20:00",
+            "GG": "1.77",
+            "NG": "1.90"
+        },
+        {
+            "match": "FK Kolubara Lazarevac vs FK Cukaricki Belgrade",
+            "time": "17:55",
+            "GG": "1.79",
+            "NG": "1.88"
+        },
+        {
+            "match": "FK Vojvodina Novi Sad vs FK Vozdovac Belgrade",
+            "time": "17:55",
+            "GG": "1.82",
+            "NG": "1.85"
+        },
+        {
+            "match": "FK Novi Pazar vs FK Partizan Belgrade",
+            "time": "20:00",
+            "GG": "2.00",
+            "NG": "1.69"
+        },
+        {
+            "match": "FK Radnicki Nis vs FK TSC Backa Topola",
+            "time": "18:00",
+            "GG": "1.62",
+            "NG": "2.10"
+        }
+    ],
+    "Slovakia": [
+        {
+            "match": "Heerenveen SRL vs Groningen SRL",
+            "time": "06:00",
+            "GG": "1.74",
+            "NG": "2.10"
+        },
+        {
+            "match": "Alanyaspor SRL vs Kasimpasa SRL",
+            "time": "07:00",
+            "GG": "1.77",
+            "NG": "2.05"
+        },
+        {
+            "match": "Utrecht SRL vs AZ Alkmaar SRL",
+            "time": "08:00",
+            "GG": "1.56",
+            "NG": "2.45"
+        },
+        {
+            "match": "Bordeaux SRL vs Nantes SRL",
+            "time": "09:00",
+            "GG": "1.87",
+            "NG": "1.94"
+        },
+        {
+            "match": "Cf Elche Srl vs Valencia SRL",
+            "time": "10:00",
+            "GG": "1.81",
+            "NG": "2.00"
+        },
+        {
+            "match": "Atalanta SRL vs Fc Crotone Srl",
+            "time": "11:00",
+            "GG": "1.82",
+            "NG": "1.99"
+        },
+        {
+            "match": "Toulouse SRL vs Lille SRL",
+            "time": "12:00",
+            "GG": "1.93",
+            "NG": "1.88"
+        },
+        {
+            "match": "Chelsea SRL vs Liverpool SRL",
+            "time": "13:00",
+            "GG": "1.66",
+            "NG": "2.25"
+        },
+        {
+            "match": "Metz SRL vs RC Lens Srl",
+            "time": "14:00",
+            "GG": "1.91",
+            "NG": "1.89"
+        },
+        {
+            "match": "Sheffield Utd SRL vs Fulham FC Srl",
+            "time": "15:00",
+            "GG": "1.95",
+            "NG": "1.86"
+        }
+    ],
+    "Spain": [
+        {
+            "match": "FC Vion Zlate Moravce - Vrable vs FK Senica",
+            "time": "19:00",
+            "GG": "1.77",
+            "NG": "1.91"
+        },
+        {
+            "match": "MFK Zemplin Michalovce vs AS Trencin",
+            "time": "17:00",
+            "GG": "1.55",
+            "NG": "2.25"
+        },
+        {
+            "match": "MSK Zilina vs FK Pohronie Ziar Nad Hronom Dolna Zdana",
+            "time": "17:00",
+            "GG": "1.52",
+            "NG": "2.30"
+        },
+        {
+            "match": "SKF Sered vs DAC 1904 Dunajska Streda",
+            "time": "19:00",
+            "GG": "1.66",
+            "NG": "2.05"
+        },
+        {
+            "match": "FK Humenne vs FC STK 1914 Samorin",
+            "time": "16:00",
+            "GG": "1.68",
+            "NG": "2.00"
+        },
+        {
+            "match": "MFk Dukla Banska Bystrica vs FK Zeleziarne Podbrezova",
+            "time": "16:00",
+            "GG": "1.75",
+            "NG": "1.93"
+        },
+        {
+            "match": "MSK Namestovo vs MFK Skalica",
+            "time": "16:00",
+            "GG": "1.68",
+            "NG": "2.05"
+        },
+        {
+            "match": "Partizan Bardejov vs KFC Komarno",
+            "time": "16:00",
+            "GG": "1.75",
+            "NG": "1.93"
+        },
+        {
+            "match": "MSK Zilina B vs FC Petrzalka",
+            "time": "09:30",
+            "GG": "1.31",
+            "NG": "3.00"
+        },
+        {
+            "match": "FC Rohoznik vs FK Kosice",
+            "time": "10:00",
+            "GG": "1.80",
+            "NG": "1.87"
+        },
+        {
+            "match": "Dynamo Diviaky vs MSK Fomat Martin",
+            "time": "16:00",
+            "GG": "1.58",
+            "NG": "2.20"
+        },
+        {
+            "match": "FC Slovan Modra vs SK Nova Dedinka",
+            "time": "16:00",
+            "GG": "1.34",
+            "NG": "2.90"
+        },
+        {
+            "match": "FK Bestrent Horna Krupa vs Ofk Trebatice",
+            "time": "16:00",
+            "GG": "1.36",
+            "NG": "2.80"
+        },
+        {
+            "match": "Fk Sitno Banska Stiavnica vs FK Spartak Banovce Nad Bebravou",
+            "time": "16:00",
+            "GG": "1.38",
+            "NG": "2.75"
+        },
+        {
+            "match": "Ofk Kotesova vs TJ Jednota Banova",
+            "time": "16:00",
+            "GG": "1.52",
+            "NG": "2.30"
+        },
+        {
+            "match": "OSK Banik Stranavy vs MFK Dolny Kubin",
+            "time": "16:00",
+            "GG": "1.33",
+            "NG": "2.95"
+        },
+        {
+            "match": "OSK Likavka vs TJ Druzstevnik Liptovska Stiavnica",
+            "time": "16:00",
+            "GG": "1.50",
+            "NG": "2.35"
+        },
+        {
+            "match": "Sk Gbelany vs MSK Kysucke Nove Mesto",
+            "time": "16:00",
+            "GG": "1.31",
+            "NG": "3.10"
+        },
+        {
+            "match": "SK Javornik Makov vs Tatran Krasno Nad Kysucou",
+            "time": "16:00",
+            "GG": "1.33",
+            "NG": "2.95"
+        },
+        {
+            "match": "Tj Jarovce Bratislava vs MSK Thermal Velky Meder",
+            "time": "16:00",
+            "GG": "1.34",
+            "NG": "2.90"
+        },
+        {
+            "match": "FK Salkova vs Tj Pramen Kovacova",
+            "time": "18:00",
+            "GG": "1.54",
+            "NG": "2.25"
+        }
+    ],
+    "Sweden": [
+        {
+            "match": "Valencia vs Getafe",
+            "time": "20:00",
+            "GG": "2.00",
+            "NG": "1.80"
+        },
+        {
+            "match": "Osasuna vs Espanyol",
+            "time": "16:00",
+            "GG": "1.97",
+            "NG": "1.85"
+        },
+        {
+            "match": "Cadiz CF vs Levante",
+            "time": "18:30",
+            "GG": "1.81",
+            "NG": "2.00"
+        },
+        {
+            "match": "Mallorca vs Real Betis",
+            "time": "18:30",
+            "GG": "1.74",
+            "NG": "2.10"
+        },
+        {
+            "match": "CD Alaves vs Real Madrid",
+            "time": "21:00",
+            "GG": "1.90",
+            "NG": "1.90"
+        },
+        {
+            "match": "Celta Vigo vs Atletico Madrid",
+            "time": "16:30",
+            "GG": "1.98",
+            "NG": "1.83"
+        },
+        {
+            "match": "Barcelona vs Real Sociedad",
+            "time": "19:00",
+            "GG": "1.73",
+            "NG": "2.10"
+        },
+        {
+            "match": "Sevilla vs Rayo Vallecano",
+            "time": "21:15",
+            "GG": "2.10",
+            "NG": "1.74"
+        },
+        {
+            "match": "Villarreal vs Granada",
+            "time": "19:00",
+            "GG": "1.97",
+            "NG": "1.84"
+        },
+        {
+            "match": "Elche CF vs Athletic Bilbao",
+            "time": "21:00",
+            "GG": "1.97",
+            "NG": "1.84"
+        },
+        {
+            "match": "Huesca vs Eibar",
+            "time": "19:00",
+            "GG": "2.10",
+            "NG": "1.69"
+        },
+        {
+            "match": "Real Zaragoza vs UD Ibiza",
+            "time": "21:00",
+            "GG": "2.25",
+            "NG": "1.60"
+        },
+        {
+            "match": "Real Sociedad San Sebastian B vs Leganes",
+            "time": "16:00",
+            "GG": "2.10",
+            "NG": "1.69"
+        },
+        {
+            "match": "Girona vs SD Amorebieta",
+            "time": "18:30",
+            "GG": "2.30",
+            "NG": "1.58"
+        },
+        {
+            "match": "SD Ponferradina vs Alcorcon AD",
+            "time": "21:00",
+            "GG": "2.20",
+            "NG": "1.62"
+        },
+        {
+            "match": "Sporting Gijon vs Burgos CF",
+            "time": "16:00",
+            "GG": "2.20",
+            "NG": "1.62"
+        },
+        {
+            "match": "Real Oviedo vs CD Lugo",
+            "time": "18:30",
+            "GG": "2.30",
+            "NG": "1.58"
+        },
+        {
+            "match": "CF Fuenlabrada vs Tenerife CD",
+            "time": "21:00",
+            "GG": "2.10",
+            "NG": "1.69"
+        },
+        {
+            "match": "UD Las Palmas vs Valladolid",
+            "time": "21:00",
+            "GG": "2.15",
+            "NG": "1.65"
+        },
+        {
+            "match": "Malaga CF vs CD Mirandes",
+            "time": "19:00",
+            "GG": "2.20",
+            "NG": "1.62"
+        },
+        {
+            "match": "FC Cartagena vs UD Almeria",
+            "time": "21:00",
+            "GG": "2.05",
+            "NG": "1.70"
+        }
+    ],
+    "Switzerland": [
+        {
+            "match": "Asarums IF FK vs Nosaby IF",
+            "time": "18:00",
+            "GG": "1.63",
+            "NG": "2.10"
+        },
+        {
+            "match": "BK Olympic vs FBK Balkan",
+            "time": "18:00",
+            "GG": "1.49",
+            "NG": "2.40"
+        },
+        {
+            "match": "FK Karlskrona vs IFK Karlshamn",
+            "time": "18:00",
+            "GG": "1.75",
+            "NG": "1.93"
+        },
+        {
+            "match": "IFK Berga vs Rappe GOIF",
+            "time": "18:00",
+            "GG": "1.64",
+            "NG": "2.10"
+        },
+        {
+            "match": "IFK Hassleholm vs KSF Prespa Birlik",
+            "time": "18:00",
+            "GG": "1.48",
+            "NG": "2.40"
+        },
+        {
+            "match": "Solvesborgs GoIF vs Eslovs BK",
+            "time": "18:00",
+            "GG": "1.42",
+            "NG": "2.60"
+        },
+        {
+            "match": "Hoganas BK vs Eskilsminne IF",
+            "time": "17:30",
+            "GG": "1.40",
+            "NG": "2.65"
+        },
+        {
+            "match": "Vinbergs IF vs Varbergs GIF FK",
+            "time": "17:30",
+            "GG": "1.42",
+            "NG": "2.60"
+        },
+        {
+            "match": "Angelholms FF vs BK Astrio",
+            "time": "18:00",
+            "GG": "1.51",
+            "NG": "2.35"
+        },
+        {
+            "match": "Assyriska BK vs IK Tord",
+            "time": "18:00",
+            "GG": "1.41",
+            "NG": "2.65"
+        },
+        {
+            "match": "Saevedalens IF vs Vastra Frolunda IF",
+            "time": "18:00",
+            "GG": "1.51",
+            "NG": "2.35"
+        },
+        {
+            "match": "Onsala BK vs Ullareds IK",
+            "time": "18:15",
+            "GG": "1.44",
+            "NG": "2.55"
+        },
+        {
+            "match": "IFK Kumla vs BK Forward",
+            "time": "18:00",
+            "GG": "1.50",
+            "NG": "2.35"
+        },
+        {
+            "match": "Lidkopings FK vs Yxhults IK",
+            "time": "18:00",
+            "GG": "1.47",
+            "NG": "2.45"
+        },
+        {
+            "match": "Vanersborgs FK vs IK Gauthiod",
+            "time": "18:00",
+            "GG": "1.37",
+            "NG": "2.75"
+        },
+        {
+            "match": "IFK Skovde FK vs Ahlafors IF",
+            "time": "18:30",
+            "GG": "1.37",
+            "NG": "2.75"
+        },
+        {
+            "match": "Stenungsunds IF vs IFK Tidaholm",
+            "time": "18:30",
+            "GG": "1.75",
+            "NG": "1.93"
+        },
+        {
+            "match": "Gamla Upsala SK vs Enskede IK",
+            "time": "18:00",
+            "GG": "1.36",
+            "NG": "2.85"
+        },
+        {
+            "match": "Kvarnsvedens IK vs FC Stockholm Internazionale",
+            "time": "18:00",
+            "GG": "1.59",
+            "NG": "2.15"
+        },
+        {
+            "match": "FC Jarfalla vs IFK Stocksund",
+            "time": "18:30",
+            "GG": "1.39",
+            "NG": "2.70"
+        },
+        {
+            "match": "FC Arlanda vs Enkopings SK",
+            "time": "18:45",
+            "GG": "1.40",
+            "NG": "2.65"
+        },
+        {
+            "match": "Kungsangens IF vs Skiljebo SK",
+            "time": "19:00",
+            "GG": "1.42",
+            "NG": "2.60"
+        },
+        {
+            "match": "IFK Lidingo FK vs Karlbergs BK",
+            "time": "19:15",
+            "GG": "1.45",
+            "NG": "2.50"
+        },
+        {
+            "match": "Halmstads BK vs Malmo",
+            "time": "16:30",
+            "GG": "1.87",
+            "NG": "1.94"
+        },
+        {
+            "match": "Orebro SK vs Mjallby AIF",
+            "time": "16:30",
+            "GG": "1.89",
+            "NG": "1.92"
+        },
+        {
+            "match": "Djurgardens IF vs AIK",
+            "time": "14:00",
+            "GG": "1.93",
+            "NG": "1.88"
+        },
+        {
+            "match": "Hacken Gothenburg vs Ostersunds FK",
+            "time": "14:00",
+            "GG": "1.91",
+            "NG": "1.90"
+        },
+        {
+            "match": "IF Elfsborg vs Degerfors IF",
+            "time": "16:30",
+            "GG": "1.69",
+            "NG": "2.20"
+        },
+        {
+            "match": "IFK Goteborg vs Hammarby IF",
+            "time": "16:30",
+            "GG": "1.62",
+            "NG": "2.30"
+        },
+        {
+            "match": "IFK Norrkoping FK vs Kalmar FF",
+            "time": "18:00",
+            "GG": "1.86",
+            "NG": "1.95"
+        },
+        {
+            "match": "Varbergs BoIS vs IK Sirius",
+            "time": "18:00",
+            "GG": "1.72",
+            "NG": "2.15"
+        },
+        {
+            "match": "Malmo vs IFK Goteborg",
+            "time": "14:00",
+            "GG": "1.86",
+            "NG": "1.95"
+        },
+        {
+            "match": "Kalmar FF vs Halmstads BK",
+            "time": "16:30",
+            "GG": "1.99",
+            "NG": "1.82"
+        },
+        {
+            "match": "Degerfors IF vs Hacken Gothenburg",
+            "time": "14:00",
+            "GG": "1.63",
+            "NG": "2.30"
+        },
+        {
+            "match": "Mjallby AIF vs Djurgardens IF",
+            "time": "14:00",
+            "GG": "1.81",
+            "NG": "2.00"
+        },
+        {
+            "match": "Hammarby IF vs IF Elfsborg",
+            "time": "16:30",
+            "GG": "1.61",
+            "NG": "2.30"
+        },
+        {
+            "match": "Ostersunds FK vs IFK Norrkoping FK",
+            "time": "16:30",
+            "GG": "1.62",
+            "NG": "2.30"
+        },
+        {
+            "match": "IK Sirius vs AIK",
+            "time": "18:00",
+            "GG": "1.86",
+            "NG": "1.95"
+        },
+        {
+            "match": "Varbergs BoIS vs Orebro SK",
+            "time": "18:00",
+            "GG": "1.69",
+            "NG": "2.15"
+        },
+        {
+            "match": "Vasalunds IF vs Helsingborgs IF",
+            "time": "18:00",
+            "GG": "1.69",
+            "NG": "2.10"
+        },
+        {
+            "match": "Falkenbergs FF vs GIF Sundsvall",
+            "time": "16:00",
+            "GG": "1.68",
+            "NG": "2.10"
+        },
+        {
+            "match": "IFK Varnamo vs AFC Eskilstuna",
+            "time": "16:00",
+            "GG": "1.84",
+            "NG": "1.89"
+        },
+        {
+            "match": "IK Brage vs Jonkopings Sodra IF",
+            "time": "16:00",
+            "GG": "1.69",
+            "NG": "2.10"
+        },
+        {
+            "match": "GAIS vs Vasalunds IF",
+            "time": "18:00",
+            "GG": "1.75",
+            "NG": "2.00"
+        },
+        {
+            "match": "Norrby IF vs Orgryte IS",
+            "time": "18:00",
+            "GG": "1.95",
+            "NG": "1.80"
+        },
+        {
+            "match": "Vasteras SK vs Akropolis IF",
+            "time": "18:00",
+            "GG": "1.91",
+            "NG": "1.83"
+        },
+        {
+            "match": "Helsingborgs IF vs Landskrona BoIS",
+            "time": "18:00",
+            "GG": "1.76",
+            "NG": "2.00"
+        },
+        {
+            "match": "Osters IF vs Trelleborgs FF",
+            "time": "18:00",
+            "GG": "1.79",
+            "NG": "1.96"
+        },
+        {
+            "match": "Bodens BK vs Notvikens IK",
+            "time": "18:00",
+            "GG": "1.80",
+            "NG": "1.87"
+        },
+        {
+            "match": "Gottne IF vs Team TG FF",
+            "time": "18:00",
+            "GG": "1.54",
+            "NG": "2.25"
+        },
+        {
+            "match": "IFK Ostersund vs Friska Viljor FC",
+            "time": "18:00",
+            "GG": "1.45",
+            "NG": "2.50"
+        },
+        {
+            "match": "Taftea IK vs Storfors AIK",
+            "time": "18:00",
+            "GG": "1.46",
+            "NG": "2.50"
+        },
+        {
+            "match": "Ytterhogdals IK vs Froso IF",
+            "time": "18:30",
+            "GG": "1.63",
+            "NG": "2.10"
+        },
+        {
+            "match": "Sandviks IK vs Stode IF",
+            "time": "19:00",
+            "GG": "1.47",
+            "NG": "2.45"
+        }
+    ],
+    "Turkey": [
+        {
+            "match": "FC Sion vs Young Boys Bern",
+            "time": "17:00",
+            "GG": "1.57",
+            "NG": "2.30"
+        },
+        {
+            "match": "Grasshopper Club Zurich vs Lausanne-Sport",
+            "time": "19:30",
+            "GG": "1.55",
+            "NG": "2.35"
+        },
+        {
+            "match": "FC Lugano vs FC St. Gallen 1879",
+            "time": "13:15",
+            "GG": "1.55",
+            "NG": "2.35"
+        },
+        {
+            "match": "Basel vs Servette Geneva",
+            "time": "15:30",
+            "GG": "1.51",
+            "NG": "2.45"
+        },
+        {
+            "match": "FC Luzern vs FC Zurich",
+            "time": "15:30",
+            "GG": "1.53",
+            "NG": "2.40"
+        }
+    ],
+    "Ukraine": [
+        {
+            "match": "Besiktas Istanbul vs Caykur Rizespor",
+            "time": "18:30",
+            "GG": "1.98",
+            "NG": "1.84"
+        },
+        {
+            "match": "Fatih Karagumruk Istanbul vs Gaziantep FK",
+            "time": "17:15",
+            "GG": "1.68",
+            "NG": "2.20"
+        },
+        {
+            "match": "Altay Izmir vs Kayserispor",
+            "time": "19:45",
+            "GG": "1.79",
+            "NG": "2.05"
+        },
+        {
+            "match": "Hatayspor Antakya vs Kasimpasa Istanbul",
+            "time": "19:45",
+            "GG": "1.68",
+            "NG": "2.20"
+        },
+        {
+            "match": "Istanbul BB vs Alanyaspor",
+            "time": "17:15",
+            "GG": "1.77",
+            "NG": "2.05"
+        },
+        {
+            "match": "Adana Demirspor vs Fenerbahce Istanbul",
+            "time": "19:45",
+            "GG": "1.69",
+            "NG": "2.20"
+        },
+        {
+            "match": "Antalyaspor AS vs Goztepe Izmir",
+            "time": "19:45",
+            "GG": "1.79",
+            "NG": "2.05"
+        },
+        {
+            "match": "Sivasspor vs Konyaspor",
+            "time": "17:15",
+            "GG": "2.05",
+            "NG": "1.79"
+        },
+        {
+            "match": "Yeni Malatyaspor vs Trabzonspor",
+            "time": "17:15",
+            "GG": "1.82",
+            "NG": "2.00"
+        },
+        {
+            "match": "Giresunspor vs Galatasaray Istanbul",
+            "time": "19:45",
+            "GG": "1.76",
+            "NG": "2.05"
+        }
+    ],
+    "Uruguay": [
+        {
+            "match": "FC Metalist 1925 Kharkiv vs FC Chernomorets Odessa",
+            "time": "17:30",
+            "GG": "1.79",
+            "NG": "1.88"
+        },
+        {
+            "match": "FC Rukh Lviv vs Veres Rivne",
+            "time": "15:00",
+            "GG": "1.61",
+            "NG": "2.15"
+        },
+        {
+            "match": "SC Dnipro-1 vs FC Mariupol",
+            "time": "17:30",
+            "GG": "1.82",
+            "NG": "1.85"
+        },
+        {
+            "match": "Shakhtar D vs FC Oleksandriya",
+            "time": "17:30",
+            "GG": "2.35",
+            "NG": "1.51"
+        },
+        {
+            "match": "FC Vorskla Poltava vs FC Lviv",
+            "time": "17:30",
+            "GG": "1.77",
+            "NG": "1.91"
+        },
+        {
+            "match": "FC Zorya Lugansk vs FC Dynamo Kiev",
+            "time": "17:30",
+            "GG": "1.80",
+            "NG": "1.87"
+        },
+        {
+            "match": "FC Desna Chernihiv vs FC Ingulets Petrove",
+            "time": "17:30",
+            "GG": "1.84",
+            "NG": "1.83"
+        }
+    ],
+    "USA": [
+        {
+            "match": "Rocha FC vs Albion FC",
+            "time": "21:30",
+            "GG": "1.91",
+            "NG": "1.76"
+        },
+        {
+            "match": "Racing Club Montevideo vs Villa Teresa",
+            "time": "00:00",
+            "GG": "2.15",
+            "NG": "1.60"
+        }
+    ]
+}

@@ -1,0 +1,2578 @@
+{
+    "Atl. Madrid vs Elche": {
+        "bet9ja": {
+            "time": "21:30",
+            "single": {
+                "home": "1.19",
+                "draw": "6.25",
+                "away": "13.75"
+            },
+            "handicap": {
+                "1 [Away + 1]": "1.58",
+                "2 [Home + 1]": "0.00"
+            },
+            "category": "Spain",
+            "sub-category": "LaLiga"
+        },
+        "betking": {
+            "time": "21:30",
+            "single": {
+                "home": "1.21",
+                "draw": "6.20",
+                "away": "14.00"
+            },
+            "handicap": {
+                "1 [Away + 1]": "1.63",
+                "2 [Home + 1]": "0.00"
+            },
+            "category": "Spain",
+            "sub-category": "LaLiga"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 14.0,
+                "stake": 826.3944098079418
+            },
+            "betking 1 [Away + 1]": {
+                "odd": 1.63,
+                "stake": 7249.815459242856
+            },
+            "bet9ja Draw": {
+                "odd": 6.25,
+                "stake": 1848.3462724662345
+            },
+            "amount": 10000,
+            "profit": 1552.1642029139657
+        }
+    },
+    "Cadiz CF vs Almeria": {
+        "bet9ja": {
+            "time": "19:15",
+            "single": {
+                "home": "2.35",
+                "draw": "3.05",
+                "away": "3.15"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.80",
+                "2 [Home + 1]": "7.40"
+            },
+            "category": "Spain",
+            "sub-category": "LaLiga"
+        },
+        "betking": {
+            "time": "19:15",
+            "single": {
+                "home": "2.37",
+                "draw": "3.15",
+                "away": "3.30"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.75",
+                "2 [Home + 1]": "7.50"
+            },
+            "category": "Spain",
+            "sub-category": "LaLiga"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 3.3,
+                "stake": 3610.8028116907144
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 4.8,
+                "stake": 2440.4648504477045
+            },
+            "betking Draw": {
+                "odd": 3.15,
+                "stake": 3764.705882352941
+            },
+            "amount": 10000,
+            "profit": 1858.823529411764
+        }
+    },
+    "Valladolid vs Real Madrid": {
+        "bet9ja": {
+            "time": "21:30",
+            "single": {
+                "home": "5.60",
+                "draw": "4.30",
+                "away": "1.52"
+            },
+            "handicap": {
+                "1 [Away + 1]": "15.00",
+                "2 [Home + 1]": "2.35"
+            },
+            "category": "Spain",
+            "sub-category": "LaLiga"
+        },
+        "betking": {
+            "time": "21:30",
+            "single": {
+                "home": "5.90",
+                "draw": "4.50",
+                "away": "1.54"
+            },
+            "handicap": {
+                "1 [Away + 1]": "14.25",
+                "2 [Home + 1]": "2.38"
+            },
+            "category": "Spain",
+            "sub-category": "LaLiga"
+        },
+        "3-way": {
+            "betking Home": {
+                "odd": 5.9,
+                "stake": 2048.0340494527763
+            },
+            "betking 2 [Home + 1]": {
+                "odd": 2.38,
+                "stake": 5054.363796650015
+            },
+            "betking Draw": {
+                "odd": 4.5,
+                "stake": 2689.2817002145707
+            },
+            "amount": 10000,
+            "profit": 2101.7676509655685
+        }
+    },
+    "Barcelona vs Espanyol": {
+        "bet9ja": {
+            "time": "14:00",
+            "single": {
+                "home": "1.23",
+                "draw": "6.30",
+                "away": "10.25"
+            },
+            "handicap": {
+                "1 [Away + 1]": "1.60",
+                "2 [Home + 1]": "0.00"
+            },
+            "category": "Spain",
+            "sub-category": "LaLiga"
+        },
+        "betking": {
+            "time": "14:00",
+            "single": {
+                "home": "1.27",
+                "draw": "6.20",
+                "away": "10.50"
+            },
+            "handicap": {
+                "1 [Away + 1]": "1.68",
+                "2 [Home + 1]": "25.00"
+            },
+            "category": "Spain",
+            "sub-category": "LaLiga"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 10.5,
+                "stake": 1083.5214446952596
+            },
+            "betking 1 [Away + 1]": {
+                "odd": 1.68,
+                "stake": 6990.225051147989
+            },
+            "bet9ja Draw": {
+                "odd": 6.3,
+                "stake": 1801.1092197023777
+            },
+            "amount": 10000,
+            "profit": 1346.9880841249797
+        }
+    },
+    "Real Sociedad vs Osasuna": {
+        "bet9ja": {
+            "time": "16:15",
+            "single": {
+                "home": "1.85",
+                "draw": "3.35",
+                "away": "4.30"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.50",
+                "2 [Home + 1]": "12.00"
+            },
+            "category": "Spain",
+            "sub-category": "LaLiga"
+        },
+        "betking": {
+            "time": "16:15",
+            "single": {
+                "home": "1.87",
+                "draw": "3.52",
+                "away": "4.50"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.52",
+                "2 [Home + 1]": "11.75"
+            },
+            "category": "Spain",
+            "sub-category": "LaLiga"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 4.5,
+                "stake": 2755.581668625147
+            },
+            "betking 1 [Away + 1]": {
+                "odd": 3.52,
+                "stake": 3485.1087508770233
+            },
+            "betking Draw": {
+                "odd": 3.52,
+                "stake": 3540.67661036089
+            },
+            "amount": 10000,
+            "profit": 2463.1816684703335
+        }
+    },
+    "Villarreal vs Valencia": {
+        "bet9ja": {
+            "time": "16:15",
+            "single": {
+                "home": "1.98",
+                "draw": "3.15",
+                "away": "4.00"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.65",
+                "2 [Home + 1]": "10.00"
+            },
+            "category": "Spain",
+            "sub-category": "LaLiga"
+        },
+        "betking": {
+            "time": "16:15",
+            "single": {
+                "home": "2.00",
+                "draw": "3.28",
+                "away": "4.25"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.65",
+                "2 [Home + 1]": "10.25"
+            },
+            "category": "Spain",
+            "sub-category": "LaLiga"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 4.25,
+                "stake": 2846.091961136209
+            },
+            "betking 1 [Away + 1]": {
+                "odd": 3.65,
+                "stake": 3256.024290974869
+            },
+            "betking Draw": {
+                "odd": 3.28,
+                "stake": 3678.3230877758747
+            },
+            "amount": 10000,
+            "profit": 2064.899727904869
+        }
+    },
+    "Celta Vigo B vs Cultural Leonesa": {
+        "bet9ja": {
+            "time": "17:00",
+            "single": {
+                "home": "1.80",
+                "draw": "3.55",
+                "away": "3.90"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.30",
+                "2 [Home + 1]": "0.00"
+            },
+            "category": "Spain",
+            "sub-category": "Primera RFEF"
+        },
+        "betking": {
+            "time": "17:00",
+            "single": {
+                "home": "1.81",
+                "draw": "3.62",
+                "away": "4.00"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.15",
+                "2 [Home + 1]": "9.40"
+            },
+            "category": "Spain",
+            "sub-category": "Primera RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 4.0,
+                "stake": 2995.0147002428735
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 3.3,
+                "stake": 3602.654176424668
+            },
+            "betking Draw": {
+                "odd": 3.62,
+                "stake": 3305.5940822931116
+            },
+            "amount": 10000,
+            "profit": 1966.2505779010644
+        }
+    },
+    "Real Sociedad San Sebastian B vs La Nucia": {
+        "bet9ja": {
+            "time": "17:00",
+            "single": {
+                "home": "1.98",
+                "draw": "3.20",
+                "away": "3.60"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.15",
+                "2 [Home + 1]": "10.00"
+            },
+            "category": "Spain",
+            "sub-category": "Primera RFEF"
+        },
+        "betking": {
+            "time": "17:00",
+            "single": {
+                "home": "2.00",
+                "draw": "3.20",
+                "away": "3.75"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.85",
+                "2 [Home + 1]": "9.40"
+            },
+            "category": "Spain",
+            "sub-category": "Primera RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 3.75,
+                "stake": 3251.514966028035
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 4.15,
+                "stake": 2898.842476094615
+            },
+            "betking Draw": {
+                "odd": 3.2,
+                "stake": 3759.4363361852043
+            },
+            "amount": 10000,
+            "profit": 2030.196275792654
+        }
+    },
+    "San Fernando vs Algeciras": {
+        "bet9ja": {
+            "time": "18:00",
+            "single": {
+                "home": "3.00",
+                "draw": "3.20",
+                "away": "2.22"
+            },
+            "handicap": {
+                "1 [Away + 1]": "7.10",
+                "2 [Home + 1]": "4.60"
+            },
+            "category": "Spain",
+            "sub-category": "Primera RFEF"
+        },
+        "betking": {
+            "time": "18:00",
+            "single": {
+                "home": "3.02",
+                "draw": "3.22",
+                "away": "2.28"
+            },
+            "handicap": {
+                "1 [Away + 1]": "6.50",
+                "2 [Home + 1]": "4.35"
+            },
+            "category": "Spain",
+            "sub-category": "Primera RFEF"
+        },
+        "3-way": {
+            "betking Home": {
+                "odd": 3.02,
+                "stake": 3845.7519072003342
+            },
+            "bet9ja 2 [Home + 1]": {
+                "odd": 4.6,
+                "stake": 2518.3630640083948
+            },
+            "betking Draw": {
+                "odd": 3.22,
+                "stake": 3605.7692307692305
+            },
+            "amount": 10000,
+            "profit": 1610.5769230769238
+        }
+    },
+    "Real Madrid B vs Talavera de La Reina": {
+        "bet9ja": {
+            "time": "18:00",
+            "single": {
+                "home": "1.36",
+                "draw": "4.65",
+                "away": "7.00"
+            },
+            "handicap": {
+                "1 [Away + 1]": "2.01",
+                "2 [Home + 1]": "0.00"
+            },
+            "category": "Spain",
+            "sub-category": "Primera RFEF"
+        },
+        "betking": {
+            "time": "18:00",
+            "single": {
+                "home": "1.36",
+                "draw": "4.80",
+                "away": "7.40"
+            },
+            "handicap": {
+                "1 [Away + 1]": "1.89",
+                "2 [Home + 1]": "18.00"
+            },
+            "category": "Spain",
+            "sub-category": "Primera RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 7.4,
+                "stake": 1594.1361578018266
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 2.01,
+                "stake": 5815.97920184396
+            },
+            "betking Draw": {
+                "odd": 4.8,
+                "stake": 2454.7262640008375
+            },
+            "amount": 10000,
+            "profit": 1782.6860672040202
+        }
+    },
+    "Numancia vs UD Logrones": {
+        "bet9ja": {
+            "time": "18:00",
+            "single": {
+                "home": "2.17",
+                "draw": "3.10",
+                "away": "3.20"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.50",
+                "2 [Home + 1]": "8.00"
+            },
+            "category": "Spain",
+            "sub-category": "Primera RFEF"
+        },
+        "betking": {
+            "time": "18:00",
+            "single": {
+                "home": "2.18",
+                "draw": "3.10",
+                "away": "3.32"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.20",
+                "2 [Home + 1]": "7.70"
+            },
+            "category": "Spain",
+            "sub-category": "Primera RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 3.32,
+                "stake": 3560.3083048338526
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 4.5,
+                "stake": 2592.1087013326364
+            },
+            "betking Draw": {
+                "odd": 3.1,
+                "stake": 3762.738437418343
+            },
+            "amount": 10000,
+            "profit": 1664.4891559968637
+        }
+    },
+    "CD Linares vs AD Ceuta": {
+        "bet9ja": {
+            "time": "12:00",
+            "single": {
+                "home": "1.76",
+                "draw": "3.50",
+                "away": "4.10"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.45",
+                "2 [Home + 1]": "0.00"
+            },
+            "category": "Spain",
+            "sub-category": "Primera RFEF"
+        },
+        "betking": {
+            "time": "12:00",
+            "single": {
+                "home": "1.80",
+                "draw": "3.40",
+                "away": "4.30"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.28",
+                "2 [Home + 1]": "11.00"
+            },
+            "category": "Spain",
+            "sub-category": "Primera RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 4.3,
+                "stake": 2877.7407054337464
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 3.45,
+                "stake": 3537.0963766329796
+            },
+            "bet9ja Draw": {
+                "odd": 3.5,
+                "stake": 3486.566428395366
+            },
+            "amount": 10000,
+            "profit": 2202.982499383781
+        }
+    },
+    "Merida UD vs CD Badajoz": {
+        "bet9ja": {
+            "time": "12:00",
+            "single": {
+                "home": "2.02",
+                "draw": "3.15",
+                "away": "3.60"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.15",
+                "2 [Home + 1]": "9.80"
+            },
+            "category": "Spain",
+            "sub-category": "Primera RFEF"
+        },
+        "betking": {
+            "time": "12:00",
+            "single": {
+                "home": "2.02",
+                "draw": "3.15",
+                "away": "3.78"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.85",
+                "2 [Home + 1]": "9.30"
+            },
+            "category": "Spain",
+            "sub-category": "Primera RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 3.78,
+                "stake": 3214.562354763749
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 4.15,
+                "stake": 2881.646655231561
+            },
+            "betking Draw": {
+                "odd": 3.15,
+                "stake": 3796.4551172098345
+            },
+            "amount": 10000,
+            "profit": 1958.8336192109782
+        }
+    },
+    "SD Logrones vs Cornella": {
+        "bet9ja": {
+            "time": "12:00",
+            "single": {
+                "home": "1.98",
+                "draw": "3.25",
+                "away": "3.50"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.95",
+                "2 [Home + 1]": "9.20"
+            },
+            "category": "Spain",
+            "sub-category": "Primera RFEF"
+        },
+        "betking": {
+            "time": "12:00",
+            "single": {
+                "home": "1.99",
+                "draw": "3.30",
+                "away": "3.65"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.65",
+                "2 [Home + 1]": "8.60"
+            },
+            "category": "Spain",
+            "sub-category": "Primera RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 3.65,
+                "stake": 3281.7792548092284
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 3.95,
+                "stake": 2990.4699309891553
+            },
+            "betking Draw": {
+                "odd": 3.3,
+                "stake": 3599.3230929445454
+            },
+            "amount": 10000,
+            "profit": 1877.7662067169986
+        }
+    },
+    "Alcorcon vs Cordoba": {
+        "bet9ja": {
+            "time": "17:00",
+            "single": {
+                "home": "2.20",
+                "draw": "3.10",
+                "away": "3.10"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.55",
+                "2 [Home + 1]": "7.60"
+            },
+            "category": "Spain",
+            "sub-category": "Primera RFEF"
+        },
+        "betking": {
+            "time": "17:00",
+            "single": {
+                "home": "2.27",
+                "draw": "3.18",
+                "away": "3.07"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.38",
+                "2 [Home + 1]": "6.70"
+            },
+            "category": "Spain",
+            "sub-category": "Primera RFEF"
+        },
+        "3-way": {
+            "bet9ja Away": {
+                "odd": 3.1,
+                "stake": 3729.508196721311
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 4.55,
+                "stake": 2540.983606557377
+            },
+            "betking Draw": {
+                "odd": 3.18,
+                "stake": 3670.118651124063
+            },
+            "amount": 10000,
+            "profit": 1670.9773105745207
+        }
+    },
+    "Pontevedra CF vs Rayo Majadahonda": {
+        "bet9ja": {
+            "time": "17:00",
+            "single": {
+                "home": "1.93",
+                "draw": "3.25",
+                "away": "3.70"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.70",
+                "2 [Home + 1]": "9.60"
+            },
+            "category": "Spain",
+            "sub-category": "Primera RFEF"
+        },
+        "betking": {
+            "time": "17:00",
+            "single": {
+                "home": "1.97",
+                "draw": "3.35",
+                "away": "3.65"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.55",
+                "2 [Home + 1]": "8.40"
+            },
+            "category": "Spain",
+            "sub-category": "Primera RFEF"
+        },
+        "3-way": {
+            "bet9ja Away": {
+                "odd": 3.7,
+                "stake": 3186.274509803922
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 3.7,
+                "stake": 3186.274509803922
+            },
+            "betking Draw": {
+                "odd": 3.35,
+                "stake": 3557.692307692308
+            },
+            "amount": 10000,
+            "profit": 1918.2692307692323
+        }
+    },
+    "Murcia vs Sabadell": {
+        "bet9ja": {
+            "time": "17:00",
+            "single": {
+                "home": "2.10",
+                "draw": "3.10",
+                "away": "3.40"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.35",
+                "2 [Home + 1]": "8.90"
+            },
+            "category": "Spain",
+            "sub-category": "Primera RFEF"
+        },
+        "betking": {
+            "time": "17:00",
+            "single": {
+                "home": "2.12",
+                "draw": "3.10",
+                "away": "3.50"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.08",
+                "2 [Home + 1]": "8.30"
+            },
+            "category": "Spain",
+            "sub-category": "Primera RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 3.5,
+                "stake": 3408.7462082912034
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 4.35,
+                "stake": 2715.4450598995236
+            },
+            "betking Draw": {
+                "odd": 3.1,
+                "stake": 3810.382584052557
+            },
+            "amount": 10000,
+            "profit": 1812.1860105629275
+        }
+    },
+    "Real Union vs CA Osasuna B": {
+        "bet9ja": {
+            "time": "17:00",
+            "single": {
+                "home": "3.15",
+                "draw": "3.20",
+                "away": "2.13"
+            },
+            "handicap": {
+                "1 [Away + 1]": "7.70",
+                "2 [Home + 1]": "4.35"
+            },
+            "category": "Spain",
+            "sub-category": "Primera RFEF"
+        },
+        "betking": {
+            "time": "17:00",
+            "single": {
+                "home": "3.20",
+                "draw": "3.20",
+                "away": "2.18"
+            },
+            "handicap": {
+                "1 [Away + 1]": "7.10",
+                "2 [Home + 1]": "4.12"
+            },
+            "category": "Spain",
+            "sub-category": "Primera RFEF"
+        },
+        "3-way": {
+            "betking Home": {
+                "odd": 3.2,
+                "stake": 3655.46218487395
+            },
+            "bet9ja 2 [Home + 1]": {
+                "odd": 4.35,
+                "stake": 2673.562761090114
+            },
+            "betking Draw": {
+                "odd": 3.2,
+                "stake": 3634.374378356873
+            },
+            "amount": 10000,
+            "profit": 1629.9980107419942
+        }
+    },
+    "Dep. La Coruna vs Racing Club de Ferrol": {
+        "bet9ja": {
+            "time": "19:00",
+            "single": {
+                "home": "1.98",
+                "draw": "3.15",
+                "away": "3.60"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.00",
+                "2 [Home + 1]": "9.80"
+            },
+            "category": "Spain",
+            "sub-category": "Primera RFEF"
+        },
+        "betking": {
+            "time": "19:00",
+            "single": {
+                "home": "2.02",
+                "draw": "3.18",
+                "away": "3.70"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.82",
+                "2 [Home + 1]": "9.00"
+            },
+            "category": "Spain",
+            "sub-category": "Primera RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 3.7,
+                "stake": 3226.219434131353
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 4.0,
+                "stake": 2957.7464788732395
+            },
+            "betking Draw": {
+                "odd": 3.18,
+                "stake": 3733.66521468575
+            },
+            "amount": 10000,
+            "profit": 1873.055382700686
+        }
+    },
+    "Gimnastic vs Barcelona B": {
+        "bet9ja": {
+            "time": "19:00",
+            "single": {
+                "home": "2.04",
+                "draw": "3.20",
+                "away": "3.40"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.15",
+                "2 [Home + 1]": "8.80"
+            },
+            "category": "Spain",
+            "sub-category": "Primera RFEF"
+        },
+        "betking": {
+            "time": "19:00",
+            "single": {
+                "home": "2.05",
+                "draw": "3.20",
+                "away": "3.55"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.82",
+                "2 [Home + 1]": "8.30"
+            },
+            "category": "Spain",
+            "sub-category": "Primera RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 3.55,
+                "stake": 3372.9125658771986
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 4.15,
+                "stake": 2842.9579304938593
+            },
+            "betking Draw": {
+                "odd": 3.2,
+                "stake": 3686.961066109224
+            },
+            "amount": 10000,
+            "profit": 1798.2754115495172
+        }
+    },
+    "CR Granada vs UCAM Murcia": {
+        "bet9ja": {
+            "time": "13:00",
+            "single": {
+                "home": "3.05",
+                "draw": "3.15",
+                "away": "2.20"
+            },
+            "handicap": {
+                "1 [Away + 1]": "7.30",
+                "2 [Home + 1]": "4.55"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "13:00",
+            "single": {
+                "home": "3.15",
+                "draw": "3.15",
+                "away": "2.25"
+            },
+            "handicap": {
+                "1 [Away + 1]": "6.90",
+                "2 [Home + 1]": "4.25"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "betking Home": {
+                "odd": 3.15,
+                "stake": 3714.285714285714
+            },
+            "bet9ja 2 [Home + 1]": {
+                "odd": 4.55,
+                "stake": 2540.4905136510874
+            },
+            "betking Draw": {
+                "odd": 3.15,
+                "stake": 3669.5974086071265
+            },
+            "amount": 10000,
+            "profit": 1559.2318371124475
+        }
+    },
+    "UD Mutilvera vs CD Alfaro": {
+        "bet9ja": {
+            "time": "16:30",
+            "single": {
+                "home": "2.12",
+                "draw": "3.10",
+                "away": "3.30"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.30",
+                "2 [Home + 1]": "8.30"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "16:30",
+            "single": {
+                "home": "2.15",
+                "draw": "3.15",
+                "away": "3.35"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.08",
+                "2 [Home + 1]": "7.70"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 3.35,
+                "stake": 3496.8520461699895
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 4.3,
+                "stake": 2709.9337748344374
+            },
+            "betking Draw": {
+                "odd": 3.15,
+                "stake": 3721.4791502753737
+            },
+            "amount": 10000,
+            "profit": 1722.6593233674266
+        }
+    },
+    "Burgos CF Promesas vs Cristo Atletico": {
+        "bet9ja": {
+            "time": "16:30",
+            "single": {
+                "home": "3.30",
+                "draw": "3.05",
+                "away": "2.13"
+            },
+            "handicap": {
+                "1 [Away + 1]": "8.20",
+                "2 [Home + 1]": "4.30"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "16:30",
+            "single": {
+                "home": "3.45",
+                "draw": "3.00",
+                "away": "2.17"
+            },
+            "handicap": {
+                "1 [Away + 1]": "7.90",
+                "2 [Home + 1]": "4.08"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "betking Home": {
+                "odd": 3.45,
+                "stake": 3408.9284553902135
+            },
+            "bet9ja 2 [Home + 1]": {
+                "odd": 4.3,
+                "stake": 2693.336901257693
+            },
+            "bet9ja Draw": {
+                "odd": 3.05,
+                "stake": 3797.1635001337972
+            },
+            "amount": 10000,
+            "profit": 1581.3486754080805
+        }
+    },
+    "Guijuelo vs Bergantinos": {
+        "bet9ja": {
+            "time": "17:00",
+            "single": {
+                "home": "2.05",
+                "draw": "3.05",
+                "away": "3.55"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.10",
+                "2 [Home + 1]": "9.20"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "17:00",
+            "single": {
+                "home": "2.07",
+                "draw": "3.08",
+                "away": "3.65"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.85",
+                "2 [Home + 1]": "8.50"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 3.65,
+                "stake": 3239.4274982190277
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 4.1,
+                "stake": 2857.802705377763
+            },
+            "betking Draw": {
+                "odd": 3.08,
+                "stake": 3818.5061783456194
+            },
+            "amount": 10000,
+            "profit": 1760.9990293045084
+        }
+    },
+    "San Juan vs Logrones B": {
+        "bet9ja": {
+            "time": "17:00",
+            "single": {
+                "home": "2.08",
+                "draw": "3.15",
+                "away": "3.35"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.20",
+                "2 [Home + 1]": "8.50"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "17:00",
+            "single": {
+                "home": "2.10",
+                "draw": "3.15",
+                "away": "3.48"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.95",
+                "2 [Home + 1]": "8.00"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 3.48,
+                "stake": 3409.090909090909
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 4.2,
+                "stake": 2787.7947295423023
+            },
+            "betking Draw": {
+                "odd": 3.15,
+                "stake": 3717.0596393897367
+            },
+            "amount": 10000,
+            "profit": 1708.7378640776697
+        }
+    },
+    "Sevilla Atletico vs Xerez Deportivo": {
+        "bet9ja": {
+            "time": "18:00",
+            "single": {
+                "home": "2.17",
+                "draw": "2.96",
+                "away": "3.35"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.60",
+                "2 [Home + 1]": "8.80"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "18:00",
+            "single": {
+                "home": "2.18",
+                "draw": "2.95",
+                "away": "3.55"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.25",
+                "2 [Home + 1]": "8.50"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 3.55,
+                "stake": 3365.798190537401
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 4.6,
+                "stake": 2546.350983513944
+            },
+            "bet9ja Draw": {
+                "odd": 2.96,
+                "stake": 3957.167068974372
+            },
+            "amount": 10000,
+            "profit": 1713.214524164141
+        }
+    },
+    "Real Sociedad C vs Sestao River Club": {
+        "bet9ja": {
+            "time": "11:30",
+            "single": {
+                "home": "3.30",
+                "draw": "3.00",
+                "away": "2.16"
+            },
+            "handicap": {
+                "1 [Away + 1]": "8.50",
+                "2 [Home + 1]": "4.55"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "11:30",
+            "single": {
+                "home": "3.48",
+                "draw": "3.00",
+                "away": "2.17"
+            },
+            "handicap": {
+                "1 [Away + 1]": "8.20",
+                "2 [Home + 1]": "4.18"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "betking Home": {
+                "odd": 3.48,
+                "stake": 3418.996092575894
+            },
+            "bet9ja 2 [Home + 1]": {
+                "odd": 4.55,
+                "stake": 2567.0945157526253
+            },
+            "betking Draw": {
+                "odd": 3.0,
+                "stake": 3893.4266822248155
+            },
+            "amount": 10000,
+            "profit": 1680.2800466744466
+        }
+    },
+    "Langreo vs Arenteiro": {
+        "bet9ja": {
+            "time": "12:00",
+            "single": {
+                "home": "3.20",
+                "draw": "2.96",
+                "away": "2.24"
+            },
+            "handicap": {
+                "1 [Away + 1]": "8.40",
+                "2 [Home + 1]": "4.90"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "12:00",
+            "single": {
+                "home": "3.30",
+                "draw": "2.97",
+                "away": "2.27"
+            },
+            "handicap": {
+                "1 [Away + 1]": "7.80",
+                "2 [Home + 1]": "4.55"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "betking Home": {
+                "odd": 3.3,
+                "stake": 3586.370604816775
+            },
+            "bet9ja 2 [Home + 1]": {
+                "odd": 4.9,
+                "stake": 2388.541456526125
+            },
+            "betking Draw": {
+                "odd": 2.97,
+                "stake": 3945.944585650653
+            },
+            "amount": 10000,
+            "profit": 1719.4554193824406
+        }
+    },
+    "Polvorin FC vs Coruxo": {
+        "bet9ja": {
+            "time": "12:00",
+            "single": {
+                "home": "3.00",
+                "draw": "3.00",
+                "away": "2.30"
+            },
+            "handicap": {
+                "1 [Away + 1]": "7.30",
+                "2 [Home + 1]": "4.90"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "12:00",
+            "single": {
+                "home": "3.15",
+                "draw": "2.97",
+                "away": "2.35"
+            },
+            "handicap": {
+                "1 [Away + 1]": "7.00",
+                "2 [Home + 1]": "4.60"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "betking Home": {
+                "odd": 3.15,
+                "stake": 3713.527851458886
+            },
+            "bet9ja 2 [Home + 1]": {
+                "odd": 4.9,
+                "stake": 2343.7499999999995
+            },
+            "bet9ja Draw": {
+                "odd": 3.0,
+                "stake": 3828.1250000000005
+            },
+            "amount": 10000,
+            "profit": 1484.3750000000018
+        }
+    },
+    "Espanyol Barcelona B vs Formentera": {
+        "bet9ja": {
+            "time": "12:00",
+            "single": {
+                "home": "1.54",
+                "draw": "3.70",
+                "away": "5.80"
+            },
+            "handicap": {
+                "1 [Away + 1]": "2.64",
+                "2 [Home + 1]": "0.00"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "12:00",
+            "single": {
+                "home": "1.54",
+                "draw": "3.80",
+                "away": "5.90"
+            },
+            "handicap": {
+                "1 [Away + 1]": "2.48",
+                "2 [Home + 1]": "15.50"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 5.9,
+                "stake": 2070.6321278670457
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 2.64,
+                "stake": 4611.08723678556
+            },
+            "betking Draw": {
+                "odd": 3.8,
+                "stake": 3231.470538578423
+            },
+            "amount": 10000,
+            "profit": 2279.588046598008
+        }
+    },
+    "Ibiza Islas Pitiusas vs Olot": {
+        "bet9ja": {
+            "time": "12:00",
+            "single": {
+                "home": "2.07",
+                "draw": "3.10",
+                "away": "3.40"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.25",
+                "2 [Home + 1]": "8.90"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "12:00",
+            "single": {
+                "home": "2.10",
+                "draw": "3.08",
+                "away": "3.55"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.00",
+                "2 [Home + 1]": "8.40"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 3.55,
+                "stake": 3355.191952632584
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 4.25,
+                "stake": 2761.6926503340756
+            },
+            "bet9ja Draw": {
+                "odd": 3.1,
+                "stake": 3786.191536748329
+            },
+            "amount": 10000,
+            "profit": 1737.1937639198204
+        }
+    },
+    "Ebro vs Valencia B": {
+        "bet9ja": {
+            "time": "12:00",
+            "single": {
+                "home": "3.15",
+                "draw": "2.87",
+                "away": "2.32"
+            },
+            "handicap": {
+                "1 [Away + 1]": "7.70",
+                "2 [Home + 1]": "4.90"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "12:00",
+            "single": {
+                "home": "3.22",
+                "draw": "2.82",
+                "away": "2.40"
+            },
+            "handicap": {
+                "1 [Away + 1]": "7.20",
+                "2 [Home + 1]": "4.70"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "betking Home": {
+                "odd": 3.22,
+                "stake": 3598.294884653962
+            },
+            "bet9ja 2 [Home + 1]": {
+                "odd": 4.9,
+                "stake": 2345.8359821996182
+            },
+            "bet9ja Draw": {
+                "odd": 2.87,
+                "stake": 4005.0858232676414
+            },
+            "amount": 10000,
+            "profit": 1494.5963127781306
+        }
+    },
+    "UE Costa Brava vs Terrassa FC": {
+        "bet9ja": {
+            "time": "12:00",
+            "single": {
+                "home": "2.32",
+                "draw": "2.96",
+                "away": "3.05"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.95",
+                "2 [Home + 1]": "7.40"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "12:00",
+            "single": {
+                "home": "2.40",
+                "draw": "2.92",
+                "away": "3.15"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.70",
+                "2 [Home + 1]": "6.90"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 3.15,
+                "stake": 3702.9455248493123
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 4.95,
+                "stake": 2328.1542131390624
+            },
+            "bet9ja Draw": {
+                "odd": 2.96,
+                "stake": 3893.365998323771
+            },
+            "amount": 10000,
+            "profit": 1524.363355038362
+        }
+    },
+    "Mar Menor CF vs Juventud Torremolinos CF": {
+        "bet9ja": {
+            "time": "12:00",
+            "single": {
+                "home": "1.60",
+                "draw": "3.50",
+                "away": "5.40"
+            },
+            "handicap": {
+                "1 [Away + 1]": "2.90",
+                "2 [Home + 1]": "0.00"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "12:00",
+            "single": {
+                "home": "1.65",
+                "draw": "3.75",
+                "away": "4.85"
+            },
+            "handicap": {
+                "1 [Away + 1]": "2.95",
+                "2 [Home + 1]": "13.25"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "bet9ja Away": {
+                "odd": 5.4,
+                "stake": 2270.1856407962423
+            },
+            "betking 1 [Away + 1]": {
+                "odd": 2.95,
+                "stake": 4185.582991916731
+            },
+            "betking Draw": {
+                "odd": 3.75,
+                "stake": 3347.226675216415
+            },
+            "amount": 10000,
+            "profit": 2552.1000320615567
+        }
+    },
+    "Recreativo de Huelva vs Velez": {
+        "bet9ja": {
+            "time": "12:00",
+            "single": {
+                "home": "2.02",
+                "draw": "3.10",
+                "away": "3.60"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.20",
+                "2 [Home + 1]": "9.90"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "12:00",
+            "single": {
+                "home": "1.96",
+                "draw": "3.18",
+                "away": "3.92"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.68",
+                "2 [Home + 1]": "9.80"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 3.92,
+                "stake": 3127.1015467384
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 4.2,
+                "stake": 2839.6946564885493
+            },
+            "betking Draw": {
+                "odd": 3.18,
+                "stake": 3787.195671776375
+            },
+            "amount": 10000,
+            "profit": 2043.2822362488732
+        }
+    },
+    "Cartagena II vs Atletico Mancha Real": {
+        "bet9ja": {
+            "time": "12:00",
+            "single": {
+                "home": "2.18",
+                "draw": "3.00",
+                "away": "3.25"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.85",
+                "2 [Home + 1]": "8.80"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "12:00",
+            "single": {
+                "home": "2.23",
+                "draw": "2.95",
+                "away": "3.42"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.50",
+                "2 [Home + 1]": "8.30"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 3.42,
+                "stake": 3514.7474454670632
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 4.85,
+                "stake": 2433.697347893916
+            },
+            "bet9ja Draw": {
+                "odd": 3.0,
+                "stake": 3934.477379095164
+            },
+            "amount": 10000,
+            "profit": 1803.432137285492
+        }
+    },
+    "Atl. Madrid B vs Guadalajara": {
+        "bet9ja": {
+            "time": "12:00",
+            "single": {
+                "home": "1.76",
+                "draw": "3.30",
+                "away": "4.45"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.35",
+                "2 [Home + 1]": "0.00"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "12:00",
+            "single": {
+                "home": "1.79",
+                "draw": "3.28",
+                "away": "4.60"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.22",
+                "2 [Home + 1]": "12.00"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 4.6,
+                "stake": 2654.580381798535
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 3.35,
+                "stake": 3612.768312934375
+            },
+            "bet9ja Draw": {
+                "odd": 3.3,
+                "stake": 3667.507226766714
+            },
+            "amount": 10000,
+            "profit": 2102.7738483301564
+        }
+    },
+    "Union Adarve vs Leganes B": {
+        "bet9ja": {
+            "time": "12:00",
+            "single": {
+                "home": "2.05",
+                "draw": "3.10",
+                "away": "3.50"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.25",
+                "2 [Home + 1]": "9.50"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "12:00",
+            "single": {
+                "home": "2.10",
+                "draw": "3.10",
+                "away": "3.55"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.05",
+                "2 [Home + 1]": "8.50"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 3.55,
+                "stake": 3355.191952632584
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 4.25,
+                "stake": 2789.2030848329046
+            },
+            "betking Draw": {
+                "odd": 3.1,
+                "stake": 3823.9074550128535
+            },
+            "amount": 10000,
+            "profit": 1854.1131105398454
+        }
+    },
+    "Montijo vs Atletico Paso": {
+        "bet9ja": {
+            "time": "12:00",
+            "single": {
+                "home": "1.70",
+                "draw": "3.50",
+                "away": "4.45"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.15",
+                "2 [Home + 1]": "0.00"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "12:00",
+            "single": {
+                "home": "1.71",
+                "draw": "3.55",
+                "away": "4.70"
+            },
+            "handicap": {
+                "1 [Away + 1]": "2.92",
+                "2 [Home + 1]": "11.75"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 4.7,
+                "stake": 2607.615894039735
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 3.15,
+                "stake": 3834.554071520896
+            },
+            "betking Draw": {
+                "odd": 3.55,
+                "stake": 3419.110921397646
+            },
+            "amount": 10000,
+            "profit": 2137.843770961643
+        }
+    },
+    "Cerdanyola Del Valles vs UD Melilla": {
+        "bet9ja": {
+            "time": "12:00",
+            "single": {
+                "home": "5.80",
+                "draw": "3.65",
+                "away": "1.54"
+            },
+            "handicap": {
+                "1 [Away + 1]": "0.00",
+                "2 [Home + 1]": "2.68"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "12:00",
+            "single": {
+                "home": "5.90",
+                "draw": "3.55",
+                "away": "1.59"
+            },
+            "handicap": {
+                "1 [Away + 1]": "16.00",
+                "2 [Home + 1]": "2.63"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "betking Home": {
+                "odd": 5.9,
+                "stake": 2075.5797916357233
+            },
+            "bet9ja 2 [Home + 1]": {
+                "odd": 2.68,
+                "stake": 4553.079834824501
+            },
+            "bet9ja Draw": {
+                "odd": 3.65,
+                "stake": 3343.083275980729
+            },
+            "amount": 10000,
+            "profit": 2202.25395732966
+        }
+    },
+    "CD Estepona vs Socuellamos": {
+        "bet9ja": {
+            "time": "12:00",
+            "single": {
+                "home": "1.88",
+                "draw": "3.25",
+                "away": "3.85"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.90",
+                "2 [Home + 1]": "11.25"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "12:00",
+            "single": {
+                "home": "1.89",
+                "draw": "3.28",
+                "away": "4.05"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.60",
+                "2 [Home + 1]": "10.50"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 4.05,
+                "stake": 3044.496487119438
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 3.9,
+                "stake": 3112.3686337914305
+            },
+            "betking Draw": {
+                "odd": 3.28,
+                "stake": 3713.367132434772
+            },
+            "amount": 10000,
+            "profit": 2179.8441943860507
+        }
+    },
+    "SD Compostela vs Real Valladolid Promesas": {
+        "bet9ja": {
+            "time": "16:45",
+            "single": {
+                "home": "1.98",
+                "draw": "3.20",
+                "away": "3.55"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.00",
+                "2 [Home + 1]": "9.50"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "16:45",
+            "single": {
+                "home": "1.98",
+                "draw": "3.25",
+                "away": "3.72"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.70",
+                "2 [Home + 1]": "9.00"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 3.72,
+                "stake": 3233.629749393694
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 4.0,
+                "stake": 2961.4181438998953
+            },
+            "betking Draw": {
+                "odd": 3.25,
+                "stake": 3665.6986124556306
+            },
+            "amount": 10000,
+            "profit": 1913.5204904807997
+        }
+    },
+    "Gernika Club vs Beasain": {
+        "bet9ja": {
+            "time": "17:00",
+            "single": {
+                "home": "2.03",
+                "draw": "3.10",
+                "away": "3.55"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.05",
+                "2 [Home + 1]": "9.30"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "17:00",
+            "single": {
+                "home": "2.05",
+                "draw": "3.10",
+                "away": "3.65"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.80",
+                "2 [Home + 1]": "8.60"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 3.65,
+                "stake": 3248.1728219390725
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 4.05,
+                "stake": 2900.8237232289953
+            },
+            "betking Draw": {
+                "odd": 3.1,
+                "stake": 3789.785831960461
+            },
+            "amount": 10000,
+            "profit": 1748.3360790774295
+        }
+    },
+    "UD Alzira vs Atletico Saguntino": {
+        "bet9ja": {
+            "time": "17:00",
+            "single": {
+                "home": "2.25",
+                "draw": "2.90",
+                "away": "3.25"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.95",
+                "2 [Home + 1]": "8.60"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "17:00",
+            "single": {
+                "home": "2.30",
+                "draw": "2.87",
+                "away": "3.35"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.70",
+                "2 [Home + 1]": "8.00"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 3.35,
+                "stake": 3531.148145870487
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 4.95,
+                "stake": 2364.081018373362
+            },
+            "bet9ja Draw": {
+                "odd": 2.9,
+                "stake": 4035.2417382579793
+            },
+            "amount": 10000,
+            "profit": 1702.201040948139
+        }
+    },
+    "El Ejido 2012 vs Yeclano Deportivo": {
+        "bet9ja": {
+            "time": "17:00",
+            "single": {
+                "home": "3.25",
+                "draw": "3.00",
+                "away": "2.18"
+            },
+            "handicap": {
+                "1 [Away + 1]": "8.50",
+                "2 [Home + 1]": "4.70"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "17:00",
+            "single": {
+                "home": "3.35",
+                "draw": "2.97",
+                "away": "2.23"
+            },
+            "handicap": {
+                "1 [Away + 1]": "8.00",
+                "2 [Home + 1]": "4.45"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "betking Home": {
+                "odd": 3.35,
+                "stake": 3534.2774783807495
+            },
+            "bet9ja 2 [Home + 1]": {
+                "odd": 4.7,
+                "stake": 2492.0127795527155
+            },
+            "bet9ja Draw": {
+                "odd": 3.0,
+                "stake": 3904.1533546325877
+            },
+            "amount": 10000,
+            "profit": 1712.4600638977627
+        }
+    },
+    "Antequera CF vs San Roque de Lepe": {
+        "bet9ja": {
+            "time": "17:00",
+            "single": {
+                "home": "1.87",
+                "draw": "3.20",
+                "away": "4.00"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.60",
+                "2 [Home + 1]": "0.00"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "17:00",
+            "single": {
+                "home": "1.93",
+                "draw": "3.15",
+                "away": "4.05"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.50",
+                "2 [Home + 1]": "9.90"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 4.05,
+                "stake": 2949.3087557603685
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 3.6,
+                "stake": 3305.785123966942
+            },
+            "bet9ja Draw": {
+                "odd": 3.2,
+                "stake": 3719.0082644628096
+            },
+            "amount": 10000,
+            "profit": 1900.8264462809911
+        }
+    },
+    "Atletico Sanluqueno vs Utrera": {
+        "bet9ja": {
+            "time": "17:00",
+            "single": {
+                "home": "1.78",
+                "draw": "3.40",
+                "away": "4.10"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.45",
+                "2 [Home + 1]": "0.00"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "17:00",
+            "single": {
+                "home": "1.80",
+                "draw": "3.38",
+                "away": "4.35"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.22",
+                "2 [Home + 1]": "11.00"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 4.35,
+                "stake": 2824.634278490157
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 3.45,
+                "stake": 3501.193017706894
+            },
+            "bet9ja Draw": {
+                "odd": 3.4,
+                "stake": 3552.681150320231
+            },
+            "amount": 10000,
+            "profit": 2079.1159110887857
+        }
+    },
+    "CD Don Benito vs Cacereno": {
+        "bet9ja": {
+            "time": "17:00",
+            "single": {
+                "home": "3.25",
+                "draw": "3.10",
+                "away": "2.13"
+            },
+            "handicap": {
+                "1 [Away + 1]": "8.50",
+                "2 [Home + 1]": "4.55"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "17:00",
+            "single": {
+                "home": "3.35",
+                "draw": "3.07",
+                "away": "2.18"
+            },
+            "handicap": {
+                "1 [Away + 1]": "7.90",
+                "2 [Home + 1]": "4.28"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "betking Home": {
+                "odd": 3.35,
+                "stake": 3549.9905618825896
+            },
+            "bet9ja 2 [Home + 1]": {
+                "odd": 4.55,
+                "stake": 2585.4879065888244
+            },
+            "bet9ja Draw": {
+                "odd": 3.1,
+                "stake": 3794.8290241868226
+            },
+            "amount": 10000,
+            "profit": 1763.9699749791507
+        }
+    },
+    "Coria vs CF Villanovense": {
+        "bet9ja": {
+            "time": "17:00",
+            "single": {
+                "home": "2.22",
+                "draw": "2.87",
+                "away": "3.40"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.95",
+                "2 [Home + 1]": "9.40"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "17:00",
+            "single": {
+                "home": "2.27",
+                "draw": "2.82",
+                "away": "3.48"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.70",
+                "2 [Home + 1]": "8.60"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 3.48,
+                "stake": 3429.8565189364585
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 4.95,
+                "stake": 2391.989116179877
+            },
+            "bet9ja Draw": {
+                "odd": 2.87,
+                "stake": 4125.556141146478
+            },
+            "amount": 10000,
+            "profit": 1840.346125090391
+        }
+    },
+    "Gimnastica Segoviana CF vs Diocesano": {
+        "bet9ja": {
+            "time": "17:00",
+            "single": {
+                "home": "1.67",
+                "draw": "3.65",
+                "away": "4.50"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.10",
+                "2 [Home + 1]": "0.00"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "17:00",
+            "single": {
+                "home": "1.68",
+                "draw": "3.62",
+                "away": "4.80"
+            },
+            "handicap": {
+                "1 [Away + 1]": "2.87",
+                "2 [Home + 1]": "12.25"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 4.8,
+                "stake": 2588.3563994052383
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 3.1,
+                "stake": 3939.793715519309
+            },
+            "bet9ja Draw": {
+                "odd": 3.65,
+                "stake": 3346.1261693451665
+            },
+            "amount": 10000,
+            "profit": 2213.3605181098574
+        }
+    },
+    "Zamora CF vs RS Gimnastica de Torrelavega": {
+        "bet9ja": {
+            "time": "17:30",
+            "single": {
+                "home": "1.73",
+                "draw": "3.25",
+                "away": "4.75"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.35",
+                "2 [Home + 1]": "0.00"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "17:30",
+            "single": {
+                "home": "1.73",
+                "draw": "3.20",
+                "away": "5.30"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.02",
+                "2 [Home + 1]": "14.25"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 5.3,
+                "stake": 2373.6850711287952
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 3.35,
+                "stake": 3654.9274933412253
+            },
+            "bet9ja Draw": {
+                "odd": 3.25,
+                "stake": 3767.3868008286477
+            },
+            "amount": 10000,
+            "profit": 2244.0071026931055
+        }
+    },
+    "Club Marino de Luanco vs Laredo": {
+        "bet9ja": {
+            "time": "18:15",
+            "single": {
+                "home": "2.05",
+                "draw": "3.10",
+                "away": "3.50"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.35",
+                "2 [Home + 1]": "9.70"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "betking": {
+            "time": "18:15",
+            "single": {
+                "home": "2.05",
+                "draw": "3.15",
+                "away": "3.62"
+            },
+            "handicap": {
+                "1 [Away + 1]": "4.00",
+                "2 [Home + 1]": "9.00"
+            },
+            "category": "Spain",
+            "sub-category": "Segunda RFEF"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 3.62,
+                "stake": 3333.4157314480644
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 4.35,
+                "stake": 2742.669362992922
+            },
+            "betking Draw": {
+                "odd": 3.15,
+                "stake": 3810.775295663601
+            },
+            "amount": 10000,
+            "profit": 2003.9421813403424
+        }
+    },
+    "Madrid CCF vs Valencia": {
+        "bet9ja": {
+            "time": "12:00",
+            "single": {
+                "home": "1.57",
+                "draw": "3.90",
+                "away": "4.55"
+            },
+            "handicap": {
+                "1 [Away + 1]": "2.70",
+                "2 [Home + 1]": "0.00"
+            },
+            "category": "Spain",
+            "sub-category": "Primera Division Femenina"
+        },
+        "betking": {
+            "time": "12:00",
+            "single": {
+                "home": "1.61",
+                "draw": "4.00",
+                "away": "4.80"
+            },
+            "handicap": {
+                "1 [Away + 1]": "2.55",
+                "2 [Home + 1]": "11.25"
+            },
+            "category": "Spain",
+            "sub-category": "Primera Division Femenina"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 4.8,
+                "stake": 2494.6695095948826
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 2.7,
+                "stake": 4374.999999999999
+            },
+            "betking Draw": {
+                "odd": 4.0,
+                "stake": 2975.657018287514
+            },
+            "amount": 10000,
+            "profit": 1902.6280731500556
+        }
+    },
+    "Deportivo Alaves vs Sevilla": {
+        "bet9ja": {
+            "time": "12:00",
+            "single": {
+                "home": "3.35",
+                "draw": "3.65",
+                "away": "1.84"
+            },
+            "handicap": {
+                "1 [Away + 1]": "7.70",
+                "2 [Home + 1]": "3.30"
+            },
+            "category": "Spain",
+            "sub-category": "Primera Division Femenina"
+        },
+        "betking": {
+            "time": "12:00",
+            "single": {
+                "home": "3.55",
+                "draw": "3.90",
+                "away": "1.85"
+            },
+            "handicap": {
+                "1 [Away + 1]": "7.40",
+                "2 [Home + 1]": "3.05"
+            },
+            "category": "Spain",
+            "sub-category": "Primera Division Femenina"
+        },
+        "3-way": {
+            "betking Home": {
+                "odd": 3.55,
+                "stake": 3280.4521004970384
+            },
+            "bet9ja 2 [Home + 1]": {
+                "odd": 3.3,
+                "stake": 3461.1846295378955
+            },
+            "betking Draw": {
+                "odd": 3.9,
+                "stake": 2988.645579886456
+            },
+            "amount": 10000,
+            "profit": 1655.7177615571782
+        }
+    },
+    "UDG Tenerife vs Levante Las Planas": {
+        "bet9ja": {
+            "time": "14:00",
+            "single": {
+                "home": "1.34",
+                "draw": "4.65",
+                "away": "6.50"
+            },
+            "handicap": {
+                "1 [Away + 1]": "2.00",
+                "2 [Home + 1]": "0.00"
+            },
+            "category": "Spain",
+            "sub-category": "Primera Division Femenina"
+        },
+        "betking": {
+            "time": "14:00",
+            "single": {
+                "home": "1.36",
+                "draw": "4.90",
+                "away": "7.20"
+            },
+            "handicap": {
+                "1 [Away + 1]": "1.87",
+                "2 [Home + 1]": "17.00"
+            },
+            "category": "Spain",
+            "sub-category": "Primera Division Femenina"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 7.2,
+                "stake": 1626.4428121720882
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 2.0,
+                "stake": 5754.402665397431
+            },
+            "betking Draw": {
+                "odd": 4.9,
+                "stake": 2378.7740164684355
+            },
+            "amount": 10000,
+            "profit": 1655.9926806953354
+        }
+    },
+    "Real Madrid vs Atletico Madrid": {
+        "bet9ja": {
+            "time": "20:00",
+            "single": {
+                "home": "1.68",
+                "draw": "3.90",
+                "away": "3.75"
+            },
+            "handicap": {
+                "1 [Away + 1]": "3.10",
+                "2 [Home + 1]": "0.00"
+            },
+            "category": "Spain",
+            "sub-category": "Primera Division Femenina"
+        },
+        "betking": {
+            "time": "20:00",
+            "single": {
+                "home": "1.73",
+                "draw": "3.95",
+                "away": "4.00"
+            },
+            "handicap": {
+                "1 [Away + 1]": "2.90",
+                "2 [Home + 1]": "9.20"
+            },
+            "category": "Spain",
+            "sub-category": "Primera Division Femenina"
+        },
+        "3-way": {
+            "betking Away": {
+                "odd": 4.0,
+                "stake": 3015.714642055376
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 3.1,
+                "stake": 3814.553990610328
+            },
+            "betking Draw": {
+                "odd": 3.95,
+                "stake": 3005.234925353842
+            },
+            "amount": 10000,
+            "profit": 1870.6779551476757
+        }
+    }
+}

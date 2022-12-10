@@ -1,0 +1,137 @@
+{
+    " England Premier League ": {
+        "link": "/group/5686"
+    },
+    " UEFA Champions League ": {
+        "link": "/group/5356"
+    },
+    " UEFA Europa League ": {
+        "link": "/group/5346"
+    },
+    " Italy Serie A ": {
+        "link": "/group/5695"
+    },
+    " Germany Bundesliga 1 ": {
+        "link": "/group/5698"
+    },
+    " Spain Primera Division ": {
+        "link": "/group/5694"
+    },
+    " France Ligue 1 ": {
+        "link": "/group/5683"
+    },
+    " Olympic Games ": {
+        "link": "/group/8976"
+    },
+    " Germany ": {
+        "link": "/country/242"
+    },
+    " International ": {
+        "link": "/country/1"
+    },
+    " England ": {
+        "link": "/country/288"
+    },
+    " Spain ": {
+        "link": "/country/237"
+    },
+    " Europe ": {
+        "link": "/country/22"
+    },
+    " South America ": {
+        "link": "/country/13"
+    },
+    " Italy ": {
+        "link": "/country/230"
+    },
+    " France ": {
+        "link": "/country/241"
+    },
+    " Scotland ": {
+        "link": "/country/290"
+    },
+    " Netherlands ": {
+        "link": "/country/246"
+    },
+    " Argentina ": {
+        "link": "/country/126"
+    },
+    " Armenia ": {
+        "link": "/country/177"
+    },
+    " Austria ": {
+        "link": "/country/239"
+    },
+    " Belarus ": {
+        "link": "/country/195"
+    },
+    " Belgium ": {
+        "link": "/country/240"
+    },
+    " Bosnia and Herzegovina ": {
+        "link": "/country/225"
+    },
+    " Brazil ": {
+        "link": "/country/128"
+    },
+    " Bulgaria ": {
+        "link": "/country/196"
+    },
+    " Chile ": {
+        "link": "/country/129"
+    },
+    " China ": {
+        "link": "/country/150"
+    },
+    " Colombia ": {
+        "link": "/country/130"
+    },
+    " Denmark ": {
+        "link": "/country/207"
+    },
+    " Ecuador ": {
+        "link": "/country/131"
+    },
+    " Estonia ": {
+        "link": "/country/208"
+    },
+    " Finland ": {
+        "link": "/country/210"
+    },
+    " Japan ": {
+        "link": "/country/154"
+    },
+    " Mexico ": {
+        "link": "/country/123"
+    },
+    " Poland ": {
+        "link": "/country/199"
+    },
+    " Portugal ": {
+        "link": "/country/233"
+    },
+    " Republic of Korea ": {
+        "link": "/country/156"
+    },
+    " Romania ": {
+        "link": "/country/201"
+    },
+    " Russian Federation ": {
+        "link": "/country/202"
+    },
+    " Serbia ": {
+        "link": "/country/235"
+    },
+    " Sweden ": {
+        "link": "/country/221"
+    },
+    " Ukraine ": {
+        "link": "/country/204"
+    },
+    " Uruguay ": {
+        "link": "/country/138"
+    },
+    " USA ": {
+        "link": "/country/144"
+    }
+}

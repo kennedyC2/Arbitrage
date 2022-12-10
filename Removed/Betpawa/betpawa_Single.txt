@@ -1,0 +1,2126 @@
+{
+    " England Premier League ": [
+        {
+            "match": "Brentford vs Arsenal",
+            "time": "8:00 pm Fri 13/08",
+            "home": "3.90",
+            "away": "1.87"
+        },
+        {
+            "match": "Manchester United vs Leeds United",
+            "time": "12:30 pm Sat 14/08",
+            "home": "1.53",
+            "away": "5.25"
+        },
+        {
+            "match": "Burnley vs Brighton and Hove Albion",
+            "time": "3:00 pm Sat 14/08",
+            "home": "3.40",
+            "away": "2.35"
+        },
+        {
+            "match": "Chelsea vs Crystal Palace",
+            "time": "3:00 pm Sat 14/08",
+            "home": "1.23",
+            "away": "13.00"
+        },
+        {
+            "match": "Everton vs Southampton",
+            "time": "3:00 pm Sat 14/08",
+            "home": "1.91",
+            "away": "3.95"
+        },
+        {
+            "match": "Leicester City vs Wolverhampton Wanderers",
+            "time": "3:00 pm Sat 14/08",
+            "home": "1.64",
+            "away": "5.50"
+        },
+        {
+            "match": "Watford vs Aston Villa",
+            "time": "3:00 pm Sat 14/08",
+            "home": "3.45",
+            "away": "2.20"
+        },
+        {
+            "match": "Norwich City vs Liverpool",
+            "time": "5:30 pm Sat 14/08",
+            "home": "9.75",
+            "away": "1.29"
+        },
+        {
+            "match": "Newcastle United vs West Ham United",
+            "time": "2:00 pm Sun 15/08",
+            "home": "3.30",
+            "away": "2.18"
+        },
+        {
+            "match": "Tottenham Hotspur vs Manchester City",
+            "time": "4:30 pm Sun 15/08",
+            "home": "5.50",
+            "away": "1.58"
+        }
+    ],
+    " UEFA Champions League ": [
+        {
+            "match": "Malmo FF vs Rangers",
+            "time": "6:00 pm Tue 03/08",
+            "home": "3.60",
+            "away": "2.04"
+        },
+        {
+            "match": "Sparta Prague vs AS Monaco",
+            "time": "6:00 pm Tue 03/08",
+            "home": "5.00",
+            "away": "1.71"
+        },
+        {
+            "match": "CFR Cluj vs Young Boys",
+            "time": "7:00 pm Tue 03/08",
+            "home": "3.10",
+            "away": "2.40"
+        },
+        {
+            "match": "Genk vs Shakhtar Donetsk",
+            "time": "7:00 pm Tue 03/08",
+            "home": "3.25",
+            "away": "2.23"
+        },
+        {
+            "match": "PSV Eindhoven vs FC Midtjylland",
+            "time": "7:00 pm Tue 03/08",
+            "home": "1.33",
+            "away": "8.50"
+        },
+        {
+            "match": "Crvena Zvezda vs Sheriff Tiraspol",
+            "time": "8:00 pm Tue 03/08",
+            "home": "1.33",
+            "away": "10.00"
+        },
+        {
+            "match": "Olympiakos vs Ludogorets 1947",
+            "time": "8:00 pm Tue 03/08",
+            "home": "1.75",
+            "away": "5.00"
+        },
+        {
+            "match": "Spartak Moscow vs Benfica",
+            "time": "6:00 pm Wed 04/08",
+            "home": "3.10",
+            "away": "2.25"
+        },
+        {
+            "match": "Dinamo Zagreb vs Legia Warsaw",
+            "time": "7:00 pm Wed 04/08",
+            "home": "1.62",
+            "away": "5.50"
+        },
+        {
+            "match": "Ferencvaros vs Slavia Prague",
+            "time": "7:00 pm Wed 04/08",
+            "home": "3.35",
+            "away": "2.30"
+        }
+    ],
+    " UEFA Europa League ": [
+        {
+            "match": "PFC Neftchi vs HJK Helsinki",
+            "time": "5:00 pm Tue 03/08",
+            "home": "2.35",
+            "away": "3.00"
+        }
+    ],
+    " Italy Serie A ": [
+        {
+            "match": "FC Internazionale vs Genoa",
+            "time": "5:30 pm Sat 21/08",
+            "home": "1.28",
+            "away": "9.50"
+        },
+        {
+            "match": "Hellas Verona FC vs Sassuolo",
+            "time": "5:30 pm Sat 21/08",
+            "home": "2.90",
+            "away": "2.40"
+        },
+        {
+            "match": "Empoli vs Lazio",
+            "time": "7:45 pm Sat 21/08",
+            "home": "4.75",
+            "away": "1.71"
+        },
+        {
+            "match": "Torino vs Atalanta BC",
+            "time": "7:45 pm Sat 21/08",
+            "home": "5.50",
+            "away": "1.55"
+        },
+        {
+            "match": "Bologna vs Salernitana",
+            "time": "5:30 pm Sun 22/08",
+            "home": "1.71",
+            "away": "4.75"
+        },
+        {
+            "match": "Udinese vs Juventus",
+            "time": "5:30 pm Sun 22/08",
+            "home": "6.50",
+            "away": "1.54"
+        },
+        {
+            "match": "AS Roma vs Fiorentina",
+            "time": "7:45 pm Sun 22/08",
+            "home": "1.70",
+            "away": "4.65"
+        },
+        {
+            "match": "Napoli vs Venezia",
+            "time": "7:45 pm Sun 22/08",
+            "home": "1.27",
+            "away": "10.00"
+        },
+        {
+            "match": "Cagliari vs Spezia",
+            "time": "5:30 pm Mon 23/08",
+            "home": "2.20",
+            "away": "3.20"
+        },
+        {
+            "match": "Sampdoria vs AC Milan",
+            "time": "7:45 pm Mon 23/08",
+            "home": "4.75",
+            "away": "1.74"
+        }
+    ],
+    " Germany Bundesliga 1 ": [
+        {
+            "match": "Borussia Monchengladbach vs Bayern Munich",
+            "time": "7:30 pm Fri 13/08",
+            "home": "6.00",
+            "away": "1.47"
+        },
+        {
+            "match": "Arminia Bielefeld vs Freiburg",
+            "time": "2:30 pm Sat 14/08",
+            "home": "2.80",
+            "away": "2.50"
+        },
+        {
+            "match": "Augsburg vs Hoffenheim",
+            "time": "2:30 pm Sat 14/08",
+            "home": "3.20",
+            "away": "2.14"
+        },
+        {
+            "match": "Stuttgart vs Greuther Furth",
+            "time": "2:30 pm Sat 14/08",
+            "home": "1.86",
+            "away": "3.90"
+        },
+        {
+            "match": "Union Berlin vs Bayer Leverkusen",
+            "time": "2:30 pm Sat 14/08",
+            "home": "2.95",
+            "away": "2.40"
+        },
+        {
+            "match": "Wolfsburg vs Bochum",
+            "time": "2:30 pm Sat 14/08",
+            "home": "1.45",
+            "away": "6.50"
+        },
+        {
+            "match": "Borussia Dortmund vs Eintracht Frankfurt",
+            "time": "5:30 pm Sat 14/08",
+            "home": "1.42",
+            "away": "7.00"
+        },
+        {
+            "match": "Mainz 05 vs RB Leipzig",
+            "time": "2:30 pm Sun 15/08",
+            "home": "6.00",
+            "away": "1.53"
+        },
+        {
+            "match": "FC Koln vs Hertha Berlin",
+            "time": "4:30 pm Sun 15/08",
+            "home": "2.65",
+            "away": "2.70"
+        }
+    ],
+    " Spain Primera Division ": [
+        {
+            "match": "Valencia vs Getafe",
+            "time": "8:00 pm Fri 13/08",
+            "home": "2.40",
+            "away": "3.15"
+        },
+        {
+            "match": "Osasuna vs Espanyol",
+            "time": "4:00 pm Sat 14/08",
+            "home": "2.11",
+            "away": "3.55"
+        },
+        {
+            "match": "Cadiz vs Levante UD",
+            "time": "6:30 pm Sat 14/08",
+            "home": "2.80",
+            "away": "2.55"
+        },
+        {
+            "match": "Mallorca vs Real Betis",
+            "time": "6:30 pm Sat 14/08",
+            "home": "3.40",
+            "away": "2.15"
+        },
+        {
+            "match": "Alaves vs Real Madrid",
+            "time": "9:00 pm Sat 14/08",
+            "home": "8.50",
+            "away": "1.37"
+        },
+        {
+            "match": "Celta Vigo vs Atletico Madrid",
+            "time": "4:30 pm Sun 15/08",
+            "home": "4.70",
+            "away": "1.79"
+        },
+        {
+            "match": "Barcelona vs Real Sociedad",
+            "time": "7:00 pm Sun 15/08",
+            "home": "1.42",
+            "away": "7.00"
+        },
+        {
+            "match": "Sevilla vs Rayo Vallecano",
+            "time": "9:15 pm Sun 15/08",
+            "home": "1.40",
+            "away": "7.50"
+        },
+        {
+            "match": "Villarreal CF vs Granada CF",
+            "time": "7:00 pm Mon 16/08",
+            "home": "1.47",
+            "away": "6.50"
+        },
+        {
+            "match": "Elche CF vs Athletic Club Bilbao",
+            "time": "9:00 pm Mon 16/08",
+            "home": "3.75",
+            "away": "2.03"
+        }
+    ],
+    " France Ligue 1 ": [
+        {
+            "match": "AS Monaco vs Nantes",
+            "time": "8:00 pm Fri 06/08",
+            "home": "1.47",
+            "away": "6.50"
+        },
+        {
+            "match": "Lyon vs Brest",
+            "time": "4:00 pm Sat 07/08",
+            "home": "1.30",
+            "away": "9.00"
+        },
+        {
+            "match": "Troyes AC vs Paris Saint Germain",
+            "time": "8:00 pm Sat 07/08",
+            "home": "13.00",
+            "away": "1.23"
+        },
+        {
+            "match": "Rennes vs Lens",
+            "time": "12:00 pm Sun 08/08",
+            "home": "1.96",
+            "away": "3.70"
+        },
+        {
+            "match": "Bordeaux vs Clermont",
+            "time": "2:00 pm Sun 08/08",
+            "home": "1.97",
+            "away": "3.75"
+        },
+        {
+            "match": "Nice vs Reims",
+            "time": "2:00 pm Sun 08/08",
+            "home": "1.97",
+            "away": "3.75"
+        },
+        {
+            "match": "St Etienne vs Lorient",
+            "time": "2:00 pm Sun 08/08",
+            "home": "2.14",
+            "away": "3.20"
+        },
+        {
+            "match": "Strasbourg vs Angers SCO",
+            "time": "2:00 pm Sun 08/08",
+            "home": "1.93",
+            "away": "3.95"
+        },
+        {
+            "match": "Metz vs Lille",
+            "time": "4:00 pm Sun 08/08",
+            "home": "5.50",
+            "away": "1.72"
+        },
+        {
+            "match": "Montpellier HSC vs Marseille",
+            "time": "7:45 pm Sun 08/08",
+            "home": "2.95",
+            "away": "2.30"
+        }
+    ],
+    " Olympic Games ": [
+        {
+            "match": "Mexico (Olympic) vs Brazil (Olympic)",
+            "time": "9:00 am Tue 03/08",
+            "home": "3.50",
+            "away": "2.05"
+        },
+        {
+            "match": "Japan (Olympic) vs Spain (Olympic)",
+            "time": "12:00 pm Tue 03/08",
+            "home": "3.65",
+            "away": "2.08"
+        }
+    ],
+    " Germany ": [
+        {
+            "match": "Wurzburger Kickers vs SC Verl",
+            "time": "6:00 pm Mon 02/08",
+            "home": "2.21",
+            "away": "2.95"
+        },
+        {
+            "match": "Cottbus vs Optik Rathenow",
+            "time": "6:00 pm Mon 02/08",
+            "home": "1.30",
+            "away": "9.00"
+        },
+        {
+            "match": "1860 Munich vs SV Darmstadt 98",
+            "time": "7:45 pm Fri 06/08",
+            "home": "1.72",
+            "away": "4.15"
+        },
+        {
+            "match": "Dynamo Dresden vs SC Paderborn 07",
+            "time": "7:45 pm Fri 06/08",
+            "home": "2.70",
+            "away": "2.50"
+        },
+        {
+            "match": "Osnabruck vs Werder Bremen",
+            "time": "2:30 pm Sat 07/08",
+            "home": "4.40",
+            "away": "1.74"
+        },
+        {
+            "match": "SV Sandhausen 1916 vs RB Leipzig",
+            "time": "2:30 pm Sat 07/08",
+            "home": "10.00",
+            "away": "1.28"
+        },
+        {
+            "match": "SpVgg Bayreuth vs Arminia Bielefeld",
+            "time": "2:30 pm Sat 07/08",
+            "home": "8.00",
+            "away": "1.37"
+        },
+        {
+            "match": "Weiche Flensburg vs Holstein Kiel",
+            "time": "2:30 pm Sat 07/08",
+            "home": "7.00",
+            "away": "1.42"
+        },
+        {
+            "match": "Wuppertaler vs Bochum",
+            "time": "2:30 pm Sat 07/08",
+            "home": "11.00",
+            "away": "1.24"
+        },
+        {
+            "match": "FC Magdeburg vs St Pauli",
+            "time": "5:30 pm Sat 07/08",
+            "home": "3.20",
+            "away": "2.04"
+        },
+        {
+            "match": "SSV Ulm vs Nurnberg",
+            "time": "5:30 pm Sat 07/08",
+            "home": "5.50",
+            "away": "1.52"
+        },
+        {
+            "match": "Carl Zeiss Jena vs FC Koln",
+            "time": "2:30 pm Sun 08/08",
+            "home": "9.50",
+            "away": "1.27"
+        },
+        {
+            "match": "Elversberg vs Mainz 05",
+            "time": "2:30 pm Sun 08/08",
+            "home": "7.50",
+            "away": "1.38"
+        },
+        {
+            "match": "SV ATA Spor Munchen vs Union Berlin",
+            "time": "2:30 pm Sun 08/08",
+            "home": "5.50",
+            "away": "1.54"
+        },
+        {
+            "match": "SV Meppen vs Hertha Berlin",
+            "time": "2:30 pm Sun 08/08",
+            "home": "8.00",
+            "away": "1.37"
+        },
+        {
+            "match": "TuS RW Koblenz vs Jahn Regensburg",
+            "time": "2:30 pm Sun 08/08",
+            "home": "8.00",
+            "away": "1.37"
+        },
+        {
+            "match": "Waldhof Mannheim vs Eintracht Frankfurt",
+            "time": "2:30 pm Sun 08/08",
+            "home": "7.00",
+            "away": "1.40"
+        },
+        {
+            "match": "Eintracht Braunschweig vs Hamburger SV",
+            "time": "5:30 pm Sun 08/08",
+            "home": "5.50",
+            "away": "1.54"
+        },
+        {
+            "match": "Hansa Rostock vs FC Heidenheim",
+            "time": "5:30 pm Sun 08/08",
+            "home": "2.40",
+            "away": "2.90"
+        },
+        {
+            "match": "Wurzburger Kickers vs Freiburg",
+            "time": "5:30 pm Sun 08/08",
+            "home": "6.50",
+            "away": "1.49"
+        },
+        {
+            "match": "Borussia Monchengladbach vs Bayern Munich",
+            "time": "7:30 pm Fri 13/08",
+            "home": "6.00",
+            "away": "1.47"
+        },
+        {
+            "match": "Arminia Bielefeld vs Freiburg",
+            "time": "2:30 pm Sat 14/08",
+            "home": "2.80",
+            "away": "2.50"
+        },
+        {
+            "match": "Augsburg vs Hoffenheim",
+            "time": "2:30 pm Sat 14/08",
+            "home": "3.20",
+            "away": "2.14"
+        },
+        {
+            "match": "Stuttgart vs Greuther Furth",
+            "time": "2:30 pm Sat 14/08",
+            "home": "1.86",
+            "away": "3.90"
+        },
+        {
+            "match": "Union Berlin vs Bayer Leverkusen",
+            "time": "2:30 pm Sat 14/08",
+            "home": "2.95",
+            "away": "2.40"
+        },
+        {
+            "match": "Wolfsburg vs Bochum",
+            "time": "2:30 pm Sat 14/08",
+            "home": "1.45",
+            "away": "6.50"
+        },
+        {
+            "match": "Borussia Dortmund vs Eintracht Frankfurt",
+            "time": "5:30 pm Sat 14/08",
+            "home": "1.42",
+            "away": "7.00"
+        },
+        {
+            "match": "Mainz 05 vs RB Leipzig",
+            "time": "2:30 pm Sun 15/08",
+            "home": "6.00",
+            "away": "1.53"
+        },
+        {
+            "match": "FC Koln vs Hertha Berlin",
+            "time": "4:30 pm Sun 15/08",
+            "home": "2.65",
+            "away": "2.70"
+        },
+        {
+            "match": "Borussia Dortmund vs Bayern Munich",
+            "time": "7:30 pm Tue 17/08",
+            "home": "3.30",
+            "away": "1.95"
+        }
+    ],
+    " International ": [
+        {
+            "match": "USA vs Mexico",
+            "time": "2:00 am Mon 02/08",
+            "home": "3.90",
+            "away": "2.05"
+        },
+        {
+            "match": "USA (W Olympic) vs Canada (W Olympic)",
+            "time": "9:00 am Mon 02/08",
+            "home": "1.72",
+            "away": "4.80"
+        },
+        {
+            "match": "Australia (W Olympic) vs Sweden (W Olympic)",
+            "time": "12:00 pm Mon 02/08",
+            "home": "5.25",
+            "away": "1.55"
+        },
+        {
+            "match": "Mexico (Olympic) vs Brazil (Olympic)",
+            "time": "9:00 am Tue 03/08",
+            "home": "3.50",
+            "away": "2.05"
+        },
+        {
+            "match": "Japan (Olympic) vs Spain (Olympic)",
+            "time": "12:00 pm Tue 03/08",
+            "home": "3.65",
+            "away": "2.08"
+        }
+    ],
+    " England ": [
+        {
+            "match": "Bournemouth vs West Brom",
+            "time": "7:45 pm Fri 06/08",
+            "home": "2.40",
+            "away": "2.95"
+        },
+        {
+            "match": "Blackburn Rovers vs Swansea City",
+            "time": "3:00 pm Sat 07/08",
+            "home": "2.30",
+            "away": "3.30"
+        },
+        {
+            "match": "Bristol City vs Blackpool FC",
+            "time": "3:00 pm Sat 07/08",
+            "home": "2.15",
+            "away": "3.40"
+        },
+        {
+            "match": "Cardiff City vs Barnsley",
+            "time": "3:00 pm Sat 07/08",
+            "home": "2.35",
+            "away": "3.20"
+        },
+        {
+            "match": "Derby County vs Huddersfield Town",
+            "time": "3:00 pm Sat 07/08",
+            "home": "4.95",
+            "away": "1.66"
+        },
+        {
+            "match": "Luton Town vs Peterborough United",
+            "time": "3:00 pm Sat 07/08",
+            "home": "2.09",
+            "away": "3.50"
+        },
+        {
+            "match": "Preston vs Hull City",
+            "time": "3:00 pm Sat 07/08",
+            "home": "2.19",
+            "away": "3.15"
+        },
+        {
+            "match": "Queens Park Rangers vs Millwall",
+            "time": "3:00 pm Sat 07/08",
+            "home": "2.15",
+            "away": "3.40"
+        },
+        {
+            "match": "Stoke City vs Reading",
+            "time": "3:00 pm Sat 07/08",
+            "home": "2.19",
+            "away": "3.30"
+        },
+        {
+            "match": "Bolton Wanderers vs MK Dons",
+            "time": "3:00 pm Sat 07/08",
+            "home": "2.30",
+            "away": "2.85"
+        },
+        {
+            "match": "Cambridge United vs Oxford United",
+            "time": "3:00 pm Sat 07/08",
+            "home": "3.60",
+            "away": "1.96"
+        },
+        {
+            "match": "Crewe vs Cheltenham Town",
+            "time": "3:00 pm Sat 07/08",
+            "home": "1.77",
+            "away": "4.15"
+        },
+        {
+            "match": "Doncaster vs AFC Wimbledon",
+            "time": "3:00 pm Sat 07/08",
+            "home": "2.01",
+            "away": "3.45"
+        },
+        {
+            "match": "Fleetwood Town vs Portsmouth",
+            "time": "3:00 pm Sat 07/08",
+            "home": "3.05",
+            "away": "2.35"
+        },
+        {
+            "match": "Gillingham vs Lincoln City",
+            "time": "3:00 pm Sat 07/08",
+            "home": "3.00",
+            "away": "2.30"
+        },
+        {
+            "match": "Ipswich Town vs Morecambe",
+            "time": "3:00 pm Sat 07/08",
+            "home": "1.52",
+            "away": "5.50"
+        },
+        {
+            "match": "Rotherham vs Plymouth",
+            "time": "3:00 pm Sat 07/08",
+            "home": "1.75",
+            "away": "4.30"
+        },
+        {
+            "match": "Shrewsbury vs Burton Albion",
+            "time": "3:00 pm Sat 07/08",
+            "home": "2.35",
+            "away": "3.00"
+        },
+        {
+            "match": "Sunderland vs Wigan Athletic",
+            "time": "3:00 pm Sat 07/08",
+            "home": "1.78",
+            "away": "4.15"
+        },
+        {
+            "match": "Wycombe vs Accrington Stanley",
+            "time": "3:00 pm Sat 07/08",
+            "home": "1.87",
+            "away": "3.85"
+        },
+        {
+            "match": "Carlisle vs Colchester United",
+            "time": "3:00 pm Sat 07/08",
+            "home": "2.05",
+            "away": "3.45"
+        },
+        {
+            "match": "Exeter City vs Bradford City",
+            "time": "3:00 pm Sat 07/08",
+            "home": "2.11",
+            "away": "3.35"
+        },
+        {
+            "match": "Forest Green Rovers vs Sutton United",
+            "time": "3:00 pm Sat 07/08",
+            "home": "1.78",
+            "away": "4.15"
+        },
+        {
+            "match": "Harrogate Town vs Rochdale",
+            "time": "3:00 pm Sat 07/08",
+            "home": "2.09",
+            "away": "3.25"
+        },
+        {
+            "match": "Hartlepool vs Crawley Town",
+            "time": "3:00 pm Sat 07/08",
+            "home": "2.15",
+            "away": "3.25"
+        },
+        {
+            "match": "Mansfield vs Bristol Rovers",
+            "time": "3:00 pm Sat 07/08",
+            "home": "2.25",
+            "away": "3.00"
+        },
+        {
+            "match": "Northampton Town vs Port Vale",
+            "time": "3:00 pm Sat 07/08",
+            "home": "2.05",
+            "away": "3.45"
+        },
+        {
+            "match": "Oldham Athletic vs Newport County",
+            "time": "3:00 pm Sat 07/08",
+            "home": "2.55",
+            "away": "2.65"
+        },
+        {
+            "match": "Salford City vs Leyton Orient",
+            "time": "3:00 pm Sat 07/08",
+            "home": "1.88",
+            "away": "3.85"
+        },
+        {
+            "match": "Scunthorpe vs Swindon Town",
+            "time": "3:00 pm Sat 07/08",
+            "home": "3.15",
+            "away": "2.15"
+        },
+        {
+            "match": "Stevenage vs Barrow",
+            "time": "3:00 pm Sat 07/08",
+            "home": "2.25",
+            "away": "3.25"
+        },
+        {
+            "match": "Tranmere vs Walsall",
+            "time": "3:00 pm Sat 07/08",
+            "home": "1.95",
+            "away": "3.60"
+        },
+        {
+            "match": "Leicester City vs Manchester City",
+            "time": "5:00 pm Sat 07/08",
+            "home": "3.65",
+            "away": "1.97"
+        },
+        {
+            "match": "Charlton Athletic vs Sheffield Wednesday",
+            "time": "5:30 pm Sat 07/08",
+            "home": "2.45",
+            "away": "2.75"
+        },
+        {
+            "match": "Sheffield United vs Birmingham City",
+            "time": "8:00 pm Sat 07/08",
+            "home": "1.75",
+            "away": "4.70"
+        },
+        {
+            "match": "Fulham vs Middlesbrough",
+            "time": "1:30 pm Sun 08/08",
+            "home": "1.86",
+            "away": "4.40"
+        },
+        {
+            "match": "Coventry vs Nottingham Forest",
+            "time": "4:30 pm Sun 08/08",
+            "home": "2.65",
+            "away": "2.75"
+        },
+        {
+            "match": "Brentford vs Arsenal",
+            "time": "8:00 pm Fri 13/08",
+            "home": "3.90",
+            "away": "1.87"
+        },
+        {
+            "match": "Manchester United vs Leeds United",
+            "time": "12:30 pm Sat 14/08",
+            "home": "1.53",
+            "away": "5.25"
+        },
+        {
+            "match": "Burnley vs Brighton and Hove Albion",
+            "time": "3:00 pm Sat 14/08",
+            "home": "3.40",
+            "away": "2.35"
+        },
+        {
+            "match": "Chelsea vs Crystal Palace",
+            "time": "3:00 pm Sat 14/08",
+            "home": "1.23",
+            "away": "13.00"
+        },
+        {
+            "match": "Everton vs Southampton",
+            "time": "3:00 pm Sat 14/08",
+            "home": "1.91",
+            "away": "3.95"
+        },
+        {
+            "match": "Leicester City vs Wolverhampton Wanderers",
+            "time": "3:00 pm Sat 14/08",
+            "home": "1.64",
+            "away": "5.50"
+        },
+        {
+            "match": "Watford vs Aston Villa",
+            "time": "3:00 pm Sat 14/08",
+            "home": "3.45",
+            "away": "2.20"
+        },
+        {
+            "match": "Norwich City vs Liverpool",
+            "time": "5:30 pm Sat 14/08",
+            "home": "9.75",
+            "away": "1.29"
+        },
+        {
+            "match": "Newcastle United vs West Ham United",
+            "time": "2:00 pm Sun 15/08",
+            "home": "3.30",
+            "away": "2.18"
+        },
+        {
+            "match": "Tottenham Hotspur vs Manchester City",
+            "time": "4:30 pm Sun 15/08",
+            "home": "5.50",
+            "away": "1.58"
+        }
+    ],
+    " Spain ": [
+        {
+            "match": "Huesca vs Eibar",
+            "time": "7:00 pm Fri 13/08",
+            "home": "2.45",
+            "away": "3.25"
+        },
+        {
+            "match": "Valencia vs Getafe",
+            "time": "8:00 pm Fri 13/08",
+            "home": "2.40",
+            "away": "3.15"
+        },
+        {
+            "match": "Real Zaragoza vs Ibiza Eivissa",
+            "time": "9:00 pm Fri 13/08",
+            "home": "1.65",
+            "away": "5.25"
+        },
+        {
+            "match": "Osasuna vs Espanyol",
+            "time": "4:00 pm Sat 14/08",
+            "home": "2.11",
+            "away": "3.55"
+        },
+        {
+            "match": "Real Sociedad II vs Leganes",
+            "time": "4:00 pm Sat 14/08",
+            "home": "4.30",
+            "away": "1.92"
+        },
+        {
+            "match": "Cadiz vs Levante UD",
+            "time": "6:30 pm Sat 14/08",
+            "home": "2.80",
+            "away": "2.55"
+        },
+        {
+            "match": "Mallorca vs Real Betis",
+            "time": "6:30 pm Sat 14/08",
+            "home": "3.40",
+            "away": "2.15"
+        },
+        {
+            "match": "Girona vs Amorebieta",
+            "time": "6:30 pm Sat 14/08",
+            "home": "1.55",
+            "away": "6.25"
+        },
+        {
+            "match": "Alaves vs Real Madrid",
+            "time": "9:00 pm Sat 14/08",
+            "home": "8.50",
+            "away": "1.37"
+        },
+        {
+            "match": "Ponferradina vs Alcorcon",
+            "time": "9:00 pm Sat 14/08",
+            "home": "2.55",
+            "away": "3.25"
+        },
+        {
+            "match": "Gijon vs CD Burgos",
+            "time": "4:00 pm Sun 15/08",
+            "home": "1.62",
+            "away": "5.25"
+        },
+        {
+            "match": "Celta Vigo vs Atletico Madrid",
+            "time": "4:30 pm Sun 15/08",
+            "home": "4.70",
+            "away": "1.79"
+        },
+        {
+            "match": "Real Oviedo CF vs CD Lugo",
+            "time": "6:30 pm Sun 15/08",
+            "home": "1.92",
+            "away": "4.30"
+        },
+        {
+            "match": "Barcelona vs Real Sociedad",
+            "time": "7:00 pm Sun 15/08",
+            "home": "1.42",
+            "away": "7.00"
+        },
+        {
+            "match": "Fuenlabrada vs Tenerife",
+            "time": "9:00 pm Sun 15/08",
+            "home": "2.45",
+            "away": "3.25"
+        },
+        {
+            "match": "Las Palmas vs Real Valladolid CF",
+            "time": "9:00 pm Sun 15/08",
+            "home": "2.85",
+            "away": "2.70"
+        },
+        {
+            "match": "Sevilla vs Rayo Vallecano",
+            "time": "9:15 pm Sun 15/08",
+            "home": "1.40",
+            "away": "7.50"
+        },
+        {
+            "match": "Villarreal CF vs Granada CF",
+            "time": "7:00 pm Mon 16/08",
+            "home": "1.47",
+            "away": "6.50"
+        },
+        {
+            "match": "Malaga vs Mirandes",
+            "time": "7:00 pm Mon 16/08",
+            "home": "2.24",
+            "away": "3.55"
+        },
+        {
+            "match": "Elche CF vs Athletic Club Bilbao",
+            "time": "9:00 pm Mon 16/08",
+            "home": "3.75",
+            "away": "2.03"
+        },
+        {
+            "match": "FC Cartagena vs Almeria",
+            "time": "9:00 pm Mon 16/08",
+            "home": "3.10",
+            "away": "2.55"
+        }
+    ],
+    " Europe ": [
+        {
+            "match": "PFC Neftchi vs HJK Helsinki",
+            "time": "5:00 pm Tue 03/08",
+            "home": "2.35",
+            "away": "3.00"
+        },
+        {
+            "match": "Malmo FF vs Rangers",
+            "time": "6:00 pm Tue 03/08",
+            "home": "3.60",
+            "away": "2.04"
+        },
+        {
+            "match": "Sparta Prague vs AS Monaco",
+            "time": "6:00 pm Tue 03/08",
+            "home": "5.00",
+            "away": "1.71"
+        },
+        {
+            "match": "CFR Cluj vs Young Boys",
+            "time": "7:00 pm Tue 03/08",
+            "home": "3.10",
+            "away": "2.40"
+        },
+        {
+            "match": "Genk vs Shakhtar Donetsk",
+            "time": "7:00 pm Tue 03/08",
+            "home": "3.25",
+            "away": "2.23"
+        },
+        {
+            "match": "PSV Eindhoven vs FC Midtjylland",
+            "time": "7:00 pm Tue 03/08",
+            "home": "1.33",
+            "away": "8.50"
+        },
+        {
+            "match": "Crvena Zvezda vs Sheriff Tiraspol",
+            "time": "8:00 pm Tue 03/08",
+            "home": "1.33",
+            "away": "10.00"
+        },
+        {
+            "match": "Olympiakos vs Ludogorets 1947",
+            "time": "8:00 pm Tue 03/08",
+            "home": "1.75",
+            "away": "5.00"
+        },
+        {
+            "match": "Spartak Moscow vs Benfica",
+            "time": "6:00 pm Wed 04/08",
+            "home": "3.10",
+            "away": "2.25"
+        },
+        {
+            "match": "Dinamo Zagreb vs Legia Warsaw",
+            "time": "7:00 pm Wed 04/08",
+            "home": "1.62",
+            "away": "5.50"
+        },
+        {
+            "match": "Ferencvaros vs Slavia Prague",
+            "time": "7:00 pm Wed 04/08",
+            "home": "3.35",
+            "away": "2.30"
+        },
+        {
+            "match": "FK Sochi vs Partizan Belgrade",
+            "time": "5:00 pm Thu 05/08",
+            "home": "2.35",
+            "away": "2.75"
+        },
+        {
+            "match": "KS Rakow Czestochowa vs Rubin Kazan (n)",
+            "time": "8:00 pm Thu 05/08",
+            "home": "2.75",
+            "away": "2.35"
+        },
+        {
+            "match": "Chelsea vs Villarreal CF",
+            "time": "8:00 pm Wed 11/08",
+            "home": "1.85",
+            "away": "4.35"
+        }
+    ],
+    " South America ": [
+        {
+            "match": "Fluminense RJ vs Cerro Porteno",
+            "time": "11:15 pm Tue 03/08",
+            "home": "1.81",
+            "away": "4.65"
+        }
+    ],
+    " Italy ": [
+        {
+            "match": "FC Internazionale vs Genoa",
+            "time": "5:30 pm Sat 21/08",
+            "home": "1.28",
+            "away": "9.50"
+        },
+        {
+            "match": "Hellas Verona FC vs Sassuolo",
+            "time": "5:30 pm Sat 21/08",
+            "home": "2.90",
+            "away": "2.40"
+        },
+        {
+            "match": "Empoli vs Lazio",
+            "time": "7:45 pm Sat 21/08",
+            "home": "4.75",
+            "away": "1.71"
+        },
+        {
+            "match": "Torino vs Atalanta BC",
+            "time": "7:45 pm Sat 21/08",
+            "home": "5.50",
+            "away": "1.55"
+        },
+        {
+            "match": "Bologna vs Salernitana",
+            "time": "5:30 pm Sun 22/08",
+            "home": "1.71",
+            "away": "4.75"
+        },
+        {
+            "match": "Udinese vs Juventus",
+            "time": "5:30 pm Sun 22/08",
+            "home": "6.50",
+            "away": "1.54"
+        },
+        {
+            "match": "AS Roma vs Fiorentina",
+            "time": "7:45 pm Sun 22/08",
+            "home": "1.70",
+            "away": "4.65"
+        },
+        {
+            "match": "Napoli vs Venezia",
+            "time": "7:45 pm Sun 22/08",
+            "home": "1.27",
+            "away": "10.00"
+        },
+        {
+            "match": "Cagliari vs Spezia",
+            "time": "5:30 pm Mon 23/08",
+            "home": "2.20",
+            "away": "3.20"
+        },
+        {
+            "match": "Sampdoria vs AC Milan",
+            "time": "7:45 pm Mon 23/08",
+            "home": "4.75",
+            "away": "1.74"
+        }
+    ],
+    " France ": [
+        {
+            "match": "Auxerre vs Grenoble",
+            "time": "7:45 pm Mon 02/08",
+            "home": "1.82",
+            "away": "4.15"
+        },
+        {
+            "match": "AS Monaco vs Nantes",
+            "time": "8:00 pm Fri 06/08",
+            "home": "1.47",
+            "away": "6.50"
+        },
+        {
+            "match": "Caen vs FC Sochaux",
+            "time": "2:00 pm Sat 07/08",
+            "home": "2.45",
+            "away": "2.85"
+        },
+        {
+            "match": "Lyon vs Brest",
+            "time": "4:00 pm Sat 07/08",
+            "home": "1.30",
+            "away": "9.00"
+        },
+        {
+            "match": "Amiens vs Quevilly",
+            "time": "6:00 pm Sat 07/08",
+            "home": "2.11",
+            "away": "3.55"
+        },
+        {
+            "match": "Auxerre vs AC Ajaccio",
+            "time": "6:00 pm Sat 07/08",
+            "home": "2.15",
+            "away": "3.25"
+        },
+        {
+            "match": "Dijon vs Rodez",
+            "time": "6:00 pm Sat 07/08",
+            "home": "2.25",
+            "away": "3.25"
+        },
+        {
+            "match": "Grenoble vs Guingamp",
+            "time": "6:00 pm Sat 07/08",
+            "home": "2.45",
+            "away": "2.75"
+        },
+        {
+            "match": "Le Havre vs Paris FC",
+            "time": "6:00 pm Sat 07/08",
+            "home": "2.85",
+            "away": "2.45"
+        },
+        {
+            "match": "Pau FC vs Toulouse FC",
+            "time": "6:00 pm Sat 07/08",
+            "home": "3.65",
+            "away": "2.15"
+        },
+        {
+            "match": "USL Dunkerque vs Chamois Niortais FC",
+            "time": "6:00 pm Sat 07/08",
+            "home": "2.35",
+            "away": "3.25"
+        },
+        {
+            "match": "Valenciennes FC vs Nimes Olympique",
+            "time": "6:00 pm Sat 07/08",
+            "home": "2.70",
+            "away": "2.60"
+        },
+        {
+            "match": "Troyes AC vs Paris Saint Germain",
+            "time": "8:00 pm Sat 07/08",
+            "home": "13.00",
+            "away": "1.23"
+        },
+        {
+            "match": "Rennes vs Lens",
+            "time": "12:00 pm Sun 08/08",
+            "home": "1.96",
+            "away": "3.70"
+        },
+        {
+            "match": "Bordeaux vs Clermont",
+            "time": "2:00 pm Sun 08/08",
+            "home": "1.97",
+            "away": "3.75"
+        },
+        {
+            "match": "Nice vs Reims",
+            "time": "2:00 pm Sun 08/08",
+            "home": "1.97",
+            "away": "3.75"
+        },
+        {
+            "match": "St Etienne vs Lorient",
+            "time": "2:00 pm Sun 08/08",
+            "home": "2.14",
+            "away": "3.20"
+        },
+        {
+            "match": "Strasbourg vs Angers SCO",
+            "time": "2:00 pm Sun 08/08",
+            "home": "1.93",
+            "away": "3.95"
+        },
+        {
+            "match": "Metz vs Lille",
+            "time": "4:00 pm Sun 08/08",
+            "home": "5.50",
+            "away": "1.72"
+        },
+        {
+            "match": "Montpellier HSC vs Marseille",
+            "time": "7:45 pm Sun 08/08",
+            "home": "2.95",
+            "away": "2.30"
+        }
+    ],
+    " Scotland ": [
+        {
+            "match": "Kilmarnock vs Ayr United",
+            "time": "7:45 pm Mon 02/08",
+            "home": "1.63",
+            "away": "4.85"
+        },
+        {
+            "match": "Dundee United vs Rangers",
+            "time": "12:30 pm Sat 07/08",
+            "home": "15.00",
+            "away": "1.14"
+        },
+        {
+            "match": "St Mirren vs Hearts",
+            "time": "3:00 pm Sat 07/08",
+            "home": "2.80",
+            "away": "2.40"
+        },
+        {
+            "match": "Celtic vs Dundee",
+            "time": "3:00 pm Sun 08/08",
+            "home": "1.12",
+            "away": "17.00"
+        },
+        {
+            "match": "Hibernian vs Ross County",
+            "time": "3:00 pm Sun 08/08",
+            "home": "1.42",
+            "away": "7.00"
+        },
+        {
+            "match": "Livingston vs Aberdeen",
+            "time": "3:00 pm Sun 08/08",
+            "home": "2.65",
+            "away": "2.80"
+        },
+        {
+            "match": "St Johnstone vs Motherwell",
+            "time": "3:00 pm Sun 08/08",
+            "home": "2.05",
+            "away": "3.70"
+        }
+    ],
+    " Netherlands ": [
+        {
+            "match": "Go Ahead Eagles vs Heerenveen",
+            "time": "7:00 pm Fri 13/08",
+            "home": "2.80",
+            "away": "2.40"
+        },
+        {
+            "match": "RKC Waalwijk vs AZ Alkmaar",
+            "time": "3:30 pm Sat 14/08",
+            "home": "7.00",
+            "away": "1.40"
+        },
+        {
+            "match": "Heracles Almelo vs PSV Eindhoven",
+            "time": "5:45 pm Sat 14/08",
+            "home": "5.50",
+            "away": "1.54"
+        },
+        {
+            "match": "Fortuna Sittard vs FC Twente Enschede",
+            "time": "7:00 pm Sat 14/08",
+            "home": "2.40",
+            "away": "2.70"
+        },
+        {
+            "match": "Ajax vs NEC Nijmegen",
+            "time": "8:00 pm Sat 14/08",
+            "home": "1.05",
+            "away": "34.00"
+        },
+        {
+            "match": "Cambuur Leeuwaarden vs Groningen",
+            "time": "11:15 am Sun 15/08",
+            "home": "2.85",
+            "away": "2.30"
+        },
+        {
+            "match": "FC Utrecht vs Sparta Rotterdam",
+            "time": "1:30 pm Sun 15/08",
+            "home": "1.59",
+            "away": "4.95"
+        },
+        {
+            "match": "FC Zwolle vs Vitesse Arnhem",
+            "time": "1:30 pm Sun 15/08",
+            "home": "3.75",
+            "away": "1.91"
+        },
+        {
+            "match": "Willem II vs Feyenoord",
+            "time": "3:45 pm Sun 15/08",
+            "home": "3.75",
+            "away": "1.87"
+        }
+    ],
+    " Argentina ": [
+        {
+            "match": "Argentinos Juniors vs Central Cordoba",
+            "time": "8:45 pm Mon 02/08",
+            "home": "2.09",
+            "away": "3.70"
+        },
+        {
+            "match": "Patronato Parana vs Newells Old Boys",
+            "time": "8:45 pm Mon 02/08",
+            "home": "2.40",
+            "away": "3.30"
+        },
+        {
+            "match": "Estudiantes vs Arsenal de Sarandi",
+            "time": "11:00 pm Mon 02/08",
+            "home": "1.71",
+            "away": "4.90"
+        },
+        {
+            "match": "Rosario Central vs Aldosivi Mar del Plata",
+            "time": "11:00 pm Mon 02/08",
+            "home": "1.92",
+            "away": "3.95"
+        },
+        {
+            "match": "Atletico Tucuman vs Velez Sarsfield BA",
+            "time": "1:15 am Tue 03/08",
+            "home": "3.05",
+            "away": "2.40"
+        }
+    ],
+    " Armenia ": [
+        {
+            "match": "Ararat Yerevan vs FC Noah",
+            "time": "4:00 pm Mon 02/08",
+            "home": "2.23",
+            "away": "2.95"
+        }
+    ],
+    " Austria ": [
+        {
+            "match": "St Polten vs Rapid Vienna II",
+            "time": "5:30 pm Tue 03/08",
+            "home": "1.40",
+            "away": "6.25"
+        },
+        {
+            "match": "Austria Klagenfurt vs Hartberg",
+            "time": "4:00 pm Sat 07/08",
+            "home": "2.70",
+            "away": "2.40"
+        },
+        {
+            "match": "SV Ried vs FC Admira Wacker Modling",
+            "time": "4:00 pm Sat 07/08",
+            "home": "2.09",
+            "away": "3.20"
+        },
+        {
+            "match": "Sturm Graz vs SCR Altach",
+            "time": "4:00 pm Sat 07/08",
+            "home": "1.52",
+            "away": "5.50"
+        },
+        {
+            "match": "Rapid Vienna vs Wolfsberger AC",
+            "time": "4:00 pm Sun 08/08",
+            "home": "1.72",
+            "away": "4.15"
+        },
+        {
+            "match": "Red Bull Salzburg vs Austria Vienna",
+            "time": "4:00 pm Sun 08/08",
+            "home": "1.12",
+            "away": "17.00"
+        },
+        {
+            "match": "WSG Wattens vs LASK Linz",
+            "time": "4:00 pm Sun 08/08",
+            "home": "4.95",
+            "away": "1.63"
+        }
+    ],
+    " Belarus ": [
+        {
+            "match": "FK Isloch Minsk vs Shakhter Soligorsk",
+            "time": "3:00 pm Mon 02/08",
+            "home": "7.25",
+            "away": "1.37"
+        },
+        {
+            "match": "FC Dinamo Brest vs Neman Grodno",
+            "time": "4:50 pm Mon 02/08",
+            "home": "2.03",
+            "away": "3.40"
+        },
+        {
+            "match": "FC Vitebsk vs Torpedo Zhodino",
+            "time": "6:50 pm Mon 02/08",
+            "home": "2.50",
+            "away": "2.75"
+        },
+        {
+            "match": "Gomel vs BATE Borisov",
+            "time": "6:50 pm Mon 02/08",
+            "home": "2.95",
+            "away": "2.23"
+        }
+    ],
+    " Belgium ": [
+        {
+            "match": "Club Brugge vs Cercle Brugge",
+            "time": "7:45 pm Fri 06/08",
+            "home": "1.24",
+            "away": "10.00"
+        },
+        {
+            "match": "KFCO Beerschot-Wilrijk vs Union St Gilloise",
+            "time": "3:15 pm Sat 07/08",
+            "home": "3.30",
+            "away": "2.00"
+        },
+        {
+            "match": "KV Mechelen vs Eupen",
+            "time": "5:30 pm Sat 07/08",
+            "home": "1.68",
+            "away": "4.25"
+        },
+        {
+            "match": "Sint Truiden vs SV Zulte-Waregem",
+            "time": "5:30 pm Sat 07/08",
+            "home": "2.19",
+            "away": "3.50"
+        },
+        {
+            "match": "KV Kortrijk vs Genk",
+            "time": "7:45 pm Sat 07/08",
+            "home": "3.30",
+            "away": "2.05"
+        },
+        {
+            "match": "Standard Liege vs Royal Antwerp",
+            "time": "12:30 pm Sun 08/08",
+            "home": "2.25",
+            "away": "3.00"
+        },
+        {
+            "match": "Oud-Heverlee Leuven vs Charleroi",
+            "time": "3:00 pm Sun 08/08",
+            "home": "2.70",
+            "away": "2.40"
+        },
+        {
+            "match": "Anderlecht vs Seraing United",
+            "time": "5:30 pm Sun 08/08",
+            "home": "1.33",
+            "away": "8.00"
+        },
+        {
+            "match": "Oostende vs Gent",
+            "time": "8:00 pm Sun 08/08",
+            "home": "3.75",
+            "away": "1.87"
+        }
+    ],
+    " Bosnia and Herzegovina ": [
+        {
+            "match": "FK Velez Mostar vs Rudar Prijedor",
+            "time": "7:00 pm Mon 02/08",
+            "home": "1.35",
+            "away": "8.50"
+        }
+    ],
+    " Brazil ": [
+        {
+            "match": "Atletico Goianiense vs America Mineiro",
+            "time": "Live 72'",
+            "home": "4.20",
+            "away": "4.00"
+        },
+        {
+            "match": "Ceara vs Fortaleza EC (Brazil)",
+            "time": "Live 71'",
+            "home": "4.50",
+            "away": "3.60"
+        }
+    ],
+    " Bulgaria ": [
+        {
+            "match": "Cherno More vs Botev Plovdiv",
+            "time": "4:45 pm Mon 02/08",
+            "home": "1.66",
+            "away": "4.75"
+        },
+        {
+            "match": "Pirin Blagoevgrad vs Beroe Stara Zagora",
+            "time": "7:00 pm Mon 02/08",
+            "home": "2.35",
+            "away": "2.85"
+        }
+    ],
+    " Chile ": [
+        {
+            "match": "Magallanes vs Deportes Copiapo",
+            "time": "5:00 pm Mon 02/08",
+            "home": "2.30",
+            "away": "2.80"
+        },
+        {
+            "match": "CD La Serena vs Antofagasta",
+            "time": "7:30 pm Mon 02/08",
+            "home": "2.40",
+            "away": "2.95"
+        },
+        {
+            "match": "CD Nublense vs CD O'Higgins",
+            "time": "11:00 pm Mon 02/08",
+            "home": "1.84",
+            "away": "3.95"
+        },
+        {
+            "match": "Curico Unido vs Santiago Wanderers",
+            "time": "1:30 am Tue 03/08",
+            "home": "1.81",
+            "away": "3.80"
+        },
+        {
+            "match": "CD Everton Vina del Mar vs Cobresal",
+            "time": "1:30 am Wed 04/08",
+            "home": "1.90",
+            "away": "3.60"
+        }
+    ],
+    " China ": [
+        {
+            "match": "Jiangxi Liansheng vs Wuhan Three Towns FC",
+            "time": "10:30 am Mon 02/08",
+            "home": "15.00",
+            "away": "1.19"
+        },
+        {
+            "match": "Guangzhou FC vs Shijiazhuang Yongchang FC",
+            "time": "11:00 am Mon 02/08",
+            "home": "1.23",
+            "away": "12.00"
+        },
+        {
+            "match": "Henan Jianye vs Chongqing Lifan",
+            "time": "11:00 am Mon 02/08",
+            "home": "2.10",
+            "away": "3.70"
+        },
+        {
+            "match": "Liaoning Shenyang FC vs Zibo Cuju FC",
+            "time": "12:35 pm Mon 02/08",
+            "home": "2.45",
+            "away": "2.30"
+        },
+        {
+            "match": "Nanjing City vs Shannxi Chang'an FC",
+            "time": "1:00 pm Mon 02/08",
+            "home": "3.95",
+            "away": "1.88"
+        },
+        {
+            "match": "Qingdao Hainiu vs Shandong Luneng",
+            "time": "1:00 pm Mon 02/08",
+            "home": "15.00",
+            "away": "1.23"
+        },
+        {
+            "match": "Shenzhen Shangqingyin vs Guangzhou R&F",
+            "time": "1:00 pm Mon 02/08",
+            "home": "1.70",
+            "away": "4.65"
+        },
+        {
+            "match": "Shanghai Shenhua vs Hebei CFFC",
+            "time": "9:30 am Tue 03/08",
+            "home": "1.65",
+            "away": "5.50"
+        },
+        {
+            "match": "Changchun Yatai vs Shanghai SIPG",
+            "time": "11:30 am Tue 03/08",
+            "home": "4.25",
+            "away": "1.76"
+        },
+        {
+            "match": "Beijing Guoan vs Wuhan Zall",
+            "time": "1:30 pm Tue 03/08",
+            "home": "1.81",
+            "away": "4.25"
+        },
+        {
+            "match": "Tianjin Teda FC vs Dalian Yifang FC",
+            "time": "1:30 pm Tue 03/08",
+            "home": "2.40",
+            "away": "3.10"
+        }
+    ],
+    " Colombia ": [
+        {
+            "match": "Jaguares de Cordoba vs Atletico Huila",
+            "time": "2:10 am Mon 02/08",
+            "home": "2.14",
+            "away": "3.70"
+        },
+        {
+            "match": "Deportivo Pasto vs Deportivo Pereira",
+            "time": "2:00 am Tue 03/08",
+            "home": "2.05",
+            "away": "3.60"
+        },
+        {
+            "match": "Santa Fe vs Atletico Nacional",
+            "time": "2:00 am Wed 04/08",
+            "home": "2.40",
+            "away": "3.40"
+        }
+    ],
+    " Denmark ": [
+        {
+            "match": "SonderjyskE vs FC Nordsjaelland",
+            "time": "6:00 pm Mon 02/08",
+            "home": "2.60",
+            "away": "2.65"
+        },
+        {
+            "match": "Silkeborg IF vs Viborg FF",
+            "time": "5:30 pm Fri 06/08",
+            "home": "2.19",
+            "away": "3.15"
+        },
+        {
+            "match": "FC Midtjylland vs Vejle Boldklub",
+            "time": "7:30 pm Fri 06/08",
+            "home": "1.45",
+            "away": "6.50"
+        },
+        {
+            "match": "Randers FC vs SonderjyskE",
+            "time": "1:00 pm Sun 08/08",
+            "home": "1.74",
+            "away": "4.40"
+        },
+        {
+            "match": "FC Copenhagen vs Brondby IF",
+            "time": "3:00 pm Sun 08/08",
+            "home": "1.82",
+            "away": "3.90"
+        },
+        {
+            "match": "AaB vs AGF Aarhus",
+            "time": "5:00 pm Sun 08/08",
+            "home": "2.30",
+            "away": "3.10"
+        }
+    ],
+    " Ecuador ": [
+        {
+            "match": "Emelec Guayaquil vs SD Aucas",
+            "time": "Live 46'",
+            "home": "1.17",
+            "away": "17.00"
+        },
+        {
+            "match": "LDU Quito vs Olmedo",
+            "time": "1:00 am Tue 03/08",
+            "home": "1.20",
+            "away": "13.00"
+        }
+    ],
+    " Estonia ": [
+        {
+            "match": "FC Maardu vs Tallinna Kalev",
+            "time": "5:00 pm Mon 02/08",
+            "home": "1.72",
+            "away": "3.80"
+        },
+        {
+            "match": "Flora Tallinn II vs FC Nomme United",
+            "time": "5:00 pm Mon 02/08",
+            "home": "2.22",
+            "away": "2.45"
+        },
+        {
+            "match": "JK Tammeka Tartu II vs Parnu Jalgpalliklubi",
+            "time": "5:00 pm Mon 02/08",
+            "home": "2.85",
+            "away": "1.90"
+        }
+    ],
+    " Finland ": [
+        {
+            "match": "JBK vs VIFK Vaasa",
+            "time": "4:30 pm Mon 02/08",
+            "home": "1.72",
+            "away": "3.50"
+        },
+        {
+            "match": "FC Inter Turku vs Honka",
+            "time": "4:30 pm Mon 02/08",
+            "home": "1.75",
+            "away": "4.65"
+        },
+        {
+            "match": "PK-35 vs Klubi-04",
+            "time": "4:30 pm Mon 02/08",
+            "home": "1.64",
+            "away": "4.80"
+        }
+    ],
+    " Japan ": [
+        {
+            "match": "Nagoya Grampus Eight vs Fagiano Okayama FC",
+            "time": "10:00 am Mon 02/08",
+            "home": "1.44",
+            "away": "8.00"
+        },
+        {
+            "match": "Vegalta Sendai vs Gamba Osaka",
+            "time": "11:00 am Tue 03/08",
+            "home": "3.05",
+            "away": "2.20"
+        },
+        {
+            "match": "Cerezo Osaka vs Albirex Niigata",
+            "time": "10:00 am Wed 04/08",
+            "home": "1.55",
+            "away": "5.75"
+        }
+    ],
+    " Mexico ": [
+        {
+            "match": "Atletico San Luis vs Queretaro FC",
+            "time": "3:00 am Tue 03/08",
+            "home": "2.25",
+            "away": "3.15"
+        }
+    ],
+    " Poland ": [
+        {
+            "match": "Wigry Suwalki vs MKS Chojniczanka Chojnice",
+            "time": "5:00 pm Mon 02/08",
+            "home": "3.20",
+            "away": "2.13"
+        },
+        {
+            "match": "Lechia Gdansk vs Wisla Plock",
+            "time": "5:00 pm Mon 02/08",
+            "home": "2.15",
+            "away": "3.10"
+        },
+        {
+            "match": "GKS Gornik Leczna vs Warta Poznan",
+            "time": "5:00 pm Fri 06/08",
+            "home": "3.00",
+            "away": "2.35"
+        },
+        {
+            "match": "Lech Poznan vs Cracovia Krakow",
+            "time": "7:30 pm Fri 06/08",
+            "home": "1.68",
+            "away": "4.80"
+        },
+        {
+            "match": "Jagiellonia Bialystok vs Nieciecza",
+            "time": "2:00 pm Sat 07/08",
+            "home": "2.05",
+            "away": "3.25"
+        },
+        {
+            "match": "Gornik Zabrze vs FKS Stal Mielec",
+            "time": "4:30 pm Sat 07/08",
+            "home": "2.09",
+            "away": "3.25"
+        },
+        {
+            "match": "Legia Warsaw vs Zaglebie Lubin",
+            "time": "7:00 pm Sat 07/08",
+            "home": "1.63",
+            "away": "4.85"
+        },
+        {
+            "match": "MKS Pogon Szczecin vs Piast Gliwice",
+            "time": "2:00 pm Sun 08/08",
+            "home": "2.05",
+            "away": "3.45"
+        },
+        {
+            "match": "Wisla Krakow vs KS Rakow Czestochowa",
+            "time": "4:30 pm Sun 08/08",
+            "home": "3.05",
+            "away": "2.22"
+        },
+        {
+            "match": "Slask Wroclaw vs Lechia Gdansk",
+            "time": "7:00 pm Sun 08/08",
+            "home": "2.01",
+            "away": "3.55"
+        }
+    ],
+    " Portugal ": [
+        {
+            "match": "Sporting Lisbon vs Vizela",
+            "time": "8:15 pm Fri 06/08",
+            "home": "1.19",
+            "away": "12.00"
+        },
+        {
+            "match": "Arouca vs Estoril",
+            "time": "3:30 pm Sat 07/08",
+            "home": "2.40",
+            "away": "3.15"
+        },
+        {
+            "match": "Moreirense FC vs Benfica",
+            "time": "6:00 pm Sat 07/08",
+            "home": "8.00",
+            "away": "1.39"
+        },
+        {
+            "match": "CS Maritimo vs Braga",
+            "time": "8:30 pm Sat 07/08",
+            "home": "4.40",
+            "away": "1.78"
+        },
+        {
+            "match": "Guimaraes vs Portimonense",
+            "time": "3:30 pm Sun 08/08",
+            "home": "2.05",
+            "away": "3.70"
+        },
+        {
+            "match": "Tondela vs Santa Clara",
+            "time": "3:30 pm Sun 08/08",
+            "home": "3.10",
+            "away": "2.40"
+        },
+        {
+            "match": "FC Porto vs Belenenses",
+            "time": "6:00 pm Sun 08/08",
+            "home": "1.19",
+            "away": "13.00"
+        },
+        {
+            "match": "Pacos de Ferreira vs Famalicao",
+            "time": "8:30 pm Sun 08/08",
+            "home": "2.35",
+            "away": "3.15"
+        }
+    ],
+    " Republic of Korea ": [
+        {
+            "match": "Ulsan Hyundai FC vs Daegu FC",
+            "time": "11:00 am Wed 04/08",
+            "home": "1.87",
+            "away": "3.85"
+        },
+        {
+            "match": "Pohang Steelers vs Seongnam FC",
+            "time": "11:30 am Wed 04/08",
+            "home": "1.75",
+            "away": "4.35"
+        },
+        {
+            "match": "Suwon City vs Jeonbuk Motors",
+            "time": "11:30 am Wed 04/08",
+            "home": "3.55",
+            "away": "2.05"
+        }
+    ],
+    " Romania ": [
+        {
+            "match": "ACS Sepsi OSK Sfantul Gheorghe vs CS Mioveni",
+            "time": "4:30 pm Mon 02/08",
+            "home": "1.64",
+            "away": "5.25"
+        },
+        {
+            "match": "Dinamo Bucharest vs FC Academica Clinceni",
+            "time": "7:30 pm Mon 02/08",
+            "home": "3.80",
+            "away": "1.90"
+        },
+        {
+            "match": "Universitatea Cluj vs SS Politehnica Timisoara",
+            "time": "4:00 pm Tue 03/08",
+            "home": "1.65",
+            "away": "4.70"
+        }
+    ],
+    " Russian Federation ": [
+        {
+            "match": "FC Akhmat Grozny vs FK Sochi",
+            "time": "6:00 pm Mon 02/08",
+            "home": "2.50",
+            "away": "2.80"
+        },
+        {
+            "match": "FC Ufa vs Lokomotiv Moscow",
+            "time": "3:00 pm Fri 06/08",
+            "home": "4.10",
+            "away": "1.95"
+        },
+        {
+            "match": "Zenit St Petersburg vs FK Krasnodar",
+            "time": "3:00 pm Sat 07/08",
+            "home": "1.66",
+            "away": "4.95"
+        },
+        {
+            "match": "Arsenal Tula vs Kryliya Sovetov",
+            "time": "3:30 pm Sat 07/08",
+            "home": "2.45",
+            "away": "2.80"
+        },
+        {
+            "match": "Spartak Moscow vs Olimpiyets Nizhny Novgorod",
+            "time": "6:00 pm Sat 07/08",
+            "home": "1.24",
+            "away": "11.00"
+        },
+        {
+            "match": "Khimki vs FK Rostov",
+            "time": "3:30 pm Sun 08/08",
+            "home": "3.05",
+            "away": "2.40"
+        },
+        {
+            "match": "Dinamo Moscow vs CSKA Moscow",
+            "time": "6:00 pm Sun 08/08",
+            "home": "2.35",
+            "away": "2.90"
+        },
+        {
+            "match": "Rubin Kazan vs FC Akhmat Grozny",
+            "time": "6:00 pm Sun 08/08",
+            "home": "2.00",
+            "away": "3.90"
+        }
+    ],
+    " Serbia ": [
+        {
+            "match": "Backa Topola vs Kolubara",
+            "time": "6:00 pm Mon 02/08",
+            "home": "1.25",
+            "away": "11.00"
+        }
+    ],
+    " Sweden ": [
+        {
+            "match": "AIK Solna vs Halmstads",
+            "time": "6:00 pm Mon 02/08",
+            "home": "1.78",
+            "away": "4.90"
+        },
+        {
+            "match": "IFK Gothenburg vs IFK Norrkoping",
+            "time": "6:00 pm Mon 02/08",
+            "home": "2.09",
+            "away": "3.30"
+        },
+        {
+            "match": "Sirius vs Orebro",
+            "time": "6:00 pm Mon 02/08",
+            "home": "1.91",
+            "away": "3.75"
+        },
+        {
+            "match": "Jonkopings Sodra vs Varnamo",
+            "time": "6:00 pm Mon 02/08",
+            "home": "2.23",
+            "away": "3.05"
+        },
+        {
+            "match": "Sundsvall vs IK Brage",
+            "time": "6:00 pm Mon 02/08",
+            "home": "1.73",
+            "away": "4.55"
+        },
+        {
+            "match": "Akropolis IF vs Osters IF",
+            "time": "6:00 pm Tue 03/08",
+            "home": "3.30",
+            "away": "2.09"
+        },
+        {
+            "match": "Orgryte vs GAIS",
+            "time": "6:00 pm Tue 03/08",
+            "home": "2.25",
+            "away": "2.90"
+        },
+        {
+            "match": "Vasalunds IF vs Helsingborgs IF",
+            "time": "6:00 pm Wed 04/08",
+            "home": "5.25",
+            "away": "1.53"
+        }
+    ],
+    " Ukraine ": [
+        {
+            "match": "Inhulets Petrove vs FC Zorya Luhansk",
+            "time": "5:30 pm Mon 02/08",
+            "home": "4.85",
+            "away": "1.63"
+        }
+    ],
+    " Uruguay ": [
+        {
+            "match": "C. S. Villa Espanola vs Cerrito (Uru)",
+            "time": "7:00 pm Mon 02/08",
+            "home": "2.85",
+            "away": "2.30"
+        }
+    ],
+    " USA ": [
+        {
+            "match": "Toronto FC vs Nashville SC",
+            "time": "Live 68'",
+            "home": "3.30",
+            "away": "3.75"
+        },
+        {
+            "match": "Miami FC vs Charleston Battery",
+            "time": "Live 66'",
+            "home": "2.13",
+            "away": "5.75"
+        }
+    ]
+}
