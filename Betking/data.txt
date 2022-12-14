@@ -1,1454 +1,514 @@
 {
-    "Spain": {
-        "ESP - LaLiga": {
-            "Girona  vs Rayo Vallecano": {
-                "time": "17:00",
-                "single": {
-                    "home": "2.52",
-                    "draw": "3.22",
-                    "away": "3.00"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "5.10",
-                    "2 [Home + 1]": "6.50"
-                }
-            },
-            "Betis  vs Athletic Bilbao": {
-                "time": "19:15",
-                "single": {
-                    "home": "2.75",
-                    "draw": "3.40",
-                    "away": "2.60"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "5.80",
-                    "2 [Home + 1]": "5.30"
-                }
-            },
-            "Atl. Madrid vs Elche": {
-                "time": "21:30",
-                "single": {
-                    "home": "1.21",
-                    "draw": "6.20",
-                    "away": "14.00"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "1.63",
-                    "2 [Home + 1]": "0.00"
-                }
-            },
-            "Getafe  vs Mallorca": {
-                "time": "17:00",
-                "single": {
-                    "home": "2.77",
-                    "draw": "2.87",
-                    "away": "2.97"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "6.60",
-                    "2 [Home + 1]": "7.30"
-                }
-            },
-            "Cadiz vs Almeria": {
-                "time": "19:15",
-                "single": {
-                    "home": "2.37",
-                    "draw": "3.15",
-                    "away": "3.30"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "4.75",
-                    "2 [Home + 1]": "7.50"
-                }
-            },
-            "Celta vs Sevilla": {
-                "time": "19:15",
-                "single": {
-                    "home": "2.45",
-                    "draw": "3.25",
-                    "away": "3.07"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "5.00",
-                    "2 [Home + 1]": "6.80"
-                }
-            },
-            "Real Valladolid vs Real Madrid": {
-                "time": "21:30",
-                "single": {
-                    "home": "5.90",
-                    "draw": "4.50",
-                    "away": "1.54"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "14.25",
-                    "2 [Home + 1]": "2.38"
-                }
-            },
-            "Barcelona vs Espanyol": {
-                "time": "14:00",
-                "single": {
-                    "home": "1.27",
-                    "draw": "6.20",
-                    "away": "10.50"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "1.68",
-                    "2 [Home + 1]": "25.00"
-                }
-            },
-            "Real Sociedad vs Osasuna": {
-                "time": "16:15",
-                "single": {
-                    "home": "1.87",
-                    "draw": "3.52",
-                    "away": "4.50"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.52",
-                    "2 [Home + 1]": "11.75"
-                }
-            },
-            "Villarreal  vs Valencia": {
-                "time": "16:15",
-                "single": {
-                    "home": "2.00",
-                    "draw": "3.28",
-                    "away": "4.25"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.65",
-                    "2 [Home + 1]": "10.25"
-                }
-            }
-        },
-        "ESP - LaLiga2": {
-            "CF Villarreal B vs Tenerife": {
-                "time": "19:00",
-                "single": {
-                    "home": "3.05",
-                    "draw": "2.92",
-                    "away": "2.55"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "7.40",
-                    "2 [Home + 1]": "5.60"
-                }
-            },
-            "FC Andorra vs Leganes": {
-                "time": "19:00",
-                "single": {
-                    "home": "2.18",
-                    "draw": "2.97",
-                    "away": "3.75"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "4.70",
-                    "2 [Home + 1]": "10.00"
-                }
-            },
-            "Real Zaragoza vs Huesca": {
-                "time": "21:00",
-                "single": {
-                    "home": "2.00",
-                    "draw": "3.02",
-                    "away": "4.35"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "4.15",
-                    "2 [Home + 1]": "12.50"
-                }
-            },
-            "Ibiza Eivissa vs Malaga": {
-                "time": "14:00",
-                "single": {
-                    "home": "2.33",
-                    "draw": "2.97",
-                    "away": "3.35"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "5.05",
-                    "2 [Home + 1]": "8.50"
-                }
-            },
-            "Ponferradina vs Lugo": {
-                "time": "16:15",
-                "single": {
-                    "home": "2.30",
-                    "draw": "3.15",
-                    "away": "3.25"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "4.60",
-                    "2 [Home + 1]": "7.50"
-                }
-            },
-            "Sporting Gijon vs Cartagena": {
-                "time": "16:15",
-                "single": {
-                    "home": "2.25",
-                    "draw": "3.15",
-                    "away": "3.38"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "4.65",
-                    "2 [Home + 1]": "8.30"
-                }
-            },
-            "Eibar vs Real Oviedo": {
-                "time": "18:30",
-                "single": {
-                    "home": "1.78",
-                    "draw": "3.25",
-                    "away": "5.20"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.50",
-                    "2 [Home + 1]": "15.50"
-                }
-            },
-            "Granada vs Burgos": {
-                "time": "18:30",
-                "single": {
-                    "home": "1.87",
-                    "draw": "3.20",
-                    "away": "4.70"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.72",
-                    "2 [Home + 1]": "13.50"
-                }
-            },
-            "Las Palmas  vs Albacete": {
-                "time": "21:00",
-                "single": {
-                    "home": "1.83",
-                    "draw": "3.15",
-                    "away": "5.05"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.45",
-                    "2 [Home + 1]": "14.25"
-                }
-            },
-            "Racing Santander vs Mirandes": {
-                "time": "21:00",
+    "France": {
+        "FRA - Ligue 1": {
+            "Ajaccio vs Angers": {
+                "time": "15:00",
                 "single": {
                     "home": "2.15",
-                    "draw": "2.97",
-                    "away": "3.88"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "4.50",
-                    "2 [Home + 1]": "10.25"
-                }
-            },
-            "Alaves vs Levante": {
-                "time": "21:00",
-                "single": {
-                    "home": "2.40",
-                    "draw": "3.00",
-                    "away": "3.22"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "5.10",
-                    "2 [Home + 1]": "7.70"
-                }
-            }
-        },
-        "ESP - Primera Division Femenina": {
-            "Madrid Ccf (W) vs Valencia (W)": {
-                "time": "12:00",
-                "single": {
-                    "home": "1.61",
-                    "draw": "4.00",
-                    "away": "4.80"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "2.55",
-                    "2 [Home + 1]": "11.25"
-                }
-            },
-            "Deportivo Alaves (W) vs Sevilla (W)": {
-                "time": "12:00",
-                "single": {
-                    "home": "3.55",
-                    "draw": "3.90",
-                    "away": "1.85"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "7.40",
-                    "2 [Home + 1]": "3.05"
-                }
-            },
-            "Villareal CF (W) vs Sporting de Huelva (W)": {
-                "time": "12:00",
-                "single": {
-                    "home": "2.18",
-                    "draw": "3.50",
-                    "away": "2.77"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.95",
-                    "2 [Home + 1]": "5.50"
-                }
-            },
-            "UD Granadilla Tenerife (W) vs Levante Las Planas FC": {
-                "time": "14:00",
-                "single": {
-                    "home": "1.36",
-                    "draw": "4.90",
-                    "away": "7.20"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "1.87",
-                    "2 [Home + 1]": "17.00"
-                }
-            },
-            "Real Betis (W) vs Athletic Bilbao (W)": {
-                "time": "16:00",
-                "single": {
-                    "home": "2.75",
-                    "draw": "3.58",
-                    "away": "2.28"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "5.30",
-                    "2 [Home + 1]": "4.08"
-                }
-            },
-            "Real Sociedad (W) vs Levante UD (W)": {
-                "time": "18:00",
-                "single": {
-                    "home": "2.68",
-                    "draw": "3.40",
-                    "away": "2.42"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "5.05",
-                    "2 [Home + 1]": "4.40"
-                }
-            },
-            "Real Madrid (W) vs Atl. Madrid (W)": {
-                "time": "20:00",
-                "single": {
-                    "home": "1.73",
-                    "draw": "3.95",
-                    "away": "4.00"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "2.90",
-                    "2 [Home + 1]": "9.20"
-                }
-            }
-        },
-        "ESP - Tercera division": {
-            "Arucas vs UD Gran Tarajal": {
-                "time": "12:00",
-                "single": {
-                    "home": "1.61",
-                    "draw": "3.92",
-                    "away": "4.90"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "2.55",
-                    "2 [Home + 1]": "11.50"
-                }
-            },
-            "Levante B vs UD Rayo Ibense": {
-                "time": "12:00",
-                "single": {
-                    "home": "1.62",
-                    "draw": "3.65",
-                    "away": "5.25"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "2.70",
-                    "2 [Home + 1]": "13.50"
-                }
-            },
-            "Mirandes B vs Jupiter Leones": {
-                "time": "15:30",
-                "single": {
-                    "home": "2.12",
-                    "draw": "3.15",
-                    "away": "3.45"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.90",
-                    "2 [Home + 1]": "7.80"
-                }
-            },
-            "Pamplona vs Club Deportivo Avance Ezcabarte": {
-                "time": "15:30",
-                "single": {
-                    "home": "2.38",
-                    "draw": "2.85",
-                    "away": "3.20"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "4.65",
-                    "2 [Home + 1]": "7.10"
-                }
-            },
-            "SD Torina vs Cultural Guarnizo": {
-                "time": "15:45",
-                "single": {
-                    "home": "2.03",
-                    "draw": "2.97",
-                    "away": "3.95"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.82",
-                    "2 [Home + 1]": "9.80"
-                }
-            },
-            "Valle de Egues vs SD Lagunak": {
-                "time": "15:45",
-                "single": {
-                    "home": "1.85",
-                    "draw": "3.40",
-                    "away": "4.02"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.25",
-                    "2 [Home + 1]": "9.70"
-                }
-            },
-            "Atzeneta UE vs Acero": {
-                "time": "16:00",
-                "single": {
-                    "home": "1.85",
-                    "draw": "3.15",
-                    "away": "4.55"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.50",
-                    "2 [Home + 1]": "12.25"
-                }
-            },
-            "CD Cantolagua vs Udc Txantrea Kke": {
-                "time": "16:00",
-                "single": {
-                    "home": "2.95",
-                    "draw": "2.90",
-                    "away": "2.52"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "6.20",
-                    "2 [Home + 1]": "5.00"
-                }
-            },
-            "CD Santanyi vs PE Sant Jordi": {
-                "time": "16:00",
-                "single": {
-                    "home": "1.67",
-                    "draw": "3.68",
-                    "away": "4.80"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "2.72",
-                    "2 [Home + 1]": "11.50"
-                }
-            },
-            "Escobedo vs CF Vimenor": {
-                "time": "16:00",
-                "single": {
-                    "home": "2.08",
-                    "draw": "3.15",
-                    "away": "3.52"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.88",
-                    "2 [Home + 1]": "8.20"
-                }
-            },
-            "FC Inter Manacor vs CD Sant Jordi": {
-                "time": "16:00",
-                "single": {
-                    "home": "1.42",
-                    "draw": "4.40",
-                    "away": "6.70"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "2.05",
-                    "2 [Home + 1]": "16.50"
-                }
-            },
-            "Hercules B vs Torrent": {
-                "time": "16:00",
-                "single": {
-                    "home": "3.70",
-                    "draw": "2.85",
-                    "away": "2.18"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "9.10",
-                    "2 [Home + 1]": "4.30"
-                }
-            },
-            "Binisalem vs Constancia": {
-                "time": "16:30",
-                "single": {
-                    "home": "3.15",
-                    "draw": "3.18",
-                    "away": "2.23"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "6.70",
-                    "2 [Home + 1]": "4.15"
-                }
-            },
-            "CD Aurrera Ondarroa vs Pasaia KE": {
-                "time": "16:30",
-                "single": {
-                    "home": "2.22",
-                    "draw": "3.02",
-                    "away": "3.35"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "4.15",
-                    "2 [Home + 1]": "7.40"
-                }
-            },
-            "Touring Ke vs SD Deusto": {
-                "time": "16:30",
-                "single": {
-                    "home": "3.78",
-                    "draw": "3.18",
-                    "away": "1.99"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "8.80",
-                    "2 [Home + 1]": "3.58"
-                }
-            },
-            "UD Poblense vs CE Mercadal": {
-                "time": "16:30",
-                "single": {
-                    "home": "1.28",
-                    "draw": "5.30",
-                    "away": "9.20"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "1.67",
-                    "2 [Home + 1]": "0.00"
-                }
-            },
-            "Villa Santa Brigida vs Ibarra": {
-                "time": "16:30",
-                "single": {
-                    "home": "1.41",
-                    "draw": "4.55",
-                    "away": "6.60"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "2.00",
-                    "2 [Home + 1]": "16.00"
-                }
-            },
-            "Andratx vs Platges de Calvia": {
-                "time": "17:00",
-                "single": {
-                    "home": "1.61",
-                    "draw": "3.75",
-                    "away": "5.25"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "2.63",
-                    "2 [Home + 1]": "13.25"
-                }
-            },
-            "Cd Azkoyen vs Club Deportivo Huarte": {
-                "time": "17:00",
-                "single": {
-                    "home": "3.72",
-                    "draw": "3.28",
-                    "away": "1.98"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "8.40",
-                    "2 [Home + 1]": "3.50"
-                }
-            },
-            "CD Padura vs CD Lagun Onak": {
-                "time": "17:00",
-                "single": {
-                    "home": "3.00",
-                    "draw": "2.90",
-                    "away": "2.48"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "6.30",
-                    "2 [Home + 1]": "4.85"
-                }
-            },
-            "Scd Durango vs Urduliz": {
-                "time": "17:00",
-                "single": {
-                    "home": "1.72",
-                    "draw": "3.58",
-                    "away": "4.55"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "2.92",
-                    "2 [Home + 1]": "11.00"
-                }
-            },
-            "SD Atletico Albericia vs Castro": {
-                "time": "17:00",
-                "single": {
-                    "home": "1.94",
-                    "draw": "3.30",
-                    "away": "3.85"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.48",
-                    "2 [Home + 1]": "9.10"
-                }
-            },
-            "SD Leioa vs CD Vitoria": {
-                "time": "17:00",
-                "single": {
-                    "home": "2.90",
-                    "draw": "3.00",
-                    "away": "2.48"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "6.10",
-                    "2 [Home + 1]": "4.90"
-                }
-            },
-            "SD Portmany vs Llosetense": {
-                "time": "17:00",
-                "single": {
-                    "home": "2.65",
-                    "draw": "3.00",
-                    "away": "2.68"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "5.30",
-                    "2 [Home + 1]": "5.40"
-                }
-            },
-            "Atletico Tomelloso vs Villacanas": {
-                "time": "18:30",
-                "single": {
-                    "home": "3.70",
-                    "draw": "3.15",
-                    "away": "2.05"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "8.60",
-                    "2 [Home + 1]": "3.75"
-                }
-            },
-            "CD Azuaga vs Atletico Club Pueblonuevo": {
-                "time": "19:00",
-                "single": {
-                    "home": "1.90",
-                    "draw": "3.28",
-                    "away": "4.02"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.45",
-                    "2 [Home + 1]": "9.90"
-                }
-            },
-            "Tropezon vs CD Cayon": {
-                "time": "19:00",
-                "single": {
-                    "home": "2.25",
-                    "draw": "3.15",
-                    "away": "3.18"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "4.18",
-                    "2 [Home + 1]": "6.80"
-                }
-            }
-        },
-        "ESP - Primera RFEF": {
-            "Celta Vigo B vs Cultural Leonesa": {
-                "time": "17:00",
-                "single": {
-                    "home": "1.81",
-                    "draw": "3.62",
-                    "away": "4.00"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.15",
-                    "2 [Home + 1]": "9.40"
-                }
-            },
-            "Real Sociedad B vs CF La Nucia": {
-                "time": "17:00",
-                "single": {
-                    "home": "2.00",
-                    "draw": "3.20",
+                    "draw": "3.25",
                     "away": "3.75"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "3.85",
-                    "2 [Home + 1]": "9.40"
-                }
-            },
-            "CD San Fernando vs Algeciras": {
-                "time": "18:00",
-                "single": {
-                    "home": "3.02",
-                    "draw": "3.22",
-                    "away": "2.28"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "6.50",
-                    "2 [Home + 1]": "4.35"
-                }
-            },
-            "Club Deportivo Eldense vs Amorebieta": {
-                "time": "18:00",
-                "single": {
-                    "home": "1.75",
-                    "draw": "3.55",
-                    "away": "4.40"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.15",
-                    "2 [Home + 1]": "11.25"
-                }
-            },
-            "Numancia vs UD Logrones": {
-                "time": "18:00",
-                "single": {
-                    "home": "2.18",
-                    "draw": "3.10",
-                    "away": "3.32"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "4.20",
-                    "2 [Home + 1]": "7.70"
-                }
-            },
-            "Real Madrid Castilla vs CF Talavera de La Reina": {
-                "time": "18:00",
-                "single": {
-                    "home": "1.36",
-                    "draw": "4.80",
-                    "away": "7.40"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "1.89",
-                    "2 [Home + 1]": "18.00"
-                }
-            },
-            "Athletic Bilbao B vs CD Atletico Baleares": {
-                "time": "12:00",
-                "single": {
-                    "home": "2.72",
-                    "draw": "3.15",
-                    "away": "2.55"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "5.60",
-                    "2 [Home + 1]": "5.15"
-                }
-            },
-            "CD Calahorra vs CD Castellon": {
-                "time": "12:00",
-                "single": {
-                    "home": "2.82",
-                    "draw": "3.18",
-                    "away": "2.43"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "6.00",
-                    "2 [Home + 1]": "4.85"
-                }
-            },
-            "CD Linares vs AD Ceuta": {
-                "time": "12:00",
-                "single": {
-                    "home": "1.80",
-                    "draw": "3.40",
-                    "away": "4.30"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.28",
-                    "2 [Home + 1]": "11.00"
-                }
-            },
-            "Merida UD vs CD Badajoz": {
-                "time": "12:00",
-                "single": {
-                    "home": "2.02",
-                    "draw": "3.15",
-                    "away": "3.78"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.85",
+                    "1 [Away + 1]": "4.30",
                     "2 [Home + 1]": "9.30"
                 }
             },
-            "Real Balompedica Linense vs Unionistas CF": {
-                "time": "12:00",
+            "Troyes vs Nantes": {
+                "time": "15:00",
                 "single": {
-                    "home": "2.43",
-                    "draw": "3.02",
-                    "away": "2.95"
+                    "home": "2.50",
+                    "draw": "3.50",
+                    "away": "2.80"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "4.85",
-                    "2 [Home + 1]": "6.40"
+                    "1 [Away + 1]": "4.90",
+                    "2 [Home + 1]": "5.70"
                 }
             },
-            "SD Logrones vs UD Cornella": {
-                "time": "12:00",
-                "single": {
-                    "home": "1.99",
-                    "draw": "3.30",
-                    "away": "3.65"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.65",
-                    "2 [Home + 1]": "8.60"
-                }
-            },
-            "Alcorcon vs Cordoba": {
+            "Auxerre vs Monaco": {
                 "time": "17:00",
                 "single": {
-                    "home": "2.27",
-                    "draw": "3.18",
-                    "away": "3.07"
+                    "home": "4.25",
+                    "draw": "3.72",
+                    "away": "1.79"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "4.38",
-                    "2 [Home + 1]": "6.70"
+                    "1 [Away + 1]": "10.50",
+                    "2 [Home + 1]": "3.20"
                 }
             },
-            "Pontevedra CF vs CF Rayo Majadahonda": {
-                "time": "17:00",
-                "single": {
-                    "home": "1.97",
-                    "draw": "3.35",
-                    "away": "3.65"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.55",
-                    "2 [Home + 1]": "8.40"
-                }
-            },
-            "Real Murcia CF vs Sabadell": {
-                "time": "17:00",
-                "single": {
-                    "home": "2.12",
-                    "draw": "3.10",
-                    "away": "3.50"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "4.08",
-                    "2 [Home + 1]": "8.30"
-                }
-            },
-            "Real Union de Irun vs CA Osasuna B": {
-                "time": "17:00",
-                "single": {
-                    "home": "3.20",
-                    "draw": "3.20",
-                    "away": "2.18"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "7.10",
-                    "2 [Home + 1]": "4.12"
-                }
-            },
-            "Gimnastic vs Barcelona B": {
+            "Clermont vs Lille": {
                 "time": "19:00",
                 "single": {
-                    "home": "2.05",
-                    "draw": "3.20",
-                    "away": "3.55"
+                    "home": "4.28",
+                    "draw": "3.78",
+                    "away": "1.84"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "3.82",
-                    "2 [Home + 1]": "8.30"
+                    "1 [Away + 1]": "10.25",
+                    "2 [Home + 1]": "3.28"
                 }
             },
-            "Intercity vs CD Alcoyano": {
-                "time": "19:00",
+            "PSG vs Strasbourg": {
+                "time": "21:00",
                 "single": {
-                    "home": "2.53",
-                    "draw": "3.00",
-                    "away": "2.82"
+                    "home": "1.19",
+                    "draw": "7.50",
+                    "away": "14.25"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "5.20",
-                    "2 [Home + 1]": "6.10"
+                    "1 [Away + 1]": "1.47",
+                    "2 [Home + 1]": "31.00"
                 }
             },
-            "La Coruna vs Racing de Ferrol": {
-                "time": "19:00",
+            "Stade Brest vs Lyon": {
+                "time": "21:00",
+                "single": {
+                    "home": "3.85",
+                    "draw": "3.65",
+                    "away": "1.98"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "9.00",
+                    "2 [Home + 1]": "3.60"
+                }
+            },
+            "Lorient vs Montpellier": {
+                "time": "17:00",
                 "single": {
                     "home": "2.02",
-                    "draw": "3.18",
-                    "away": "3.70"
+                    "draw": "3.65",
+                    "away": "3.65"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "3.82",
-                    "2 [Home + 1]": "9.00"
+                    "1 [Away + 1]": "3.68",
+                    "2 [Home + 1]": "8.30"
                 }
             },
-            "San Sebastian Reyes vs Fuenlabrada": {
+            "Reims vs Rennes": {
                 "time": "19:00",
                 "single": {
-                    "home": "2.55",
-                    "draw": "3.15",
-                    "away": "2.70"
+                    "home": "3.35",
+                    "draw": "3.28",
+                    "away": "2.28"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "5.25",
-                    "2 [Home + 1]": "5.60"
-                }
-            }
-        },
-        "ESP - Segunda RFEF": {
-            "Granada CF B vs Ucam Murcia": {
-                "time": "13:00",
-                "single": {
-                    "home": "3.15",
-                    "draw": "3.15",
-                    "away": "2.25"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "6.90",
+                    "1 [Away + 1]": "7.20",
                     "2 [Home + 1]": "4.25"
                 }
             },
-            "Alcorcon B vs CD Artistico Navalcarnero": {
-                "time": "16:00",
+            "Marseille vs Toulouse": {
+                "time": "21:00",
                 "single": {
-                    "home": "2.97",
-                    "draw": "2.97",
+                    "home": "1.56",
+                    "draw": "4.42",
+                    "away": "5.80"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "2.48",
+                    "2 [Home + 1]": "14.25"
+                }
+            },
+            "Nice vs Lens": {
+                "time": "21:00",
+                "single": {
+                    "home": "3.22",
+                    "draw": "2.95",
+                    "away": "2.53"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "7.00",
+                    "2 [Home + 1]": "5.00"
+                }
+            },
+            "Angers vs Lorient": {
+                "time": "15:00",
+                "single": {
+                    "home": "2.87",
+                    "draw": "3.30",
+                    "away": "2.57"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "6.00",
+                    "2 [Home + 1]": "5.20"
+                }
+            },
+            "Monaco vs Stade Brest": {
+                "time": "15:00",
+                "single": {
+                    "home": "1.53",
+                    "draw": "4.65",
+                    "away": "5.70"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "2.40",
+                    "2 [Home + 1]": "14.00"
+                }
+            },
+            "Nantes vs Auxerre": {
+                "time": "15:00",
+                "single": {
+                    "home": "2.05",
+                    "draw": "3.22",
+                    "away": "4.10"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.75",
+                    "2 [Home + 1]": "9.70"
+                }
+            },
+            "Toulouse  vs Ajaccio": {
+                "time": "15:00",
+                "single": {
+                    "home": "2.08",
+                    "draw": "3.18",
+                    "away": "4.05"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.85",
+                    "2 [Home + 1]": "9.60"
+                }
+            },
+            "Lyon vs Clermont": {
+                "time": "17:00",
+                "single": {
+                    "home": "1.46",
+                    "draw": "4.90",
+                    "away": "6.60"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "2.20",
+                    "2 [Home + 1]": "16.00"
+                }
+            },
+            "Lens vs PSG": {
+                "time": "20:45",
+                "single": {
+                    "home": "4.05",
+                    "draw": "3.82",
+                    "away": "1.88"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "9.10",
+                    "2 [Home + 1]": "3.22"
+                }
+            },
+            "Strasbourg vs Troyes": {
+                "time": "15:00",
+                "single": {
+                    "home": "1.83",
+                    "draw": "3.80",
+                    "away": "4.32"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.25",
+                    "2 [Home + 1]": "10.50"
+                }
+            },
+            "Lille  vs Reims": {
+                "time": "17:00",
+                "single": {
+                    "home": "1.66",
+                    "draw": "3.98",
+                    "away": "5.30"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "2.82",
+                    "2 [Home + 1]": "13.50"
+                }
+            },
+            "Montpellier vs Marseille": {
+                "time": "19:00",
+                "single": {
+                    "home": "3.95",
+                    "draw": "3.85",
+                    "away": "1.89"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "9.20",
+                    "2 [Home + 1]": "3.35"
+                }
+            },
+            "Rennes vs Nice": {
+                "time": "21:00",
+                "single": {
+                    "home": "1.88",
+                    "draw": "3.75",
+                    "away": "4.12"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.40",
+                    "2 [Home + 1]": "9.90"
+                }
+            }
+        },
+        "FRA - Ligue 2": {
+            "Annecy vs Saint Etienne": {
+                "time": "17:00",
+                "single": {
+                    "home": "2.90",
+                    "draw": "3.35",
+                    "away": "2.38"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "6.30",
+                    "2 [Home + 1]": "4.80"
+                }
+            },
+            "Le Havre vs Bordeaux": {
+                "time": "19:00",
+                "single": {
+                    "home": "2.28",
+                    "draw": "3.18",
+                    "away": "3.22"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.75",
+                    "2 [Home + 1]": "7.80"
+                }
+            },
+            "Bastia vs Caen": {
+                "time": "21:00",
+                "single": {
+                    "home": "3.05",
+                    "draw": "3.10",
+                    "away": "2.43"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "7.30",
+                    "2 [Home + 1]": "5.25"
+                }
+            },
+            "Dijon  vs Laval": {
+                "time": "21:00",
+                "single": {
+                    "home": "2.33",
+                    "draw": "3.15",
+                    "away": "3.10"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.60",
+                    "2 [Home + 1]": "6.80"
+                }
+            },
+            "Metz vs Niort": {
+                "time": "21:00",
+                "single": {
+                    "home": "1.77",
+                    "draw": "3.52",
+                    "away": "4.75"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.28",
+                    "2 [Home + 1]": "12.75"
+                }
+            },
+            "Nimes vs Guingamp": {
+                "time": "21:00",
+                "single": {
+                    "home": "2.90",
+                    "draw": "3.25",
                     "away": "2.45"
                 },
                 "handicap": {
                     "1 [Away + 1]": "6.40",
-                    "2 [Home + 1]": "4.90"
+                    "2 [Home + 1]": "5.05"
                 }
             },
-            "Cadiz B vs Real Betis B": {
-                "time": "16:00",
+            "Pau vs Paris FC": {
+                "time": "21:00",
                 "single": {
-                    "home": "2.70",
-                    "draw": "2.87",
-                    "away": "2.75"
+                    "home": "2.97",
+                    "draw": "3.20",
+                    "away": "2.43"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "5.80",
-                    "2 [Home + 1]": "6.00"
+                    "1 [Away + 1]": "6.70",
+                    "2 [Home + 1]": "5.05"
                 }
             },
-            "Burgos Promesas vs CD Cristo Atletico": {
-                "time": "16:30",
+            "Quevilly Rouen vs Grenoble": {
+                "time": "21:00",
                 "single": {
-                    "home": "3.45",
-                    "draw": "3.00",
-                    "away": "2.17"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "7.90",
-                    "2 [Home + 1]": "4.08"
-                }
-            },
-            "Union Mutilvera vs Alfaro CD": {
-                "time": "16:30",
-                "single": {
-                    "home": "2.15",
+                    "home": "2.48",
                     "draw": "3.15",
-                    "away": "3.35"
+                    "away": "2.92"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "4.08",
-                    "2 [Home + 1]": "7.70"
-                }
-            },
-            "AD San Juan vs UD Logrones B": {
-                "time": "17:00",
-                "single": {
-                    "home": "2.10",
-                    "draw": "3.15",
-                    "away": "3.48"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.95",
-                    "2 [Home + 1]": "8.00"
-                }
-            },
-            "CD Guijuelo vs Bergantinos CF": {
-                "time": "17:00",
-                "single": {
-                    "home": "2.07",
-                    "draw": "3.08",
-                    "away": "3.65"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.85",
-                    "2 [Home + 1]": "8.50"
-                }
-            },
-            "Racing Rioja CF vs CD Tudelano": {
-                "time": "17:00",
-                "single": {
-                    "home": "2.57",
-                    "draw": "2.90",
-                    "away": "2.87"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "5.30",
-                    "2 [Home + 1]": "6.20"
-                }
-            },
-            "Sevilla Atletico vs Xerez FC Deportivo": {
-                "time": "18:00",
-                "single": {
-                    "home": "2.18",
-                    "draw": "2.95",
-                    "away": "3.55"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "4.25",
-                    "2 [Home + 1]": "8.50"
-                }
-            },
-            "Real Sociedad C vs Sestao River Club": {
-                "time": "11:30",
-                "single": {
-                    "home": "3.48",
-                    "draw": "3.00",
-                    "away": "2.17"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "8.20",
-                    "2 [Home + 1]": "4.18"
-                }
-            },
-            "AD Union Adarve vs Leganes B": {
-                "time": "12:00",
-                "single": {
-                    "home": "2.10",
-                    "draw": "3.10",
-                    "away": "3.55"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "4.05",
-                    "2 [Home + 1]": "8.50"
-                }
-            },
-            "AE Prat vs CE Manresa": {
-                "time": "12:00",
-                "single": {
-                    "home": "2.87",
-                    "draw": "2.80",
-                    "away": "2.65"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "6.30",
-                    "2 [Home + 1]": "5.60"
-                }
-            },
-            "Atl. Madrid B vs Guadalajara": {
-                "time": "12:00",
-                "single": {
-                    "home": "1.79",
-                    "draw": "3.28",
-                    "away": "4.60"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.22",
-                    "2 [Home + 1]": "12.00"
-                }
-            },
-            "Cartagena II vs Atl Mancha Real": {
-                "time": "12:00",
-                "single": {
-                    "home": "2.23",
-                    "draw": "2.95",
-                    "away": "3.42"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "4.50",
-                    "2 [Home + 1]": "8.30"
-                }
-            },
-            "CD Brea vs Sociedad Deportivo Tarazona": {
-                "time": "12:00",
-                "single": {
-                    "home": "2.72",
-                    "draw": "2.95",
-                    "away": "2.65"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "5.70",
-                    "2 [Home + 1]": "5.60"
-                }
-            },
-            "CD Ebro vs Valencia Mestalla": {
-                "time": "12:00",
-                "single": {
-                    "home": "3.22",
-                    "draw": "2.82",
-                    "away": "2.40"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "7.20",
-                    "2 [Home + 1]": "4.70"
-                }
-            },
-            "CD Estepona vs UD Socuellamos CF": {
-                "time": "12:00",
-                "single": {
-                    "home": "1.89",
-                    "draw": "3.28",
-                    "away": "4.05"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.60",
-                    "2 [Home + 1]": "10.50"
-                }
-            },
-            "CD Ibiza Islas Pitiusas vs Olot": {
-                "time": "12:00",
-                "single": {
-                    "home": "2.10",
-                    "draw": "3.08",
-                    "away": "3.55"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "4.00",
-                    "2 [Home + 1]": "8.40"
-                }
-            },
-            "CD Teruel vs Pd Santa Eulalia": {
-                "time": "12:00",
-                "single": {
-                    "home": "2.37",
-                    "draw": "2.87",
-                    "away": "3.20"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "4.65",
-                    "2 [Home + 1]": "7.10"
-                }
-            },
-            "Espanyol Barcelona B vs Formentera": {
-                "time": "12:00",
-                "single": {
-                    "home": "1.54",
-                    "draw": "3.80",
-                    "away": "5.90"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "2.48",
-                    "2 [Home + 1]": "15.50"
-                }
-            },
-            "FC Cerdanyola Del Valles vs Melilla UD": {
-                "time": "12:00",
-                "single": {
-                    "home": "5.90",
-                    "draw": "3.55",
-                    "away": "1.59"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "16.00",
-                    "2 [Home + 1]": "2.63"
-                }
-            },
-            "Mallorca B vs Lleida Esportiu": {
-                "time": "12:00",
-                "single": {
-                    "home": "2.77",
-                    "draw": "2.82",
-                    "away": "2.72"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "6.00",
-                    "2 [Home + 1]": "5.90"
-                }
-            },
-            "Mar Menor Club de Futbol vs Juventud Torremolinos": {
-                "time": "12:00",
-                "single": {
-                    "home": "1.65",
-                    "draw": "3.75",
-                    "away": "4.85"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "2.95",
-                    "2 [Home + 1]": "13.25"
-                }
-            },
-            "Montijo vs CD Atletico Paso": {
-                "time": "12:00",
-                "single": {
-                    "home": "1.71",
-                    "draw": "3.55",
-                    "away": "4.70"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "2.92",
-                    "2 [Home + 1]": "11.75"
-                }
-            },
-            "Polvorin FC vs FC Coruxo": {
-                "time": "12:00",
-                "single": {
-                    "home": "3.15",
-                    "draw": "2.97",
-                    "away": "2.35"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "7.00",
-                    "2 [Home + 1]": "4.60"
-                }
-            },
-            "Racing Santander B vs Real Oviedo B": {
-                "time": "12:00",
-                "single": {
-                    "home": "1.96",
-                    "draw": "3.18",
-                    "away": "3.88"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.60",
-                    "2 [Home + 1]": "9.40"
-                }
-            },
-            "Recreativo de Huelva vs Velez CF": {
-                "time": "12:00",
-                "single": {
-                    "home": "1.96",
-                    "draw": "3.18",
-                    "away": "3.92"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.68",
-                    "2 [Home + 1]": "9.80"
-                }
-            },
-            "UE Llagostera vs Terrassa FC": {
-                "time": "12:00",
-                "single": {
-                    "home": "2.40",
-                    "draw": "2.92",
-                    "away": "3.15"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "4.70",
+                    "1 [Away + 1]": "5.40",
                     "2 [Home + 1]": "6.90"
                 }
             },
-            "UP Langreo vs CD Arenteiro": {
-                "time": "12:00",
+            "Sochaux vs Rodez Aveyron": {
+                "time": "21:00",
                 "single": {
-                    "home": "3.30",
-                    "draw": "2.97",
-                    "away": "2.27"
+                    "home": "1.61",
+                    "draw": "3.82",
+                    "away": "5.60"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "7.80",
-                    "2 [Home + 1]": "4.55"
+                    "1 [Away + 1]": "2.80",
+                    "2 [Home + 1]": "15.50"
                 }
             },
-            "Deportivo Alaves B vs Arenas Club de Getxo": {
-                "time": "15:00",
+            "Valenciennes vs Amiens": {
+                "time": "21:00",
                 "single": {
-                    "home": "2.33",
-                    "draw": "2.97",
-                    "away": "3.15"
+                    "home": "2.43",
+                    "draw": "3.20",
+                    "away": "2.95"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "4.65",
-                    "2 [Home + 1]": "7.10"
+                    "1 [Away + 1]": "5.10",
+                    "2 [Home + 1]": "6.70"
                 }
-            },
-            "CA Cirbonero vs Utebo": {
-                "time": "16:00",
+            }
+        },
+        "FRA - National": {
+            "FC Martigues vs Concarneau": {
+                "time": "21:00",
                 "single": {
-                    "home": "3.02",
-                    "draw": "3.05",
-                    "away": "2.37"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "6.50",
-                    "2 [Home + 1]": "4.60"
-                }
-            },
-            "CD Arnedo vs CD Izarra": {
-                "time": "16:30",
-                "single": {
-                    "home": "2.82",
-                    "draw": "3.40",
+                    "home": "3.15",
+                    "draw": "3.15",
                     "away": "2.30"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "6.00",
-                    "2 [Home + 1]": "4.50"
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
                 }
             },
-            "SD Compostela vs Real Valladolid B": {
-                "time": "16:45",
+            "Bastia Borgo vs Avranches": {
+                "time": "19:30",
                 "single": {
-                    "home": "1.98",
-                    "draw": "3.25",
-                    "away": "3.72"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.70",
-                    "2 [Home + 1]": "9.00"
-                }
-            },
-            "Alzira vs Atletico Saguntino": {
-                "time": "17:00",
-                "single": {
-                    "home": "2.30",
-                    "draw": "2.87",
+                    "home": "2.18",
+                    "draw": "3.18",
                     "away": "3.35"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "4.70",
-                    "2 [Home + 1]": "8.00"
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
                 }
             },
-            "Antequera CF vs CD San Roque": {
-                "time": "17:00",
+            "FC Versailles 78 vs Paris 13 Atletico": {
+                "time": "19:30",
                 "single": {
-                    "home": "1.93",
-                    "draw": "3.15",
-                    "away": "4.05"
+                    "home": "1.88",
+                    "draw": "3.35",
+                    "away": "4.18"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "3.50",
-                    "2 [Home + 1]": "9.90"
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
                 }
             },
-            "Atletico Sanluqueno vs CD Utrera": {
-                "time": "17:00",
+            "Chateauroux vs Sedan": {
+                "time": "21:00",
                 "single": {
-                    "home": "1.80",
-                    "draw": "3.38",
-                    "away": "4.35"
+                    "home": "1.85",
+                    "draw": "3.35",
+                    "away": "4.32"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "3.22",
-                    "2 [Home + 1]": "11.00"
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
                 }
             },
-            "CD Don Benito vs Cacereno": {
-                "time": "17:00",
+            "Cholet vs Red Star FC": {
+                "time": "21:00",
                 "single": {
-                    "home": "3.35",
+                    "home": "4.22",
+                    "draw": "3.22",
+                    "away": "1.91"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Concarneau vs Le Puy": {
+                "time": "21:00",
+                "single": {
+                    "home": "1.40",
+                    "draw": "4.70",
+                    "away": "7.10"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Dunkerque vs Bourg Peronnas": {
+                "time": "21:00",
+                "single": {
+                    "home": "2.45",
                     "draw": "3.07",
-                    "away": "2.18"
+                    "away": "2.95"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "7.90",
-                    "2 [Home + 1]": "4.28"
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
                 }
             },
-            "CD El Ejido 2012 vs Yeclano Deportivo": {
-                "time": "17:00",
+            "Le Mans vs Orleans": {
+                "time": "21:00",
                 "single": {
-                    "home": "3.35",
-                    "draw": "2.97",
-                    "away": "2.23"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "8.00",
-                    "2 [Home + 1]": "4.45"
-                }
-            },
-            "Coria vs CF Villanovense": {
-                "time": "17:00",
-                "single": {
-                    "home": "2.27",
-                    "draw": "2.82",
-                    "away": "3.48"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "4.70",
-                    "2 [Home + 1]": "8.60"
-                }
-            },
-            "Gimnastica Segoviana vs Diocesano": {
-                "time": "17:00",
-                "single": {
-                    "home": "1.68",
-                    "draw": "3.62",
-                    "away": "4.80"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "2.87",
-                    "2 [Home + 1]": "12.25"
-                }
-            },
-            "Ourense CF vs Real Aviles": {
-                "time": "17:00",
-                "single": {
-                    "home": "2.92",
+                    "home": "2.00",
                     "draw": "3.25",
-                    "away": "2.30"
+                    "away": "3.75"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "6.10",
-                    "2 [Home + 1]": "4.38"
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
                 }
             },
-            "SD Gernika vs SD Beasain": {
-                "time": "17:00",
+            "Nancy vs FC Martigues": {
+                "time": "21:00",
                 "single": {
-                    "home": "2.05",
-                    "draw": "3.10",
-                    "away": "3.65"
+                    "home": "2.28",
+                    "draw": "3.25",
+                    "away": "3.10"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "3.80",
-                    "2 [Home + 1]": "8.60"
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
                 }
             },
-            "Zamora CF vs RS Gimnastica de Torrelavega": {
-                "time": "17:30",
+            "Saint Brieuc vs Villefranche Sur Saone": {
+                "time": "21:00",
+                "single": {
+                    "home": "3.02",
+                    "draw": "3.18",
+                    "away": "2.35"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            }
+        },
+        "FRA - Division 1 Feminines": {
+            "Le Havre AC (W) vs Montpellier Hsc (W)": {
+                "time": "12:45",
+                "single": {
+                    "home": "3.95",
+                    "draw": "3.98",
+                    "away": "1.73"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "8.50",
+                    "2 [Home + 1]": "2.75"
+                }
+            },
+            "Olympique Lyon (W) vs PSG (W)": {
+                "time": "21:00",
                 "single": {
                     "home": "1.73",
-                    "draw": "3.20",
-                    "away": "5.30"
+                    "draw": "3.72",
+                    "away": "4.25"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "3.02",
-                    "2 [Home + 1]": "14.25"
-                }
-            },
-            "Hercules CF vs Real Zaragoza B": {
-                "time": "18:00",
-                "single": {
-                    "home": "1.65",
-                    "draw": "3.55",
-                    "away": "5.15"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "2.72",
-                    "2 [Home + 1]": "13.00"
-                }
-            },
-            "Marino Luanco vs CD Laredo": {
-                "time": "18:15",
-                "single": {
-                    "home": "2.05",
-                    "draw": "3.15",
-                    "away": "3.62"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "4.00",
-                    "2 [Home + 1]": "9.00"
+                    "1 [Away + 1]": "2.90",
+                    "2 [Home + 1]": "10.00"
                 }
             }
         }

@@ -15,7 +15,7 @@ import re
 # =============================================================================================================
 options = webdriver.ChromeOptions()
 options.add_experimental_option('excludeSwitches', ['enable-logging'])
-options.add_argument("--window-size=1200,768")
+options.add_argument("--start-maximized")
 options.add_argument("--disable-notifications")
 options.page_load_strategy = "eager"
 service = Service(
@@ -49,8 +49,11 @@ def getMenu():
         # Remove Ad Banner
         Browser.execute_script(
             """
-            setTimeout(() => {
-                document.getElementById("novasdk-inbox-widget").remove()
+            setInterval(() => {
+                const ad = document.getElementById("novasdk-inbox-widget");
+                if (ad) {
+                    ad.remove()
+                }
             }, 5000)
             """
         )
@@ -188,7 +191,12 @@ def SH_Chance(fetchAll=False, category=False):
                     # Remove Ad Banner
                     Browser.execute_script(
                         """
-                        document.getElementById("novasdk-inbox-widget").remove()
+                        setInterval(() => {
+                            const ad = document.getElementById("novasdk-inbox-widget");
+                            if (ad) {
+                                ad.remove()
+                            }
+                        }, 5000)
                         """
                     )
                 except:
@@ -206,6 +214,8 @@ def SH_Chance(fetchAll=False, category=False):
 
                 # Parse HtmlDoc
                 soup = BeautifulSoup(Browser.page_source, "html5lib")
+                dd = soup.select(
+                    ".sports-head > .sports-head__date table-cell > span")
                 elem = soup.select('.sports-table > .table-f')
 
                 for i in range(len(elem)):
@@ -220,6 +230,8 @@ def SH_Chance(fetchAll=False, category=False):
                         'div', 'sports-table__away').get_text().strip()
 
                     file[home_team + ' vs ' + away_team] = {}
+                    file[home_team + ' vs ' +
+                         away_team]["date"] = dd[i].get_text().strip()
                     file[home_team + ' vs ' + away_team]["time"] = elem[i].find(
                         'span').get_text().strip()
 
@@ -564,4 +576,4 @@ def SH_Chance(fetchAll=False, category=False):
 
 # getMenu()
 # getLinks_Bet9ja()
-SH_Chance(category="Spain")
+SH_Chance(category="France")

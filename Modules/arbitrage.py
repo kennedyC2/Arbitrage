@@ -74,7 +74,8 @@ def pair_up():
 
 
 # Calculate Possibilities
-def calculate(total_stake):
+# # 3-Way Arbitrage Calculator
+def Arbitrage_3(total_stake):
     for e in data_3:
         # Bet9ja
         bet9ja_SH = float(data_3[e]["bet9ja"]["single"]["home"])
@@ -120,7 +121,7 @@ def calculate(total_stake):
                                         "stake": total_stake / (1 + (bet9ja_SD / bet9ja_2H1) + (bet9ja_SD / bet9ja_SH))
                                     },
                                     "amount": total_stake,
-                                    "profit": bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_2H1) + (bet9ja_SD / bet9ja_SH))) - total_stake
+                                    "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_2H1) + (bet9ja_SD / bet9ja_SH)))) - total_stake
                                 }
                                 result[e] = data_3[e]
                             else:
@@ -144,7 +145,7 @@ def calculate(total_stake):
                                         "stake": total_stake / (1 + (betking_SD / bet9ja_2H1) + (betking_SD / bet9ja_SH))
                                     },
                                     "amount": total_stake,
-                                    "profit": betking_SD * (total_stake / (1 + (betking_SD / bet9ja_2H1) + (betking_SD / bet9ja_SH))) - total_stake
+                                    "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_2H1) + (betking_SD / bet9ja_SH)))) - total_stake
                                 }
                                 result[e] = data_3[e]
                             else:
@@ -171,7 +172,7 @@ def calculate(total_stake):
                                         "stake": total_stake / (1 + (bet9ja_SD / bet9ja_2H1) + (bet9ja_SD / bet9ja_SH))
                                     },
                                     "amount": total_stake,
-                                    "profit": bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_2H1) + (bet9ja_SD / bet9ja_SH))) - total_stake
+                                    "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_2H1) + (bet9ja_SD / bet9ja_SH)))) - total_stake
                                 }
                                 result[e] = data_3[e]
                             else:
@@ -195,7 +196,7 @@ def calculate(total_stake):
                                         "stake": total_stake / (1 + (betking_SD / bet9ja_2H1) + (betking_SD / bet9ja_SH))
                                     },
                                     "amount": total_stake,
-                                    "profit": betking_SD * (total_stake / (1 + (betking_SD / bet9ja_2H1) + (betking_SD / bet9ja_SH))) - total_stake
+                                    "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_2H1) + (betking_SD / bet9ja_SH)))) - total_stake
                                 }
                                 result[e] = data_3[e]
                             else:
@@ -225,7 +226,7 @@ def calculate(total_stake):
                                         "stake": total_stake / (1 + (bet9ja_SD / bet9ja_2H1) + (bet9ja_SD / bet9ja_SH))
                                     },
                                     "amount": total_stake,
-                                    "profit": bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_2H1) + (bet9ja_SD / bet9ja_SH))) - total_stake
+                                    "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_2H1) + (bet9ja_SD / bet9ja_SH)))) - total_stake
                                 }
                                 result[e] = data_3[e]
                             else:
@@ -249,7 +250,7 @@ def calculate(total_stake):
                                         "stake": total_stake / (1 + (betking_SD / bet9ja_2H1) + (betking_SD / bet9ja_SH))
                                     },
                                     "amount": total_stake,
-                                    "profit": betking_SD * (total_stake / (1 + (betking_SD / bet9ja_2H1) + (betking_SD / bet9ja_SH))) - total_stake
+                                    "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_2H1) + (betking_SD / bet9ja_SH)))) - total_stake
                                 }
                                 result[e] = data_3[e]
                             else:
@@ -276,7 +277,7 @@ def calculate(total_stake):
                                         "stake": total_stake / (1 + (bet9ja_SD / bet9ja_2H1) + (bet9ja_SD / bet9ja_SH))
                                     },
                                     "amount": total_stake,
-                                    "profit": bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_2H1) + (bet9ja_SD / bet9ja_SH))) - total_stake
+                                    "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_2H1) + (bet9ja_SD / bet9ja_SH)))) - total_stake
                                 }
                                 result[e] = data_3[e]
                             else:
@@ -300,7 +301,7 @@ def calculate(total_stake):
                                         "stake": total_stake / (1 + (betking_SD / bet9ja_2H1) + (betking_SD / bet9ja_SH))
                                     },
                                     "amount": total_stake,
-                                    "profit": betking_SD * (total_stake / (1 + (betking_SD / bet9ja_2H1) + (betking_SD / bet9ja_SH))) - total_stake
+                                    "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_2H1) + (betking_SD / bet9ja_SH)))) - total_stake
                                 }
                                 result[e] = data_3[e]
                             else:
@@ -337,7 +338,7 @@ def calculate(total_stake):
                                         "stake": total_stake / (1 + (bet9ja_SD / bet9ja_1A1) + (bet9ja_SD / bet9ja_SA))
                                     },
                                     "amount": total_stake,
-                                    "profit": bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_1A1) + (bet9ja_SD / bet9ja_SA))) - total_stake
+                                    "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_1A1) + (bet9ja_SD / bet9ja_SA)))) - total_stake
                                 }
                                 result[e] = data_3[e]
                             else:
@@ -361,7 +362,7 @@ def calculate(total_stake):
                                         "stake": total_stake / (1 + (betking_SD / bet9ja_1A1) + (betking_SD / bet9ja_SA))
                                     },
                                     "amount": total_stake,
-                                    "profit": betking_SD * (total_stake / (1 + (betking_SD / bet9ja_1A1) + (betking_SD / bet9ja_SA))) - total_stake
+                                    "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_1A1) + (betking_SD / bet9ja_SA)))) - total_stake
                                 }
                                 result[e] = data_3[e]
                             else:
@@ -388,7 +389,7 @@ def calculate(total_stake):
                                         "stake": total_stake / (1 + (bet9ja_SD / bet9ja_1A1) + (bet9ja_SD / bet9ja_SA))
                                     },
                                     "amount": total_stake,
-                                    "profit": bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_1A1) + (bet9ja_SD / bet9ja_SA))) - total_stake
+                                    "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_1A1) + (bet9ja_SD / bet9ja_SA)))) - total_stake
                                 }
                                 result[e] = data_3[e]
                             else:
@@ -412,7 +413,7 @@ def calculate(total_stake):
                                         "stake": total_stake / (1 + (betking_SD / bet9ja_1A1) + (betking_SD / bet9ja_SA))
                                     },
                                     "amount": total_stake,
-                                    "profit": betking_SD * (total_stake / (1 + (betking_SD / bet9ja_1A1) + (betking_SD / bet9ja_SA))) - total_stake
+                                    "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_1A1) + (betking_SD / bet9ja_SA)))) - total_stake
                                 }
                                 result[e] = data_3[e]
                             else:
@@ -442,7 +443,7 @@ def calculate(total_stake):
                                         "stake": total_stake / (1 + (bet9ja_SD / bet9ja_1A1) + (bet9ja_SD / bet9ja_SA))
                                     },
                                     "amount": total_stake,
-                                    "profit": bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_1A1) + (bet9ja_SD / bet9ja_SA))) - total_stake
+                                    "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_1A1) + (bet9ja_SD / bet9ja_SA)))) - total_stake
                                 }
                                 result[e] = data_3[e]
                             else:
@@ -466,7 +467,7 @@ def calculate(total_stake):
                                         "stake": total_stake / (1 + (betking_SD / bet9ja_1A1) + (betking_SD / bet9ja_SA))
                                     },
                                     "amount": total_stake,
-                                    "profit": betking_SD * (total_stake / (1 + (betking_SD / bet9ja_1A1) + (betking_SD / bet9ja_SA))) - total_stake
+                                    "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_1A1) + (betking_SD / bet9ja_SA)))) - total_stake
                                 }
                                 result[e] = data_3[e]
                             else:
@@ -493,7 +494,7 @@ def calculate(total_stake):
                                         "stake": total_stake / (1 + (bet9ja_SD / bet9ja_1A1) + (bet9ja_SD / bet9ja_SA))
                                     },
                                     "amount": total_stake,
-                                    "profit": bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_1A1) + (bet9ja_SD / bet9ja_SA))) - total_stake
+                                    "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_1A1) + (bet9ja_SD / bet9ja_SA)))) - total_stake
                                 }
                                 result[e] = data_3[e]
                             else:
@@ -517,7 +518,7 @@ def calculate(total_stake):
                                         "stake": total_stake / (1 + (betking_SD / bet9ja_1A1) + (betking_SD / bet9ja_SA))
                                     },
                                     "amount": total_stake,
-                                    "profit": betking_SD * (total_stake / (1 + (betking_SD / bet9ja_1A1) + (betking_SD / bet9ja_SA))) - total_stake
+                                    "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_1A1) + (betking_SD / bet9ja_SA)))) - total_stake
                                 }
                                 result[e] = data_3[e]
                             else:
@@ -532,13 +533,13 @@ def calculate(total_stake):
 
 def init():
     # Compile Data
-    Compile("Spain")
+    Compile("France")
 
     # Pair Up Similar Groups
     pair_up()
 
     # Calculate Possibilities
-    calculate(10000)
+    Arbitrage_3(10000)
 
 
 init()

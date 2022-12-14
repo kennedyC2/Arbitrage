@@ -341,7 +341,27 @@ def SH_Chance(fetchAll=False, category=None):
                             odds[category][data[category]["submenu"]
                                            [ch]][match]["handicap"] = _data
                         break
-                    continue
+                    else:
+                        # Refresh
+                        soup = BeautifulSoup(Browser.page_source, "html5lib")
+                        elem = soup.find_all("table", "oddsTable")[
+                            ch].find_all('tr', 'trOddsSection')
+
+                        for each in elem:
+                            _data = {}
+
+                            match = each.find(
+                                'td', 'matchName')['data-matchname'].strip().replace('-', 'vs')
+
+                            # Default to zero
+                            _data['1 [Away + 1]'] = "0.00"
+
+                            # Default to zero
+                            _data['2 [Home + 1]'] = "0.00"
+
+                            # Upload
+                            odds[category][data[category]["submenu"]
+                                           [ch]][match]["handicap"] = _data
 
             # Wait 5 seconds
             time.sleep(5)
@@ -352,4 +372,4 @@ def SH_Chance(fetchAll=False, category=None):
 
 
 # getMenu()
-SH_Chance(category="Spain")
+SH_Chance(category="France")
