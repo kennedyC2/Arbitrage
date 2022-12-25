@@ -31,29 +31,38 @@ result = {}
 
 # Function
 # ===============================================================================================
-
-
-def getKeys():
-    for e in bet9ja:
-        if e in betking:
-            keys.append(e)
-        else:
-            pass
-
-
 # Checker
-def Compile(category):
-    for e in bet9ja[category]:
-        for g in bet9ja[category][e]:
-            bet9ja[category][e][g]["category"] = category
-            bet9ja[category][e][g]["sub-category"] = e
-            data_1[g] = bet9ja[category][e][g]
 
-    for e in betking[category]:
-        for g in betking[category][e]:
-            betking[category][e][g]["category"] = category
-            betking[category][e][g]["sub-category"] = e.split("-")[1].strip()
-            data_2[g] = betking[category][e][g]
+
+def Compile(all=False, category=None):
+    if all:
+        for a in bet9ja.keys():
+            for e in bet9ja[a]:
+                for g in bet9ja[a][e]:
+                    bet9ja[a][e][g]["category"] = a
+                    bet9ja[a][e][g]["sub-category"] = e
+                    data_1[g] = bet9ja[a][e][g]
+
+        for c in bet9ja.keys():
+            for e in betking[c]:
+                for g in betking[c][e]:
+                    betking[c][e][g]["category"] = c
+                    betking[c][e][g]["sub-category"] = e.replace(
+                        category[0:3].upper() + " - ", "")
+                    data_2[g] = betking[c][e][g]
+    else:
+        for e in bet9ja[category]:
+            for g in bet9ja[category][e]:
+                bet9ja[category][e][g]["category"] = category
+                bet9ja[category][e][g]["sub-category"] = e
+                data_1[g] = bet9ja[category][e][g]
+
+        for e in betking[category]:
+            for g in betking[category][e]:
+                betking[category][e][g]["category"] = category
+                betking[category][e][g]["sub-category"] = e.replace(
+                    category[0:3].upper() + " - ", "")
+                data_2[g] = betking[category][e][g]
 
 
 # Pair Up
@@ -74,7 +83,9 @@ def pair_up():
 
 
 # Calculate Possibilities
-# # 3-Way Arbitrage Calculator
+# ===========================================================================================================================
+
+# 3-Way Arbitrage Calculator
 def Arbitrage_3(total_stake):
     for e in data_3:
         # Bet9ja
@@ -107,7 +118,7 @@ def Arbitrage_3(total_stake):
                             # Calculate
                             if (1 / bet9ja_SH) + (1 / bet9ja_2H1) + (1 / bet9ja_SD) < 1:
                                 # Update
-                                data_3[e]["3-way"] = {
+                                _data = {
                                     "bet9ja Home": {
                                         "odd": bet9ja_SH,
                                         "stake": total_stake / (1 + (bet9ja_SH / bet9ja_2H1) + (bet9ja_SH / bet9ja_SD))
@@ -123,7 +134,14 @@ def Arbitrage_3(total_stake):
                                     "amount": total_stake,
                                     "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_2H1) + (bet9ja_SD / bet9ja_SH)))) - total_stake
                                 }
-                                result[e] = data_3[e]
+
+                                result[e] = {
+                                    "category": data_3[e]["bet9ja"]["category"],
+                                    "sub-category": data_3[e]["bet9ja"]["sub-category"],
+                                    "date": data_3[e]["bet9ja"]["date"],
+                                    "time": data_3[e]["bet9ja"]["time"],
+                                    "3-way": _data
+                                }
                             else:
                                 continue
                         else:
@@ -131,7 +149,7 @@ def Arbitrage_3(total_stake):
                             # Calculate
                             if (1 / bet9ja_SH) + (1 / bet9ja_2H1) + (1 / betking_SD) < 1:
                                 # Update
-                                data_3[e]["3-way"] = {
+                                _data = {
                                     "bet9ja Home": {
                                         "odd": bet9ja_SH,
                                         "stake": total_stake / (1 + (bet9ja_SH / bet9ja_2H1) + (bet9ja_SH / bet9ja_SD))
@@ -147,7 +165,14 @@ def Arbitrage_3(total_stake):
                                     "amount": total_stake,
                                     "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_2H1) + (betking_SD / bet9ja_SH)))) - total_stake
                                 }
-                                result[e] = data_3[e]
+
+                                result[e] = {
+                                    "category": data_3[e]["bet9ja"]["category"],
+                                    "sub-category": data_3[e]["bet9ja"]["sub-category"],
+                                    "date": data_3[e]["bet9ja"]["date"],
+                                    "time": data_3[e]["bet9ja"]["time"],
+                                    "3-way": _data
+                                }
                             else:
                                 continue
                     else:
@@ -158,7 +183,7 @@ def Arbitrage_3(total_stake):
                             # Calculate
                             if (1 / bet9ja_SH) + (1 / betking_2H1) + (1 / bet9ja_SD) < 1:
                                 # Update
-                                data_3[e]["3-way"] = {
+                                _data = {
                                     "bet9ja Home": {
                                         "odd": bet9ja_SH,
                                         "stake": total_stake / (1 + (bet9ja_SH / bet9ja_2H1) + (bet9ja_SH / bet9ja_SD))
@@ -174,7 +199,14 @@ def Arbitrage_3(total_stake):
                                     "amount": total_stake,
                                     "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_2H1) + (bet9ja_SD / bet9ja_SH)))) - total_stake
                                 }
-                                result[e] = data_3[e]
+
+                                result[e] = {
+                                    "category": data_3[e]["bet9ja"]["category"],
+                                    "sub-category": data_3[e]["bet9ja"]["sub-category"],
+                                    "date": data_3[e]["bet9ja"]["date"],
+                                    "time": data_3[e]["bet9ja"]["time"],
+                                    "3-way": _data
+                                }
                             else:
                                 continue
                         else:
@@ -182,7 +214,7 @@ def Arbitrage_3(total_stake):
                             # Calculate
                             if (1 / bet9ja_SH) + (1 / betking_2H1) + (1 / betking_SD) < 1:
                                 # Update
-                                data_3[e]["3-way"] = {
+                                _data = {
                                     "bet9ja Home": {
                                         "odd": bet9ja_SH,
                                         "stake": total_stake / (1 + (bet9ja_SH / bet9ja_2H1) + (bet9ja_SH / bet9ja_SD))
@@ -198,7 +230,14 @@ def Arbitrage_3(total_stake):
                                     "amount": total_stake,
                                     "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_2H1) + (betking_SD / bet9ja_SH)))) - total_stake
                                 }
-                                result[e] = data_3[e]
+
+                                result[e] = {
+                                    "category": data_3[e]["bet9ja"]["category"],
+                                    "sub-category": data_3[e]["bet9ja"]["sub-category"],
+                                    "date": data_3[e]["bet9ja"]["date"],
+                                    "time": data_3[e]["bet9ja"]["time"],
+                                    "3-way": _data
+                                }
                             else:
                                 continue
                 else:
@@ -212,7 +251,7 @@ def Arbitrage_3(total_stake):
                             # Calculate
                             if (1 / betking_SH) + (1 / bet9ja_2H1) + (1 / bet9ja_SD) < 1:
                                 # Update
-                                data_3[e]["3-way"] = {
+                                _data = {
                                     "betking Home": {
                                         "odd": betking_SH,
                                         "stake": total_stake / (1 + (betking_SH / bet9ja_2H1) + (betking_SH / bet9ja_SD))
@@ -228,7 +267,14 @@ def Arbitrage_3(total_stake):
                                     "amount": total_stake,
                                     "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_2H1) + (bet9ja_SD / bet9ja_SH)))) - total_stake
                                 }
-                                result[e] = data_3[e]
+
+                                result[e] = {
+                                    "category": data_3[e]["bet9ja"]["category"],
+                                    "sub-category": data_3[e]["bet9ja"]["sub-category"],
+                                    "date": data_3[e]["bet9ja"]["date"],
+                                    "time": data_3[e]["bet9ja"]["time"],
+                                    "3-way": _data
+                                }
                             else:
                                 continue
                         else:
@@ -236,7 +282,7 @@ def Arbitrage_3(total_stake):
                             # Calculate
                             if (1 / betking_SH) + (1 / bet9ja_2H1) + (1 / betking_SD) < 1:
                                 # Update
-                                data_3[e]["3-way"] = {
+                                _data = {
                                     "betking Home": {
                                         "odd": betking_SH,
                                         "stake": total_stake / (1 + (betking_SH / bet9ja_2H1) + (betking_SH / bet9ja_SD))
@@ -252,7 +298,14 @@ def Arbitrage_3(total_stake):
                                     "amount": total_stake,
                                     "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_2H1) + (betking_SD / bet9ja_SH)))) - total_stake
                                 }
-                                result[e] = data_3[e]
+
+                                result[e] = {
+                                    "category": data_3[e]["bet9ja"]["category"],
+                                    "sub-category": data_3[e]["bet9ja"]["sub-category"],
+                                    "date": data_3[e]["bet9ja"]["date"],
+                                    "time": data_3[e]["bet9ja"]["time"],
+                                    "3-way": _data
+                                }
                             else:
                                 continue
                     else:
@@ -263,7 +316,7 @@ def Arbitrage_3(total_stake):
                             # Calculate
                             if (1 / betking_SH) + (1 / betking_2H1) + (1 / bet9ja_SD) < 1:
                                 # Update
-                                data_3[e]["3-way"] = {
+                                _data = {
                                     "betking Home": {
                                         "odd": betking_SH,
                                         "stake": total_stake / (1 + (betking_SH / bet9ja_2H1) + (betking_SH / bet9ja_SD))
@@ -279,7 +332,14 @@ def Arbitrage_3(total_stake):
                                     "amount": total_stake,
                                     "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_2H1) + (bet9ja_SD / bet9ja_SH)))) - total_stake
                                 }
-                                result[e] = data_3[e]
+
+                                result[e] = {
+                                    "category": data_3[e]["bet9ja"]["category"],
+                                    "sub-category": data_3[e]["bet9ja"]["sub-category"],
+                                    "date": data_3[e]["bet9ja"]["date"],
+                                    "time": data_3[e]["bet9ja"]["time"],
+                                    "3-way": _data
+                                }
                             else:
                                 continue
                         else:
@@ -287,7 +347,7 @@ def Arbitrage_3(total_stake):
                             # Calculate
                             if (1 / betking_SH) + (1 / betking_2H1) + (1 / betking_SD) < 1:
                                 # Update
-                                data_3[e]["3-way"] = {
+                                _data = {
                                     "betking Home": {
                                         "odd": betking_SH,
                                         "stake": total_stake / (1 + (betking_SH / bet9ja_2H1) + (betking_SH / bet9ja_SD))
@@ -303,7 +363,14 @@ def Arbitrage_3(total_stake):
                                     "amount": total_stake,
                                     "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_2H1) + (betking_SD / bet9ja_SH)))) - total_stake
                                 }
-                                result[e] = data_3[e]
+
+                                result[e] = {
+                                    "category": data_3[e]["bet9ja"]["category"],
+                                    "sub-category": data_3[e]["bet9ja"]["sub-category"],
+                                    "date": data_3[e]["bet9ja"]["date"],
+                                    "time": data_3[e]["bet9ja"]["time"],
+                                    "3-way": _data
+                                }
                             else:
                                 continue
             else:
@@ -324,7 +391,7 @@ def Arbitrage_3(total_stake):
                             # Calculate
                             if (1 / bet9ja_SA) + (1 / bet9ja_1A1) + (1 / bet9ja_SD) < 1:
                                 # Update
-                                data_3[e]["3-way"] = {
+                                _data = {
                                     "bet9ja Away": {
                                         "odd":  bet9ja_SA,
                                         "stake": total_stake / (1 + (bet9ja_SA / bet9ja_1A1) + (bet9ja_SA / bet9ja_SD))
@@ -340,7 +407,14 @@ def Arbitrage_3(total_stake):
                                     "amount": total_stake,
                                     "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_1A1) + (bet9ja_SD / bet9ja_SA)))) - total_stake
                                 }
-                                result[e] = data_3[e]
+
+                                result[e] = {
+                                    "category": data_3[e]["bet9ja"]["category"],
+                                    "sub-category": data_3[e]["bet9ja"]["sub-category"],
+                                    "date": data_3[e]["bet9ja"]["date"],
+                                    "time": data_3[e]["bet9ja"]["time"],
+                                    "3-way": _data
+                                }
                             else:
                                 continue
                         else:
@@ -348,7 +422,7 @@ def Arbitrage_3(total_stake):
                             # Calculate
                             if (1 / bet9ja_SA) + (1 / bet9ja_1A1) + (1 / betking_SD) < 1:
                                 # Update
-                                data_3[e]["3-way"] = {
+                                _data = {
                                     "bet9ja Away": {
                                         "odd":  bet9ja_SA,
                                         "stake": total_stake / (1 + (bet9ja_SA / bet9ja_1A1) + (bet9ja_SA / bet9ja_SD))
@@ -364,7 +438,14 @@ def Arbitrage_3(total_stake):
                                     "amount": total_stake,
                                     "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_1A1) + (betking_SD / bet9ja_SA)))) - total_stake
                                 }
-                                result[e] = data_3[e]
+
+                                result[e] = {
+                                    "category": data_3[e]["bet9ja"]["category"],
+                                    "sub-category": data_3[e]["bet9ja"]["sub-category"],
+                                    "date": data_3[e]["bet9ja"]["date"],
+                                    "time": data_3[e]["bet9ja"]["time"],
+                                    "3-way": _data
+                                }
                             else:
                                 continue
                     else:
@@ -375,7 +456,7 @@ def Arbitrage_3(total_stake):
                             # Calculate
                             if (1 / bet9ja_SA) + (1 / betking_1A1) + (1 / bet9ja_SD) < 1:
                                 # Update
-                                data_3[e]["3-way"] = {
+                                _data = {
                                     "bet9ja Away": {
                                         "odd":  bet9ja_SA,
                                         "stake": total_stake / (1 + (bet9ja_SA / bet9ja_1A1) + (bet9ja_SA / bet9ja_SD))
@@ -391,7 +472,14 @@ def Arbitrage_3(total_stake):
                                     "amount": total_stake,
                                     "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_1A1) + (bet9ja_SD / bet9ja_SA)))) - total_stake
                                 }
-                                result[e] = data_3[e]
+
+                                result[e] = {
+                                    "category": data_3[e]["bet9ja"]["category"],
+                                    "sub-category": data_3[e]["bet9ja"]["sub-category"],
+                                    "date": data_3[e]["bet9ja"]["date"],
+                                    "time": data_3[e]["bet9ja"]["time"],
+                                    "3-way": _data
+                                }
                             else:
                                 continue
                         else:
@@ -399,7 +487,7 @@ def Arbitrage_3(total_stake):
                             # Calculate
                             if (1 / bet9ja_SA) + (1 / betking_1A1) + (1 / betking_SD) < 1:
                                 # Update
-                                data_3[e]["3-way"] = {
+                                _data = {
                                     "bet9ja Away": {
                                         "odd":  bet9ja_SA,
                                         "stake": total_stake / (1 + (bet9ja_SA / bet9ja_1A1) + (bet9ja_SA / bet9ja_SD))
@@ -415,7 +503,14 @@ def Arbitrage_3(total_stake):
                                     "amount": total_stake,
                                     "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_1A1) + (betking_SD / bet9ja_SA)))) - total_stake
                                 }
-                                result[e] = data_3[e]
+
+                                result[e] = {
+                                    "category": data_3[e]["bet9ja"]["category"],
+                                    "sub-category": data_3[e]["bet9ja"]["sub-category"],
+                                    "date": data_3[e]["bet9ja"]["date"],
+                                    "time": data_3[e]["bet9ja"]["time"],
+                                    "3-way": _data
+                                }
                             else:
                                 continue
                 else:
@@ -429,7 +524,7 @@ def Arbitrage_3(total_stake):
                             # Calculate
                             if (1 / betking_SA) + (1 / bet9ja_1A1) + (1 / bet9ja_SD) < 1:
                                 # Update
-                                data_3[e]["3-way"] = {
+                                _data = {
                                     "betking Away": {
                                         "odd":  betking_SA,
                                         "stake": total_stake / (1 + (betking_SA / bet9ja_1A1) + (betking_SA / bet9ja_SD))
@@ -445,7 +540,14 @@ def Arbitrage_3(total_stake):
                                     "amount": total_stake,
                                     "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_1A1) + (bet9ja_SD / bet9ja_SA)))) - total_stake
                                 }
-                                result[e] = data_3[e]
+
+                                result[e] = {
+                                    "category": data_3[e]["bet9ja"]["category"],
+                                    "sub-category": data_3[e]["bet9ja"]["sub-category"],
+                                    "date": data_3[e]["bet9ja"]["date"],
+                                    "time": data_3[e]["bet9ja"]["time"],
+                                    "3-way": _data
+                                }
                             else:
                                 continue
                         else:
@@ -453,7 +555,7 @@ def Arbitrage_3(total_stake):
                             # Calculate
                             if (1 / betking_SA) + (1 / bet9ja_1A1) + (1 / betking_SD) < 1:
                                 # Update
-                                data_3[e]["3-way"] = {
+                                _data = {
                                     "betking Away": {
                                         "odd":  betking_SA,
                                         "stake": total_stake / (1 + (betking_SA / bet9ja_1A1) + (betking_SA / bet9ja_SD))
@@ -469,7 +571,14 @@ def Arbitrage_3(total_stake):
                                     "amount": total_stake,
                                     "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_1A1) + (betking_SD / bet9ja_SA)))) - total_stake
                                 }
-                                result[e] = data_3[e]
+
+                                result[e] = {
+                                    "category": data_3[e]["bet9ja"]["category"],
+                                    "sub-category": data_3[e]["bet9ja"]["sub-category"],
+                                    "date": data_3[e]["bet9ja"]["date"],
+                                    "time": data_3[e]["bet9ja"]["time"],
+                                    "3-way": _data
+                                }
                             else:
                                 continue
                     else:
@@ -480,7 +589,7 @@ def Arbitrage_3(total_stake):
                             # Calculate
                             if (1 / betking_SA) + (1 / betking_1A1) + (1 / bet9ja_SD) < 1:
                                 # Update
-                                data_3[e]["3-way"] = {
+                                _data = {
                                     "betking Away": {
                                         "odd":  betking_SA,
                                         "stake": total_stake / (1 + (betking_SA / bet9ja_1A1) + (betking_SA / bet9ja_SD))
@@ -496,7 +605,14 @@ def Arbitrage_3(total_stake):
                                     "amount": total_stake,
                                     "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_1A1) + (bet9ja_SD / bet9ja_SA)))) - total_stake
                                 }
-                                result[e] = data_3[e]
+
+                                result[e] = {
+                                    "category": data_3[e]["bet9ja"]["category"],
+                                    "sub-category": data_3[e]["bet9ja"]["sub-category"],
+                                    "date": data_3[e]["bet9ja"]["date"],
+                                    "time": data_3[e]["bet9ja"]["time"],
+                                    "3-way": _data
+                                }
                             else:
                                 continue
                         else:
@@ -504,7 +620,7 @@ def Arbitrage_3(total_stake):
                             # Calculate
                             if (1 / betking_SA) + (1 / betking_1A1) + (1 / betking_SD) < 1:
                                 # Update
-                                data_3[e]["3-way"] = {
+                                _data = {
                                     "betking Away": {
                                         "odd":  betking_SA,
                                         "stake": total_stake / (1 + (betking_SA / bet9ja_1A1) + (betking_SA / bet9ja_SD))
@@ -520,26 +636,79 @@ def Arbitrage_3(total_stake):
                                     "amount": total_stake,
                                     "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_1A1) + (betking_SD / bet9ja_SA)))) - total_stake
                                 }
-                                result[e] = data_3[e]
+
+                                result[e] = {
+                                    "category": data_3[e]["bet9ja"]["category"],
+                                    "sub-category": data_3[e]["bet9ja"]["sub-category"],
+                                    "date": data_3[e]["bet9ja"]["date"],
+                                    "time": data_3[e]["bet9ja"]["time"],
+                                    "3-way": _data
+                                }
                             else:
                                 continue
             else:
                 continue
 
     # Save as JSON
-    with open('./result.txt', 'w') as outfile:
+    with open('./arb3.txt', 'w') as outfile:
         json.dump(result, outfile, indent=4)
 
 
-def init():
-    # Compile Data
-    Compile("France")
+# 2-Way Arbitrage Calculator
+def Arbitrage_2(total_stake):
+    for e in data_3:
+        # Bet9ja
+        bet9ja_SH = float(data_3[e]["bet9ja"]["single"]["home"])
+        bet9ja_SA = float(data_3[e]["bet9ja"]["single"]["away"])
+        bet9ja_SD = float(data_3[e]["bet9ja"]["single"]["draw"])
+        bet9ja_1X = float(data_3[e]["bet9ja"]["double"]["1X"])
+        bet9ja_12 = float(data_3[e]["bet9ja"]["double"]["12"])
+        bet9ja_2X = float(data_3[e]["bet9ja"]["double"]["2X"])
 
-    # Pair Up Similar Groups
-    pair_up()
+        # Betking
+        betking_SH = float(data_3[e]["betking"]["single"]["home"])
+        betking_SA = float(data_3[e]["betking"]["single"]["away"])
+        betking_SD = float(data_3[e]["betking"]["single"]["draw"])
+        betking_1X = float(data_3[e]["betking"]["double"]["1X"])
+        betking_12 = float(data_3[e]["betking"]["double"]["12"])
+        betking_2X = float(data_3[e]["betking"]["double"]["2X"])
 
-    # Calculate Possibilities
-    Arbitrage_3(10000)
+        if (1 / bet9ja_1X) + (1 / betking_2X) < 1:
+            # Update
+            data_3[e]["2-way"] = {
+                "bet9ja 1X": {
+                    "odd":  bet9ja_1X,
+                    "stake": total_stake / (1 + (bet9ja_1X / betking_2X))
+                },
+                "betking 2X": {
+                    "odd": betking_2X,
+                    "stake": total_stake / (1 + (betking_2X / bet9ja_1X))
+                },
+                "amount": total_stake,
+                "profit": (bet9ja_1X * (total_stake / (1 + (bet9ja_1X / betking_2X)))) - total_stake
+            }
+            result[e] = data_3[e]
+        else:
+            continue
 
+        if (1 / bet9ja_2X) + (1 / betking_1X) < 1:
+            # Update
+            data_3[e]["2-way"] = {
+                "bet9ja 2X": {
+                    "odd":  bet9ja_2X,
+                    "stake": total_stake / (1 + (bet9ja_2X / betking_1X))
+                },
+                "betking 1X": {
+                    "odd": betking_1X,
+                    "stake": total_stake / (1 + (betking_1X / bet9ja_2X))
+                },
+                "amount": total_stake,
+                "profit": (bet9ja_2X * (total_stake / (1 + (bet9ja_2X / betking_1X)))) - total_stake
+            }
+            result[e] = data_3[e]
+        else:
+            continue
 
-init()
+    # Save as JSON
+    with open('./arb2.txt', 'w') as outfile:
+        json.dump(result, outfile, indent=4)

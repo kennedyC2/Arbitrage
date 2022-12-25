@@ -1,514 +1,4479 @@
 {
-    "France": {
-        "FRA - Ligue 1": {
-            "Ajaccio vs Angers": {
-                "time": "15:00",
+    "England": {
+        "ENG - Premier League": {
+            "Brentford vs Tottenham": {
+                "time": "13:30",
                 "single": {
-                    "home": "2.15",
-                    "draw": "3.25",
-                    "away": "3.75"
+                    "home": "3.42",
+                    "draw": "3.70",
+                    "away": "2.14"
+                },
+                "double": {
+                    "1X": "2.08",
+                    "12": "1.74",
+                    "2X": "1.27"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "4.30",
-                    "2 [Home + 1]": "9.30"
+                    "1 [Away + 1]": "7.50",
+                    "2 [Home + 1]": "3.80"
                 }
             },
-            "Troyes vs Nantes": {
-                "time": "15:00",
+            "Crystal Palace vs Fulham": {
+                "time": "16:00",
                 "single": {
-                    "home": "2.50",
+                    "home": "2.12",
                     "draw": "3.50",
-                    "away": "2.80"
+                    "away": "3.60"
+                },
+                "double": {
+                    "1X": "1.29",
+                    "12": "1.30",
+                    "2X": "1.71"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "4.90",
-                    "2 [Home + 1]": "5.70"
+                    "1 [Away + 1]": "3.95",
+                    "2 [Home + 1]": "8.20"
                 }
             },
-            "Auxerre vs Monaco": {
-                "time": "17:00",
+            "Everton  vs Wolverhampton": {
+                "time": "16:00",
                 "single": {
-                    "home": "4.25",
-                    "draw": "3.72",
-                    "away": "1.79"
+                    "home": "2.45",
+                    "draw": "3.20",
+                    "away": "3.15"
+                },
+                "double": {
+                    "1X": "1.36",
+                    "12": "1.35",
+                    "2X": "1.55"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "10.50",
-                    "2 [Home + 1]": "3.20"
+                    "1 [Away + 1]": "4.95",
+                    "2 [Home + 1]": "7.00"
                 }
             },
-            "Clermont vs Lille": {
-                "time": "19:00",
+            "Leicester  vs Newcastle": {
+                "time": "16:00",
                 "single": {
-                    "home": "4.28",
-                    "draw": "3.78",
-                    "away": "1.84"
+                    "home": "3.28",
+                    "draw": "3.48",
+                    "away": "2.23"
                 },
-                "handicap": {
-                    "1 [Away + 1]": "10.25",
-                    "2 [Home + 1]": "3.28"
-                }
-            },
-            "PSG vs Strasbourg": {
-                "time": "21:00",
-                "single": {
-                    "home": "1.19",
-                    "draw": "7.50",
-                    "away": "14.25"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "1.47",
-                    "2 [Home + 1]": "31.00"
-                }
-            },
-            "Stade Brest vs Lyon": {
-                "time": "21:00",
-                "single": {
-                    "home": "3.85",
-                    "draw": "3.65",
-                    "away": "1.98"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "9.00",
-                    "2 [Home + 1]": "3.60"
-                }
-            },
-            "Lorient vs Montpellier": {
-                "time": "17:00",
-                "single": {
-                    "home": "2.02",
-                    "draw": "3.65",
-                    "away": "3.65"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.68",
-                    "2 [Home + 1]": "8.30"
-                }
-            },
-            "Reims vs Rennes": {
-                "time": "19:00",
-                "single": {
-                    "home": "3.35",
-                    "draw": "3.28",
-                    "away": "2.28"
+                "double": {
+                    "1X": "1.65",
+                    "12": "1.30",
+                    "2X": "1.33"
                 },
                 "handicap": {
                     "1 [Away + 1]": "7.20",
-                    "2 [Home + 1]": "4.25"
+                    "2 [Home + 1]": "4.22"
                 }
             },
-            "Marseille vs Toulouse": {
+            "Southampton  vs Brighton": {
+                "time": "16:00",
+                "single": {
+                    "home": "3.25",
+                    "draw": "3.48",
+                    "away": "2.23"
+                },
+                "double": {
+                    "1X": "1.65",
+                    "12": "1.30",
+                    "2X": "1.34"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "7.20",
+                    "2 [Home + 1]": "4.28"
+                }
+            },
+            "Aston Villa vs Liverpool": {
+                "time": "18:30",
+                "single": {
+                    "home": "4.32",
+                    "draw": "4.05",
+                    "away": "1.81"
+                },
+                "double": {
+                    "1X": "1.78",
+                    "12": "2.03",
+                    "2X": "1.24"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "9.90",
+                    "2 [Home + 1]": "3.00"
+                }
+            },
+            "Arsenal  vs West Ham": {
                 "time": "21:00",
                 "single": {
-                    "home": "1.56",
-                    "draw": "4.42",
-                    "away": "5.80"
+                    "home": "1.55",
+                    "draw": "1.52",
+                    "away": "4.40"
                 },
-                "handicap": {
-                    "1 [Away + 1]": "2.48",
-                    "2 [Home + 1]": "14.25"
-                }
-            },
-            "Nice vs Lens": {
-                "time": "21:00",
-                "single": {
-                    "home": "3.22",
-                    "draw": "2.95",
-                    "away": "2.53"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "7.00",
-                    "2 [Home + 1]": "5.00"
-                }
-            },
-            "Angers vs Lorient": {
-                "time": "15:00",
-                "single": {
-                    "home": "2.87",
-                    "draw": "3.30",
-                    "away": "2.57"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "6.00",
-                    "2 [Home + 1]": "5.20"
-                }
-            },
-            "Monaco vs Stade Brest": {
-                "time": "15:00",
-                "single": {
-                    "home": "1.53",
-                    "draw": "4.65",
-                    "away": "5.70"
+                "double": {
+                    "1X": "6.40",
+                    "12": "1.11",
+                    "2X": "1.21"
                 },
                 "handicap": {
                     "1 [Away + 1]": "2.40",
-                    "2 [Home + 1]": "14.00"
+                    "2 [Home + 1]": "16.50"
                 }
             },
-            "Nantes vs Auxerre": {
-                "time": "15:00",
+            "Chelsea  vs Bournemouth": {
+                "time": "18:30",
                 "single": {
-                    "home": "2.05",
-                    "draw": "3.22",
-                    "away": "4.10"
+                    "home": "1.35",
+                    "draw": "1.32",
+                    "away": "5.60"
+                },
+                "double": {
+                    "1X": "9.40",
+                    "12": "1.05",
+                    "2X": "1.14"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "3.75",
-                    "2 [Home + 1]": "9.70"
+                    "1 [Away + 1]": "1.86",
+                    "2 [Home + 1]": "24.00"
                 }
             },
-            "Toulouse  vs Ajaccio": {
-                "time": "15:00",
-                "single": {
-                    "home": "2.08",
-                    "draw": "3.18",
-                    "away": "4.05"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.85",
-                    "2 [Home + 1]": "9.60"
-                }
-            },
-            "Lyon vs Clermont": {
-                "time": "17:00",
-                "single": {
-                    "home": "1.46",
-                    "draw": "4.90",
-                    "away": "6.60"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "2.20",
-                    "2 [Home + 1]": "16.00"
-                }
-            },
-            "Lens vs PSG": {
-                "time": "20:45",
-                "single": {
-                    "home": "4.05",
-                    "draw": "3.82",
-                    "away": "1.88"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "9.10",
-                    "2 [Home + 1]": "3.22"
-                }
-            },
-            "Strasbourg vs Troyes": {
-                "time": "15:00",
-                "single": {
-                    "home": "1.83",
-                    "draw": "3.80",
-                    "away": "4.32"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.25",
-                    "2 [Home + 1]": "10.50"
-                }
-            },
-            "Lille  vs Reims": {
-                "time": "17:00",
-                "single": {
-                    "home": "1.66",
-                    "draw": "3.98",
-                    "away": "5.30"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "2.82",
-                    "2 [Home + 1]": "13.50"
-                }
-            },
-            "Montpellier vs Marseille": {
-                "time": "19:00",
-                "single": {
-                    "home": "3.95",
-                    "draw": "3.85",
-                    "away": "1.89"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "9.20",
-                    "2 [Home + 1]": "3.35"
-                }
-            },
-            "Rennes vs Nice": {
+            "Man. Utd vs Nottingham Forest": {
                 "time": "21:00",
                 "single": {
-                    "home": "1.88",
-                    "draw": "3.75",
-                    "away": "4.12"
+                    "home": "1.33",
+                    "draw": "1.30",
+                    "away": "5.60"
+                },
+                "double": {
+                    "1X": "10.50",
+                    "12": "1.04",
+                    "2X": "1.14"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "3.40",
-                    "2 [Home + 1]": "9.90"
+                    "1 [Away + 1]": "1.79",
+                    "2 [Home + 1]": "26.00"
+                }
+            },
+            "Leeds vs Man. City": {
+                "time": "21:00",
+                "single": {
+                    "home": "9.00",
+                    "draw": "5.80",
+                    "away": "1.32"
+                },
+                "double": {
+                    "1X": "3.35",
+                    "12": "1.13",
+                    "2X": "1.06"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "21.00",
+                    "2 [Home + 1]": "1.79"
+                }
+            },
+            "West Ham  vs Brentford": {
+                "time": "20:45",
+                "single": {
+                    "home": "1.98",
+                    "draw": "3.55",
+                    "away": "3.80"
+                },
+                "double": {
+                    "1X": "1.25",
+                    "12": "1.28",
+                    "2X": "1.79"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.70",
+                    "2 [Home + 1]": "9.20"
+                }
+            },
+            "Liverpool  vs Leicester": {
+                "time": "21:00",
+                "single": {
+                    "home": "1.36",
+                    "draw": "5.40",
+                    "away": "7.70"
+                },
+                "double": {
+                    "1X": "1.07",
+                    "12": "1.14",
+                    "2X": "3.02"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "1.94",
+                    "2 [Home + 1]": "19.00"
+                }
+            },
+            "Wolverhampton vs Man. Utd": {
+                "time": "13:30",
+                "single": {
+                    "home": "4.15",
+                    "draw": "3.52",
+                    "away": "1.90"
+                },
+                "double": {
+                    "1X": "1.86",
+                    "12": "1.28",
+                    "2X": "1.21"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "10.25",
+                    "2 [Home + 1]": "3.52"
+                }
+            },
+            "Bournemouth vs Crystal Palace": {
+                "time": "16:00",
+                "single": {
+                    "home": "3.18",
+                    "draw": "3.25",
+                    "away": "2.33"
+                },
+                "double": {
+                    "1X": "1.57",
+                    "12": "1.32",
+                    "2X": "1.33"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "7.20",
+                    "2 [Home + 1]": "4.60"
+                }
+            },
+            "Fulham vs Southampton": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.15",
+                    "draw": "3.30",
+                    "away": "3.55"
+                },
+                "double": {
+                    "1X": "1.28",
+                    "12": "1.31",
+                    "2X": "1.67"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.90",
+                    "2 [Home + 1]": "7.80"
+                }
+            },
+            "Man. City vs Everton": {
+                "time": "16:00",
+                "single": {
+                    "home": "1.16",
+                    "draw": "7.50",
+                    "away": "17.50"
+                },
+                "double": {
+                    "1X": "-",
+                    "12": "1.07",
+                    "2X": "4.95"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "1.43",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Newcastle  vs Leeds": {
+                "time": "16:00",
+                "single": {
+                    "home": "1.52",
+                    "draw": "4.50",
+                    "away": "5.90"
+                },
+                "double": {
+                    "1X": "1.12",
+                    "12": "1.19",
+                    "2X": "2.45"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "2.40",
+                    "2 [Home + 1]": "15.00"
+                }
+            },
+            "Brighton vs Arsenal": {
+                "time": "18:30",
+                "single": {
+                    "home": "3.40",
+                    "draw": "3.55",
+                    "away": "2.10"
+                },
+                "double": {
+                    "1X": "1.70",
+                    "12": "1.28",
+                    "2X": "1.30"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "7.60",
+                    "2 [Home + 1]": "3.88"
+                }
+            },
+            "Tottenham  vs Aston Villa": {
+                "time": "15:00",
+                "single": {
+                    "home": "1.68",
+                    "draw": "4.02",
+                    "away": "4.85"
+                },
+                "double": {
+                    "1X": "1.16",
+                    "12": "1.23",
+                    "2X": "2.13"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "2.87",
+                    "2 [Home + 1]": "12.25"
+                }
+            },
+            "Nottingham Forest vs Chelsea": {
+                "time": "17:30",
+                "single": {
+                    "home": "5.15",
+                    "draw": "3.85",
+                    "away": "1.68"
+                },
+                "double": {
+                    "1X": "2.13",
+                    "12": "1.24",
+                    "2X": "1.15"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "13.75",
+                    "2 [Home + 1]": "2.95"
                 }
             }
         },
-        "FRA - Ligue 2": {
-            "Annecy vs Saint Etienne": {
-                "time": "17:00",
+        "ENG - Premier League King's Combo": {
+            "Brentford v Tottenham vs Brentford to Win Either Half": {
+                "time": "13:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Brentford v Tottenham vs Brentford to Win, Over 2.5 Goals & 9+ Corners": {
+                "time": "13:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Brentford v Tottenham vs Brentford to Win, Over 2.5 Goals & Both Teams To Score": {
+                "time": "13:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Brentford v Tottenham vs H. Kane & Son both to Score": {
+                "time": "13:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Brentford v Tottenham vs H. Kane to score a Header": {
+                "time": "13:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Brentford v Tottenham vs Kulusevski 1+ Assists & Pinnock to be Carded": {
+                "time": "13:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Brentford v Tottenham vs Over 2.5 Goals, Both Teams To Score & 4+ Cards": {
+                "time": "13:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Brentford v Tottenham vs Perisic 1+ Assists & Onyeka to be Carded": {
+                "time": "13:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Brentford v Tottenham vs Son to score from Outside the Area": {
+                "time": "13:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Brentford v Tottenham vs Toney & H. Kane both to Score": {
+                "time": "13:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Brentford v Tottenham vs Toney & Son both to Score": {
+                "time": "13:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Brentford v Tottenham vs Toney to Score & Onyeka to be Carded": {
+                "time": "13:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Brentford v Tottenham vs Toney to Score, Onyeka to be Carded & Under 3.5 Goals": {
+                "time": "13:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Brentford v Tottenham vs Tottenham to Win, Both Teams To Score & 9+ Corners": {
+                "time": "13:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Brentford v Tottenham vs Tottenham to Win, Over 2.5 Goals & Both Teams To Score": {
+                "time": "13:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Crystal Palace v Fulham vs Crystal Palace to Win & Olise to Score": {
+                "time": "16:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Crystal Palace v Fulham vs Edouard & Mitrovic both to Score": {
+                "time": "16:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Crystal Palace v Fulham vs Fulham to Win, Over 2.5 Goals & Both Teams To Score": {
+                "time": "16:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Crystal Palace v Fulham vs Over 2.5 Goals, Both Teams To Score & 4+ Cards": {
+                "time": "16:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Crystal Palace v Fulham vs Zaha & Mitrovic both to Score": {
+                "time": "16:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Everton v Wolverhampton vs Everton to Win, Over 2.5 Goals & Both Teams To Score": {
+                "time": "16:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Everton v Wolverhampton vs Iwobi 1+ Assists & Neves to be Carded": {
+                "time": "16:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Everton v Wolverhampton vs Iwobi 1+ Assists & Podence to be Carded": {
+                "time": "16:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Everton v Wolverhampton vs Over 2.5 Goals, Both Teams To Score & 4+ Cards": {
+                "time": "16:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Everton v Wolverhampton vs Wolverhampton to Win, Over 2.5 Goals & Both Teams To Score": {
+                "time": "16:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Leicester v Newcastle vs Almiron to Score & Soumare to be Carded": {
+                "time": "16:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Leicester v Newcastle vs Daka & Almiron both to Score": {
+                "time": "16:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Leicester v Newcastle vs Maddison & Wilson both to Score": {
+                "time": "16:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Leicester v Newcastle vs Over 2.5 Goals, Both Teams To Score & 4+ Cards": {
+                "time": "16:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Leicester v Newcastle vs Vardy & Almiron both to Score": {
+                "time": "16:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Southampton v Brighton vs Aribo & Trossard both to Score": {
+                "time": "16:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Southampton v Brighton vs Brighton to Win, Over 2.5 Goals & Both Teams To Score": {
+                "time": "16:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Southampton v Brighton vs Che Adams & Trossard both to Score": {
+                "time": "16:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Southampton v Brighton vs Southampton to Win, Over 2.5 Goals & Both Teams To Score": {
+                "time": "16:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Southampton v Brighton vs Trossard 1+ Assists & Salisu to be Carded": {
+                "time": "16:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Aston Villa v Liverpool vs Aston Villa to Win, Over 2.5 Goals & Both Teams To Score": {
+                "time": "18:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Aston Villa v Liverpool vs Either Team to Win by 2 or More Goals": {
+                "time": "18:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Aston Villa v Liverpool vs Fabinho & Gomez Both to be Carded": {
+                "time": "18:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Aston Villa v Liverpool vs Ings & Nunez both to Score": {
+                "time": "18:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Aston Villa v Liverpool vs Ings & Salah both to Score": {
+                "time": "18:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Aston Villa v Liverpool vs Ings to Score & Fabinho to be Carded": {
+                "time": "18:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Aston Villa v Liverpool vs Leon Bailey 1+ Assists & N\u00fa\u00f1ez to Score": {
+                "time": "18:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Aston Villa v Liverpool vs Liverpool to Win, Over 2.5 Goals & 9+ Corners": {
+                "time": "18:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Aston Villa v Liverpool vs Liverpool to Win, Over 2.5 Goals & Both Teams To Score": {
+                "time": "18:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Aston Villa v Liverpool vs Robertson 1+ Assists & Gomez to be Carded": {
+                "time": "18:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Aston Villa v Liverpool vs Robertson 1+ Assists & McGinn to be Carded": {
+                "time": "18:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Aston Villa v Liverpool vs Salah 1+ Assists & AlexandervsArnold to be Carded": {
+                "time": "18:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Aston Villa v Liverpool vs Salah to Score, 9+ Corners & Over 2.5 Goals": {
+                "time": "18:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Aston Villa v Liverpool vs Salah to Score, Fabinho to be Carded & Liverpool to Win": {
+                "time": "18:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Aston Villa v Liverpool vs Watkins 1+ Assists & Fabinho to be Carded": {
+                "time": "18:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Arsenal v West Ham vs Arsenal to Win, Over 2.5 Goals & 9+ Corners": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Arsenal v West Ham vs Arsenal to Win, Over 2.5 Goals & Both Teams To Score": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Arsenal v West Ham vs Benrahma to Score & Saliba to be Carded": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Arsenal v West Ham vs Benrahma to Score, 9+ Corners & Over 2.5 Goals": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Arsenal v West Ham vs Martinelli & Benrahma both to Score": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Arsenal v West Ham vs Martinelli & Saka both to Score": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Arsenal v West Ham vs Martinelli to Score & Kehrer to be Carded": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Arsenal v West Ham vs Martinelli to Score & Partey to be Carded": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Arsenal v West Ham vs Martinelli to Score & Xhaka to be Carded": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Arsenal v West Ham vs Odegaard & Scamacca both to Score": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Arsenal v West Ham vs Odegaard to Score & Rice to be Carded": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Arsenal v West Ham vs Odegaard to Score & Saliba to be Carded": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Arsenal v West Ham vs Saka 1+ Assists & Rice to be Carded": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Arsenal v West Ham vs West Ham to Win, Over 2.5 Goals & Both Teams To Score": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Arsenal v West Ham vs Xhaka 1+ Assists & Zouma to be Carded": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Chelsea v Bournemouth vs Aubameyang & Havertz both to Score": {
+                "time": "18:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Chelsea v Bournemouth vs Aubameyang & Solanke both to Score": {
+                "time": "18:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Chelsea v Bournemouth vs Aubameyang to Score & Koulibaly to be Carded": {
+                "time": "18:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Chelsea v Bournemouth vs Aubameyang to Score, 9+ Corners & Over 2.5 Goals": {
+                "time": "18:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Chelsea v Bournemouth vs Bournemouth to Win, Over 2.5 Goals & Both Teams To Score": {
+                "time": "18:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Chelsea v Bournemouth vs Chelsea to Win, Over 2.5 Goals & 4+ Cards": {
+                "time": "18:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Chelsea v Bournemouth vs Chelsea to Win, Over 2.5 Goals & 9+ Corners": {
+                "time": "18:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Chelsea v Bournemouth vs Chelsea to Win, Over 2.5 Goals & Both Teams To Score": {
+                "time": "18:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Chelsea v Bournemouth vs Havertz & Moore both to Score": {
+                "time": "18:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Chelsea v Bournemouth vs Havertz & Sterling both to Score": {
+                "time": "18:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Chelsea v Bournemouth vs Havertz to Score, Chelsea to Win & 9+ Corners": {
+                "time": "18:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Chelsea v Bournemouth vs Mount 1+ Assists & Koulibaly to be Carded": {
+                "time": "18:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Chelsea v Bournemouth vs Over 2.5 Goals, Both Teams To Score & 4+ Cards": {
+                "time": "18:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Chelsea v Bournemouth vs Pulisic 1+ Assists & Koulibaly to be Carded": {
+                "time": "18:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Chelsea v Bournemouth vs Sterling 1+ Assists & Smith to be Carded": {
+                "time": "18:30",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Man. Utd v Nottm. Forest vs Awoniyi to Score & L. Shaw to be Carded": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Man. Utd v Nottm. Forest vs Eriksen 1+ Assists & L. Martinez to be Carded": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Man. Utd v Nottm. Forest vs Fernandes 1+ Assists & L. Martinez to be Carded": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Man. Utd v Nottm. Forest vs Fernandes 1+ Assists & McTominay to be Carded": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Man. Utd v Nottm. Forest vs Man. Utd to Win, Over 2.5 Goals & 4+ Cards": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Man. Utd v Nottm. Forest vs Man. Utd to Win, Over 2.5 Goals & 9+ Corners": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Man. Utd v Nottm. Forest vs Man. Utd to Win, Over 2.5 Goals & Both Teams To Score": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Man. Utd v Nottm. Forest vs Martial & Awoniyi both to Score": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Man. Utd v Nottm. Forest vs Martial & Fernandes both to Score": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Man. Utd v Nottm. Forest vs Martial to Score, Man. Utd to Win & 9+ Corners": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Man. Utd v Nottm. Forest vs Nottingham Forest to Win, Over 2.5 Goals & Both Teams To Score": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Man. Utd v Nottm. Forest vs Over 2.5 Goals, Both Teams To Score & 4+ Cards": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Man. Utd v Nottm. Forest vs Rashford & Martial both to Score": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Man. Utd v Nottm. Forest vs Rashford 1+ Assists & Worrall to be Carded": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Man. Utd v Nottm. Forest vs Rashford to Score & L. Martinez to be Carded": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Leeds v Man. City vs B. Silva 1+ Assists & Cancelo to be Carded": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Leeds v Man. City vs De Bruyne 1+ Assists & Kristensen to be Carded": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Leeds v Man. City vs Foden 1+ Assists & Roca to be Carded": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Leeds v Man. City vs Foden to Score & Koch to be Carded": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Leeds v Man. City vs Haaland & Foden both to Score": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Leeds v Man. City vs Haaland & Mahrez both to Score": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Leeds v Man. City vs Haaland to Score & Kristensen to be Carded": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Leeds v Man. City vs Haaland to Score, Kristensen to be Carded & Man. City to Win": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Leeds v Man. City vs Leeds to Win, Over 2.5 Goals & Both Teams To Score": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Leeds v Man. City vs Man. City to Win, Over 2.5 Goals & Both Teams To Score": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Leeds v Man. City vs Man. City to Win, Over 3.5 Goals & Both Teams To Score": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Leeds v Man. City vs Over 2.5 Goals, Both Teams To Score & 4+ Cards": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Leeds v Man. City vs Over 3.5 Goals, Both Teams To Score & 4+ Cards": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Leeds v Man. City vs Rodrigo & Haaland both to Score": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Leeds v Man. City vs Rodrigo to Score & Kristensen to be Carded": {
+                "time": "21:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            }
+        },
+        "ENG - Championship": {
+            "Watford  vs Millwall": {
+                "time": "13:00",
                 "single": {
-                    "home": "2.90",
-                    "draw": "3.35",
-                    "away": "2.38"
+                    "home": "2.13",
+                    "draw": "3.22",
+                    "away": "3.65"
+                },
+                "double": {
+                    "1X": "1.26",
+                    "12": "1.33",
+                    "2X": "1.68"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "6.30",
+                    "1 [Away + 1]": "4.20",
+                    "2 [Home + 1]": "9.00"
+                }
+            },
+            "Sunderland vs Blackburn": {
+                "time": "13:30",
+                "single": {
+                    "home": "2.35",
+                    "draw": "3.15",
+                    "away": "3.22"
+                },
+                "double": {
+                    "1X": "1.33",
+                    "12": "1.34",
+                    "2X": "1.56"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.70",
+                    "2 [Home + 1]": "7.30"
+                }
+            },
+            "Bristol City vs West Bromwich": {
+                "time": "16:00",
+                "single": {
+                    "home": "3.05",
+                    "draw": "3.25",
+                    "away": "2.40"
+                },
+                "double": {
+                    "1X": "1.54",
+                    "12": "1.32",
+                    "2X": "1.36"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "6.70",
                     "2 [Home + 1]": "4.80"
                 }
             },
-            "Le Havre vs Bordeaux": {
+            "Hull City vs Blackpool": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.12",
+                    "draw": "3.30",
+                    "away": "3.62"
+                },
+                "double": {
+                    "1X": "1.27",
+                    "12": "1.31",
+                    "2X": "1.69"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.10",
+                    "2 [Home + 1]": "8.70"
+                }
+            },
+            "Middlesbrough vs Wigan": {
+                "time": "16:00",
+                "single": {
+                    "home": "1.67",
+                    "draw": "3.70",
+                    "away": "5.50"
+                },
+                "double": {
+                    "1X": "1.13",
+                    "12": "1.26",
+                    "2X": "2.15"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "2.90",
+                    "2 [Home + 1]": "14.75"
+                }
+            },
+            "Preston vs Huddersfield": {
+                "time": "16:00",
+                "single": {
+                    "home": "1.84",
+                    "draw": "3.40",
+                    "away": "4.48"
+                },
+                "double": {
+                    "1X": "1.17",
+                    "12": "1.28",
+                    "2X": "1.88"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.45",
+                    "2 [Home + 1]": "12.00"
+                }
+            },
+            "Rotherham vs Stoke": {
+                "time": "16:00",
+                "single": {
+                    "home": "3.22",
+                    "draw": "3.18",
+                    "away": "2.30"
+                },
+                "double": {
+                    "1X": "1.56",
+                    "12": "1.31",
+                    "2X": "1.31"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "7.40",
+                    "2 [Home + 1]": "4.60"
+                }
+            },
+            "Sheffield Utd vs Coventry": {
+                "time": "16:00",
+                "single": {
+                    "home": "1.73",
+                    "draw": "3.72",
+                    "away": "4.95"
+                },
+                "double": {
+                    "1X": "1.16",
+                    "12": "1.26",
+                    "2X": "2.05"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.05",
+                    "2 [Home + 1]": "12.75"
+                }
+            },
+            "Cardiff vs QPR": {
+                "time": "18:15",
+                "single": {
+                    "home": "2.48",
+                    "draw": "3.20",
+                    "away": "2.97"
+                },
+                "double": {
+                    "1X": "1.37",
+                    "12": "1.33",
+                    "2X": "1.51"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "5.10",
+                    "2 [Home + 1]": "6.50"
+                }
+            },
+            "Luton vs Norwich": {
+                "time": "20:45",
+                "single": {
+                    "home": "2.68",
+                    "draw": "3.25",
+                    "away": "2.70"
+                },
+                "double": {
+                    "1X": "1.44",
+                    "12": "1.32",
+                    "2X": "1.45"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "5.60",
+                    "2 [Home + 1]": "5.60"
+                }
+            },
+            "Reading vs Swansea": {
+                "time": "18:15",
+                "single": {
+                    "home": "2.92",
+                    "draw": "3.25",
+                    "away": "2.50"
+                },
+                "double": {
+                    "1X": "1.50",
+                    "12": "1.32",
+                    "2X": "1.38"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "6.30",
+                    "2 [Home + 1]": "5.10"
+                }
+            },
+            "Burnley  vs Birmingham": {
+                "time": "21:00",
+                "single": {
+                    "home": "1.68",
+                    "draw": "1.65",
+                    "away": "3.68"
+                },
+                "double": {
+                    "1X": "5.50",
+                    "12": "1.12",
+                    "2X": "1.24"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "2.85",
+                    "2 [Home + 1]": "15.00"
+                }
+            },
+            "QPR vs Luton": {
                 "time": "19:00",
                 "single": {
-                    "home": "2.28",
-                    "draw": "3.18",
-                    "away": "3.22"
+                    "home": "2.15",
+                    "draw": "3.35",
+                    "away": "3.45"
+                },
+                "double": {
+                    "1X": "1.29",
+                    "12": "1.30",
+                    "2X": "1.67"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.30",
+                    "2 [Home + 1]": "8.40"
+                }
+            },
+            "Blackburn vs Middlesbrough": {
+                "time": "20:45",
+                "single": {
+                    "home": "2.63",
+                    "draw": "3.25",
+                    "away": "2.75"
+                },
+                "double": {
+                    "1X": "1.43",
+                    "12": "1.32",
+                    "2X": "1.46"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "5.60",
+                    "2 [Home + 1]": "6.00"
+                }
+            },
+            "Coventry vs Cardiff": {
+                "time": "20:45",
+                "single": {
+                    "home": "2.10",
+                    "draw": "3.40",
+                    "away": "3.58"
+                },
+                "double": {
+                    "1X": "1.27",
+                    "12": "1.30",
+                    "2X": "1.70"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.15",
+                    "2 [Home + 1]": "8.80"
+                }
+            },
+            "Huddersfield vs Rotherham": {
+                "time": "20:45",
+                "single": {
+                    "home": "2.25",
+                    "draw": "3.25",
+                    "away": "3.35"
+                },
+                "double": {
+                    "1X": "1.30",
+                    "12": "1.32",
+                    "2X": "1.61"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.55",
+                    "2 [Home + 1]": "7.90"
+                }
+            },
+            "Millwall vs Bristol City": {
+                "time": "20:45",
+                "single": {
+                    "home": "2.00",
+                    "draw": "3.45",
+                    "away": "3.85"
+                },
+                "double": {
+                    "1X": "1.24",
+                    "12": "1.29",
+                    "2X": "1.77"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.88",
+                    "2 [Home + 1]": "9.70"
+                }
+            },
+            "Wigan vs Sunderland": {
+                "time": "20:45",
+                "single": {
+                    "home": "2.77",
+                    "draw": "3.20",
+                    "away": "2.63"
+                },
+                "double": {
+                    "1X": "1.46",
+                    "12": "1.33",
+                    "2X": "1.42"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "6.00",
+                    "2 [Home + 1]": "5.60"
+                }
+            },
+            "West Bromwich  vs Preston": {
+                "time": "21:00",
+                "single": {
+                    "home": "1.89",
+                    "draw": "3.58",
+                    "away": "4.15"
+                },
+                "double": {
+                    "1X": "1.21",
+                    "12": "1.27",
+                    "2X": "1.87"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.60",
+                    "2 [Home + 1]": "10.75"
+                }
+            },
+            "Blackpool vs Sheffield Utd": {
+                "time": "21:15",
+                "single": {
+                    "home": "3.82",
+                    "draw": "3.65",
+                    "away": "1.94"
+                },
+                "double": {
+                    "1X": "1.82",
+                    "12": "1.26",
+                    "2X": "1.24"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "9.70",
+                    "2 [Home + 1]": "3.75"
+                }
+            },
+            "Birmingham vs Hull City": {
+                "time": "20:45",
+                "single": {
+                    "home": "2.08",
+                    "draw": "3.35",
+                    "away": "3.68"
+                },
+                "double": {
+                    "1X": "1.26",
+                    "12": "1.30",
+                    "2X": "1.71"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.12",
+                    "2 [Home + 1]": "9.20"
+                }
+            },
+            "Norwich vs Reading": {
+                "time": "20:45",
+                "single": {
+                    "home": "1.82",
+                    "draw": "3.55",
+                    "away": "4.55"
+                },
+                "double": {
+                    "1X": "1.18",
+                    "12": "1.28",
+                    "2X": "1.94"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.32",
+                    "2 [Home + 1]": "11.75"
+                }
+            },
+            "Stoke  vs Burnley": {
+                "time": "20:45",
+                "single": {
+                    "home": "3.25",
+                    "draw": "3.28",
+                    "away": "2.28"
+                },
+                "double": {
+                    "1X": "1.60",
+                    "12": "1.32",
+                    "2X": "1.32"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "7.40",
+                    "2 [Home + 1]": "4.48"
+                }
+            },
+            "Swansea  vs Watford": {
+                "time": "20:45",
+                "single": {
+                    "home": "2.70",
+                    "draw": "3.25",
+                    "away": "2.68"
+                },
+                "double": {
+                    "1X": "1.45",
+                    "12": "1.32",
+                    "2X": "1.44"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "5.80",
+                    "2 [Home + 1]": "5.70"
+                }
+            },
+            "Blackburn vs Cardiff": {
+                "time": "13:00",
+                "single": {
+                    "home": "2.05",
+                    "draw": "3.35",
+                    "away": "3.80"
+                },
+                "double": {
+                    "1X": "1.25",
+                    "12": "1.30",
+                    "2X": "1.73"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.00",
+                    "2 [Home + 1]": "9.50"
+                }
+            },
+            "Blackpool vs Sunderland": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.55",
+                    "draw": "3.28",
+                    "away": "2.82"
+                },
+                "double": {
+                    "1X": "1.41",
+                    "12": "1.32",
+                    "2X": "1.49"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "5.30",
+                    "2 [Home + 1]": "6.10"
+                }
+            },
+            "Coventry vs Bristol City": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.25",
+                    "draw": "3.28",
+                    "away": "3.28"
+                },
+                "double": {
+                    "1X": "1.32",
+                    "12": "1.32",
+                    "2X": "1.61"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.48",
+                    "2 [Home + 1]": "7.60"
+                }
+            },
+            "Huddersfield vs Luton": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.82",
+                    "draw": "3.28",
+                    "away": "2.55"
+                },
+                "double": {
+                    "1X": "1.49",
+                    "12": "1.32",
+                    "2X": "1.41"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "6.20",
+                    "2 [Home + 1]": "5.40"
+                }
+            },
+            "Millwall vs Rotherham": {
+                "time": "16:00",
+                "single": {
+                    "home": "1.87",
+                    "draw": "3.42",
+                    "away": "4.48"
+                },
+                "double": {
+                    "1X": "1.19",
+                    "12": "1.29",
+                    "2X": "1.89"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.42",
+                    "2 [Home + 1]": "11.50"
+                }
+            },
+            "Birmingham vs Middlesbrough": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.92",
+                    "draw": "3.30",
+                    "away": "2.45"
+                },
+                "double": {
+                    "1X": "1.52",
+                    "12": "1.31",
+                    "2X": "1.38"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "6.40",
+                    "2 [Home + 1]": "5.00"
+                }
+            },
+            "Norwich vs Watford": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.10",
+                    "draw": "3.45",
+                    "away": "3.55"
+                },
+                "double": {
+                    "1X": "1.28",
+                    "12": "1.29",
+                    "2X": "1.70"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.02",
+                    "2 [Home + 1]": "8.40"
+                }
+            },
+            "Stoke  vs Preston": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.30",
+                    "draw": "3.22",
+                    "away": "3.28"
+                },
+                "double": {
+                    "1X": "1.32",
+                    "12": "1.33",
+                    "2X": "1.59"
                 },
                 "handicap": {
                     "1 [Away + 1]": "4.75",
                     "2 [Home + 1]": "7.80"
                 }
             },
-            "Bastia vs Caen": {
-                "time": "21:00",
-                "single": {
-                    "home": "3.05",
-                    "draw": "3.10",
-                    "away": "2.43"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "7.30",
-                    "2 [Home + 1]": "5.25"
-                }
-            },
-            "Dijon  vs Laval": {
-                "time": "21:00",
-                "single": {
-                    "home": "2.33",
-                    "draw": "3.15",
-                    "away": "3.10"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "4.60",
-                    "2 [Home + 1]": "6.80"
-                }
-            },
-            "Metz vs Niort": {
-                "time": "21:00",
-                "single": {
-                    "home": "1.77",
-                    "draw": "3.52",
-                    "away": "4.75"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.28",
-                    "2 [Home + 1]": "12.75"
-                }
-            },
-            "Nimes vs Guingamp": {
-                "time": "21:00",
-                "single": {
-                    "home": "2.90",
-                    "draw": "3.25",
-                    "away": "2.45"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "6.40",
-                    "2 [Home + 1]": "5.05"
-                }
-            },
-            "Pau vs Paris FC": {
-                "time": "21:00",
-                "single": {
-                    "home": "2.97",
-                    "draw": "3.20",
-                    "away": "2.43"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "6.70",
-                    "2 [Home + 1]": "5.05"
-                }
-            },
-            "Quevilly Rouen vs Grenoble": {
-                "time": "21:00",
-                "single": {
-                    "home": "2.48",
-                    "draw": "3.15",
-                    "away": "2.92"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "5.40",
-                    "2 [Home + 1]": "6.90"
-                }
-            },
-            "Sochaux vs Rodez Aveyron": {
-                "time": "21:00",
-                "single": {
-                    "home": "1.61",
-                    "draw": "3.82",
-                    "away": "5.60"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "2.80",
-                    "2 [Home + 1]": "15.50"
-                }
-            },
-            "Valenciennes vs Amiens": {
-                "time": "21:00",
-                "single": {
-                    "home": "2.43",
-                    "draw": "3.20",
-                    "away": "2.95"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "5.10",
-                    "2 [Home + 1]": "6.70"
-                }
-            }
-        },
-        "FRA - National": {
-            "FC Martigues vs Concarneau": {
-                "time": "21:00",
+            "Swansea  vs Burnley": {
+                "time": "16:00",
                 "single": {
                     "home": "3.15",
-                    "draw": "3.15",
-                    "away": "2.30"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "0.00",
-                    "2 [Home + 1]": "0.00"
-                }
-            },
-            "Bastia Borgo vs Avranches": {
-                "time": "19:30",
-                "single": {
-                    "home": "2.18",
-                    "draw": "3.18",
-                    "away": "3.35"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "0.00",
-                    "2 [Home + 1]": "0.00"
-                }
-            },
-            "FC Versailles 78 vs Paris 13 Atletico": {
-                "time": "19:30",
-                "single": {
-                    "home": "1.88",
-                    "draw": "3.35",
-                    "away": "4.18"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "0.00",
-                    "2 [Home + 1]": "0.00"
-                }
-            },
-            "Chateauroux vs Sedan": {
-                "time": "21:00",
-                "single": {
-                    "home": "1.85",
-                    "draw": "3.35",
-                    "away": "4.32"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "0.00",
-                    "2 [Home + 1]": "0.00"
-                }
-            },
-            "Cholet vs Red Star FC": {
-                "time": "21:00",
-                "single": {
-                    "home": "4.22",
-                    "draw": "3.22",
-                    "away": "1.91"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "0.00",
-                    "2 [Home + 1]": "0.00"
-                }
-            },
-            "Concarneau vs Le Puy": {
-                "time": "21:00",
-                "single": {
-                    "home": "1.40",
-                    "draw": "4.70",
-                    "away": "7.10"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "0.00",
-                    "2 [Home + 1]": "0.00"
-                }
-            },
-            "Dunkerque vs Bourg Peronnas": {
-                "time": "21:00",
-                "single": {
-                    "home": "2.45",
-                    "draw": "3.07",
-                    "away": "2.95"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "0.00",
-                    "2 [Home + 1]": "0.00"
-                }
-            },
-            "Le Mans vs Orleans": {
-                "time": "21:00",
-                "single": {
-                    "home": "2.00",
-                    "draw": "3.25",
-                    "away": "3.75"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "0.00",
-                    "2 [Home + 1]": "0.00"
-                }
-            },
-            "Nancy vs FC Martigues": {
-                "time": "21:00",
-                "single": {
-                    "home": "2.28",
-                    "draw": "3.25",
-                    "away": "3.10"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "0.00",
-                    "2 [Home + 1]": "0.00"
-                }
-            },
-            "Saint Brieuc vs Villefranche Sur Saone": {
-                "time": "21:00",
-                "single": {
-                    "home": "3.02",
-                    "draw": "3.18",
+                    "draw": "3.28",
                     "away": "2.35"
                 },
-                "handicap": {
-                    "1 [Away + 1]": "0.00",
-                    "2 [Home + 1]": "0.00"
-                }
-            }
-        },
-        "FRA - Division 1 Feminines": {
-            "Le Havre AC (W) vs Montpellier Hsc (W)": {
-                "time": "12:45",
-                "single": {
-                    "home": "3.95",
-                    "draw": "3.98",
-                    "away": "1.73"
+                "double": {
+                    "1X": "1.56",
+                    "12": "1.32",
+                    "2X": "1.34"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "8.50",
-                    "2 [Home + 1]": "2.75"
+                    "1 [Away + 1]": "6.80",
+                    "2 [Home + 1]": "4.50"
                 }
             },
-            "Olympique Lyon (W) vs PSG (W)": {
-                "time": "21:00",
+            "West Bromwich  vs Reading": {
+                "time": "16:00",
                 "single": {
-                    "home": "1.73",
-                    "draw": "3.72",
-                    "away": "4.25"
+                    "home": "1.70",
+                    "draw": "3.78",
+                    "away": "5.05"
+                },
+                "double": {
+                    "1X": "1.15",
+                    "12": "1.25",
+                    "2X": "2.10"
                 },
                 "handicap": {
                     "1 [Away + 1]": "2.90",
+                    "2 [Home + 1]": "12.75"
+                }
+            },
+            "Wigan vs Hull City": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.28",
+                    "draw": "3.18",
+                    "away": "3.35"
+                },
+                "double": {
+                    "1X": "1.30",
+                    "12": "1.33",
+                    "2X": "1.60"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.42",
+                    "2 [Home + 1]": "7.60"
+                }
+            },
+            "QPR vs Sheffield Utd": {
+                "time": "21:00",
+                "single": {
+                    "home": "2.82",
+                    "draw": "3.28",
+                    "away": "2.55"
+                },
+                "double": {
+                    "1X": "1.49",
+                    "12": "1.32",
+                    "2X": "1.41"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "6.20",
+                    "2 [Home + 1]": "5.40"
+                }
+            }
+        },
+        "ENG - League One": {
+            "Accrington vs Barnsley": {
+                "time": "16:00",
+                "single": {
+                    "home": "3.38",
+                    "draw": "3.28",
+                    "away": "2.18"
+                },
+                "double": {
+                    "1X": "1.62",
+                    "12": "1.30",
+                    "2X": "1.28"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "7.80",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Burton vs Lincoln": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.32",
+                    "draw": "3.15",
+                    "away": "3.15"
+                },
+                "double": {
+                    "1X": "1.32",
+                    "12": "1.31",
+                    "2X": "1.54"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.55",
+                    "2 [Home + 1]": "6.90"
+                }
+            },
+            "Cambridge Utd vs Shrewsbury": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.72",
+                    "draw": "3.08",
+                    "away": "2.72"
+                },
+                "double": {
+                    "1X": "1.41",
+                    "12": "1.33",
+                    "2X": "1.41"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "5.80",
+                    "2 [Home + 1]": "5.80"
+                }
+            },
+            "Charlton vs Peterborough": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.70",
+                    "draw": "3.18",
+                    "away": "2.67"
+                },
+                "double": {
+                    "1X": "1.43",
+                    "12": "1.31",
+                    "2X": "1.42"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "5.50",
+                    "2 [Home + 1]": "5.40"
+                }
+            },
+            "Cheltenham vs Plymouth": {
+                "time": "16:00",
+                "single": {
+                    "home": "3.35",
+                    "draw": "3.38",
+                    "away": "2.10"
+                },
+                "double": {
+                    "1X": "1.66",
+                    "12": "1.28",
+                    "2X": "1.28"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "7.70",
+                    "2 [Home + 1]": "3.98"
+                }
+            },
+            "Exeter vs Portsmouth": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.70",
+                    "draw": "3.22",
+                    "away": "2.63"
+                },
+                "double": {
+                    "1X": "1.44",
+                    "12": "1.31",
+                    "2X": "1.42"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "5.60",
+                    "2 [Home + 1]": "5.30"
+                }
+            },
+            "Fleetwood Town vs Sheffield Wed": {
+                "time": "16:00",
+                "single": {
+                    "home": "4.75",
+                    "draw": "3.52",
+                    "away": "1.77"
+                },
+                "double": {
+                    "1X": "1.96",
+                    "12": "1.26",
+                    "2X": "1.16"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "12.75",
+                    "2 [Home + 1]": "3.22"
+                }
+            },
+            "Ipswich vs Oxford Utd": {
+                "time": "16:00",
+                "single": {
+                    "home": "1.62",
+                    "draw": "3.88",
+                    "away": "5.20"
+                },
+                "double": {
+                    "1X": "1.13",
+                    "12": "1.22",
+                    "2X": "2.15"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "2.75",
+                    "2 [Home + 1]": "13.75"
+                }
+            },
+            "MK Dons vs Forest Green": {
+                "time": "16:00",
+                "single": {
+                    "home": "1.87",
+                    "draw": "3.48",
+                    "away": "4.20"
+                },
+                "double": {
+                    "1X": "1.19",
+                    "12": "1.27",
+                    "2X": "1.85"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.45",
+                    "2 [Home + 1]": "10.75"
+                }
+            },
+            "Port Vale vs Morecambe": {
+                "time": "16:00",
+                "single": {
+                    "home": "1.57",
+                    "draw": "3.78",
+                    "away": "6.20"
+                },
+                "double": {
+                    "1X": "1.09",
+                    "12": "1.23",
+                    "2X": "2.28"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "2.63",
+                    "2 [Home + 1]": "17.50"
+                }
+            },
+            "Wycombe vs Bristol Rovers": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.05",
+                    "draw": "3.38",
+                    "away": "3.48"
+                },
+                "double": {
+                    "1X": "1.26",
+                    "12": "1.28",
+                    "2X": "1.69"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.90",
+                    "2 [Home + 1]": "8.30"
+                }
+            },
+            "Bolton Wanderers vs Derby": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.45",
+                    "draw": "3.18",
+                    "away": "2.80"
+                },
+                "double": {
+                    "1X": "1.35",
+                    "12": "1.27",
+                    "2X": "1.45"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.95",
+                    "2 [Home + 1]": "6.00"
+                }
+            },
+            "Barnsley vs Fleetwood Town": {
+                "time": "20:45",
+                "single": {
+                    "home": "1.74",
+                    "draw": "3.55",
+                    "away": "4.85"
+                },
+                "double": {
+                    "1X": "1.15",
+                    "12": "1.26",
+                    "2X": "2.00"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.18",
+                    "2 [Home + 1]": "13.25"
+                }
+            },
+            "Bristol Rovers vs Exeter": {
+                "time": "20:45",
+                "single": {
+                    "home": "2.53",
+                    "draw": "3.20",
+                    "away": "2.82"
+                },
+                "double": {
+                    "1X": "1.39",
+                    "12": "1.31",
+                    "2X": "1.47"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "5.00",
+                    "2 [Home + 1]": "5.80"
+                }
+            },
+            "Forest Green vs Burton": {
+                "time": "20:45",
+                "single": {
+                    "home": "2.60",
+                    "draw": "3.22",
+                    "away": "2.75"
+                },
+                "double": {
+                    "1X": "1.41",
+                    "12": "1.31",
+                    "2X": "1.45"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "5.40",
+                    "2 [Home + 1]": "5.80"
+                }
+            },
+            "Morecambe vs Accrington": {
+                "time": "20:45",
+                "single": {
+                    "home": "2.90",
+                    "draw": "3.15",
+                    "away": "2.50"
+                },
+                "double": {
+                    "1X": "1.48",
+                    "12": "1.32",
+                    "2X": "1.37"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "6.30",
+                    "2 [Home + 1]": "5.10"
+                }
+            },
+            "Oxford Utd vs Charlton": {
+                "time": "20:45",
+                "single": {
+                    "home": "2.03",
+                    "draw": "3.35",
+                    "away": "3.65"
+                },
+                "double": {
+                    "1X": "1.25",
+                    "12": "1.29",
+                    "2X": "1.72"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.92",
+                    "2 [Home + 1]": "9.00"
+                }
+            },
+            "Peterborough vs MK Dons": {
+                "time": "20:45",
+                "single": {
+                    "home": "1.90",
+                    "draw": "3.38",
+                    "away": "4.00"
+                },
+                "double": {
+                    "1X": "1.20",
+                    "12": "1.28",
+                    "2X": "1.81"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.60",
+                    "2 [Home + 1]": "10.25"
+                }
+            },
+            "Plymouth vs Wycombe": {
+                "time": "20:45",
+                "single": {
+                    "home": "2.27",
+                    "draw": "3.25",
+                    "away": "3.22"
+                },
+                "double": {
+                    "1X": "1.31",
+                    "12": "1.30",
+                    "2X": "1.58"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.35",
+                    "2 [Home + 1]": "7.10"
+                }
+            },
+            "Portsmouth vs Ipswich": {
+                "time": "20:45",
+                "single": {
+                    "home": "3.25",
+                    "draw": "3.22",
+                    "away": "2.25"
+                },
+                "double": {
+                    "1X": "1.59",
+                    "12": "1.31",
+                    "2X": "1.30"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "7.50",
+                    "2 [Home + 1]": "4.45"
+                }
+            },
+            "Sheffield Wed vs Port Vale": {
+                "time": "20:45",
+                "single": {
+                    "home": "1.89",
+                    "draw": "3.40",
+                    "away": "4.22"
+                },
+                "double": {
+                    "1X": "1.19",
+                    "12": "1.28",
+                    "2X": "1.83"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.62",
+                    "2 [Home + 1]": "11.00"
+                }
+            },
+            "Shrewsbury vs Cheltenham": {
+                "time": "20:45",
+                "single": {
+                    "home": "2.12",
+                    "draw": "3.25",
+                    "away": "3.52"
+                },
+                "double": {
+                    "1X": "1.26",
+                    "12": "1.30",
+                    "2X": "1.66"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.20",
+                    "2 [Home + 1]": "8.70"
+                }
+            },
+            "Derby vs Cambridge Utd": {
+                "time": "20:45",
+                "single": {
+                    "home": "1.55",
+                    "draw": "3.90",
+                    "away": "6.30"
+                },
+                "double": {
+                    "1X": "1.09",
+                    "12": "1.22",
+                    "2X": "2.33"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "2.58",
+                    "2 [Home + 1]": "17.50"
+                }
+            },
+            "Lincoln vs Bolton Wanderers": {
+                "time": "20:45",
+                "single": {
+                    "home": "2.95",
+                    "draw": "3.25",
+                    "away": "2.42"
+                },
+                "double": {
+                    "1X": "1.51",
+                    "12": "1.30",
+                    "2X": "1.36"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "6.50",
+                    "2 [Home + 1]": "4.90"
+                }
+            }
+        },
+        "ENG - League Two": {
+            "AFC Wimbledon vs Newport": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.50",
+                    "draw": "3.15",
+                    "away": "2.90"
+                },
+                "double": {
+                    "1X": "1.37",
+                    "12": "1.32",
+                    "2X": "1.48"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "5.25",
+                    "2 [Home + 1]": "6.50"
+                }
+            },
+            "Carlisle vs Bradford": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.52",
+                    "draw": "3.00",
+                    "away": "3.05"
+                },
+                "double": {
+                    "1X": "1.34",
+                    "12": "1.35",
+                    "2X": "1.47"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "5.10",
+                    "2 [Home + 1]": "6.60"
+                }
+            },
+            "Crawley vs Sutton": {
+                "time": "16:00",
+                "single": {
+                    "home": "3.08",
+                    "draw": "3.05",
+                    "away": "2.47"
+                },
+                "double": {
+                    "1X": "1.49",
+                    "12": "1.34",
+                    "2X": "1.33"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "6.90",
+                    "2 [Home + 1]": "5.00"
+                }
+            },
+            "Gillingham vs Colchester": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.42",
+                    "draw": "2.97",
+                    "away": "3.22"
+                },
+                "double": {
+                    "1X": "1.31",
+                    "12": "1.35",
+                    "2X": "1.51"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "5.20",
+                    "2 [Home + 1]": "7.80"
+                }
+            },
+            "Harrogate Town vs Grimsby": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.95",
+                    "draw": "3.20",
+                    "away": "2.43"
+                },
+                "double": {
+                    "1X": "1.51",
+                    "12": "1.31",
+                    "2X": "1.36"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "6.40",
+                    "2 [Home + 1]": "4.85"
+                }
+            },
+            "Mansfield vs Northampton": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.13",
+                    "draw": "3.28",
+                    "away": "3.50"
+                },
+                "double": {
+                    "1X": "1.27",
+                    "12": "1.30",
+                    "2X": "1.65"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.15",
+                    "2 [Home + 1]": "8.40"
+                }
+            },
+            "Rochdale vs Hartlepool": {
+                "time": "16:00",
+                "single": {
+                    "home": "1.98",
+                    "draw": "3.30",
+                    "away": "3.92"
+                },
+                "double": {
+                    "1X": "1.22",
+                    "12": "1.30",
+                    "2X": "1.75"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.75",
+                    "2 [Home + 1]": "9.80"
+                }
+            },
+            "Salford City vs Barrow": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.48",
+                    "draw": "3.07",
+                    "away": "3.02"
+                },
+                "double": {
+                    "1X": "1.34",
+                    "12": "1.33",
+                    "2X": "1.49"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "5.15",
+                    "2 [Home + 1]": "6.80"
+                }
+            },
+            "Stockport vs Crewe Alexandra": {
+                "time": "16:00",
+                "single": {
+                    "home": "1.50",
+                    "draw": "4.08",
+                    "away": "6.80"
+                },
+                "double": {
+                    "1X": "1.08",
+                    "12": "1.20",
+                    "2X": "2.45"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "2.40",
+                    "2 [Home + 1]": "18.50"
+                }
+            },
+            "Swindon vs Walsall": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.18",
+                    "draw": "3.15",
+                    "away": "3.55"
+                },
+                "double": {
+                    "1X": "1.26",
+                    "12": "1.33",
+                    "2X": "1.62"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.32",
+                    "2 [Home + 1]": "8.60"
+                }
+            },
+            "Tranmere vs Doncaster": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.10",
+                    "draw": "3.25",
+                    "away": "3.60"
+                },
+                "double": {
+                    "1X": "1.25",
+                    "12": "1.30",
+                    "2X": "1.67"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.15",
+                    "2 [Home + 1]": "8.90"
+                }
+            },
+            "Leyton Orient vs Stevenage": {
+                "time": "13:30",
+                "single": {
+                    "home": "2.25",
+                    "draw": "3.10",
+                    "away": "3.38"
+                },
+                "double": {
+                    "1X": "1.28",
+                    "12": "1.33",
+                    "2X": "1.59"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.65",
+                    "2 [Home + 1]": "8.30"
+                }
+            },
+            "Crewe Alexandra vs Carlisle": {
+                "time": "20:00",
+                "single": {
+                    "home": "2.87",
+                    "draw": "3.15",
+                    "away": "2.55"
+                },
+                "double": {
+                    "1X": "1.46",
+                    "12": "1.33",
+                    "2X": "1.38"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "6.40",
+                    "2 [Home + 1]": "5.40"
+                }
+            },
+            "Barrow vs Tranmere": {
+                "time": "20:45",
+                "single": {
+                    "home": "2.28",
+                    "draw": "2.97",
+                    "away": "3.50"
+                },
+                "double": {
+                    "1X": "1.27",
+                    "12": "1.35",
+                    "2X": "1.57"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.50",
+                    "2 [Home + 1]": "8.20"
+                }
+            },
+            "Bradford vs Harrogate Town": {
+                "time": "20:45",
+                "single": {
+                    "home": "1.72",
+                    "draw": "3.62",
+                    "away": "4.95"
+                },
+                "double": {
+                    "1X": "1.15",
+                    "12": "1.25",
+                    "2X": "2.03"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.10",
+                    "2 [Home + 1]": "13.25"
+                }
+            },
+            "Colchester vs AFC Wimbledon": {
+                "time": "20:45",
+                "single": {
+                    "home": "2.58",
+                    "draw": "3.15",
+                    "away": "2.82"
+                },
+                "double": {
+                    "1X": "1.39",
+                    "12": "1.32",
+                    "2X": "1.45"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "5.50",
+                    "2 [Home + 1]": "6.20"
+                }
+            },
+            "Doncaster vs Rochdale": {
+                "time": "20:45",
+                "single": {
+                    "home": "2.20",
+                    "draw": "3.22",
+                    "away": "3.35"
+                },
+                "double": {
+                    "1X": "1.29",
+                    "12": "1.31",
+                    "2X": "1.61"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.35",
+                    "2 [Home + 1]": "7.90"
+                }
+            },
+            "Grimsby vs Salford City": {
+                "time": "20:45",
+                "single": {
+                    "home": "2.28",
+                    "draw": "2.97",
+                    "away": "3.48"
+                },
+                "double": {
+                    "1X": "1.27",
+                    "12": "1.35",
+                    "2X": "1.57"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.55",
+                    "2 [Home + 1]": "8.30"
+                }
+            },
+            "Hartlepool vs Mansfield": {
+                "time": "20:45",
+                "single": {
+                    "home": "4.05",
+                    "draw": "3.45",
+                    "away": "1.91"
+                },
+                "double": {
+                    "1X": "1.81",
+                    "12": "1.27",
+                    "2X": "1.21"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "10.00",
+                    "2 [Home + 1]": "3.52"
+                }
+            },
+            "Northampton vs Swindon": {
+                "time": "20:45",
+                "single": {
+                    "home": "2.15",
+                    "draw": "3.18",
+                    "away": "3.55"
+                },
+                "double": {
+                    "1X": "1.26",
+                    "12": "1.31",
+                    "2X": "1.64"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.25",
+                    "2 [Home + 1]": "8.60"
+                }
+            },
+            "Sutton vs Gillingham": {
+                "time": "20:45",
+                "single": {
+                    "home": "1.90",
+                    "draw": "3.22",
+                    "away": "4.45"
+                },
+                "double": {
+                    "1X": "1.18",
+                    "12": "1.31",
+                    "2X": "1.82"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.68",
+                    "2 [Home + 1]": "12.25"
+                }
+            },
+            "Walsall vs Stockport": {
+                "time": "20:45",
+                "single": {
+                    "home": "3.05",
+                    "draw": "3.15",
+                    "away": "2.42"
+                },
+                "double": {
+                    "1X": "1.51",
+                    "12": "1.32",
+                    "2X": "1.34"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "6.90",
+                    "2 [Home + 1]": "5.00"
+                }
+            },
+            "Newport vs Leyton Orient": {
+                "time": "20:45",
+                "single": {
+                    "home": "3.08",
+                    "draw": "3.05",
+                    "away": "2.45"
+                },
+                "double": {
+                    "1X": "1.50",
+                    "12": "1.34",
+                    "2X": "1.33"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "7.10",
+                    "2 [Home + 1]": "5.10"
+                }
+            },
+            "Stevenage vs Crawley": {
+                "time": "20:45",
+                "single": {
+                    "home": "1.64",
+                    "draw": "3.78",
+                    "away": "5.40"
+                },
+                "double": {
+                    "1X": "1.12",
+                    "12": "1.23",
+                    "2X": "2.15"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "2.82",
+                    "2 [Home + 1]": "14.50"
+                }
+            }
+        },
+        "ENG - FA Cup": {
+            "Man. Utd vs Everton": {
+                "time": "21:00",
+                "single": {
+                    "home": "1.46",
+                    "draw": "4.45",
+                    "away": "6.60"
+                },
+                "double": {
+                    "1X": "1.08",
+                    "12": "1.18",
+                    "2X": "2.55"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "2.30",
+                    "2 [Home + 1]": "18.00"
+                }
+            },
+            "Crystal Palace vs Southampton": {
+                "time": "13:30",
+                "single": {
+                    "home": "1.99",
+                    "draw": "3.42",
+                    "away": "3.75"
+                },
+                "double": {
+                    "1X": "1.24",
+                    "12": "1.28",
+                    "2X": "1.75"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.60",
+                    "2 [Home + 1]": "8.60"
+                }
+            },
+            "Forest Green vs Birmingham": {
+                "time": "13:30",
+                "single": {
+                    "home": "4.75",
+                    "draw": "3.82",
+                    "away": "1.70"
+                },
+                "double": {
+                    "1X": "2.05",
+                    "12": "1.23",
+                    "2X": "1.16"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "11.50",
+                    "2 [Home + 1]": "2.87"
+                }
+            },
+            "Gillingham vs Leicester": {
+                "time": "13:30",
+                "single": {
+                    "home": "13.75",
+                    "draw": "7.00",
+                    "away": "1.18"
+                },
+                "double": {
+                    "1X": "4.40",
+                    "12": "1.07",
+                    "2X": "-"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "1.46"
+                }
+            },
+            "Preston vs Huddersfield": {
+                "time": "13:30",
+                "single": {
+                    "home": "1.85",
+                    "draw": "3.42",
+                    "away": "4.35"
+                },
+                "double": {
+                    "1X": "1.18",
+                    "12": "1.28",
+                    "2X": "1.87"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.38",
+                    "2 [Home + 1]": "10.75"
+                }
+            },
+            "Reading vs Watford": {
+                "time": "13:30",
+                "single": {
+                    "home": "3.15",
+                    "draw": "3.22",
+                    "away": "2.30"
+                },
+                "double": {
+                    "1X": "1.56",
+                    "12": "1.31",
+                    "2X": "1.32"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "6.80",
+                    "2 [Home + 1]": "4.35"
+                }
+            },
+            "Tottenham  vs Portsmouth": {
+                "time": "13:30",
+                "single": {
+                    "home": "1.16",
+                    "draw": "7.90",
+                    "away": "14.50"
+                },
+                "double": {
+                    "1X": "-",
+                    "12": "1.05",
+                    "2X": "4.70"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "1.40",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Blackpool vs Nottingham Forest": {
+                "time": "16:00",
+                "single": {
+                    "home": "4.55",
+                    "draw": "3.75",
+                    "away": "1.74"
+                },
+                "double": {
+                    "1X": "2.00",
+                    "12": "1.24",
+                    "2X": "1.17"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "10.75",
+                    "2 [Home + 1]": "2.97"
+                }
+            },
+            "Boreham Wood vs Accrington": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.85",
+                    "draw": "3.35",
+                    "away": "2.42"
+                },
+                "double": {
+                    "1X": "1.51",
+                    "12": "1.29",
+                    "2X": "1.38"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "5.60",
+                    "2 [Home + 1]": "4.55"
+                }
+            },
+            "Bournemouth vs Burnley": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.23",
+                    "draw": "3.45",
+                    "away": "3.07"
+                },
+                "double": {
+                    "1X": "1.33",
+                    "12": "1.27",
+                    "2X": "1.60"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.12",
+                    "2 [Home + 1]": "6.40"
+                }
+            },
+            "Chesterfield vs West Bromwich": {
+                "time": "16:00",
+                "single": {
+                    "home": "5.05",
+                    "draw": "4.25",
+                    "away": "1.59"
+                },
+                "double": {
+                    "1X": "2.23",
+                    "12": "1.19",
+                    "2X": "1.14"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "11.75",
+                    "2 [Home + 1]": "2.52"
+                }
+            },
+            "Fleetwood Town vs QPR": {
+                "time": "16:00",
+                "single": {
+                    "home": "4.22",
+                    "draw": "3.72",
+                    "away": "1.80"
+                },
+                "double": {
+                    "1X": "1.93",
+                    "12": "1.24",
+                    "2X": "1.19"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "9.90",
+                    "2 [Home + 1]": "3.12"
+                }
+            },
+            "Hull City vs Fulham": {
+                "time": "16:00",
+                "single": {
+                    "home": "6.00",
+                    "draw": "4.25",
+                    "away": "1.52"
+                },
+                "double": {
+                    "1X": "2.40",
+                    "12": "1.19",
+                    "2X": "1.10"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "14.00",
+                    "2 [Home + 1]": "2.28"
+                }
+            },
+            "Ipswich vs Rotherham": {
+                "time": "16:00",
+                "single": {
+                    "home": "1.73",
+                    "draw": "3.92",
+                    "away": "4.40"
+                },
+                "double": {
+                    "1X": "1.18",
+                    "12": "1.22",
+                    "2X": "2.00"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "2.85",
                     "2 [Home + 1]": "10.00"
+                }
+            },
+            "Middlesbrough vs Brighton": {
+                "time": "16:00",
+                "single": {
+                    "home": "5.25",
+                    "draw": "4.00",
+                    "away": "1.62"
+                },
+                "double": {
+                    "1X": "2.18",
+                    "12": "1.21",
+                    "2X": "1.13"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "12.50",
+                    "2 [Home + 1]": "2.60"
+                }
+            },
+            "Millwall vs Sheffield Utd": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.82",
+                    "draw": "3.20",
+                    "away": "2.55"
+                },
+                "double": {
+                    "1X": "1.46",
+                    "12": "1.31",
+                    "2X": "1.39"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "5.80",
+                    "2 [Home + 1]": "5.10"
+                }
+            },
+            "Shrewsbury vs Sunderland": {
+                "time": "16:00",
+                "single": {
+                    "home": "3.60",
+                    "draw": "3.35",
+                    "away": "2.07"
+                },
+                "double": {
+                    "1X": "1.69",
+                    "12": "1.29",
+                    "2X": "1.25"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "8.00",
+                    "2 [Home + 1]": "3.75"
+                }
+            },
+            "Brentford vs West Ham": {
+                "time": "18:30",
+                "single": {
+                    "home": "2.70",
+                    "draw": "3.10",
+                    "away": "2.72"
+                },
+                "double": {
+                    "1X": "1.41",
+                    "12": "1.33",
+                    "2X": "1.42"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "5.40",
+                    "2 [Home + 1]": "5.40"
+                }
+            },
+            "Coventry vs Wrexham": {
+                "time": "18:30",
+                "single": {
+                    "home": "2.03",
+                    "draw": "3.62",
+                    "away": "3.42"
+                },
+                "double": {
+                    "1X": "1.28",
+                    "12": "1.25",
+                    "2X": "1.72"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.60",
+                    "2 [Home + 1]": "7.40"
+                }
+            },
+            "Grimsby vs Burton": {
+                "time": "18:30",
+                "single": {
+                    "home": "2.65",
+                    "draw": "3.40",
+                    "away": "2.57"
+                },
+                "double": {
+                    "1X": "1.46",
+                    "12": "1.28",
+                    "2X": "1.43"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "5.05",
+                    "2 [Home + 1]": "4.80"
+                }
+            },
+            "Luton vs Wigan": {
+                "time": "18:30",
+                "single": {
+                    "home": "1.94",
+                    "draw": "3.38",
+                    "away": "4.00"
+                },
+                "double": {
+                    "1X": "1.21",
+                    "12": "1.28",
+                    "2X": "1.79"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.55",
+                    "2 [Home + 1]": "9.70"
+                }
+            },
+            "Sheffield Wed vs Newcastle": {
+                "time": "19:00",
+                "single": {
+                    "home": "6.50",
+                    "draw": "4.55",
+                    "away": "1.46"
+                },
+                "double": {
+                    "1X": "2.55",
+                    "12": "1.17",
+                    "2X": "1.09"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "15.50",
+                    "2 [Home + 1]": "2.15"
+                }
+            },
+            "Liverpool  vs Wolverhampton": {
+                "time": "21:00",
+                "single": {
+                    "home": "1.28",
+                    "draw": "5.90",
+                    "away": "9.30"
+                },
+                "double": {
+                    "1X": "1.03",
+                    "12": "1.10",
+                    "2X": "3.40"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "1.70",
+                    "2 [Home + 1]": "21.50"
+                }
+            },
+            "Bristol City vs Swansea": {
+                "time": "13:30",
+                "single": {
+                    "home": "2.63",
+                    "draw": "3.18",
+                    "away": "2.72"
+                },
+                "double": {
+                    "1X": "1.41",
+                    "12": "1.31",
+                    "2X": "1.44"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "5.20",
+                    "2 [Home + 1]": "5.40"
+                }
+            },
+            "Derby vs Barnsley": {
+                "time": "13:30",
+                "single": {
+                    "home": "2.03",
+                    "draw": "3.45",
+                    "away": "3.62"
+                },
+                "double": {
+                    "1X": "1.25",
+                    "12": "1.27",
+                    "2X": "1.72"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.72",
+                    "2 [Home + 1]": "8.20"
+                }
+            },
+            "Cardiff vs Leeds": {
+                "time": "15:00",
+                "single": {
+                    "home": "3.80",
+                    "draw": "3.68",
+                    "away": "1.90"
+                },
+                "double": {
+                    "1X": "1.82",
+                    "12": "1.24",
+                    "2X": "1.23"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "8.50",
+                    "2 [Home + 1]": "3.30"
+                }
+            },
+            "Hartlepool vs Stoke": {
+                "time": "15:00",
+                "single": {
+                    "home": "6.40",
+                    "draw": "4.45",
+                    "away": "1.47"
+                },
+                "double": {
+                    "1X": "2.53",
+                    "12": "1.18",
+                    "2X": "1.09"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "15.00",
+                    "2 [Home + 1]": "2.15"
+                }
+            },
+            "Norwich vs Blackburn": {
+                "time": "15:00",
+                "single": {
+                    "home": "1.78",
+                    "draw": "3.75",
+                    "away": "4.32"
+                },
+                "double": {
+                    "1X": "1.19",
+                    "12": "1.24",
+                    "2X": "1.95"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.08",
+                    "2 [Home + 1]": "10.00"
+                }
+            },
+            "Stockport vs Walsall": {
+                "time": "15:00",
+                "single": {
+                    "home": "1.87",
+                    "draw": "3.45",
+                    "away": "4.25"
+                },
+                "double": {
+                    "1X": "1.19",
+                    "12": "1.27",
+                    "2X": "1.85"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.40",
+                    "2 [Home + 1]": "10.50"
+                }
+            },
+            "Aston Villa vs Stevenage": {
+                "time": "17:30",
+                "single": {
+                    "home": "1.15",
+                    "draw": "7.50",
+                    "away": "16.50"
+                },
+                "double": {
+                    "1X": "-",
+                    "12": "1.06",
+                    "2X": "4.90"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "1.39",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Man. City vs Chelsea": {
+                "time": "17:30",
+                "single": {
+                    "home": "1.51",
+                    "draw": "4.45",
+                    "away": "5.70"
+                },
+                "double": {
+                    "1X": "1.11",
+                    "12": "1.18",
+                    "2X": "2.42"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "2.30",
+                    "2 [Home + 1]": "13.50"
+                }
+            },
+            "Oxford Utd vs Arsenal": {
+                "time": "21:00",
+                "single": {
+                    "home": "21.00",
+                    "draw": "8.90",
+                    "away": "1.11"
+                },
+                "double": {
+                    "1X": "5.70",
+                    "12": "1.04",
+                    "2X": "-"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "1.27"
+                }
+            }
+        },
+        "ENG - National League": {
+            "Aldershot Town vs Woking": {
+                "time": "16:00",
+                "single": {
+                    "home": "3.52",
+                    "draw": "3.35",
+                    "away": "2.05"
+                },
+                "double": {
+                    "1X": "1.69",
+                    "12": "1.28",
+                    "2X": "1.26"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "7.80",
+                    "2 [Home + 1]": "3.72"
+                }
+            },
+            "Altrincham vs Halifax": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.18",
+                    "draw": "3.22",
+                    "away": "3.30"
+                },
+                "double": {
+                    "1X": "1.29",
+                    "12": "1.30",
+                    "2X": "1.61"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.08",
+                    "2 [Home + 1]": "7.30"
+                }
+            },
+            "Barnet vs Boreham Wood": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.87",
+                    "draw": "3.30",
+                    "away": "2.38"
+                },
+                "double": {
+                    "1X": "1.52",
+                    "12": "1.29",
+                    "2X": "1.37"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "5.90",
+                    "2 [Home + 1]": "4.55"
+                }
+            },
+            "Dagenham & Red. vs Maidstone Utd": {
+                "time": "16:00",
+                "single": {
+                    "home": "1.81",
+                    "draw": "3.70",
+                    "away": "3.88"
+                },
+                "double": {
+                    "1X": "1.19",
+                    "12": "1.21",
+                    "2X": "1.83"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "2.97",
+                    "2 [Home + 1]": "8.50"
+                }
+            },
+            "Dorking Wanderers vs Eastleigh": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.55",
+                    "draw": "3.55",
+                    "away": "2.52"
+                },
+                "double": {
+                    "1X": "1.46",
+                    "12": "1.25",
+                    "2X": "1.45"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.60",
+                    "2 [Home + 1]": "4.50"
+                }
+            },
+            "Notts County vs Oldham": {
+                "time": "16:00",
+                "single": {
+                    "home": "1.26",
+                    "draw": "5.60",
+                    "away": "10.00"
+                },
+                "double": {
+                    "1X": "1.02",
+                    "12": "1.11",
+                    "2X": "3.48"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "1.65",
+                    "2 [Home + 1]": "23.50"
+                }
+            },
+            "Scunthorpe vs Chesterfield": {
+                "time": "16:00",
+                "single": {
+                    "home": "5.60",
+                    "draw": "4.08",
+                    "away": "1.55"
+                },
+                "double": {
+                    "1X": "2.30",
+                    "12": "1.20",
+                    "2X": "1.11"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "13.50",
+                    "2 [Home + 1]": "2.42"
+                }
+            },
+            "Southend vs Bromley": {
+                "time": "16:00",
+                "single": {
+                    "home": "1.88",
+                    "draw": "3.52",
+                    "away": "3.95"
+                },
+                "double": {
+                    "1X": "1.21",
+                    "12": "1.26",
+                    "2X": "1.82"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.35",
+                    "2 [Home + 1]": "9.30"
+                }
+            },
+            "Torquay Utd vs Yeovil": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.35",
+                    "draw": "3.22",
+                    "away": "2.97"
+                },
+                "double": {
+                    "1X": "1.35",
+                    "12": "1.30",
+                    "2X": "1.53"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.45",
+                    "2 [Home + 1]": "6.20"
+                }
+            },
+            "Wealdstone vs Maidenhead": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.48",
+                    "draw": "3.28",
+                    "away": "2.75"
+                },
+                "double": {
+                    "1X": "1.40",
+                    "12": "1.29",
+                    "2X": "1.48"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.80",
+                    "2 [Home + 1]": "5.60"
+                }
+            },
+            "Wrexham vs Solihull Moors": {
+                "time": "16:00",
+                "single": {
+                    "home": "1.44",
+                    "draw": "4.50",
+                    "away": "6.50"
+                },
+                "double": {
+                    "1X": "1.08",
+                    "12": "1.17",
+                    "2X": "2.58"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "2.10",
+                    "2 [Home + 1]": "15.50"
+                }
+            },
+            "York City vs Gateshead": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.02",
+                    "draw": "3.45",
+                    "away": "3.52"
+                },
+                "double": {
+                    "1X": "1.26",
+                    "12": "1.27",
+                    "2X": "1.71"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.70",
+                    "2 [Home + 1]": "8.00"
+                }
+            }
+        },
+        "ENG - National League North": {
+            "Brackley vs Banbury Utd": {
+                "time": "13:00",
+                "single": {
+                    "home": "1.53",
+                    "draw": "4.05",
+                    "away": "5.80"
+                },
+                "double": {
+                    "1X": "1.10",
+                    "12": "1.20",
+                    "2X": "2.35"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "2.45",
+                    "2 [Home + 1]": "14.75"
+                }
+            },
+            "Bradford Park Avenue vs Farsley AFC": {
+                "time": "14:00",
+                "single": {
+                    "home": "2.38",
+                    "draw": "3.30",
+                    "away": "2.85"
+                },
+                "double": {
+                    "1X": "1.37",
+                    "12": "1.29",
+                    "2X": "1.52"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.55",
+                    "2 [Home + 1]": "5.80"
+                }
+            },
+            "AFC Fylde vs Chorley": {
+                "time": "16:00",
+                "single": {
+                    "home": "1.94",
+                    "draw": "3.55",
+                    "away": "3.65"
+                },
+                "double": {
+                    "1X": "1.24",
+                    "12": "1.25",
+                    "2X": "1.77"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.48",
+                    "2 [Home + 1]": "8.40"
+                }
+            },
+            "Alfreton Town vs Buxton": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.10",
+                    "draw": "3.38",
+                    "away": "3.32"
+                },
+                "double": {
+                    "1X": "1.28",
+                    "12": "1.28",
+                    "2X": "1.66"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.90",
+                    "2 [Home + 1]": "7.40"
+                }
+            },
+            "Blyth Spartans vs Spennymoor Town": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.65",
+                    "draw": "3.30",
+                    "away": "2.55"
+                },
+                "double": {
+                    "1X": "1.45",
+                    "12": "1.29",
+                    "2X": "1.42"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "5.15",
+                    "2 [Home + 1]": "4.90"
+                }
+            },
+            "Boston Utd vs Kings Lynn": {
+                "time": "16:00",
+                "single": {
+                    "home": "3.40",
+                    "draw": "3.55",
+                    "away": "2.02"
+                },
+                "double": {
+                    "1X": "1.71",
+                    "12": "1.25",
+                    "2X": "1.27"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "7.40",
+                    "2 [Home + 1]": "3.60"
+                }
+            },
+            "Curzon Ashton vs Southport": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.43",
+                    "draw": "3.32",
+                    "away": "2.77"
+                },
+                "double": {
+                    "1X": "1.39",
+                    "12": "1.28",
+                    "2X": "1.50"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.65",
+                    "2 [Home + 1]": "5.60"
+                }
+            },
+            "Darlington vs Scarborough Athletic": {
+                "time": "16:00",
+                "single": {
+                    "home": "1.85",
+                    "draw": "3.75",
+                    "away": "3.78"
+                },
+                "double": {
+                    "1X": "1.23",
+                    "12": "1.23",
+                    "2X": "1.85"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.18",
+                    "2 [Home + 1]": "8.50"
+                }
+            },
+            "Hereford vs Kidderminster": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.72",
+                    "draw": "3.18",
+                    "away": "2.55"
+                },
+                "double": {
+                    "1X": "1.45",
+                    "12": "1.31",
+                    "2X": "1.40"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "5.60",
+                    "2 [Home + 1]": "5.10"
+                }
+            },
+            "Leamington vs Gloucester City": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.32",
+                    "draw": "3.30",
+                    "away": "2.97"
+                },
+                "double": {
+                    "1X": "1.35",
+                    "12": "1.29",
+                    "2X": "1.54"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.40",
+                    "2 [Home + 1]": "6.20"
+                }
+            },
+            "Peterborough Sports FC vs Kettering Town": {
+                "time": "16:00",
+                "single": {
+                    "home": "1.76",
+                    "draw": "3.75",
+                    "away": "4.25"
+                },
+                "double": {
+                    "1X": "1.18",
+                    "12": "1.23",
+                    "2X": "1.95"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.05",
+                    "2 [Home + 1]": "10.00"
+                }
+            },
+            "Telford Utd vs Chester": {
+                "time": "16:00",
+                "single": {
+                    "home": "3.45",
+                    "draw": "3.55",
+                    "away": "2.00"
+                },
+                "double": {
+                    "1X": "1.72",
+                    "12": "1.25",
+                    "2X": "1.27"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "7.80",
+                    "2 [Home + 1]": "3.65"
+                }
+            }
+        },
+        "ENG - National League South": {
+            "Cheshunt vs Concord Rangers": {
+                "time": "13:30",
+                "single": {
+                    "home": "2.28",
+                    "draw": "3.28",
+                    "away": "3.05"
+                },
+                "double": {
+                    "1X": "1.33",
+                    "12": "1.29",
+                    "2X": "1.56"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.32",
+                    "2 [Home + 1]": "6.50"
+                }
+            },
+            "Oxford City vs Slough Town": {
+                "time": "14:00",
+                "single": {
+                    "home": "1.42",
+                    "draw": "4.60",
+                    "away": "6.80"
+                },
+                "double": {
+                    "1X": "1.07",
+                    "12": "1.16",
+                    "2X": "2.65"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "2.05",
+                    "2 [Home + 1]": "16.00"
+                }
+            },
+            "Bath City vs Chippenham Town": {
+                "time": "16:00",
+                "single": {
+                    "home": "1.88",
+                    "draw": "3.58",
+                    "away": "3.88"
+                },
+                "double": {
+                    "1X": "1.22",
+                    "12": "1.25",
+                    "2X": "1.82"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.32",
+                    "2 [Home + 1]": "9.00"
+                }
+            },
+            "Chelmsford vs Braintree": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.03",
+                    "draw": "3.45",
+                    "away": "3.42"
+                },
+                "double": {
+                    "1X": "1.27",
+                    "12": "1.27",
+                    "2X": "1.70"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.70",
+                    "2 [Home + 1]": "7.70"
+                }
+            },
+            "Dulwich Hamlet vs Dover Athletic": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.15",
+                    "draw": "3.38",
+                    "away": "3.22"
+                },
+                "double": {
+                    "1X": "1.30",
+                    "12": "1.28",
+                    "2X": "1.63"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.95",
+                    "2 [Home + 1]": "6.90"
+                }
+            },
+            "Ebbsfleet Utd vs Dartford": {
+                "time": "16:00",
+                "single": {
+                    "home": "1.67",
+                    "draw": "3.72",
+                    "away": "4.95"
+                },
+                "double": {
+                    "1X": "1.14",
+                    "12": "1.23",
+                    "2X": "2.08"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "2.77",
+                    "2 [Home + 1]": "12.00"
+                }
+            },
+            "Havant & Waterlooville vs Eastbourne Borough": {
+                "time": "16:00",
+                "single": {
+                    "home": "1.67",
+                    "draw": "3.92",
+                    "away": "4.60"
+                },
+                "double": {
+                    "1X": "1.16",
+                    "12": "1.21",
+                    "2X": "2.08"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "2.75",
+                    "2 [Home + 1]": "10.75"
+                }
+            },
+            "Hemel Hempstead vs St Albans": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.58",
+                    "draw": "3.32",
+                    "away": "2.60"
+                },
+                "double": {
+                    "1X": "1.44",
+                    "12": "1.28",
+                    "2X": "1.44"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "5.00",
+                    "2 [Home + 1]": "5.10"
+                }
+            },
+            "Hungerford Town vs Farnborough": {
+                "time": "16:00",
+                "single": {
+                    "home": "3.05",
+                    "draw": "3.35",
+                    "away": "2.25"
+                },
+                "double": {
+                    "1X": "1.57",
+                    "12": "1.28",
+                    "2X": "1.33"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "6.40",
+                    "2 [Home + 1]": "4.22"
+                }
+            },
+            "Tonbridge Angels vs Welling Utd": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.40",
+                    "draw": "3.18",
+                    "away": "2.95"
+                },
+                "double": {
+                    "1X": "1.35",
+                    "12": "1.31",
+                    "2X": "1.51"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.60",
+                    "2 [Home + 1]": "6.10"
+                }
+            },
+            "Weymouth vs Taunton Town": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.55",
+                    "draw": "3.45",
+                    "away": "2.57"
+                },
+                "double": {
+                    "1X": "1.45",
+                    "12": "1.27",
+                    "2X": "1.45"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "5.00",
+                    "2 [Home + 1]": "5.05"
+                }
+            },
+            "Worthing vs Hampton & Richmond": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.35",
+                    "draw": "3.45",
+                    "away": "2.77"
+                },
+                "double": {
+                    "1X": "1.39",
+                    "12": "1.27",
+                    "2X": "1.53"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.42",
+                    "2 [Home + 1]": "5.60"
+                }
+            },
+            "Taunton Town vs Weymouth": {
+                "time": "20:45",
+                "single": {
+                    "home": "2.08",
+                    "draw": "3.35",
+                    "away": "3.42"
+                },
+                "double": {
+                    "1X": "1.27",
+                    "12": "1.28",
+                    "2X": "1.67"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.85",
+                    "2 [Home + 1]": "7.70"
+                }
+            }
+        },
+        "ENG - Isthmian Premier Division": {
+            "Bishop's Stortford vs AFC Hornchurch": {
+                "time": "13:00",
+                "single": {
+                    "home": "2.37",
+                    "draw": "3.45",
+                    "away": "2.72"
+                },
+                "double": {
+                    "1X": "1.37",
+                    "12": "1.23",
+                    "2X": "1.47"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Billericay Town vs Brightlingsea Regent": {
+                "time": "14:00",
+                "single": {
+                    "home": "1.26",
+                    "draw": "5.25",
+                    "away": "8.80"
+                },
+                "double": {
+                    "1X": "1.01",
+                    "12": "1.10",
+                    "2X": "3.25"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Canvey Island vs Bowers Pitsea": {
+                "time": "14:00",
+                "single": {
+                    "home": "1.27",
+                    "draw": "5.50",
+                    "away": "9.10"
+                },
+                "double": {
+                    "1X": "1.01",
+                    "12": "1.09",
+                    "2X": "3.20"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Margate vs Cray Wanderers": {
+                "time": "14:00",
+                "single": {
+                    "home": "2.68",
+                    "draw": "3.72",
+                    "away": "2.28"
+                },
+                "double": {
+                    "1X": "1.51",
+                    "12": "1.20",
+                    "2X": "1.38"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Wingate & Finchley FC vs Haringey Borough": {
+                "time": "14:00",
+                "single": {
+                    "home": "2.23",
+                    "draw": "3.75",
+                    "away": "2.72"
+                },
+                "double": {
+                    "1X": "1.37",
+                    "12": "1.20",
+                    "2X": "1.53"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Bognor Regis Town vs Horsham FC": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.17",
+                    "draw": "3.88",
+                    "away": "2.77"
+                },
+                "double": {
+                    "1X": "1.35",
+                    "12": "1.19",
+                    "2X": "1.56"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Carshalton Athletic vs Kingstonian": {
+                "time": "16:00",
+                "single": {
+                    "home": "1.79",
+                    "draw": "3.68",
+                    "away": "3.98"
+                },
+                "double": {
+                    "1X": "1.18",
+                    "12": "1.21",
+                    "2X": "1.85"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Enfield Town vs Potters Bar Town FC": {
+                "time": "16:00",
+                "single": {
+                    "home": "1.71",
+                    "draw": "4.05",
+                    "away": "3.98"
+                },
+                "double": {
+                    "1X": "1.18",
+                    "12": "1.17",
+                    "2X": "1.94"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Hastings United vs Lewes FC": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.08",
+                    "draw": "3.62",
+                    "away": "3.08"
+                },
+                "double": {
+                    "1X": "1.29",
+                    "12": "1.21",
+                    "2X": "1.61"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Herne Bay vs Folkestone Invicta": {
+                "time": "16:00",
+                "single": {
+                    "home": "3.07",
+                    "draw": "3.82",
+                    "away": "2.03"
+                },
+                "double": {
+                    "1X": "1.65",
+                    "12": "1.19",
+                    "2X": "1.29"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Corinthian Casuals vs Aveley FC": {
+                "time": "14:00",
+                "single": {
+                    "home": "2.67",
+                    "draw": "3.70",
+                    "away": "2.28"
+                },
+                "double": {
+                    "1X": "1.51",
+                    "12": "1.21",
+                    "2X": "1.38"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            }
+        },
+        "ENG - Northern Premier Division": {
+            "Hyde United FC vs Stalybridge": {
+                "time": "14:00",
+                "single": {
+                    "home": "1.59",
+                    "draw": "4.05",
+                    "away": "4.85"
+                },
+                "double": {
+                    "1X": "1.12",
+                    "12": "1.17",
+                    "2X": "2.12"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Guiseley vs Atherton Collieries": {
+                "time": "16:00",
+                "single": {
+                    "home": "1.99",
+                    "draw": "3.45",
+                    "away": "3.45"
+                },
+                "double": {
+                    "1X": "1.23",
+                    "12": "1.23",
+                    "2X": "1.67"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Lancaster City vs Bamber Bridge": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.07",
+                    "draw": "3.42",
+                    "away": "3.28"
+                },
+                "double": {
+                    "1X": "1.26",
+                    "12": "1.24",
+                    "2X": "1.62"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Liversedge vs Gainsborough": {
+                "time": "16:00",
+                "single": {
+                    "home": "4.80",
+                    "draw": "3.72",
+                    "away": "1.65"
+                },
+                "double": {
+                    "1X": "2.02",
+                    "12": "1.20",
+                    "2X": "1.12"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Marske United FC vs Morpeth Town": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.28",
+                    "draw": "3.75",
+                    "away": "2.65"
+                },
+                "double": {
+                    "1X": "1.38",
+                    "12": "1.20",
+                    "2X": "1.51"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Matlock Town vs Belper Town FC": {
+                "time": "16:00",
+                "single": {
+                    "home": "1.53",
+                    "draw": "4.15",
+                    "away": "5.40"
+                },
+                "double": {
+                    "1X": "1.09",
+                    "12": "1.16",
+                    "2X": "2.23"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "South Shields vs Whitby Town": {
+                "time": "16:00",
+                "single": {
+                    "home": "1.45",
+                    "draw": "4.50",
+                    "away": "5.90"
+                },
+                "double": {
+                    "1X": "1.07",
+                    "12": "1.14",
+                    "2X": "2.43"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Stafford Rangers vs Nantwich Town": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.05",
+                    "draw": "3.30",
+                    "away": "3.45"
+                },
+                "double": {
+                    "1X": "1.23",
+                    "12": "1.25",
+                    "2X": "1.63"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "United of Manchester vs Ashton Utd": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.00",
+                    "draw": "3.45",
+                    "away": "3.45"
+                },
+                "double": {
+                    "1X": "1.23",
+                    "12": "1.23",
+                    "2X": "1.67"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Warrington Rylands 1906 FC vs Radcliffe FC": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.23",
+                    "draw": "3.65",
+                    "away": "2.80"
+                },
+                "double": {
+                    "1X": "1.35",
+                    "12": "1.21",
+                    "2X": "1.53"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Warrington Town vs Marine": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.27",
+                    "draw": "3.18",
+                    "away": "3.08"
+                },
+                "double": {
+                    "1X": "1.29",
+                    "12": "1.27",
+                    "2X": "1.52"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            }
+        },
+        "ENG - Southern Premier Central Division": {
+            "Alvechurch vs Redditch Utd": {
+                "time": "14:00",
+                "single": {
+                    "home": "2.20",
+                    "draw": "3.68",
+                    "away": "2.82"
+                },
+                "double": {
+                    "1X": "1.34",
+                    "12": "1.21",
+                    "2X": "1.55"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Hitchin Town vs Kings Langley": {
+                "time": "14:00",
+                "single": {
+                    "home": "1.81",
+                    "draw": "3.68",
+                    "away": "3.90"
+                },
+                "double": {
+                    "1X": "1.19",
+                    "12": "1.21",
+                    "2X": "1.83"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Leiston vs Needham Market": {
+                "time": "14:00",
+                "single": {
+                    "home": "1.58",
+                    "draw": "4.10",
+                    "away": "5.00"
+                },
+                "double": {
+                    "1X": "1.11",
+                    "12": "1.17",
+                    "2X": "2.13"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "St Ives Town vs Royston Town": {
+                "time": "14:00",
+                "single": {
+                    "home": "1.99",
+                    "draw": "3.60",
+                    "away": "3.32"
+                },
+                "double": {
+                    "1X": "1.25",
+                    "12": "1.22",
+                    "2X": "1.67"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Stourbridge vs Bromsgrove Sporting FC": {
+                "time": "14:30",
+                "single": {
+                    "home": "2.10",
+                    "draw": "3.52",
+                    "away": "3.15"
+                },
+                "double": {
+                    "1X": "1.28",
+                    "12": "1.23",
+                    "2X": "1.60"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Bedford Town vs Rushden & Diamonds": {
+                "time": "16:00",
+                "single": {
+                    "home": "1.86",
+                    "draw": "3.65",
+                    "away": "3.72"
+                },
+                "double": {
+                    "1X": "1.20",
+                    "12": "1.21",
+                    "2X": "1.78"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Ilkeston Town FC vs Basford United": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.07",
+                    "draw": "3.72",
+                    "away": "3.02"
+                },
+                "double": {
+                    "1X": "1.30",
+                    "12": "1.20",
+                    "2X": "1.62"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Nuneaton vs Mickleover Sports": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.00",
+                    "draw": "3.95",
+                    "away": "3.02"
+                },
+                "double": {
+                    "1X": "1.30",
+                    "12": "1.18",
+                    "2X": "1.67"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Rushall Olympic vs Hednesford Town": {
+                "time": "16:00",
+                "single": {
+                    "home": "1.73",
+                    "draw": "3.85",
+                    "away": "4.10"
+                },
+                "double": {
+                    "1X": "1.17",
+                    "12": "1.19",
+                    "2X": "1.92"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Stratford Town vs Tamworth": {
+                "time": "16:00",
+                "single": {
+                    "home": "3.70",
+                    "draw": "3.95",
+                    "away": "1.80"
+                },
+                "double": {
+                    "1X": "1.84",
+                    "12": "1.18",
+                    "2X": "1.21"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Coalville Town vs Barwell": {
+                "time": "14:00",
+                "single": {
+                    "home": "1.77",
+                    "draw": "3.88",
+                    "away": "3.88"
+                },
+                "double": {
+                    "1X": "1.19",
+                    "12": "1.19",
+                    "2X": "1.87"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            }
+        },
+        "ENG - Southern Premier South Division": {
+            "Chesham Utd vs Hayes & Yeading United F.c.": {
+                "time": "13:30",
+                "single": {
+                    "home": "2.15",
+                    "draw": "3.55",
+                    "away": "3.10"
+                },
+                "double": {
+                    "1X": "1.32",
+                    "12": "1.25",
+                    "2X": "1.63"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Poole Town vs Dorchester Town": {
+                "time": "14:00",
+                "single": {
+                    "home": "1.73",
+                    "draw": "4.15",
+                    "away": "4.00"
+                },
+                "double": {
+                    "1X": "1.20",
+                    "12": "1.19",
+                    "2X": "1.99"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Hendon vs Hanwell Town": {
+                "time": "14:30",
+                "single": {
+                    "home": "2.48",
+                    "draw": "3.68",
+                    "away": "2.52"
+                },
+                "double": {
+                    "1X": "1.46",
+                    "12": "1.24",
+                    "2X": "1.48"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Hartley Wintney vs Gosport Borough": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.80",
+                    "draw": "3.55",
+                    "away": "2.30"
+                },
+                "double": {
+                    "1X": "1.55",
+                    "12": "1.25",
+                    "2X": "1.38"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Plymouth Parkway vs Truro City": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.97",
+                    "draw": "4.10",
+                    "away": "2.03"
+                },
+                "double": {
+                    "1X": "1.70",
+                    "12": "1.20",
+                    "2X": "1.35"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Swindon Supermarine vs North Leigh FC": {
+                "time": "16:00",
+                "single": {
+                    "home": "1.44",
+                    "draw": "4.90",
+                    "away": "5.80"
+                },
+                "double": {
+                    "1X": "1.10",
+                    "12": "1.14",
+                    "2X": "2.58"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Tiverton Town vs Weston Super Mare": {
+                "time": "16:00",
+                "single": {
+                    "home": "4.28",
+                    "draw": "4.00",
+                    "away": "1.70"
+                },
+                "double": {
+                    "1X": "2.03",
+                    "12": "1.20",
+                    "2X": "1.18"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Winchester City FC vs Salisbury City": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.47",
+                    "draw": "3.85",
+                    "away": "2.48"
+                },
+                "double": {
+                    "1X": "1.48",
+                    "12": "1.22",
+                    "2X": "1.48"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Yate Town vs Merthyr Town": {
+                "time": "16:00",
+                "single": {
+                    "home": "2.40",
+                    "draw": "3.90",
+                    "away": "2.50"
+                },
+                "double": {
+                    "1X": "1.47",
+                    "12": "1.21",
+                    "2X": "1.51"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Beaconsfield Sycob FC vs Bracknell Town": {
+                "time": "20:45",
+                "single": {
+                    "home": "2.47",
+                    "draw": "3.88",
+                    "away": "2.38"
+                },
+                "double": {
+                    "1X": "1.47",
+                    "12": "1.19",
+                    "2X": "1.44"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            }
+        },
+        "ENG - FA Cup Women": {
+            "Blackburn (W) vs Sunderland AFC": {
+                "time": "15:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
                 }
             }
         }

@@ -3,12 +3,16 @@
         "location": "left_prematch_sport-1_soccer_sg-11463_international_label-toggle",
         "submenu": [
             {
-                "title": "FIFA World Cup 2022",
-                "id": "-1-11463-22522782022"
+                "title": "fifa_world_cup_2022",
+                "id": "-1-11463-2252278"
             },
             {
-                "title": "International Friendly Games",
+                "title": "international_friendly_games",
                 "id": "-1-11463-1014717"
+            },
+            {
+                "title": "aff_suzuki_cup",
+                "id": "-1-11463-1915986"
             }
         ]
     },
@@ -16,19 +20,19 @@
         "location": "left_prematch_sport-1_soccer_sg-11418_international_clubs_label-toggle",
         "submenu": [
             {
-                "title": "UEFA Champions League",
+                "title": "uefa_champions_league",
                 "id": "-1-11418-1185641"
             },
             {
-                "title": "UEFA Europa League",
+                "title": "uefa_europa_league",
                 "id": "-1-11418-1185689"
             },
             {
-                "title": "UEFA Europa Conference League",
+                "title": "uefa_europa_conference_league",
                 "id": "-1-11418-1946188"
             },
             {
-                "title": "Club Friendly Games",
+                "title": "club_friendly_games",
                 "id": "-1-11418-181106"
             }
         ]
@@ -37,52 +41,52 @@
         "location": "left_prematch_sport-1_soccer_sg-11058_england_label-toggle",
         "submenu": [
             {
-                "title": "Premier League",
+                "title": "premier_league",
                 "id": "-1-11058-170880"
             },
             {
-                "title": "EFL Cup",
+                "title": "efl_cup",
                 "id": "-1-11058-990749"
             },
             {
-                "title": "FA Cup",
+                "title": "fa_cup",
                 "id": "-1-11058-708732"
             },
             {
-                "title": "Championship",
+                "title": "championship",
                 "id": "-1-11058-170881"
             },
             {
-                "title": "League One",
+                "title": "league_one",
                 "id": "-1-11058-995354"
             },
             {
-                "title": "National League",
+                "title": "league_two",
+                "id": "-1-11058-995355"
+            },
+            {
+                "title": "national_league",
                 "id": "-1-11058-1057831"
             },
             {
-                "title": "National League North",
+                "title": "national_league_north",
                 "id": "-1-11058-1660731"
             },
             {
-                "title": "National League South",
+                "title": "national_league_south",
                 "id": "-1-11058-1660637"
             },
             {
-                "title": "EFL Trophy",
+                "title": "efl_trophy",
                 "id": "-1-11058-1169583"
             },
             {
-                "title": "FA Trophy",
+                "title": "fa_trophy",
                 "id": "-1-11058-1042148"
             },
             {
-                "title": "Isthmian League, Premier Division",
-                "id": "-1-11058-1660692"
-            },
-            {
-                "title": "FA Womens Super League",
-                "id": "-1-11058-990587"
+                "title": "fa_cup,_women",
+                "id": "-1-11058-1393131"
             }
         ]
     },
@@ -90,28 +94,60 @@
         "location": "left_prematch_sport-1_soccer_sg-11441_spain_label-toggle",
         "submenu": [
             {
-                "title": "LaLiga",
+                "title": "laliga",
                 "id": "-1-11441-180928"
             },
             {
-                "title": "LaLiga 2",
-                "id": "-1-11441-1809292"
+                "title": "laliga_2",
+                "id": "-1-11441-180929"
             },
             {
-                "title": "Primera RFEF",
+                "title": "super_cup",
+                "id": "-1-11441-1961674"
+            },
+            {
+                "title": "copa_del_rey",
+                "id": "-1-11441-1125043"
+            },
+            {
+                "title": "primera_federacion,_women",
+                "id": "-1-11441-2798929"
+            },
+            {
+                "title": "primera_rfef",
                 "id": "-1-11441-1687879"
             },
             {
-                "title": "Segunda RFEF",
+                "title": "segunda_rfef",
+                "id": "-1-11441-1702307"
+            },
+            {
+                "title": "segunda_rfef",
                 "id": "-1-11441-1702308"
             },
             {
-                "title": "Tercera RFEF",
+                "title": "tercera_rfef",
                 "id": "-1-11441-1707462"
             },
             {
-                "title": "Primera Division Femenina",
+                "title": "tercera_rfef",
+                "id": "-1-11441-1707465"
+            },
+            {
+                "title": "tercera_rfef",
+                "id": "-1-11441-1707466"
+            },
+            {
+                "title": "division_de_honor_juvenil",
+                "id": "-1-11441-1886666"
+            },
+            {
+                "title": "primera_division_femenina",
                 "id": "-1-11441-1062444"
+            },
+            {
+                "title": "primera_nacional,_women",
+                "id": "-1-11441-2074556"
             }
         ]
     },
@@ -119,28 +155,28 @@
         "location": "left_prematch_sport-1_soccer_sg-10924_italy_label-toggle",
         "submenu": [
             {
-                "title": "Serie A",
+                "title": "serie_a",
                 "id": "-1-10924-167856"
             },
             {
-                "title": "Serie B",
+                "title": "serie_b",
                 "id": "-1-10924-907202"
             },
             {
-                "title": "Serie C",
+                "title": "serie_c",
                 "id": "-1-10924-1044107"
             },
             {
-                "title": "Supercoppa",
+                "title": "supercoppa",
                 "id": "-1-10924-1945562"
             },
             {
-                "title": "Serie D",
+                "title": "serie_d",
                 "id": "-1-10924-1048511"
             },
             {
-                "title": "Serie A, Women",
-                "id": "-1-10924-995940"
+                "title": "campionato_primavera_2",
+                "id": "-1-10924-1061568"
             }
         ]
     },
@@ -148,71 +184,23 @@
         "location": "left_prematch_sport-1_soccer_sg-10943_germany_label-toggle",
         "submenu": [
             {
-                "title": "Bundesliga",
+                "title": "bundesliga",
                 "id": "-1-10943-180923"
             },
             {
-                "title": "3. Liga",
+                "title": "2._bundesliga",
+                "id": "-1-10943-1809242"
+            },
+            {
+                "title": "3._liga",
                 "id": "-1-10943-1682283"
             },
             {
-                "title": "Bremen-Liga",
-                "id": "-1-10943-1676532-"
-            },
-            {
-                "title": "DFB Pokal, Junioren",
-                "id": "-1-10943-1691244"
-            },
-            {
-                "title": "Hessenliga",
-                "id": "-1-10943-2535955"
-            },
-            {
-                "title": "Oberliga Hamburg",
+                "title": "oberliga_hamburg",
                 "id": "-1-10943-2536285"
             },
             {
-                "title": "Oberliga Niederrhein",
-                "id": "-1-10943-1678311"
-            },
-            {
-                "title": "Oberliga Niedersachsen",
-                "id": "-1-10943-2555912"
-            },
-            {
-                "title": "Oberliga Rheinland-Pfalz/Saar, North",
-                "id": "-1-10943-1662157-"
-            },
-            {
-                "title": "Oberliga Rheinland-Pfalz/Saar, South",
-                "id": "-1-10943-1662158-"
-            },
-            {
-                "title": "Oberliga Westfalen",
-                "id": "-1-10943-1692921"
-            },
-            {
-                "title": "Regionalliga North",
-                "id": "-1-10943-2532461"
-            },
-            {
-                "title": "Regionalliga Northeast",
-                "id": "-1-10943-1619773"
-            },
-            {
-                "title": "Schleswig-Holstein-Liga",
-                "id": "-1-10943-2535956--"
-            },
-            {
-                "title": "Bundesliga, Women",
-                "id": "-1-10943-631793"
-            },
-            {
-                "title": "Oberliga NOFV North",
-                "id": "-1-10943-1648774"
-            },
-            {
-                "title": "2. Bundesliga, Women",
+                "title": "2._bundesliga,_women",
                 "id": "-1-10943-16662082"
             }
         ]
@@ -221,20 +209,16 @@
         "location": "left_prematch_sport-1_soccer_sg-11442_france_label-toggle",
         "submenu": [
             {
-                "title": "Ligue 1",
-                "id": "-1-11442-9505031"
+                "title": "ligue_1",
+                "id": "-1-11442-950503"
             },
             {
-                "title": "Ligue 2",
-                "id": "-1-11442-9586912"
+                "title": "ligue_2",
+                "id": "-1-11442-958691"
             },
             {
-                "title": "National",
-                "id": "-1-11442-993924"
-            },
-            {
-                "title": "Division 1 Feminines",
-                "id": "-1-11442-10166551"
+                "title": "national_2",
+                "id": "-1-11442-1756103"
             }
         ]
     },
@@ -242,16 +226,8 @@
         "location": "left_prematch_sport-1_soccer_sg-11077_netherlands_label-toggle",
         "submenu": [
             {
-                "title": "Eredivisie",
+                "title": "eredivisie",
                 "id": "-1-11077-1016657"
-            },
-            {
-                "title": "Eerste Divisie",
-                "id": "-1-11077-992239"
-            },
-            {
-                "title": "Eredivisie, Women",
-                "id": "-1-11077-1018039"
             }
         ]
     },
@@ -259,32 +235,24 @@
         "location": "left_prematch_sport-1_soccer_sg-11453_portugal_label-toggle",
         "submenu": [
             {
-                "title": "Primeira Liga",
+                "title": "primeira_liga",
                 "id": "-1-11453-180967"
             },
             {
-                "title": "Liga 3",
-                "id": "-1-11453-16623723"
+                "title": "segunda_liga",
+                "id": "-1-11453-1025450"
             },
             {
-                "title": "Campeonato de Portugal",
+                "title": "campeonato_de_portugal",
                 "id": "-1-11453-1041009"
             },
             {
-                "title": "Campeonato Nacional, Women",
-                "id": "-1-11453-2654645"
-            },
-            {
-                "title": "League Cup",
+                "title": "league_cup",
                 "id": "-1-11453-1744532"
             },
             {
-                "title": "Taca da Liga",
-                "id": "-1-11453-2854687"
-            },
-            {
-                "title": "U19 Championship",
-                "id": "-1-11453-165020919"
+                "title": "liga_3",
+                "id": "-1-11453-1662372"
             }
         ]
     },
@@ -292,12 +260,20 @@
         "location": "left_prematch_sport-1_soccer_sg-11455_belgium_label-toggle",
         "submenu": [
             {
-                "title": "First Division A",
+                "title": "first_division_a",
                 "id": "-1-11455-958370"
             },
             {
-                "title": "First Division B",
+                "title": "beker_van_belgie",
+                "id": "-1-11455-1270050"
+            },
+            {
+                "title": "first_division_b",
                 "id": "-1-11455-989222"
+            },
+            {
+                "title": "superleague,_women",
+                "id": "-1-11455-1005452"
             }
         ]
     },
@@ -305,8 +281,8 @@
         "location": "left_prematch_sport-1_soccer_sg-11472_algeria_label-toggle",
         "submenu": [
             {
-                "title": "Ligue 1",
-                "id": "-1-11472-11532961"
+                "title": "algerian_cup",
+                "id": "-1-11472-2817799"
             }
         ]
     },
@@ -314,7 +290,7 @@
         "location": "left_prematch_sport-1_soccer_sg-27230_andorra_label-toggle",
         "submenu": [
             {
-                "title": "Primera Divisio",
+                "title": "primera_divisio",
                 "id": "-1-27230-1159100"
             }
         ]
@@ -323,8 +299,17 @@
         "location": "left_prematch_sport-1_soccer_sg-29025_angola_label-toggle",
         "submenu": [
             {
-                "title": "Girabola",
+                "title": "girabola",
                 "id": "-1-29025-1209855"
+            }
+        ]
+    },
+    "Argentina": {
+        "location": "left_prematch_sport-1_soccer_sg-11451_argentina_label-toggle",
+        "submenu": [
+            {
+                "title": "torneo_regional_federal_amateur",
+                "id": "-1-11451-1963104"
             }
         ]
     },
@@ -332,12 +317,12 @@
         "location": "left_prematch_sport-1_soccer_sg-11462_australia_label-toggle",
         "submenu": [
             {
-                "title": "A-League",
-                "id": "-1-11462-1164367-"
+                "title": "a-league",
+                "id": "-1-11462-1164367"
             },
             {
-                "title": "W-League",
-                "id": "-1-11462-1206086-"
+                "title": "w-league",
+                "id": "-1-11462-1206086"
             }
         ]
     },
@@ -345,7 +330,7 @@
         "location": "left_prematch_sport-1_soccer_sg-26332_botswana_label-toggle",
         "submenu": [
             {
-                "title": "Premier League",
+                "title": "premier_league",
                 "id": "-1-26332-1838204"
             }
         ]
@@ -354,30 +339,39 @@
         "location": "left_prematch_sport-1_soccer_sg-10987_brazil_label-toggle",
         "submenu": [
             {
-                "title": "Paulista, Women, Placement 5-8",
-                "id": "-1-10987-29187995-8"
-            },
-            {
-                "title": "Paulista, Women, Playoffs",
+                "title": "paulista,_women,_playoffs",
                 "id": "-1-10987-1806861"
             }
         ]
     },
-    "Burundi": {
-        "location": "left_prematch_sport-1_soccer_sg-29088_burundi_label-toggle",
+    "Burkina Faso": {
+        "location": "left_prematch_sport-1_soccer_sg-38633_burkina_faso_label-toggle",
         "submenu": [
             {
-                "title": "Premier League",
-                "id": "-1-29088-827472"
+                "title": "superdivision",
+                "id": "-1-38633-2090893"
             }
         ]
     },
-    "Costa Rica": {
-        "location": "left_prematch_sport-1_soccer_sg-11473_costa_rica_label-toggle",
+    "China": {
+        "location": "left_prematch_sport-1_soccer_sg-12016_china_label-toggle",
         "submenu": [
             {
-                "title": "Liga de Ascenso, Apertura, Playoffs",
-                "id": "-1-11473-1869775"
+                "title": "china_league_2",
+                "id": "-1-12016-2505321"
+            },
+            {
+                "title": "fa_cup",
+                "id": "-1-12016-1637486"
+            }
+        ]
+    },
+    "Croatia": {
+        "location": "left_prematch_sport-1_soccer_sg-11421_croatia_label-toggle",
+        "submenu": [
+            {
+                "title": "1._hnl",
+                "id": "-1-11421-1807251"
             }
         ]
     },
@@ -385,8 +379,8 @@
         "location": "left_prematch_sport-1_soccer_sg-11457_cyprus_label-toggle",
         "submenu": [
             {
-                "title": "1st Division",
-                "id": "-1-11457-9880971"
+                "title": "1st_division",
+                "id": "-1-11457-988097"
             }
         ]
     },
@@ -394,8 +388,17 @@
         "location": "left_prematch_sport-1_soccer_sg-11491_czech_republic_label-toggle",
         "submenu": [
             {
-                "title": "1. Liga",
+                "title": "1._liga",
                 "id": "-1-11491-1873451"
+            }
+        ]
+    },
+    "Denmark": {
+        "location": "left_prematch_sport-1_soccer_sg-10940_denmark_label-toggle",
+        "submenu": [
+            {
+                "title": "superligaen",
+                "id": "-1-10940-587103"
             }
         ]
     },
@@ -403,17 +406,17 @@
         "location": "left_prematch_sport-1_soccer_sg-11419_egypt_label-toggle",
         "submenu": [
             {
-                "title": "Premier League",
+                "title": "premier_league",
                 "id": "-1-11419-973090"
             }
         ]
     },
-    "Gibraltar": {
-        "location": "left_prematch_sport-1_soccer_sg-11474_gibraltar_label-toggle",
+    "Ethiopia": {
+        "location": "left_prematch_sport-1_soccer_sg-32790_ethiopia_label-toggle",
         "submenu": [
             {
-                "title": "National League",
-                "id": "-1-11474-1799578"
+                "title": "premier_league",
+                "id": "-1-32790-1242251"
             }
         ]
     },
@@ -421,20 +424,20 @@
         "location": "left_prematch_sport-1_soccer_sg-11071_greece_label-toggle",
         "submenu": [
             {
-                "title": "Super League 2",
-                "id": "-1-11071-18533722"
+                "title": "super_league_1",
+                "id": "-1-11071-1018979"
             },
             {
-                "title": "Greece Cup",
-                "id": "-1-11071-899928"
+                "title": "super_league_2",
+                "id": "-1-11071-1853372"
             },
             {
-                "title": "U19 Super League",
-                "id": "-1-11071-149378919"
+                "title": "super_league,_women",
+                "id": "-1-11071-1423550"
             },
             {
-                "title": "Super League, Women",
-                "id": "-1-11071-1407417"
+                "title": "u19_super_league",
+                "id": "-1-11071-1493789"
             }
         ]
     },
@@ -442,7 +445,7 @@
         "location": "left_prematch_sport-1_soccer_sg-11478_guatemala_label-toggle",
         "submenu": [
             {
-                "title": "Liga Nacional, Apertura Playoffs",
+                "title": "liga_nacional,_apertura_playoffs",
                 "id": "-1-11478-1935753"
             }
         ]
@@ -451,7 +454,7 @@
         "location": "left_prematch_sport-1_soccer_sg-11477_honduras_label-toggle",
         "submenu": [
             {
-                "title": "Liga Nacional, Apertura, Playoffs",
+                "title": "liga_nacional,_apertura,_playoffs",
                 "id": "-1-11477-1882736"
             }
         ]
@@ -460,17 +463,8 @@
         "location": "left_prematch_sport-1_soccer_sg-11605_hong_kong_label-toggle",
         "submenu": [
             {
-                "title": "Division 1",
-                "id": "-1-11605-13776151"
-            }
-        ]
-    },
-    "Hungary": {
-        "location": "left_prematch_sport-1_soccer_sg-11881_hungary_label-toggle",
-        "submenu": [
-            {
-                "title": "NB II",
-                "id": "-1-11881-967809"
+                "title": "division_1",
+                "id": "-1-11605-1377615"
             }
         ]
     },
@@ -478,11 +472,11 @@
         "location": "left_prematch_sport-1_soccer_sg-11066_india_label-toggle",
         "submenu": [
             {
-                "title": "I-League",
-                "id": "-1-11066-1228153-"
+                "title": "i-league",
+                "id": "-1-11066-1228153"
             },
             {
-                "title": "Indian Super League",
+                "title": "indian_super_league",
                 "id": "-1-11066-1141249"
             }
         ]
@@ -491,8 +485,8 @@
         "location": "left_prematch_sport-1_soccer_sg-11476_indonesia_label-toggle",
         "submenu": [
             {
-                "title": "Liga 1",
-                "id": "-1-11476-16922811"
+                "title": "liga_1",
+                "id": "-1-11476-1692281"
             }
         ]
     },
@@ -500,12 +494,8 @@
         "location": "left_prematch_sport-1_soccer_sg-11076_israel_label-toggle",
         "submenu": [
             {
-                "title": "Premier League",
+                "title": "premier_league",
                 "id": "-1-11076-1005327"
-            },
-            {
-                "title": "State Cup",
-                "id": "-1-11076-1143558"
             }
         ]
     },
@@ -513,8 +503,8 @@
         "location": "left_prematch_sport-1_soccer_sg-11523_ivory_coast_label-toggle",
         "submenu": [
             {
-                "title": "Ligue 1",
-                "id": "-1-11523-13810521"
+                "title": "ligue_1",
+                "id": "-1-11523-1381052"
             }
         ]
     },
@@ -522,7 +512,7 @@
         "location": "left_prematch_sport-1_soccer_sg-12156_kenya_label-toggle",
         "submenu": [
             {
-                "title": "Premier League",
+                "title": "premier_league",
                 "id": "-1-12156-1115544"
             }
         ]
@@ -531,26 +521,17 @@
         "location": "left_prematch_sport-1_soccer_sg-11490_lebanon_label-toggle",
         "submenu": [
             {
-                "title": "Premier League",
-                "id": "-1-11490-1723453"
+                "title": "lebanon_cup",
+                "id": "-1-11490-1447617"
             }
         ]
     },
-    "Luxembourg": {
-        "location": "left_prematch_sport-1_soccer_sg-11884_luxembourg_label-toggle",
+    "Mali": {
+        "location": "left_prematch_sport-1_soccer_sg-38591_mali_label-toggle",
         "submenu": [
             {
-                "title": "Division Nationale",
-                "id": "-1-11884-995939"
-            }
-        ]
-    },
-    "Macedonia": {
-        "location": "left_prematch_sport-1_soccer_sg-11972_macedonia_label-toggle",
-        "submenu": [
-            {
-                "title": "1. MFL",
-                "id": "-1-11972-9763661"
+                "title": "premier_division",
+                "id": "-1-38591-2071346"
             }
         ]
     },
@@ -558,11 +539,7 @@
         "location": "left_prematch_sport-1_soccer_sg-11511_malta_label-toggle",
         "submenu": [
             {
-                "title": "Premier League",
-                "id": "-1-11511-989217"
-            },
-            {
-                "title": "Challenge League",
+                "title": "challenge_league",
                 "id": "-1-11511-1102420"
             }
         ]
@@ -571,7 +548,7 @@
         "location": "left_prematch_sport-1_soccer_sg-15826_nicaragua_label-toggle",
         "submenu": [
             {
-                "title": "Primera Division, Apertura, Playoffs",
+                "title": "primera_division,_apertura,_playoffs",
                 "id": "-1-15826-1895900"
             }
         ]
@@ -580,7 +557,7 @@
         "location": "left_prematch_sport-1_soccer_sg-11444_poland_label-toggle",
         "submenu": [
             {
-                "title": "Ekstraklasa",
+                "title": "ekstraklasa",
                 "id": "-1-11444-400532"
             }
         ]
@@ -589,17 +566,8 @@
         "location": "left_prematch_sport-1_soccer_sg-11062_romania_label-toggle",
         "submenu": [
             {
-                "title": "Liga 1",
-                "id": "-1-11062-9838301"
-            }
-        ]
-    },
-    "Rwanda": {
-        "location": "left_prematch_sport-1_soccer_sg-15020_rwanda_label-toggle",
-        "submenu": [
-            {
-                "title": "National League",
-                "id": "-1-15020-1495987"
+                "title": "liga_1",
+                "id": "-1-11062-983830"
             }
         ]
     },
@@ -607,17 +575,8 @@
         "location": "left_prematch_sport-1_soccer_sg-18879_san_marino_label-toggle",
         "submenu": [
             {
-                "title": "Campionato Sammarinese",
+                "title": "campionato_sammarinese",
                 "id": "-1-18879-1314727"
-            }
-        ]
-    },
-    "Saudi Arabia": {
-        "location": "left_prematch_sport-1_soccer_sg-11456_saudi_arabia_label-toggle",
-        "submenu": [
-            {
-                "title": "Saudi Professional League",
-                "id": "-1-11456-971216"
             }
         ]
     },
@@ -625,25 +584,28 @@
         "location": "left_prematch_sport-1_soccer_sg-11449_scotland_label-toggle",
         "submenu": [
             {
-                "title": "Premiership",
+                "title": "premiership",
                 "id": "-1-11449-941378"
             },
             {
-                "title": "Championship",
+                "title": "championship",
                 "id": "-1-11449-1075222"
             },
             {
-                "title": "League One",
-                "id": "-1-11449-1076436"
-            }
-        ]
-    },
-    "Senegal": {
-        "location": "left_prematch_sport-1_soccer_sg-11524_senegal_label-toggle",
-        "submenu": [
+                "title": "league_cup",
+                "id": "-1-11449-1147744"
+            },
             {
-                "title": "Premier League",
-                "id": "-1-11524-1232588"
+                "title": "league_one",
+                "id": "-1-11449-1076436"
+            },
+            {
+                "title": "league_two",
+                "id": "-1-11449-1076689"
+            },
+            {
+                "title": "premier_league_1,_women",
+                "id": "-1-11449-1393130"
             }
         ]
     },
@@ -651,17 +613,12 @@
         "location": "left_prematch_sport-1_soccer_sg-29200_simulated_reality_league_label-toggle",
         "submenu": [
             {
-                "title": "Summer SRL Friendlies",
+                "title": "summer_srl_friendlies",
                 "id": "-1-29200-1584407"
-            }
-        ]
-    },
-    "Slovenia": {
-        "location": "left_prematch_sport-1_soccer_sg-11997_slovenia_label-toggle",
-        "submenu": [
+            },
             {
-                "title": "PrvaLiga",
-                "id": "-1-11997-195832"
+                "title": "world_cup_srl",
+                "id": "-1-29200-2878531"
             }
         ]
     },
@@ -669,30 +626,21 @@
         "location": "left_prematch_sport-1_soccer_sg-11060_switzerland_label-toggle",
         "submenu": [
             {
-                "title": "Super League",
+                "title": "super_league",
                 "id": "-1-11060-899893"
-            }
-        ]
-    },
-    "Thailand": {
-        "location": "left_prematch_sport-1_soccer_sg-11877_thailand_label-toggle",
-        "submenu": [
-            {
-                "title": "Thai League 2",
-                "id": "-1-11877-10287652"
-            }
-        ]
-    },
-    "Tunisia": {
-        "location": "left_prematch_sport-1_soccer_sg-11420_tunisia_label-toggle",
-        "submenu": [
-            {
-                "title": "Ligue 1",
-                "id": "-1-11420-18035471"
             },
             {
-                "title": "Ligue 2",
-                "id": "-1-11420-12699692"
+                "title": "challenge_league",
+                "id": "-1-11060-914179"
+            }
+        ]
+    },
+    "Tanzania": {
+        "location": "left_prematch_sport-1_soccer_sg-11690_tanzania_label-toggle",
+        "submenu": [
+            {
+                "title": "premier_league",
+                "id": "-1-11690-644095"
             }
         ]
     },
@@ -700,25 +648,24 @@
         "location": "left_prematch_sport-1_soccer_sg-11448_turkey_label-toggle",
         "submenu": [
             {
-                "title": "1. Lig",
+                "title": "super_lig",
+                "id": "-1-11448-180956"
+            },
+            {
+                "title": "1._lig",
                 "id": "-1-11448-1809551"
             },
             {
-                "title": "2. Lig",
+                "title": "turkiye_kupasi",
+                "id": "-1-11448-643313"
+            },
+            {
+                "title": "2._lig",
                 "id": "-1-11448-10417112"
             },
             {
-                "title": "3. Lig",
+                "title": "3._lig",
                 "id": "-1-11448-10492153"
-            }
-        ]
-    },
-    "Uganda": {
-        "location": "left_prematch_sport-1_soccer_sg-14499_uganda_label-toggle",
-        "submenu": [
-            {
-                "title": "Premier League",
-                "id": "-1-14499-1164114"
             }
         ]
     },
@@ -726,8 +673,8 @@
         "location": "left_prematch_sport-1_soccer_sg-11445_united_arab_emirates_label-toggle",
         "submenu": [
             {
-                "title": "Arabian Gulf Cup",
-                "id": "-1-11445-1013230"
+                "title": "arabian_gulf_league",
+                "id": "-1-11445-1080423"
             }
         ]
     },
@@ -735,21 +682,8 @@
         "location": "left_prematch_sport-1_soccer_sg-11459_wales_label-toggle",
         "submenu": [
             {
-                "title": "Cymru Premier",
+                "title": "cymru_premier",
                 "id": "-1-11459-1028764"
-            },
-            {
-                "title": "Cymru Championship",
-                "id": "-1-11459-1619043"
-            }
-        ]
-    },
-    "Zambia": {
-        "location": "left_prematch_sport-1_soccer_sg-17377_zambia_label-toggle",
-        "submenu": [
-            {
-                "title": "Premier League",
-                "id": "-1-17377-952135"
             }
         ]
     }
