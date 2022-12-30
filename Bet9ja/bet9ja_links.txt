@@ -1,16 +1,12 @@
 {
     "International": [
         {
-            "sub-category": "fifa_world_cup_2022",
-            "link": "https://sports.bet9ja.com/competition/soccer/international/fifaworldcup2022/1-11463-2252278"
-        },
-        {
-            "sub-category": "international_friendly_games",
-            "link": "https://sports.bet9ja.com/competition/soccer/international/internationalfriendlygames/1-11463-1014717"
-        },
-        {
             "sub-category": "aff_suzuki_cup",
             "link": "https://sports.bet9ja.com/competition/soccer/international/affsuzukicup/1-11463-1915986"
+        },
+        {
+            "sub-category": "african_nations_championship",
+            "link": "https://sports.bet9ja.com/competition/soccer/international/africannationschampionship/1-11463-2998317"
         }
     ],
     "International Clubs": [
@@ -69,14 +65,6 @@
             "link": "https://sports.bet9ja.com/competition/soccer/england/nationalleaguesouth/1-11058-1660637"
         },
         {
-            "sub-category": "efl_trophy",
-            "link": "https://sports.bet9ja.com/competition/soccer/england/efltrophy/1-11058-1169583"
-        },
-        {
-            "sub-category": "fa_trophy",
-            "link": "https://sports.bet9ja.com/competition/soccer/england/fatrophy/1-11058-1042148"
-        },
-        {
             "sub-category": "fa_cup,_women",
             "link": "https://sports.bet9ja.com/competition/soccer/england/facupwomen/1-11058-1393131"
         }
@@ -95,48 +83,8 @@
             "link": "https://sports.bet9ja.com/competition/soccer/spain/supercup/1-11441-1961674"
         },
         {
-            "sub-category": "copa_del_rey",
-            "link": "https://sports.bet9ja.com/competition/soccer/spain/copadelrey/1-11441-1125043"
-        },
-        {
-            "sub-category": "primera_federacion,_women",
-            "link": "https://sports.bet9ja.com/competition/soccer/spain/primerafederacionwomen/1-11441-2798929"
-        },
-        {
             "sub-category": "primera_rfef",
             "link": "https://sports.bet9ja.com/competition/soccer/spain/primerarfef/1-11441-1687879"
-        },
-        {
-            "sub-category": "segunda_rfef",
-            "link": "https://sports.bet9ja.com/competition/soccer/spain/segundarfef/1-11441-1702307"
-        },
-        {
-            "sub-category": "segunda_rfef",
-            "link": "https://sports.bet9ja.com/competition/soccer/spain/segundarfef/1-11441-1702308"
-        },
-        {
-            "sub-category": "tercera_rfef",
-            "link": "https://sports.bet9ja.com/competition/soccer/spain/tercerarfef/1-11441-1707462"
-        },
-        {
-            "sub-category": "tercera_rfef",
-            "link": "https://sports.bet9ja.com/competition/soccer/spain/tercerarfef/1-11441-1707465"
-        },
-        {
-            "sub-category": "tercera_rfef",
-            "link": "https://sports.bet9ja.com/competition/soccer/spain/tercerarfef/1-11441-1707466"
-        },
-        {
-            "sub-category": "division_de_honor_juvenil",
-            "link": "https://sports.bet9ja.com/competition/soccer/spain/divisiondehonorjuvenil/1-11441-1886666"
-        },
-        {
-            "sub-category": "primera_division_femenina",
-            "link": "https://sports.bet9ja.com/competition/soccer/spain/primeradivisionfemenina/1-11441-1062444"
-        },
-        {
-            "sub-category": "primera_nacional,_women",
-            "link": "https://sports.bet9ja.com/competition/soccer/spain/primeranacionalwomen/1-11441-2074556"
         }
     ],
     "Italy": [
@@ -145,8 +93,8 @@
             "link": "https://sports.bet9ja.com/competition/soccer/italy/seriea/1-10924-167856"
         },
         {
-            "sub-category": "serie_b",
-            "link": "https://sports.bet9ja.com/competition/soccer/italy/serieb/1-10924-907202"
+            "sub-category": "coppa_italia",
+            "link": "https://sports.bet9ja.com/competition/soccer/italy/coppaitalia/1-10924-1042342"
         },
         {
             "sub-category": "serie_c",
@@ -155,14 +103,6 @@
         {
             "sub-category": "supercoppa",
             "link": "https://sports.bet9ja.com/competition/soccer/italy/supercoppa/1-10924-1945562"
-        },
-        {
-            "sub-category": "serie_d",
-            "link": "https://sports.bet9ja.com/competition/soccer/italy/seried/1-10924-1048511"
-        },
-        {
-            "sub-category": "campionato_primavera_2",
-            "link": "https://sports.bet9ja.com/competition/soccer/italy/campionatoprimavera2/1-10924-1061568"
         }
     ],
     "Germany": [
@@ -179,12 +119,8 @@
             "link": "https://sports.bet9ja.com/competition/soccer/germany/3.liga/1-10943-168228"
         },
         {
-            "sub-category": "oberliga_hamburg",
-            "link": "https://sports.bet9ja.com/competition/soccer/germany/oberligahamburg/1-10943-2536285"
-        },
-        {
-            "sub-category": "2._bundesliga,_women",
-            "link": "https://sports.bet9ja.com/competition/soccer/germany/2.bundesligawomen/1-10943-1666208"
+            "sub-category": "dfb_pokal",
+            "link": "https://sports.bet9ja.com/competition/soccer/germany/dfbpokal/1-10943-184976"
         }
     ],
     "France": [
@@ -197,14 +133,26 @@
             "link": "https://sports.bet9ja.com/competition/soccer/france/ligue2/1-11442-958691"
         },
         {
-            "sub-category": "national_2",
-            "link": "https://sports.bet9ja.com/competition/soccer/france/national2/1-11442-1756103"
+            "sub-category": "coupe_de_france",
+            "link": "https://sports.bet9ja.com/competition/soccer/france/coupedefrance/1-11442-1248227"
+        },
+        {
+            "sub-category": "national",
+            "link": "https://sports.bet9ja.com/competition/soccer/france/national/1-11442-993924"
         }
     ],
     "Netherlands": [
         {
             "sub-category": "eredivisie",
             "link": "https://sports.bet9ja.com/competition/soccer/netherlands/eredivisie/1-11077-1016657"
+        },
+        {
+            "sub-category": "eerste_divisie",
+            "link": "https://sports.bet9ja.com/competition/soccer/netherlands/eerstedivisie/1-11077-992239"
+        },
+        {
+            "sub-category": "knvb_beker",
+            "link": "https://sports.bet9ja.com/competition/soccer/netherlands/knvbbeker/1-11077-1008683"
         }
     ],
     "Portugal": [
@@ -213,16 +161,12 @@
             "link": "https://sports.bet9ja.com/competition/soccer/portugal/primeiraliga/1-11453-180967"
         },
         {
+            "sub-category": "taca_de_portugal",
+            "link": "https://sports.bet9ja.com/competition/soccer/portugal/tacadeportugal/1-11453-950804"
+        },
+        {
             "sub-category": "segunda_liga",
             "link": "https://sports.bet9ja.com/competition/soccer/portugal/segundaliga/1-11453-1025450"
-        },
-        {
-            "sub-category": "campeonato_de_portugal",
-            "link": "https://sports.bet9ja.com/competition/soccer/portugal/campeonatodeportugal/1-11453-1041009"
-        },
-        {
-            "sub-category": "league_cup",
-            "link": "https://sports.bet9ja.com/competition/soccer/portugal/leaguecup/1-11453-1744532"
         },
         {
             "sub-category": "liga_3",
@@ -233,42 +177,16 @@
         {
             "sub-category": "first_division_a",
             "link": "https://sports.bet9ja.com/competition/soccer/belgium/firstdivisiona/1-11455-958370"
-        },
-        {
-            "sub-category": "beker_van_belgie",
-            "link": "https://sports.bet9ja.com/competition/soccer/belgium/bekervanbelgie/1-11455-1270050"
-        },
-        {
-            "sub-category": "first_division_b",
-            "link": "https://sports.bet9ja.com/competition/soccer/belgium/firstdivisionb/1-11455-989222"
-        },
-        {
-            "sub-category": "superleague,_women",
-            "link": "https://sports.bet9ja.com/competition/soccer/belgium/superleaguewomen/1-11455-1005452"
         }
     ],
     "Algeria": [
         {
-            "sub-category": "algerian_cup",
-            "link": "https://sports.bet9ja.com/competition/soccer/algeria/algeriancup/1-11472-2817799"
-        }
-    ],
-    "Andorra": [
+            "sub-category": "ligue_1",
+            "link": "https://sports.bet9ja.com/competition/soccer/algeria/ligue1/1-11472-1153296"
+        },
         {
-            "sub-category": "primera_divisio",
-            "link": "https://sports.bet9ja.com/competition/soccer/andorra/primeradivisio/1-27230-1159100"
-        }
-    ],
-    "Angola": [
-        {
-            "sub-category": "girabola",
-            "link": "https://sports.bet9ja.com/competition/soccer/angola/girabola/1-29025-1209855"
-        }
-    ],
-    "Argentina": [
-        {
-            "sub-category": "torneo_regional_federal_amateur",
-            "link": "https://sports.bet9ja.com/competition/soccer/argentina/torneoregionalfederalamateur/1-11451-1963104"
+            "sub-category": "ligue_2",
+            "link": "https://sports.bet9ja.com/competition/soccer/algeria/ligue2/1-11472-1826404"
         }
     ],
     "Australia": [
@@ -281,32 +199,10 @@
             "link": "https://sports.bet9ja.com/competition/soccer/australia/w-league/1-11462-1206086"
         }
     ],
-    "Botswana": [
+    "Bangladesh": [
         {
             "sub-category": "premier_league",
-            "link": "https://sports.bet9ja.com/competition/soccer/botswana/premierleague/1-26332-1838204"
-        }
-    ],
-    "Brazil": [
-        {
-            "sub-category": "paulista,_women,_playoffs",
-            "link": "https://sports.bet9ja.com/competition/soccer/brazil/paulistawomenplayoffs/1-10987-1806861"
-        }
-    ],
-    "Burkina Faso": [
-        {
-            "sub-category": "superdivision",
-            "link": "https://sports.bet9ja.com/competition/soccer/burkinafaso/superdivision/1-38633-2090893"
-        }
-    ],
-    "China": [
-        {
-            "sub-category": "china_league_2",
-            "link": "https://sports.bet9ja.com/competition/soccer/china/chinaleague2/1-12016-2505321"
-        },
-        {
-            "sub-category": "fa_cup",
-            "link": "https://sports.bet9ja.com/competition/soccer/china/facup/1-12016-1637486"
+            "link": "https://sports.bet9ja.com/competition/soccer/bangladesh/premierleague/1-20208-1236632"
         }
     ],
     "Croatia": [
@@ -331,6 +227,10 @@
         {
             "sub-category": "superligaen",
             "link": "https://sports.bet9ja.com/competition/soccer/denmark/superligaen/1-10940-587103"
+        },
+        {
+            "sub-category": "1st_division",
+            "link": "https://sports.bet9ja.com/competition/soccer/denmark/1stdivision/1-10940-52209"
         }
     ],
     "Egypt": [
@@ -339,46 +239,14 @@
             "link": "https://sports.bet9ja.com/competition/soccer/egypt/premierleague/1-11419-973090"
         }
     ],
-    "Ethiopia": [
-        {
-            "sub-category": "premier_league",
-            "link": "https://sports.bet9ja.com/competition/soccer/ethiopia/premierleague/1-32790-1242251"
-        }
-    ],
     "Greece": [
         {
             "sub-category": "super_league_1",
             "link": "https://sports.bet9ja.com/competition/soccer/greece/superleague1/1-11071-1018979"
         },
         {
-            "sub-category": "super_league_2",
-            "link": "https://sports.bet9ja.com/competition/soccer/greece/superleague2/1-11071-1853372"
-        },
-        {
-            "sub-category": "super_league,_women",
-            "link": "https://sports.bet9ja.com/competition/soccer/greece/superleaguewomen/1-11071-1423550"
-        },
-        {
             "sub-category": "u19_super_league",
             "link": "https://sports.bet9ja.com/competition/soccer/greece/u19superleague/1-11071-1493789"
-        }
-    ],
-    "Guatemala": [
-        {
-            "sub-category": "liga_nacional,_apertura_playoffs",
-            "link": "https://sports.bet9ja.com/competition/soccer/guatemala/liganacionalaperturaplayoffs/1-11478-1935753"
-        }
-    ],
-    "Honduras": [
-        {
-            "sub-category": "liga_nacional,_apertura,_playoffs",
-            "link": "https://sports.bet9ja.com/competition/soccer/honduras/liganacionalaperturaplayoffs/1-11477-1882736"
-        }
-    ],
-    "Hong Kong": [
-        {
-            "sub-category": "division_1",
-            "link": "https://sports.bet9ja.com/competition/soccer/hongkong/division1/1-11605-1377615"
         }
     ],
     "India": [
@@ -391,52 +259,58 @@
             "link": "https://sports.bet9ja.com/competition/soccer/india/indiansuperleague/1-11066-1141249"
         }
     ],
-    "Indonesia": [
+    "Iran": [
         {
-            "sub-category": "liga_1",
-            "link": "https://sports.bet9ja.com/competition/soccer/indonesia/liga1/1-11476-1692281"
+            "sub-category": "pro_league",
+            "link": "https://sports.bet9ja.com/competition/soccer/iran/proleague/1-11440-923950"
+        },
+        {
+            "sub-category": "azadegan_league",
+            "link": "https://sports.bet9ja.com/competition/soccer/iran/azadeganleague/1-11440-1146638"
+        }
+    ],
+    "Ireland": [
+        {
+            "sub-category": "premier_division",
+            "link": "https://sports.bet9ja.com/competition/soccer/ireland/premierdivision/1-11893-1345657"
         }
     ],
     "Israel": [
         {
             "sub-category": "premier_league",
             "link": "https://sports.bet9ja.com/competition/soccer/israel/premierleague/1-11076-1005327"
+        },
+        {
+            "sub-category": "national_league",
+            "link": "https://sports.bet9ja.com/competition/soccer/israel/nationalleague/1-11076-636960"
+        },
+        {
+            "sub-category": "ligat_al,_women",
+            "link": "https://sports.bet9ja.com/competition/soccer/israel/ligatalwomen/1-11076-1203946"
         }
     ],
-    "Ivory Coast": [
+    "Kuwait": [
         {
-            "sub-category": "ligue_1",
-            "link": "https://sports.bet9ja.com/competition/soccer/ivorycoast/ligue1/1-11523-1381052"
+            "sub-category": "federation_cup",
+            "link": "https://sports.bet9ja.com/competition/soccer/kuwait/federationcup/1-11483-2683466"
         }
     ],
-    "Kenya": [
+    "Mexico": [
         {
-            "sub-category": "premier_league",
-            "link": "https://sports.bet9ja.com/competition/soccer/kenya/premierleague/1-12156-1115544"
+            "sub-category": "liga_mx,_clausura",
+            "link": "https://sports.bet9ja.com/competition/soccer/mexico/ligamxclausura/1-11061-1215724"
         }
     ],
-    "Lebanon": [
+    "Morocco": [
         {
-            "sub-category": "lebanon_cup",
-            "link": "https://sports.bet9ja.com/competition/soccer/lebanon/lebanoncup/1-11490-1447617"
+            "sub-category": "botola",
+            "link": "https://sports.bet9ja.com/competition/soccer/morocco/botola/1-11458-962121"
         }
     ],
-    "Mali": [
+    "Northern Ireland": [
         {
-            "sub-category": "premier_division",
-            "link": "https://sports.bet9ja.com/competition/soccer/mali/premierdivision/1-38591-2071346"
-        }
-    ],
-    "Malta": [
-        {
-            "sub-category": "challenge_league",
-            "link": "https://sports.bet9ja.com/competition/soccer/malta/challengeleague/1-11511-1102420"
-        }
-    ],
-    "Nicaragua": [
-        {
-            "sub-category": "primera_division,_apertura,_playoffs",
-            "link": "https://sports.bet9ja.com/competition/soccer/nicaragua/primeradivisionaperturaplayoffs/1-15826-1895900"
+            "sub-category": "premiership",
+            "link": "https://sports.bet9ja.com/competition/soccer/northernireland/premiership/1-11065-1078221"
         }
     ],
     "Poland": [
@@ -445,16 +319,14 @@
             "link": "https://sports.bet9ja.com/competition/soccer/poland/ekstraklasa/1-11444-400532"
         }
     ],
-    "Romania": [
+    "Saudi Arabia": [
         {
-            "sub-category": "liga_1",
-            "link": "https://sports.bet9ja.com/competition/soccer/romania/liga1/1-11062-983830"
-        }
-    ],
-    "San Marino": [
+            "sub-category": "saudi_professional_league",
+            "link": "https://sports.bet9ja.com/competition/soccer/saudiarabia/saudiprofessionalleague/1-11456-971216"
+        },
         {
-            "sub-category": "campionato_sammarinese",
-            "link": "https://sports.bet9ja.com/competition/soccer/sanmarino/campionatosammarinese/1-18879-1314727"
+            "sub-category": "division_1",
+            "link": "https://sports.bet9ja.com/competition/soccer/saudiarabia/division1/1-11456-971235"
         }
     ],
     "Scotland": [
@@ -479,18 +351,44 @@
             "link": "https://sports.bet9ja.com/competition/soccer/scotland/leaguetwo/1-11449-1076689"
         },
         {
-            "sub-category": "premier_league_1,_women",
-            "link": "https://sports.bet9ja.com/competition/soccer/scotland/premierleague1women/1-11449-1393130"
+            "sub-category": "scottish_cup",
+            "link": "https://sports.bet9ja.com/competition/soccer/scotland/scottishcup/1-11449-1100385"
+        }
+    ],
+    "Senegal": [
+        {
+            "sub-category": "premier_league",
+            "link": "https://sports.bet9ja.com/competition/soccer/senegal/premierleague/1-11524-1232588"
         }
     ],
     "Simulated Reality League": [
         {
-            "sub-category": "summer_srl_friendlies",
-            "link": "https://sports.bet9ja.com/competition/soccer/simulatedrealityleague/summersrlfriendlies/1-29200-1584407"
+            "sub-category": "laliga_srl",
+            "link": "https://sports.bet9ja.com/competition/soccer/simulatedrealityleague/laligasrl/1-29200-831896"
         },
         {
-            "sub-category": "world_cup_srl",
-            "link": "https://sports.bet9ja.com/competition/soccer/simulatedrealityleague/worldcupsrl/1-29200-2878531"
+            "sub-category": "ligue_1_srl",
+            "link": "https://sports.bet9ja.com/competition/soccer/simulatedrealityleague/ligue1srl/1-29200-833957"
+        },
+        {
+            "sub-category": "turkey_super_lig_srl",
+            "link": "https://sports.bet9ja.com/competition/soccer/simulatedrealityleague/turkeysuperligsrl/1-29200-834623"
+        },
+        {
+            "sub-category": "winter_srl_friendlies",
+            "link": "https://sports.bet9ja.com/competition/soccer/simulatedrealityleague/wintersrlfriendlies/1-29200-1963628"
+        }
+    ],
+    "Slovakia": [
+        {
+            "sub-category": "superliga",
+            "link": "https://sports.bet9ja.com/competition/soccer/slovakia/superliga/1-11866-965542"
+        }
+    ],
+    "South Africa": [
+        {
+            "sub-category": "premier_league",
+            "link": "https://sports.bet9ja.com/competition/soccer/southafrica/premierleague/1-11450-976015"
         }
     ],
     "Switzerland": [
@@ -513,34 +411,26 @@
         {
             "sub-category": "super_lig",
             "link": "https://sports.bet9ja.com/competition/soccer/turkey/superlig/1-11448-180956"
-        },
-        {
-            "sub-category": "1._lig",
-            "link": "https://sports.bet9ja.com/competition/soccer/turkey/1.lig/1-11448-180955"
-        },
-        {
-            "sub-category": "turkiye_kupasi",
-            "link": "https://sports.bet9ja.com/competition/soccer/turkey/turkiyekupasi/1-11448-643313"
-        },
-        {
-            "sub-category": "2._lig",
-            "link": "https://sports.bet9ja.com/competition/soccer/turkey/2.lig/1-11448-1041711"
-        },
-        {
-            "sub-category": "3._lig",
-            "link": "https://sports.bet9ja.com/competition/soccer/turkey/3.lig/1-11448-1049215"
         }
     ],
     "United Arab Emirates": [
         {
             "sub-category": "arabian_gulf_league",
             "link": "https://sports.bet9ja.com/competition/soccer/unitedarabemirates/arabiangulfleague/1-11445-1080423"
+        },
+        {
+            "sub-category": "division_1",
+            "link": "https://sports.bet9ja.com/competition/soccer/unitedarabemirates/division1/1-11445-1154104"
         }
     ],
     "Wales": [
         {
             "sub-category": "cymru_premier",
             "link": "https://sports.bet9ja.com/competition/soccer/wales/cymrupremier/1-11459-1028764"
+        },
+        {
+            "sub-category": "cymru_championship",
+            "link": "https://sports.bet9ja.com/competition/soccer/wales/cymruchampionship/1-11459-1619043"
         }
     ]
 }

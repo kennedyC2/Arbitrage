@@ -131,8 +131,8 @@ def Arbitrage_3(total_stake):
                                         "odd":  bet9ja_SD,
                                         "stake": total_stake / (1 + (bet9ja_SD / bet9ja_2H1) + (bet9ja_SD / bet9ja_SH))
                                     },
-                                    "amount": total_stake,
-                                    "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_2H1) + (bet9ja_SD / bet9ja_SH)))) - total_stake
+                                    # "amount": total_stake,
+                                    # "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_2H1) + (bet9ja_SD / bet9ja_SH)))) - total_stake
                                 }
 
                                 result[e] = {
@@ -162,8 +162,8 @@ def Arbitrage_3(total_stake):
                                         "odd":  betking_SD,
                                         "stake": total_stake / (1 + (betking_SD / bet9ja_2H1) + (betking_SD / bet9ja_SH))
                                     },
-                                    "amount": total_stake,
-                                    "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_2H1) + (betking_SD / bet9ja_SH)))) - total_stake
+                                    # "amount": total_stake,
+                                    # "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_2H1) + (betking_SD / bet9ja_SH)))) - total_stake
                                 }
 
                                 result[e] = {
@@ -196,8 +196,8 @@ def Arbitrage_3(total_stake):
                                         "odd":  bet9ja_SD,
                                         "stake": total_stake / (1 + (bet9ja_SD / bet9ja_2H1) + (bet9ja_SD / bet9ja_SH))
                                     },
-                                    "amount": total_stake,
-                                    "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_2H1) + (bet9ja_SD / bet9ja_SH)))) - total_stake
+                                    # "amount": total_stake,
+                                    # "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_2H1) + (bet9ja_SD / bet9ja_SH)))) - total_stake
                                 }
 
                                 result[e] = {
@@ -227,8 +227,8 @@ def Arbitrage_3(total_stake):
                                         "odd":  betking_SD,
                                         "stake": total_stake / (1 + (betking_SD / bet9ja_2H1) + (betking_SD / bet9ja_SH))
                                     },
-                                    "amount": total_stake,
-                                    "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_2H1) + (betking_SD / bet9ja_SH)))) - total_stake
+                                    # "amount": total_stake,
+                                    # "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_2H1) + (betking_SD / bet9ja_SH)))) - total_stake
                                 }
 
                                 result[e] = {
@@ -264,8 +264,8 @@ def Arbitrage_3(total_stake):
                                         "odd":  bet9ja_SD,
                                         "stake": total_stake / (1 + (bet9ja_SD / bet9ja_2H1) + (bet9ja_SD / bet9ja_SH))
                                     },
-                                    "amount": total_stake,
-                                    "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_2H1) + (bet9ja_SD / bet9ja_SH)))) - total_stake
+                                    # "amount": total_stake,
+                                    # "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_2H1) + (bet9ja_SD / bet9ja_SH)))) - total_stake
                                 }
 
                                 result[e] = {
@@ -295,8 +295,8 @@ def Arbitrage_3(total_stake):
                                         "odd":  betking_SD,
                                         "stake": total_stake / (1 + (betking_SD / bet9ja_2H1) + (betking_SD / bet9ja_SH))
                                     },
-                                    "amount": total_stake,
-                                    "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_2H1) + (betking_SD / bet9ja_SH)))) - total_stake
+                                    # "amount": total_stake,
+                                    # "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_2H1) + (betking_SD / bet9ja_SH)))) - total_stake
                                 }
 
                                 result[e] = {
@@ -329,8 +329,8 @@ def Arbitrage_3(total_stake):
                                         "odd":  bet9ja_SD,
                                         "stake": total_stake / (1 + (bet9ja_SD / bet9ja_2H1) + (bet9ja_SD / bet9ja_SH))
                                     },
-                                    "amount": total_stake,
-                                    "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_2H1) + (bet9ja_SD / bet9ja_SH)))) - total_stake
+                                    # "amount": total_stake,
+                                    # "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_2H1) + (bet9ja_SD / bet9ja_SH)))) - total_stake
                                 }
 
                                 result[e] = {
@@ -360,8 +360,8 @@ def Arbitrage_3(total_stake):
                                         "odd":  betking_SD,
                                         "stake": total_stake / (1 + (betking_SD / bet9ja_2H1) + (betking_SD / bet9ja_SH))
                                     },
-                                    "amount": total_stake,
-                                    "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_2H1) + (betking_SD / bet9ja_SH)))) - total_stake
+                                    # "amount": total_stake,
+                                    # "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_2H1) + (betking_SD / bet9ja_SH)))) - total_stake
                                 }
 
                                 result[e] = {
@@ -404,8 +404,8 @@ def Arbitrage_3(total_stake):
                                         "odd": bet9ja_SD,
                                         "stake": total_stake / (1 + (bet9ja_SD / bet9ja_1A1) + (bet9ja_SD / bet9ja_SA))
                                     },
-                                    "amount": total_stake,
-                                    "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_1A1) + (bet9ja_SD / bet9ja_SA)))) - total_stake
+                                    # "amount": total_stake,
+                                    # "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_1A1) + (bet9ja_SD / bet9ja_SA)))) - total_stake
                                 }
 
                                 result[e] = {
@@ -435,8 +435,8 @@ def Arbitrage_3(total_stake):
                                         "odd": betking_SD,
                                         "stake": total_stake / (1 + (betking_SD / bet9ja_1A1) + (betking_SD / bet9ja_SA))
                                     },
-                                    "amount": total_stake,
-                                    "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_1A1) + (betking_SD / bet9ja_SA)))) - total_stake
+                                    # "amount": total_stake,
+                                    # "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_1A1) + (betking_SD / bet9ja_SA)))) - total_stake
                                 }
 
                                 result[e] = {
@@ -469,8 +469,8 @@ def Arbitrage_3(total_stake):
                                         "odd": bet9ja_SD,
                                         "stake": total_stake / (1 + (bet9ja_SD / bet9ja_1A1) + (bet9ja_SD / bet9ja_SA))
                                     },
-                                    "amount": total_stake,
-                                    "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_1A1) + (bet9ja_SD / bet9ja_SA)))) - total_stake
+                                    # "amount": total_stake,
+                                    # "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_1A1) + (bet9ja_SD / bet9ja_SA)))) - total_stake
                                 }
 
                                 result[e] = {
@@ -500,8 +500,8 @@ def Arbitrage_3(total_stake):
                                         "odd": betking_SD,
                                         "stake": total_stake / (1 + (betking_SD / bet9ja_1A1) + (betking_SD / bet9ja_SA))
                                     },
-                                    "amount": total_stake,
-                                    "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_1A1) + (betking_SD / bet9ja_SA)))) - total_stake
+                                    # "amount": total_stake,
+                                    # "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_1A1) + (betking_SD / bet9ja_SA)))) - total_stake
                                 }
 
                                 result[e] = {
@@ -537,8 +537,8 @@ def Arbitrage_3(total_stake):
                                         "odd": bet9ja_SD,
                                         "stake": total_stake / (1 + (bet9ja_SD / bet9ja_1A1) + (bet9ja_SD / bet9ja_SA))
                                     },
-                                    "amount": total_stake,
-                                    "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_1A1) + (bet9ja_SD / bet9ja_SA)))) - total_stake
+                                    # "amount": total_stake,
+                                    # "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_1A1) + (bet9ja_SD / bet9ja_SA)))) - total_stake
                                 }
 
                                 result[e] = {
@@ -568,8 +568,8 @@ def Arbitrage_3(total_stake):
                                         "odd": betking_SD,
                                         "stake": total_stake / (1 + (betking_SD / bet9ja_1A1) + (betking_SD / bet9ja_SA))
                                     },
-                                    "amount": total_stake,
-                                    "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_1A1) + (betking_SD / bet9ja_SA)))) - total_stake
+                                    # "amount": total_stake,
+                                    # "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_1A1) + (betking_SD / bet9ja_SA)))) - total_stake
                                 }
 
                                 result[e] = {
@@ -602,8 +602,8 @@ def Arbitrage_3(total_stake):
                                         "odd": bet9ja_SD,
                                         "stake": total_stake / (1 + (bet9ja_SD / bet9ja_1A1) + (bet9ja_SD / bet9ja_SA))
                                     },
-                                    "amount": total_stake,
-                                    "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_1A1) + (bet9ja_SD / bet9ja_SA)))) - total_stake
+                                    # "amount": total_stake,
+                                    # "profit": (bet9ja_SD * (total_stake / (1 + (bet9ja_SD / bet9ja_1A1) + (bet9ja_SD / bet9ja_SA)))) - total_stake
                                 }
 
                                 result[e] = {
@@ -633,8 +633,8 @@ def Arbitrage_3(total_stake):
                                         "odd": betking_SD,
                                         "stake": total_stake / (1 + (betking_SD / bet9ja_1A1) + (betking_SD / bet9ja_SA))
                                     },
-                                    "amount": total_stake,
-                                    "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_1A1) + (betking_SD / bet9ja_SA)))) - total_stake
+                                    # "amount": total_stake,
+                                    # "profit": (betking_SD * (total_stake / (1 + (betking_SD / bet9ja_1A1) + (betking_SD / bet9ja_SA)))) - total_stake
                                 }
 
                                 result[e] = {
@@ -684,8 +684,8 @@ def Arbitrage_2(total_stake):
                     "odd": betking_2X,
                     "stake": total_stake / (1 + (betking_2X / bet9ja_1X))
                 },
-                "amount": total_stake,
-                "profit": (bet9ja_1X * (total_stake / (1 + (bet9ja_1X / betking_2X)))) - total_stake
+                # "amount": total_stake,
+                # "profit": (bet9ja_1X * (total_stake / (1 + (bet9ja_1X / betking_2X)))) - total_stake
             }
             result[e] = data_3[e]
         else:
@@ -702,8 +702,8 @@ def Arbitrage_2(total_stake):
                     "odd": betking_1X,
                     "stake": total_stake / (1 + (betking_1X / bet9ja_2X))
                 },
-                "amount": total_stake,
-                "profit": (bet9ja_2X * (total_stake / (1 + (bet9ja_2X / betking_1X)))) - total_stake
+                # "amount": total_stake,
+                # "profit": (bet9ja_2X * (total_stake / (1 + (bet9ja_2X / betking_1X)))) - total_stake
             }
             result[e] = data_3[e]
         else:

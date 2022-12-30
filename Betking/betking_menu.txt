@@ -54,14 +54,11 @@
             "ENG - Championship",
             "ENG - League One",
             "ENG - League Two",
+            "ENG - EFL Cup",
             "ENG - FA Cup",
             "ENG - National League",
             "ENG - National League North",
             "ENG - National League South",
-            "ENG - Isthmian Premier Division",
-            "ENG - Northern Premier Division",
-            "ENG - Southern Premier Central Division",
-            "ENG - Southern Premier South Division",
             "ENG - FA Cup Women"
         ]
     },
@@ -69,6 +66,7 @@
         "location": 8,
         "submenu": [
             "ESP - LaLiga",
+            "ESP - LaLiga King's Combo",
             "ESP - Super Cup",
             "ESP - LaLiga2",
             "ESP - Primera RFEF"
@@ -78,9 +76,9 @@
         "location": 9,
         "submenu": [
             "ITA - Serie A",
-            "ITA - Serie B",
             "ITA - Super Cup",
             "ITA - Coppa Italia",
+            "ITA - Lega Pro-Girone A",
             "ITA - Serie D - Gir A"
         ]
     },
@@ -106,7 +104,8 @@
         "location": 12,
         "submenu": [
             "NED - Eredivisie",
-            "NED - Eerste Divisie"
+            "NED - Eerste Divisie",
+            "NED - KNVB beker"
         ]
     },
     "Portugal": {
@@ -114,6 +113,7 @@
         "submenu": [
             "POR - Primeira Liga",
             "POR - Segunda Liga",
+            "POR - Taca de Portugal",
             "POR - Liga 3"
         ]
     },
@@ -135,8 +135,7 @@
     "Turkey": {
         "location": 16,
         "submenu": [
-            "TUR - S\u00fcper Lig",
-            "TUR - TFF 1. Lig"
+            "TUR - S\u00fcper Lig"
         ]
     },
     "International": {
@@ -154,13 +153,16 @@
     "Simulated Reality League": {
         "location": 19,
         "submenu": [
-            "ENG - Premier League SRL",
+            "SPA - LaLiga SRL",
+            "FRA - Ligue 1 SRL",
+            "TUR - Super Lig SRL",
             "Winter SRL, Friendlies"
         ]
     },
     "Algeria": {
         "location": 20,
         "submenu": [
+            "ALG - Ligue 1",
             "ALG - Ligue 2"
         ]
     },
@@ -177,10 +179,10 @@
             "AUT - Bundesliga"
         ]
     },
-    "Bahrain": {
+    "Bangladesh": {
         "location": 23,
         "submenu": [
-            "BHR - Premier League"
+            "BAN - Premier League"
         ]
     },
     "Croatia": {
@@ -214,24 +216,25 @@
             "EGY - Premier League"
         ]
     },
-    "Ethiopia": {
-        "location": 29,
-        "submenu": [
-            "ETH - Premier League"
-        ]
-    },
     "Greece": {
-        "location": 30,
+        "location": 29,
         "submenu": [
             "GRE - Super League",
             "GRE - U19 Super League"
         ]
     },
     "India": {
-        "location": 31,
+        "location": 30,
         "submenu": [
             "IND - Super League",
             "IND - I-League"
+        ]
+    },
+    "Iran": {
+        "location": 31,
+        "submenu": [
+            "IRN - Pro League",
+            "IRN - Azabegan League"
         ]
     },
     "Ireland": {
@@ -244,13 +247,14 @@
         "location": 33,
         "submenu": [
             "ISR - Premier League",
-            "ISR - National League"
+            "ISR - National League",
+            "ISR - Ligat Al, Women"
         ]
     },
-    "Jamaica": {
+    "Kuwait": {
         "location": 34,
         "submenu": [
-            "JAM - Premier"
+            "KUW - Federation Cup"
         ]
     },
     "Mexico": {
@@ -259,62 +263,73 @@
             "MEX - Primera Division, Clausura"
         ]
     },
-    "Northern Ireland": {
+    "Morocco": {
         "location": 36,
         "submenu": [
-            "NIR - Premiership",
-            "NIR - Championship 1"
+            "MAR - Botola"
+        ]
+    },
+    "Northern Ireland": {
+        "location": 37,
+        "submenu": [
+            "NIR - Premiership"
         ]
     },
     "Poland": {
-        "location": 37,
+        "location": 38,
         "submenu": [
             "POL - Ekstraklasa"
         ]
     },
     "Saudi Arabia": {
-        "location": 38,
+        "location": 39,
         "submenu": [
             "KSA - Professional League",
             "KSA - Division 1"
         ]
     },
     "Senegal": {
-        "location": 39,
+        "location": 40,
         "submenu": [
             "SEN - Premier League"
         ]
     },
     "Slovakia": {
-        "location": 40,
+        "location": 41,
         "submenu": [
             "SVK - Superliga"
         ]
     },
     "South Africa": {
-        "location": 41,
+        "location": 42,
         "submenu": [
             "RSA - Premier League"
         ]
     },
     "Switzerland": {
-        "location": 42,
+        "location": 43,
         "submenu": [
             "SUI - Super League",
             "SUI - Challenge League"
         ]
     },
     "Tanzania": {
-        "location": 43,
+        "location": 44,
         "submenu": [
             "TAN - Premier League"
         ]
     },
+    "UAE": {
+        "location": 45,
+        "submenu": [
+            "UAE - Arabian Gulf League",
+            "UAE - Division 1"
+        ]
+    },
     "Wales": {
-        "location": 44,
+        "location": 46,
         "submenu": [
             "WAL - Premier League",
-            "WAL - FAW Championship North & Mid",
             "WAL - FAW Championship South & Mid"
         ]
     }

@@ -1,552 +1,302 @@
 {
-    "Ajaccio vs Angers": {
-        "category": "France",
-        "sub-category": "ligue_1",
-        "date": "Wed 28 Dec",
-        "time": "15:00",
+    "Leipzig vs Bayern Munich": {
+        "category": "Germany",
+        "sub-category": "bundesliga",
+        "date": "Fri 20 Jan",
+        "time": "20:30",
         "3-way": {
-            "betking Away": {
-                "odd": 4.25,
-                "stake": 295.2397518408999
-            },
-            "betking 1 [Away + 1]": {
-                "odd": 3.8,
-                "stake": 329.0458372310571
-            },
-            "betking Draw": {
-                "odd": 3.38,
-                "stake": 371.16279069767444
-            },
-            "amount": 1000,
-            "profit": 254.53023255813946
-        }
-    },
-    "Auxerre vs Monaco": {
-        "category": "France",
-        "sub-category": "ligue_1",
-        "date": "Wed 28 Dec",
-        "time": "17:00",
-        "3-way": {
-            "bet9ja Home": {
-                "odd": 4.35,
-                "stake": 282.3571301406445
+            "betking Home": {
+                "odd": 3.55,
+                "stake": 333.68091762252345
             },
             "betking 2 [Home + 1]": {
-                "odd": 3.15,
-                "stake": 394.971189104243
+                "odd": 3.22,
+                "stake": 368.7258185972839
             },
             "bet9ja Draw": {
-                "odd": 3.9,
-                "stake": 314.9367990030265
-            },
-            "amount": 1000,
-            "profit": 228.2535161118035
+                "odd": 4.0,
+                "stake": 296.1418143899896
+            }
         }
     },
-    "Clermont Foot vs Lille": {
-        "category": "France",
-        "sub-category": "ligue_1",
-        "date": "Wed 28 Dec",
-        "time": "19:00",
-        "3-way": {
-            "betking Home": {
-                "odd": 4.4,
-                "stake": 282.51121076233176
-            },
-            "betking 2 [Home + 1]": {
-                "odd": 3.2,
-                "stake": 390.8629441624365
-            },
-            "betking Draw": {
-                "odd": 3.85,
-                "stake": 322.86995515695065
-            },
-            "amount": 1000,
-            "profit": 243.04932735425996
-        }
-    },
-    "Brest vs Lyon": {
-        "category": "France",
-        "sub-category": "ligue_1",
-        "date": "Wed 28 Dec",
-        "time": "21:00",
-        "3-way": {
-            "bet9ja Home": {
-                "odd": 3.95,
-                "stake": 309.36403373761004
-            },
-            "betking 2 [Home + 1]": {
-                "odd": 3.4,
-                "stake": 361.3465877904495
-            },
-            "betking Draw": {
-                "odd": 3.75,
-                "stake": 325.8634488702826
-            },
-            "amount": 1000,
-            "profit": 221.98793326355963
-        }
-    },
-    "PSG vs Strasbourg": {
-        "category": "France",
-        "sub-category": "ligue_1",
-        "date": "Wed 28 Dec",
-        "time": "21:00",
+    "Union Berlin vs Hoffenheim": {
+        "category": "Germany",
+        "sub-category": "bundesliga",
+        "date": "Sat 21 Jan",
+        "time": "15:30",
         "3-way": {
             "betking Away": {
-                "odd": 10.0,
-                "stake": 115.06469500924214
-            },
-            "betking 1 [Away + 1]": {
-                "odd": 1.7,
-                "stake": 688.0733944954129
-            },
-            "betking Draw": {
-                "odd": 6.0,
-                "stake": 191.77449168207022
-            },
-            "amount": 1000,
-            "profit": 150.64695009242132
-        }
-    },
-    "Lorient vs Montpellier": {
-        "category": "France",
-        "sub-category": "ligue_1",
-        "date": "Thu 29 Dec",
-        "time": "17:00",
-        "3-way": {
-            "bet9ja Away": {
-                "odd": 3.7,
-                "stake": 328.70370370370364
-            },
-            "betking 1 [Away + 1]": {
-                "odd": 3.65,
-                "stake": 336.3636363636364
-            },
-            "betking Draw": {
-                "odd": 3.7,
-                "stake": 328.70370370370364
-            },
-            "amount": 1000,
-            "profit": 216.20370370370347
-        }
-    },
-    "Reims vs Stade Rennes": {
-        "category": "France",
-        "sub-category": "ligue_1",
-        "date": "Thu 29 Dec",
-        "time": "19:00",
-        "3-way": {
-            "bet9ja Home": {
                 "odd": 3.4,
-                "stake": 350.1795792714213
+                "stake": 354.7008547008547
             },
-            "betking 2 [Home + 1]": {
-                "odd": 4.25,
-                "stake": 281.0810810810811
+            "betking 1 [Away + 1]": {
+                "odd": 4.15,
+                "stake": 289.06795254108243
             },
             "betking Draw": {
-                "odd": 3.25,
-                "stake": 366.34171369933296
-            },
-            "amount": 1000,
-            "profit": 190.61056952283207
+                "odd": 3.48,
+                "stake": 347.5407787013312
+            }
         }
     },
-    "Nice vs Lens": {
-        "category": "France",
-        "sub-category": "ligue_1",
-        "date": "Thu 29 Dec",
-        "time": "21:00",
+    "Eintracht Frankfurt vs Schalke": {
+        "category": "Germany",
+        "sub-category": "bundesliga",
+        "date": "Sat 21 Jan",
+        "time": "15:30",
         "3-way": {
-            "betking Home": {
-                "odd": 3.25,
-                "stake": 362.91815825206766
+            "betking Away": {
+                "odd": 6.6,
+                "stake": 184.09680207433018
             },
-            "betking 2 [Home + 1]": {
+            "betking 1 [Away + 1]": {
+                "odd": 2.18,
+                "stake": 564.7461494580718
+            },
+            "betking Draw": {
                 "odd": 5.0,
-                "stake": 235.89680286384396
-            },
-            "betking Draw": {
-                "odd": 2.97,
-                "stake": 398.7485430341697
-            },
-            "amount": 1000,
-            "profit": 184.28317281148406
+                "stake": 243.605739238927
+            }
         }
     },
-    "Marseille vs Toulouse": {
-        "category": "France",
-        "sub-category": "ligue_1",
-        "date": "Thu 29 Dec",
-        "time": "21:00",
-        "3-way": {
-            "betking Away": {
-                "odd": 5.9,
-                "stake": 206.61982031357041
-            },
-            "betking 1 [Away + 1]": {
-                "odd": 2.4,
-                "stake": 516.9956668271545
-            },
-            "betking Draw": {
-                "odd": 4.55,
-                "stake": 267.92460216484955
-            },
-            "amount": 1000,
-            "profit": 219.05693985006542
-        }
-    },
-    "Monaco vs Brest": {
-        "category": "France",
-        "sub-category": "ligue_1",
-        "date": "Sun 1 Jan",
-        "time": "15:00",
-        "3-way": {
-            "betking Away": {
-                "odd": 5.8,
-                "stake": 208.18713450292398
-            },
-            "betking 1 [Away + 1]": {
-                "odd": 2.35,
-                "stake": 513.4174607262426
-            },
-            "betking Draw": {
-                "odd": 4.65,
-                "stake": 260.77880369329586
-            },
-            "amount": 1000,
-            "profit": 212.62143717382583
-        }
-    },
-    "Toulouse vs Ajaccio": {
-        "category": "France",
-        "sub-category": "ligue_1",
-        "date": "Sun 1 Jan",
-        "time": "15:00",
-        "3-way": {
-            "betking Away": {
-                "odd": 4.12,
-                "stake": 291.11825580227065
-            },
-            "betking 1 [Away + 1]": {
-                "odd": 3.82,
-                "stake": 311.77327438603663
-            },
-            "betking Draw": {
-                "odd": 3.18,
-                "stake": 379.96200379962005
-            },
-            "amount": 1000,
-            "profit": 208.27917208279177
-        }
-    },
-    "Nantes vs Auxerre": {
-        "category": "France",
-        "sub-category": "ligue_1",
-        "date": "Sun 1 Jan",
-        "time": "15:00",
-        "3-way": {
-            "betking Away": {
-                "odd": 4.05,
-                "stake": 293.4385222243602
-            },
-            "betking 1 [Away + 1]": {
-                "odd": 3.78,
-                "stake": 311.6648325734948
-            },
-            "betking Draw": {
-                "odd": 3.18,
-                "stake": 375.46210720887245
-            },
-            "amount": 1000,
-            "profit": 193.96950092421457
-        }
-    },
-    "Lyon vs Clermont Foot": {
-        "category": "France",
-        "sub-category": "ligue_1",
-        "date": "Sun 1 Jan",
-        "time": "17:00",
-        "3-way": {
-            "betking Away": {
-                "odd": 6.8,
-                "stake": 175.89795534201633
-            },
-            "betking 1 [Away + 1]": {
-                "odd": 2.17,
-                "stake": 555.3973227000855
-            },
-            "betking Draw": {
-                "odd": 4.9,
-                "stake": 245.3312821980538
-            },
-            "amount": 1000,
-            "profit": 202.12328277046367
-        }
-    },
-    "Lens vs PSG": {
-        "category": "France",
-        "sub-category": "ligue_1",
-        "date": "Sun 1 Jan",
-        "time": "20:45",
-        "3-way": {
-            "betking Home": {
-                "odd": 3.88,
-                "stake": 309.02475272895
-            },
-            "bet9ja 2 [Home + 1]": {
-                "odd": 3.35,
-                "stake": 351.0787522543584
-            },
-            "betking Draw": {
-                "odd": 3.75,
-                "stake": 317.7831200051978
-            },
-            "amount": 1000,
-            "profit": 191.6867000194918
-        }
-    },
-    "Strasbourg vs Troyes": {
-        "category": "France",
-        "sub-category": "ligue_1",
-        "date": "Mon 2 Jan",
-        "time": "15:00",
-        "3-way": {
-            "betking Away": {
-                "odd": 4.28,
-                "stake": 286.8733700376702
-            },
-            "betking 1 [Away + 1]": {
-                "odd": 3.3,
-                "stake": 367.4383868558626
-            },
-            "betking Draw": {
-                "odd": 3.75,
-                "stake": 327.76162790697674
-            },
-            "amount": 1000,
-            "profit": 229.1061046511627
-        }
-    },
-    "Lille vs Reims": {
-        "category": "France",
-        "sub-category": "ligue_1",
-        "date": "Mon 2 Jan",
-        "time": "17:00",
-        "3-way": {
-            "betking Away": {
-                "odd": 5.3,
-                "stake": 232.49262731634315
-            },
-            "betking 1 [Away + 1]": {
-                "odd": 2.8,
-                "stake": 438.49428635447015
-            },
-            "betking Draw": {
-                "odd": 3.92,
-                "stake": 315.3343641113064
-            },
-            "amount": 1000,
-            "profit": 236.11070731632117
-        }
-    },
-    "Montpellier vs Marseille": {
-        "category": "France",
-        "sub-category": "ligue_1",
-        "date": "Mon 2 Jan",
-        "time": "19:00",
-        "3-way": {
-            "betking Home": {
-                "odd": 3.95,
-                "stake": 308.0077032987513
-            },
-            "betking 2 [Home + 1]": {
-                "odd": 3.35,
-                "stake": 358.8107694270767
-            },
-            "betking Draw": {
-                "odd": 3.82,
-                "stake": 317.90824863271985
-            },
-            "amount": 1000,
-            "profit": 214.4095097769898
-        }
-    },
-    "Stade Rennes vs Nice": {
-        "category": "France",
-        "sub-category": "ligue_1",
-        "date": "Mon 2 Jan",
-        "time": "21:00",
-        "3-way": {
-            "betking Away": {
-                "odd": 4.18,
-                "stake": 293.0942184154176
-            },
-            "betking 1 [Away + 1]": {
-                "odd": 3.32,
-                "stake": 366.38865824792737
-            },
-            "betking Draw": {
-                "odd": 3.75,
-                "stake": 326.5530511269928
-            },
-            "amount": 1000,
-            "profit": 224.57394172622298
-        }
-    },
-    "Le Havre vs Bordeaux": {
-        "category": "France",
-        "sub-category": "ligue_2",
-        "date": "Mon 26 Dec",
-        "time": "19:00",
-        "3-way": {
-            "betking Away": {
-                "odd": 3.18,
-                "stake": 371.0189477927837
-            },
-            "bet9ja 1 [Away + 1]": {
-                "odd": 4.75,
-                "stake": 247.51283188644572
-            },
-            "betking Draw": {
-                "odd": 3.15,
-                "stake": 375.49407114624506
-            },
-            "amount": 1000,
-            "profit": 182.806324110672
-        }
-    },
-    "Sochaux vs Rodez Aveyron Football": {
-        "category": "France",
-        "sub-category": "ligue_2",
-        "date": "Mon 26 Dec",
-        "time": "21:00",
-        "3-way": {
-            "betking Away": {
-                "odd": 5.5,
-                "stake": 225.06183017312446
-            },
-            "betking 1 [Away + 1]": {
-                "odd": 2.8,
-                "stake": 445.27736131934034
-            },
-            "betking Draw": {
-                "odd": 3.95,
-                "stake": 314.62688478407017
-            },
-            "amount": 1000,
-            "profit": 242.77619489707718
-        }
-    },
-    "Dijon vs Stade Laval": {
-        "category": "France",
-        "sub-category": "ligue_2",
-        "date": "Mon 26 Dec",
-        "time": "21:00",
-        "3-way": {
-            "betking Away": {
-                "odd": 3.15,
-                "stake": 372.81834793018714
-            },
-            "bet9ja 1 [Away + 1]": {
-                "odd": 4.85,
-                "stake": 240.69242028893274
-            },
-            "betking Draw": {
-                "odd": 3.15,
-                "stake": 375.14815045848667
-            },
-            "amount": 1000,
-            "profit": 181.71667394423298
-        }
-    },
-    "Metz vs Chamois Niort": {
-        "category": "France",
-        "sub-category": "ligue_2",
-        "date": "Mon 26 Dec",
-        "time": "21:00",
-        "3-way": {
-            "betking Away": {
-                "odd": 4.7,
-                "stake": 264.0918580375783
-            },
-            "betking 1 [Away + 1]": {
-                "odd": 3.3,
-                "stake": 371.76724137931035
-            },
-            "betking Draw": {
-                "odd": 3.52,
-                "stake": 351.0140405616225
-            },
-            "amount": 1000,
-            "profit": 235.5694227769111
-        }
-    },
-    "Bastia vs Caen": {
-        "category": "France",
-        "sub-category": "ligue_2",
-        "date": "Mon 26 Dec",
-        "time": "21:00",
-        "3-way": {
-            "betking Home": {
-                "odd": 3.07,
-                "stake": 385.0682852807284
-            },
-            "betking 2 [Home + 1]": {
-                "odd": 5.2,
-                "stake": 225.31396207830582
-            },
-            "betking Draw": {
-                "odd": 3.15,
-                "stake": 376.5387400434468
-            },
-            "amount": 1000,
-            "profit": 186.09703113685737
-        }
-    },
-    "Bastia vs Valenciennes": {
-        "category": "France",
-        "sub-category": "ligue_2",
-        "date": "Fri 30 Dec",
-        "time": "21:00",
+    "Borussia Dortmund vs Augsburg": {
+        "category": "Germany",
+        "sub-category": "bundesliga",
+        "date": "Sun 22 Jan",
+        "time": "15:30",
         "3-way": {
             "bet9ja Away": {
-                "odd": 3.1,
-                "stake": 374.6686493825564
+                "odd": 7.2,
+                "stake": 164.5081980049172
             },
             "betking 1 [Away + 1]": {
-                "odd": 7.3,
-                "stake": 173.96504139834408
+                "odd": 1.96,
+                "stake": 614.029647088011
             },
             "betking Draw": {
-                "odd": 3.15,
-                "stake": 373.23363538432295
-            },
-            "amount": 1000,
-            "profit": 175.68595146061716
+                "odd": 5.5,
+                "stake": 215.3561864791644
+            }
         }
     },
-    "Guingamp vs Quevilly-Rouen Metropole": {
-        "category": "France",
-        "sub-category": "ligue_2",
-        "date": "Fri 30 Dec",
-        "time": "21:00",
+    "Schalke vs Leipzig": {
+        "category": "Germany",
+        "sub-category": "bundesliga",
+        "date": "Tue 24 Jan",
+        "time": "18:30",
         "3-way": {
-            "betking Away": {
-                "odd": 3.38,
-                "stake": 350.8738236988669
+            "betking Home": {
+                "odd": 5.15,
+                "stake": 239.29098966026586
             },
-            "betking 1 [Away + 1]": {
-                "odd": 4.42,
-                "stake": 265.73308587818457
+            "betking 2 [Home + 1]": {
+                "odd": 2.7,
+                "stake": 450.920245398773
             },
             "betking Draw": {
-                "odd": 3.28,
-                "stake": 361.89220667852715
+                "odd": 4.28,
+                "stake": 289.12976965776477
+            }
+        }
+    },
+    "Hoffenheim vs Stuttgart": {
+        "category": "Germany",
+        "sub-category": "bundesliga",
+        "date": "Tue 24 Jan",
+        "time": "20:30",
+        "3-way": {
+            "betking Away": {
+                "odd": 3.78,
+                "stake": 320.96377066479073
             },
-            "amount": 1000,
-            "profit": 187.00643790556887
+            "bet9ja 1 [Away + 1]": {
+                "odd": 3.5,
+                "stake": 341.16577956640265
+            },
+            "betking Draw": {
+                "odd": 3.8,
+                "stake": 318.34259727134923
+            }
+        }
+    },
+    "Bayern Munich vs Cologne": {
+        "category": "Germany",
+        "sub-category": "bundesliga",
+        "date": "Tue 24 Jan",
+        "time": "20:30",
+        "3-way": {
+            "betking Away": {
+                "odd": 11.0,
+                "stake": 99.89240613851292
+            },
+            "betking 1 [Away + 1]": {
+                "odd": 1.48,
+                "stake": 742.6617941765885
+            },
+            "betking Draw": {
+                "odd": 7.6,
+                "stake": 145.05624629958555
+            }
+        }
+    },
+    "Bayer Leverkusen vs Bochum": {
+        "category": "Germany",
+        "sub-category": "bundesliga",
+        "date": "Wed 25 Jan",
+        "time": "20:30",
+        "3-way": {
+            "betking Away": {
+                "odd": 6.1,
+                "stake": 198.30330796707565
+            },
+            "betking 1 [Away + 1]": {
+                "odd": 2.27,
+                "stake": 527.4751924981306
+            },
+            "betking Draw": {
+                "odd": 4.7,
+                "stake": 257.6768764066934
+            }
+        }
+    },
+    "Fortuna Dusseldorf vs 1. FC Magdeburg": {
+        "category": "Germany",
+        "sub-category": "2._bundesliga",
+        "date": "Fri 27 Jan",
+        "time": "18:30",
+        "3-way": {
+            "betking Away": {
+                "odd": 4.45,
+                "stake": 272.801660243107
+            },
+            "betking 1 [Away + 1]": {
+                "odd": 2.92,
+                "stake": 420.6687284822314
+            },
+            "betking Draw": {
+                "odd": 4.15,
+                "stake": 294.6504552183999
+            }
+        }
+    },
+    "Heidenheim vs Hansa Rostock": {
+        "category": "Germany",
+        "sub-category": "2._bundesliga",
+        "date": "Sat 28 Jan",
+        "time": "13:00",
+        "3-way": {
+            "betking Away": {
+                "odd": 4.25,
+                "stake": 288.5303572511676
+            },
+            "betking 1 [Away + 1]": {
+                "odd": 3.42,
+                "stake": 358.74739751378866
+            },
+            "betking Draw": {
+                "odd": 3.55,
+                "stake": 343.0386774412436
+            }
+        }
+    },
+    "Darmstadt 98 vs Regensburg": {
+        "category": "Germany",
+        "sub-category": "2._bundesliga",
+        "date": "Sat 28 Jan",
+        "time": "13:00",
+        "3-way": {
+            "betking Away": {
+                "odd": 5.4,
+                "stake": 225.48208766813215
+            },
+            "betking 1 [Away + 1]": {
+                "odd": 2.62,
+                "stake": 464.24229026196537
+            },
+            "betking Draw": {
+                "odd": 4.15,
+                "stake": 294.74243228890066
+            }
+        }
+    },
+    "Holstein Kiel vs Greuther Furth": {
+        "category": "Germany",
+        "sub-category": "2._bundesliga",
+        "date": "Sat 28 Jan",
+        "time": "13:00",
+        "3-way": {
+            "betking Away": {
+                "odd": 3.15,
+                "stake": 374.1315498993572
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 4.3,
+                "stake": 270.75190460417355
+            },
+            "betking Draw": {
+                "odd": 3.35,
+                "stake": 347.53229546207353
+            }
+        }
+    },
+    "Hannover vs Kaiserslautern": {
+        "category": "Germany",
+        "sub-category": "2._bundesliga",
+        "date": "Sat 28 Jan",
+        "time": "20:30",
+        "3-way": {
+            "betking Away": {
+                "odd": 3.15,
+                "stake": 376.07717041800646
+            },
+            "betking 1 [Away + 1]": {
+                "odd": 4.35,
+                "stake": 269.8588250601783
+            },
+            "betking Draw": {
+                "odd": 3.4,
+                "stake": 344.1805537331059
+            }
+        }
+    },
+    "Hamburg vs Braunschweig": {
+        "category": "Germany",
+        "sub-category": "2._bundesliga",
+        "date": "Sun 29 Jan",
+        "time": "13:30",
+        "3-way": {
+            "betking Away": {
+                "odd": 5.4,
+                "stake": 227.57125549958553
+            },
+            "bet9ja 1 [Away + 1]": {
+                "odd": 2.58,
+                "stake": 471.10753529586805
+            },
+            "betking Draw": {
+                "odd": 4.32,
+                "stake": 284.6364442616419
+            }
+        }
+    },
+    "Arminia Bielefeld vs Sandhausen": {
+        "category": "Germany",
+        "sub-category": "2._bundesliga",
+        "date": "Sun 29 Jan",
+        "time": "13:30",
+        "3-way": {
+            "betking Away": {
+                "odd": 3.65,
+                "stake": 330.10451185317356
+            },
+            "betking 1 [Away + 1]": {
+                "odd": 3.7,
+                "stake": 321.1009174311927
+            },
+            "betking Draw": {
+                "odd": 3.55,
+                "stake": 336.276291872241
+            }
         }
     }
 }
