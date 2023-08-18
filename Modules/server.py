@@ -1,8 +1,8 @@
 # Imports
 # ================================================================================
-from modules.bet9ja import getBet9ja_Menu, getBet9ja_links, bet9ja_SH_Chance
-from modules.betking import getBetking_Menu, betking_SH_Chance
-from modules.arbitrage import Compile, pair_up, Arbitrage_3
+from bet9ja import getBet9ja_Menu, getBet9ja_links, bet9ja_SH_Chance
+from betking import getBetking_Menu, betking_SH_Chance
+from arbitrage import Compile, pair_up, Arbitrage_3
 from time import sleep
 
 # Dependencies
@@ -90,4 +90,4 @@ def app_start(data):
         sleep(60 * 60 * 12)
 
 
-app_start("Germany")
+app_start("Brazil")

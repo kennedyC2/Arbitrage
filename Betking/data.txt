@@ -1,775 +1,985 @@
 {
-    "Germany": {
-        "GER - Bundesliga": {
-            "Leipzig vs Bayern M.": {
-                "time": "20:30",
-                "single": {
-                    "home": "3.55",
-                    "draw": "3.95",
-                    "away": "1.94"
-                },
-                "double": {
-                    "1X": "1.82",
-                    "12": "1.23",
-                    "2X": "1.28"
-                },
+    "France": {
+        "Ligue 1 King's Combo": {
+            "FC Nantes v Olympique Lyonnais vs Alexandre Lacazette to Score & Lyon to Win": {
+                "time": "18:00",
                 "handicap": {
-                    "1 [Away + 1]": "7.30",
-                    "2 [Home + 1]": "3.22"
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
                 }
             },
-            "Bochum vs Hertha": {
-                "time": "15:30",
-                "single": {
-                    "home": "2.70",
-                    "draw": "3.55",
-                    "away": "2.58"
-                },
-                "double": {
-                    "1X": "1.50",
-                    "12": "1.29",
-                    "2X": "1.46"
-                },
+            "FC Nantes v Olympique Lyonnais vs Ludovic Blas to Score & Nantes to Win": {
+                "time": "18:00",
                 "handicap": {
-                    "1 [Away + 1]": "5.40",
-                    "2 [Home + 1]": "5.05"
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
                 }
             },
-            "Eintracht Frankfurt vs Schalke": {
-                "time": "15:30",
-                "single": {
-                    "home": "1.45",
-                    "draw": "5.00",
-                    "away": "6.60"
-                },
-                "double": {
-                    "1X": "1.11",
-                    "12": "1.17",
-                    "2X": "2.72"
-                },
+            "FC Nantes v Olympique Lyonnais vs Lyon to Win, Over 2.5 Goals & 9+ Corners": {
+                "time": "18:00",
                 "handicap": {
-                    "1 [Away + 1]": "2.18",
-                    "2 [Home + 1]": "16.00"
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
                 }
             },
-            "Stuttgart vs Mainz": {
-                "time": "15:30",
-                "single": {
-                    "home": "2.40",
-                    "draw": "3.60",
-                    "away": "2.90"
-                },
-                "double": {
-                    "1X": "1.41",
-                    "12": "1.29",
-                    "2X": "1.57"
-                },
+            "FC Nantes v Olympique Lyonnais vs Nantes to Win, Over 2.5 Goals & Both Teams To Score": {
+                "time": "18:00",
                 "handicap": {
-                    "1 [Away + 1]": "4.60",
-                    "2 [Home + 1]": "6.00"
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
                 }
             },
-            "Union Berlin vs Hoffenheim": {
-                "time": "15:30",
-                "single": {
-                    "home": "2.18",
-                    "draw": "3.48",
-                    "away": "3.40"
-                },
-                "double": {
-                    "1X": "1.31",
-                    "12": "1.30",
-                    "2X": "1.68"
-                },
+            "FC Nantes v Olympique Lyonnais vs Over 2.5 Goals, Both Teams To Score & 9+ Corners": {
+                "time": "18:00",
                 "handicap": {
-                    "1 [Away + 1]": "4.15",
-                    "2 [Home + 1]": "7.60"
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
                 }
             },
-            "Wolfsburg vs Freiburg": {
-                "time": "15:30",
-                "single": {
-                    "home": "2.58",
-                    "draw": "3.50",
-                    "away": "2.72"
-                },
-                "double": {
-                    "1X": "1.45",
-                    "12": "1.30",
-                    "2X": "1.50"
-                },
+            "FC Lorient v AS Monaco vs Abdallah Sima to Score & Lorient to Win": {
+                "time": "20:00",
                 "handicap": {
-                    "1 [Away + 1]": "5.10",
-                    "2 [Home + 1]": "5.50"
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
                 }
             },
-            "Cologne vs Werder": {
-                "time": "18:30",
-                "single": {
-                    "home": "2.28",
-                    "draw": "3.78",
-                    "away": "2.87"
-                },
-                "double": {
-                    "1X": "1.40",
-                    "12": "1.25",
-                    "2X": "1.60"
-                },
+            "FC Lorient v AS Monaco vs Breel Embolo to Score & Monaco to Win": {
+                "time": "20:00",
                 "handicap": {
-                    "1 [Away + 1]": "4.22",
-                    "2 [Home + 1]": "5.80"
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
                 }
             },
-            "B. Dortmund vs Augsburg": {
-                "time": "15:30",
-                "single": {
-                    "home": "1.39",
-                    "draw": "5.50",
-                    "away": "7.10"
-                },
-                "double": {
-                    "1X": "1.09",
-                    "12": "1.15",
-                    "2X": "2.97"
-                },
+            "FC Lorient v AS Monaco vs Lorient to Win, Over 2.5 Goals & Both Teams To Score": {
+                "time": "20:00",
                 "handicap": {
-                    "1 [Away + 1]": "1.96",
-                    "2 [Home + 1]": "16.50"
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
                 }
             },
-            "B. Monchengladbach vs Bayer Leverkusen": {
-                "time": "17:30",
+            "FC Lorient v AS Monaco vs Monaco to Win, Over 2.5 Goals & 9+ Corners": {
+                "time": "20:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "FC Lorient v AS Monaco vs Over 2.5 Goals, Both Teams To Score & 9+ Corners": {
+                "time": "20:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "PSG v Angers SCO vs Angers to Win, Over 2.5 Goals & 9+ Corners": {
+                "time": "20:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "PSG v Angers SCO vs Mbappe & Neymar both to Score": {
+                "time": "20:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "PSG v Angers SCO vs Mbappe to Score & PSG to Win": {
+                "time": "20:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "PSG v Angers SCO vs Mbappe to Score First & PSG to Win": {
+                "time": "20:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "PSG v Angers SCO vs Messi  to Score & PSG to Win": {
+                "time": "20:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "PSG v Angers SCO vs Neymar to Score & PSG to Win": {
+                "time": "20:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "PSG v Angers SCO vs Over 2.5 Goals, Both Teams To Score & 9+ Corners": {
+                "time": "20:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "PSG v Angers SCO vs PSG to Win, Over 2.5 Goals & 9+ Corners": {
+                "time": "20:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "PSG v Angers SCO vs PSG to Win, Over 2.5 Goals & Both Teams To Score": {
+                "time": "20:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "PSG v Angers SCO vs PSG to Win, Over 3.5 Goals & 9+ Corners": {
+                "time": "20:00",
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            }
+        },
+        "Ligue 1": {
+            "Ajaccio vs Reims": {
+                "time": "18:00",
                 "single": {
-                    "home": "2.68",
-                    "draw": "3.98",
-                    "away": "2.35"
+                    "home": "3.10",
+                    "draw": "3.20",
+                    "away": "2.48"
                 },
                 "double": {
-                    "1X": "1.56",
-                    "12": "1.23",
+                    "1X": "1.53",
+                    "12": "1.35",
+                    "2X": "1.37"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "6.90",
+                    "2 [Home + 1]": "5.10"
+                }
+            },
+            "Auxerre vs Toulouse": {
+                "time": "18:00",
+                "single": {
+                    "home": "2.75",
+                    "draw": "3.35",
+                    "away": "2.63"
+                },
+                "double": {
+                    "1X": "1.48",
+                    "12": "1.32",
                     "2X": "1.45"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "5.25",
-                    "2 [Home + 1]": "4.35"
+                    "1 [Away + 1]": "5.50",
+                    "2 [Home + 1]": "5.20"
                 }
             },
-            "Schalke vs Leipzig": {
-                "time": "18:30",
+            "Clermont vs Rennes": {
+                "time": "18:00",
                 "single": {
-                    "home": "5.15",
-                    "draw": "4.28",
-                    "away": "1.64"
+                    "home": "3.85",
+                    "draw": "3.72",
+                    "away": "1.95"
                 },
                 "double": {
-                    "1X": "2.25",
-                    "12": "1.22",
-                    "2X": "1.16"
+                    "1X": "1.84",
+                    "12": "1.27",
+                    "2X": "1.26"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "12.50",
-                    "2 [Home + 1]": "2.70"
+                    "1 [Away + 1]": "9.10",
+                    "2 [Home + 1]": "3.55"
                 }
             },
-            "Bayern M. vs Cologne": {
-                "time": "20:30",
+            "Nantes vs Lyon": {
+                "time": "18:00",
                 "single": {
-                    "home": "1.19",
-                    "draw": "7.60",
-                    "away": "11.00"
+                    "home": "3.30",
+                    "draw": "3.35",
+                    "away": "2.23"
                 },
                 "double": {
-                    "1X": "1.02",
-                    "12": "1.06",
-                    "2X": "4.25"
+                    "1X": "1.62",
+                    "12": "1.30",
+                    "2X": "1.31"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "1.48",
-                    "2 [Home + 1]": "25.00"
+                    "1 [Away + 1]": "7.30",
+                    "2 [Home + 1]": "4.22"
                 }
             },
-            "Hertha  vs Wolfsburg": {
-                "time": "20:30",
+            "Stade Brest vs Lille": {
+                "time": "18:00",
+                "single": {
+                    "home": "3.80",
+                    "draw": "3.70",
+                    "away": "1.97"
+                },
+                "double": {
+                    "1X": "1.83",
+                    "12": "1.27",
+                    "2X": "1.26"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "8.90",
+                    "2 [Home + 1]": "3.60"
+                }
+            },
+            "Lorient vs Monaco": {
+                "time": "20:00",
+                "single": {
+                    "home": "3.85",
+                    "draw": "3.78",
+                    "away": "1.90"
+                },
+                "double": {
+                    "1X": "1.86",
+                    "12": "1.25",
+                    "2X": "1.24"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "8.90",
+                    "2 [Home + 1]": "3.38"
+                }
+            },
+            "Nice vs Montpellier": {
+                "time": "20:00",
+                "single": {
+                    "home": "1.82",
+                    "draw": "3.75",
+                    "away": "4.45"
+                },
+                "double": {
+                    "1X": "1.20",
+                    "12": "1.27",
+                    "2X": "1.98"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.28",
+                    "2 [Home + 1]": "11.00"
+                }
+            },
+            "PSG vs Angers": {
+                "time": "20:00",
+                "single": {
+                    "home": "1.12",
+                    "draw": "9.70",
+                    "away": "17.00"
+                },
+                "double": {
+                    "1X": "-",
+                    "12": "1.04",
+                    "2X": "5.80"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "1.33",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Strasbourg vs Lens": {
+                "time": "20:00",
+                "single": {
+                    "home": "3.62",
+                    "draw": "3.55",
+                    "away": "2.05"
+                },
+                "double": {
+                    "1X": "1.76",
+                    "12": "1.29",
+                    "2X": "1.28"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "8.50",
+                    "2 [Home + 1]": "3.85"
+                }
+            },
+            "Troyes vs Marseille": {
+                "time": "20:00",
+                "single": {
+                    "home": "4.70",
+                    "draw": "4.02",
+                    "away": "1.70"
+                },
+                "double": {
+                    "1X": "2.10",
+                    "12": "1.23",
+                    "2X": "1.17"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "11.75",
+                    "2 [Home + 1]": "2.92"
+                }
+            },
+            "Lens vs Auxerre": {
+                "time": "16:00",
+                "single": {
+                    "home": "1.45",
+                    "draw": "4.70",
+                    "away": "7.20"
+                },
+                "double": {
+                    "1X": "1.09",
+                    "12": "1.19",
+                    "2X": "2.72"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "2.23",
+                    "2 [Home + 1]": "18.50"
+                }
+            },
+            "Marseille vs Lorient": {
+                "time": "18:00",
+                "single": {
+                    "home": "1.44",
+                    "draw": "4.70",
+                    "away": "6.60"
+                },
+                "double": {
+                    "1X": "1.08",
+                    "12": "1.16",
+                    "2X": "2.63"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "2.18",
+                    "2 [Home + 1]": "17.00"
+                }
+            },
+            "Lyon vs Strasbourg": {
+                "time": "20:00",
+                "single": {
+                    "home": "1.58",
+                    "draw": "4.25",
+                    "away": "5.30"
+                },
+                "double": {
+                    "1X": "1.13",
+                    "12": "1.19",
+                    "2X": "2.25"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "2.60",
+                    "2 [Home + 1]": "13.50"
+                }
+            },
+            "Lille  vs Troyes": {
+                "time": "12:00",
+                "single": {
+                    "home": "1.47",
+                    "draw": "4.70",
+                    "away": "6.80"
+                },
+                "double": {
+                    "1X": "1.10",
+                    "12": "1.19",
+                    "2X": "2.67"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "2.23",
+                    "2 [Home + 1]": "17.00"
+                }
+            },
+            "Angers vs Clermont": {
+                "time": "14:00",
+                "single": {
+                    "home": "2.50",
+                    "draw": "3.55",
+                    "away": "2.77"
+                },
+                "double": {
+                    "1X": "1.44",
+                    "12": "1.29",
+                    "2X": "1.53"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "5.00",
+                    "2 [Home + 1]": "5.70"
+                }
+            },
+            "Montpellier vs Nantes": {
+                "time": "14:00",
                 "single": {
                     "home": "2.55",
-                    "draw": "3.35",
-                    "away": "2.85"
+                    "draw": "3.48",
+                    "away": "2.77"
                 },
                 "double": {
-                    "1X": "1.42",
-                    "12": "1.32",
+                    "1X": "1.44",
+                    "12": "1.30",
                     "2X": "1.51"
                 },
                 "handicap": {
                     "1 [Away + 1]": "5.00",
-                    "2 [Home + 1]": "5.80"
+                    "2 [Home + 1]": "5.60"
                 }
             },
-            "Hoffenheim vs Stuttgart": {
-                "time": "20:30",
+            "Reims vs Nice": {
+                "time": "14:00",
                 "single": {
-                    "home": "1.95",
-                    "draw": "3.80",
-                    "away": "3.78"
+                    "home": "2.63",
+                    "draw": "3.22",
+                    "away": "2.85"
                 },
                 "double": {
-                    "1X": "1.27",
-                    "12": "1.26",
-                    "2X": "1.84"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.45",
-                    "2 [Home + 1]": "8.50"
-                }
-            },
-            "Mainz  vs B. Dortmund": {
-                "time": "18:30",
-                "single": {
-                    "home": "2.82",
-                    "draw": "3.68",
-                    "away": "2.40"
-                },
-                "double": {
-                    "1X": "1.57",
-                    "12": "1.28",
-                    "2X": "1.43"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "5.60",
-                    "2 [Home + 1]": "4.50"
-                }
-            },
-            "Augsburg vs B. Monchengladbach": {
-                "time": "20:30",
-                "single": {
-                    "home": "3.05",
-                    "draw": "3.32",
-                    "away": "2.43"
-                },
-                "double": {
-                    "1X": "1.55",
-                    "12": "1.33",
-                    "2X": "1.38"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "6.10",
-                    "2 [Home + 1]": "4.45"
-                }
-            },
-            "Bayer Leverkusen vs Bochum": {
-                "time": "20:30",
-                "single": {
-                    "home": "1.48",
-                    "draw": "4.70",
-                    "away": "6.10"
-                },
-                "double": {
-                    "1X": "1.11",
-                    "12": "1.17",
-                    "2X": "2.57"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "2.27",
-                    "2 [Home + 1]": "15.00"
-                }
-            },
-            "Freiburg vs Eintracht Frankfurt": {
-                "time": "20:30",
-                "single": {
-                    "home": "2.55",
-                    "draw": "3.50",
-                    "away": "2.75"
-                },
-                "double": {
-                    "1X": "1.45",
-                    "12": "1.30",
-                    "2X": "1.51"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "4.95",
-                    "2 [Home + 1]": "5.50"
-                }
-            },
-            "Werder  vs Union Berlin": {
-                "time": "20:30",
-                "single": {
-                    "home": "2.67",
-                    "draw": "3.32",
-                    "away": "2.72"
-                },
-                "double": {
-                    "1X": "1.45",
-                    "12": "1.33",
-                    "2X": "1.47"
+                    "1X": "1.42",
+                    "12": "1.34",
+                    "2X": "1.48"
                 },
                 "handicap": {
                     "1 [Away + 1]": "5.40",
-                    "2 [Home + 1]": "5.60"
+                    "2 [Home + 1]": "6.00"
+                }
+            },
+            "Toulouse  vs Stade Brest": {
+                "time": "14:00",
+                "single": {
+                    "home": "2.23",
+                    "draw": "3.35",
+                    "away": "3.42"
+                },
+                "double": {
+                    "1X": "1.31",
+                    "12": "1.32",
+                    "2X": "1.65"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.10",
+                    "2 [Home + 1]": "7.40"
+                }
+            },
+            "Monaco vs Ajaccio": {
+                "time": "16:05",
+                "single": {
+                    "home": "1.38",
+                    "draw": "4.95",
+                    "away": "8.00"
+                },
+                "double": {
+                    "1X": "1.06",
+                    "12": "1.16",
+                    "2X": "2.92"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "2.05",
+                    "2 [Home + 1]": "21.00"
+                }
+            },
+            "Rennes vs PSG": {
+                "time": "19:45",
+                "single": {
+                    "home": "4.05",
+                    "draw": "4.12",
+                    "away": "1.82"
+                },
+                "double": {
+                    "1X": "1.98",
+                    "12": "1.23",
+                    "2X": "1.24"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "9.10",
+                    "2 [Home + 1]": "3.10"
                 }
             }
         },
-        "GER - Bundesliga 2": {
-            "Fortuna Dusseldorf vs Magdeburg": {
-                "time": "18:30",
-                "single": {
-                    "home": "1.71",
-                    "draw": "4.15",
-                    "away": "4.45"
-                },
-                "double": {
-                    "1X": "1.19",
-                    "12": "1.21",
-                    "2X": "2.08"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "2.92",
-                    "2 [Home + 1]": "10.75"
-                }
-            },
-            "Karlsruher vs Paderborn": {
-                "time": "18:30",
-                "single": {
-                    "home": "2.60",
-                    "draw": "3.60",
-                    "away": "2.57"
-                },
-                "double": {
-                    "1X": "1.48",
-                    "12": "1.27",
-                    "2X": "1.47"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "5.05",
-                    "2 [Home + 1]": "5.00"
-                }
-            },
-            "Darmstadt vs Jahn Regensburg": {
-                "time": "13:00",
-                "single": {
-                    "home": "1.60",
-                    "draw": "4.15",
-                    "away": "5.40"
-                },
-                "double": {
-                    "1X": "1.14",
-                    "12": "1.21",
-                    "2X": "2.27"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "2.62",
-                    "2 [Home + 1]": "13.50"
-                }
-            },
-            "Heidenheim vs Hansa Rostock": {
-                "time": "13:00",
-                "single": {
-                    "home": "1.87",
-                    "draw": "3.55",
-                    "away": "4.25"
-                },
-                "double": {
-                    "1X": "1.21",
-                    "12": "1.28",
-                    "2X": "1.89"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.42",
-                    "2 [Home + 1]": "10.50"
-                }
-            },
-            "Holstein Kiel vs Greuther Furth": {
-                "time": "13:00",
-                "single": {
-                    "home": "2.28",
-                    "draw": "3.35",
-                    "away": "3.15"
-                },
-                "double": {
-                    "1X": "1.34",
-                    "12": "1.30",
-                    "2X": "1.60"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "4.25",
-                    "2 [Home + 1]": "6.70"
-                }
-            },
-            "Hannover  vs Kaiserslautern": {
-                "time": "20:30",
+        "Ligue 2": {
+            "Amiens vs Guingamp": {
+                "time": "19:45",
                 "single": {
                     "home": "2.30",
-                    "draw": "3.40",
-                    "away": "3.15"
+                    "draw": "3.15",
+                    "away": "3.25"
                 },
                 "double": {
-                    "1X": "1.34",
-                    "12": "1.30",
-                    "2X": "1.59"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "4.35",
-                    "2 [Home + 1]": "6.60"
-                }
-            },
-            "Arminia Bielefeld vs Sandhausen": {
-                "time": "13:30",
-                "single": {
-                    "home": "2.02",
-                    "draw": "3.55",
-                    "away": "3.65"
-                },
-                "double": {
-                    "1X": "1.26",
-                    "12": "1.28",
-                    "2X": "1.75"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.70",
-                    "2 [Home + 1]": "8.40"
-                }
-            },
-            "Hamburger  vs Eintracht Braunschweig": {
-                "time": "13:30",
-                "single": {
-                    "home": "1.58",
-                    "draw": "4.32",
-                    "away": "5.40"
-                },
-                "double": {
-                    "1X": "1.14",
-                    "12": "1.20",
-                    "2X": "2.30"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "2.57",
-                    "2 [Home + 1]": "13.50"
-                }
-            },
-            "Nurnberg vs St. Pauli": {
-                "time": "13:30",
-                "single": {
-                    "home": "2.57",
-                    "draw": "3.45",
-                    "away": "2.68"
-                },
-                "double": {
-                    "1X": "1.45",
-                    "12": "1.29",
-                    "2X": "1.48"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "5.15",
-                    "2 [Home + 1]": "5.50"
-                }
-            }
-        },
-        "GER - Bundesliga 3": {
-            "Zwickau vs VfB Oldenburg": {
-                "time": "19:00",
-                "single": {
-                    "home": "2.23",
-                    "draw": "3.42",
-                    "away": "3.15"
-                },
-                "double": {
-                    "1X": "1.33",
-                    "12": "1.28",
-                    "2X": "1.60"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "4.05",
-                    "2 [Home + 1]": "6.40"
-                }
-            },
-            "1 FC Saarbrucken vs Duisburg": {
-                "time": "14:00",
-                "single": {
-                    "home": "1.91",
-                    "draw": "3.52",
-                    "away": "3.80"
-                },
-                "double": {
-                    "1X": "1.22",
-                    "12": "1.26",
-                    "2X": "1.80"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.35",
-                    "2 [Home + 1]": "8.60"
-                }
-            },
-            "Freiburg II vs Verl": {
-                "time": "14:00",
-                "single": {
-                    "home": "2.23",
-                    "draw": "3.45",
-                    "away": "3.15"
-                },
-                "double": {
-                    "1X": "1.32",
-                    "12": "1.27",
-                    "2X": "1.60"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "4.05",
-                    "2 [Home + 1]": "6.50"
-                }
-            },
-            "Osnabruck vs Viktoria Cologne": {
-                "time": "14:00",
-                "single": {
-                    "home": "2.07",
-                    "draw": "3.50",
-                    "away": "3.30"
-                },
-                "double": {
-                    "1X": "1.29",
-                    "12": "1.26",
-                    "2X": "1.68"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.65",
-                    "2 [Home + 1]": "7.00"
-                }
-            },
-            "RW Essen vs Hallescher": {
-                "time": "14:00",
-                "single": {
-                    "home": "1.71",
-                    "draw": "3.72",
-                    "away": "4.60"
-                },
-                "double": {
-                    "1X": "1.16",
-                    "12": "1.23",
-                    "2X": "2.02"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "2.87",
-                    "2 [Home + 1]": "11.00"
-                }
-            },
-            "Waldhof Mannheim vs 1860 Munich": {
-                "time": "14:00",
-                "single": {
-                    "home": "2.50",
-                    "draw": "3.38",
-                    "away": "2.72"
-                },
-                "double": {
-                    "1X": "1.41",
-                    "12": "1.28",
-                    "2X": "1.48"
+                    "1X": "1.30",
+                    "12": "1.32",
+                    "2X": "1.56"
                 },
                 "handicap": {
                     "1 [Away + 1]": "4.75",
-                    "2 [Home + 1]": "5.30"
+                    "2 [Home + 1]": "7.70"
                 }
             },
-            "Wehen vs Spvgg Elversberg 07": {
-                "time": "14:00",
+            "Caen vs Bordeaux": {
+                "time": "19:45",
                 "single": {
-                    "home": "2.68",
-                    "draw": "3.45",
-                    "away": "2.50"
+                    "home": "2.43",
+                    "draw": "3.15",
+                    "away": "3.00"
                 },
                 "double": {
-                    "1X": "1.48",
-                    "12": "1.27",
-                    "2X": "1.42"
+                    "1X": "1.35",
+                    "12": "1.32",
+                    "2X": "1.51"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "4.90",
-                    "2 [Home + 1]": "4.45"
+                    "1 [Away + 1]": "5.15",
+                    "2 [Home + 1]": "7.00"
                 }
             },
-            "Dynamo Dresden vs Meppen": {
-                "time": "13:00",
+            "Le Havre vs Sochaux": {
+                "time": "19:45",
                 "single": {
-                    "home": "1.72",
-                    "draw": "3.78",
-                    "away": "4.70"
+                    "home": "2.25",
+                    "draw": "3.05",
+                    "away": "3.45"
                 },
                 "double": {
-                    "1X": "1.16",
-                    "12": "1.23",
-                    "2X": "2.03"
+                    "1X": "1.27",
+                    "12": "1.34",
+                    "2X": "1.59"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "2.85",
-                    "2 [Home + 1]": "10.75"
+                    "1 [Away + 1]": "4.60",
+                    "2 [Home + 1]": "8.50"
                 }
             },
-            "Spvgg Bayreuth vs B. Dortmund II": {
-                "time": "14:00",
+            "Nimes vs Metz": {
+                "time": "19:45",
                 "single": {
-                    "home": "3.05",
-                    "draw": "3.38",
-                    "away": "2.28"
+                    "home": "3.02",
+                    "draw": "3.08",
+                    "away": "2.40"
                 },
                 "double": {
-                    "1X": "1.57",
-                    "12": "1.28",
+                    "1X": "1.51",
+                    "12": "1.32",
                     "2X": "1.34"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "6.20",
-                    "2 [Home + 1]": "4.15"
+                    "1 [Away + 1]": "6.80",
+                    "2 [Home + 1]": "4.90"
                 }
             },
-            "Ingolstadt vs Erzgebirge Aue": {
-                "time": "19:00",
+            "Paris FC vs Dijon": {
+                "time": "19:45",
                 "single": {
-                    "home": "1.82",
-                    "draw": "3.55",
-                    "away": "4.35"
+                    "home": "2.18",
+                    "draw": "2.95",
+                    "away": "3.75"
                 },
                 "double": {
-                    "1X": "1.18",
-                    "12": "1.26",
-                    "2X": "1.90"
+                    "1X": "1.24",
+                    "12": "1.36",
+                    "2X": "1.62"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "3.15",
-                    "2 [Home + 1]": "10.25"
+                    "1 [Away + 1]": "4.40",
+                    "2 [Home + 1]": "9.60"
                 }
             },
-            "Viktoria Cologne vs 1 FC Saarbrucken": {
-                "time": "19:00",
+            "Pau vs Grenoble": {
+                "time": "19:45",
                 "single": {
-                    "home": "2.52",
-                    "draw": "3.38",
-                    "away": "2.65"
+                    "home": "2.40",
+                    "draw": "3.05",
+                    "away": "3.05"
                 },
                 "double": {
-                    "1X": "1.42",
+                    "1X": "1.33",
+                    "12": "1.33",
+                    "2X": "1.51"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "5.20",
+                    "2 [Home + 1]": "7.30"
+                }
+            },
+            "Quevilly Rouen vs Bastia": {
+                "time": "19:45",
+                "single": {
+                    "home": "2.38",
+                    "draw": "3.15",
+                    "away": "3.07"
+                },
+                "double": {
+                    "1X": "1.33",
+                    "12": "1.32",
+                    "2X": "1.53"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.95",
+                    "2 [Home + 1]": "7.10"
+                }
+            },
+            "Rodez Aveyron vs Niort": {
+                "time": "19:45",
+                "single": {
+                    "home": "2.38",
+                    "draw": "2.97",
+                    "away": "3.28"
+                },
+                "double": {
+                    "1X": "1.30",
+                    "12": "1.35",
+                    "2X": "1.53"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "5.10",
+                    "2 [Home + 1]": "8.00"
+                }
+            },
+            "Saint Etienne vs Laval": {
+                "time": "19:45",
+                "single": {
+                    "home": "1.94",
+                    "draw": "3.42",
+                    "away": "3.95"
+                },
+                "double": {
+                    "1X": "1.22",
                     "12": "1.28",
-                    "2X": "1.46"
+                    "2X": "1.79"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "4.80",
-                    "2 [Home + 1]": "5.15"
+                    "1 [Away + 1]": "3.70",
+                    "2 [Home + 1]": "10.00"
                 }
             },
-            "1860 Munich vs Zwickau": {
-                "time": "14:00",
+            "Valenciennes vs Annecy": {
+                "time": "19:45",
                 "single": {
-                    "home": "1.64",
-                    "draw": "3.95",
-                    "away": "5.05"
+                    "home": "2.25",
+                    "draw": "3.05",
+                    "away": "3.48"
                 },
                 "double": {
-                    "1X": "1.14",
-                    "12": "1.22",
-                    "2X": "2.15"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "2.68",
-                    "2 [Home + 1]": "12.00"
-                }
-            },
-            "B. Dortmund II vs Osnabruck": {
-                "time": "14:00",
-                "single": {
-                    "home": "2.48",
-                    "draw": "3.45",
-                    "away": "2.70"
-                },
-                "double": {
-                    "1X": "1.42",
-                    "12": "1.27",
-                    "2X": "1.49"
+                    "1X": "1.27",
+                    "12": "1.34",
+                    "2X": "1.59"
                 },
                 "handicap": {
                     "1 [Away + 1]": "4.70",
-                    "2 [Home + 1]": "5.30"
+                    "2 [Home + 1]": "8.80"
                 }
             },
-            "Meppen vs Freiburg II": {
+            "Annecy vs Paris FC": {
+                "time": "19:45",
+                "single": {
+                    "home": "2.90",
+                    "draw": "3.15",
+                    "away": "2.53"
+                },
+                "double": {
+                    "1X": "1.47",
+                    "12": "1.32",
+                    "2X": "1.37"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "6.70",
+                    "2 [Home + 1]": "5.50"
+                }
+            },
+            "Bastia vs Pau": {
+                "time": "19:45",
+                "single": {
+                    "home": "2.12",
+                    "draw": "3.25",
+                    "away": "3.42"
+                },
+                "double": {
+                    "1X": "1.27",
+                    "12": "1.29",
+                    "2X": "1.64"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.45",
+                    "2 [Home + 1]": "8.90"
+                }
+            },
+            "Bordeaux vs Amiens": {
+                "time": "19:45",
+                "single": {
+                    "home": "1.97",
+                    "draw": "3.38",
+                    "away": "3.85"
+                },
+                "double": {
+                    "1X": "1.23",
+                    "12": "1.28",
+                    "2X": "1.76"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "3.82",
+                    "2 [Home + 1]": "9.90"
+                }
+            },
+            "Dijon  vs Valenciennes": {
+                "time": "19:45",
+                "single": {
+                    "home": "2.13",
+                    "draw": "3.25",
+                    "away": "3.55"
+                },
+                "double": {
+                    "1X": "1.26",
+                    "12": "1.30",
+                    "2X": "1.65"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.35",
+                    "2 [Home + 1]": "9.00"
+                }
+            },
+            "Guingamp vs Grenoble": {
+                "time": "19:45",
+                "single": {
+                    "home": "2.23",
+                    "draw": "3.18",
+                    "away": "3.35"
+                },
+                "double": {
+                    "1X": "1.29",
+                    "12": "1.31",
+                    "2X": "1.60"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.85",
+                    "2 [Home + 1]": "8.70"
+                }
+            },
+            "Laval vs Rodez Aveyron": {
+                "time": "19:45",
+                "single": {
+                    "home": "2.15",
+                    "draw": "3.40",
+                    "away": "3.28"
+                },
+                "double": {
+                    "1X": "1.30",
+                    "12": "1.28",
+                    "2X": "1.64"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.30",
+                    "2 [Home + 1]": "7.80"
+                }
+            },
+            "Le Havre vs Nimes": {
+                "time": "19:45",
+                "single": {
+                    "home": "1.63",
+                    "draw": "3.60",
+                    "away": "5.60"
+                },
+                "double": {
+                    "1X": "1.11",
+                    "12": "1.25",
+                    "2X": "2.13"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "2.87",
+                    "2 [Home + 1]": "16.00"
+                }
+            },
+            "Metz vs Quevilly Rouen": {
+                "time": "19:45",
+                "single": {
+                    "home": "2.13",
+                    "draw": "3.35",
+                    "away": "3.38"
+                },
+                "double": {
+                    "1X": "1.28",
+                    "12": "1.29",
+                    "2X": "1.65"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.25",
+                    "2 [Home + 1]": "8.20"
+                }
+            },
+            "Sochaux vs Caen": {
                 "time": "14:00",
                 "single": {
-                    "home": "2.80",
-                    "draw": "3.40",
+                    "home": "2.28",
+                    "draw": "3.22",
+                    "away": "3.22"
+                },
+                "double": {
+                    "1X": "1.31",
+                    "12": "1.31",
+                    "2X": "1.57"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "4.70",
+                    "2 [Home + 1]": "7.70"
+                }
+            },
+            "Niort vs Saint Etienne": {
+                "time": "19:45",
+                "single": {
+                    "home": "3.15",
+                    "draw": "3.25",
+                    "away": "2.30"
+                },
+                "double": {
+                    "1X": "1.56",
+                    "12": "1.30",
+                    "2X": "1.32"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "7.20",
+                    "2 [Home + 1]": "4.60"
+                }
+            }
+        },
+        "National": {
+            "Avranches vs FC Versailles 78": {
+                "time": "18:30",
+                "single": {
+                    "home": "3.92",
+                    "draw": "3.38",
+                    "away": "1.92"
+                },
+                "double": {
+                    "1X": "1.79",
+                    "12": "1.28",
+                    "2X": "1.21"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "FC Martigues vs Bastia Borgo": {
+                "time": "18:30",
+                "single": {
+                    "home": "1.58",
+                    "draw": "4.08",
+                    "away": "5.20"
+                },
+                "double": {
+                    "1X": "1.13",
+                    "12": "1.20",
+                    "2X": "2.23"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Le Mans vs Villefranche Sur Saone": {
+                "time": "18:30",
+                "single": {
+                    "home": "2.08",
+                    "draw": "3.35",
+                    "away": "3.45"
+                },
+                "double": {
+                    "1X": "1.27",
+                    "12": "1.28",
+                    "2X": "1.67"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Le Puy vs Nancy": {
+                "time": "18:30",
+                "single": {
+                    "home": "3.05",
+                    "draw": "3.15",
                     "away": "2.43"
                 },
                 "double": {
                     "1X": "1.51",
+                    "12": "1.33",
+                    "2X": "1.34"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Orleans vs Dunkerque": {
+                "time": "18:30",
+                "single": {
+                    "home": "2.72",
+                    "draw": "3.10",
+                    "away": "2.62"
+                },
+                "double": {
+                    "1X": "1.43",
+                    "12": "1.32",
+                    "2X": "1.40"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Paris 13 Atletico vs Cholet": {
+                "time": "18:30",
+                "single": {
+                    "home": "2.50",
+                    "draw": "3.15",
+                    "away": "2.82"
+                },
+                "double": {
+                    "1X": "1.38",
+                    "12": "1.31",
+                    "2X": "1.47"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Red Star FC vs Chateauroux": {
+                "time": "18:30",
+                "single": {
+                    "home": "2.08",
+                    "draw": "3.28",
+                    "away": "3.52"
+                },
+                "double": {
+                    "1X": "1.26",
+                    "12": "1.29",
+                    "2X": "1.67"
+                },
+                "handicap": {
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
+                }
+            },
+            "Sedan vs Saint Brieuc": {
+                "time": "18:30",
+                "single": {
+                    "home": "2.05",
+                    "draw": "3.35",
+                    "away": "3.55"
+                },
+                "double": {
+                    "1X": "1.25",
                     "12": "1.28",
-                    "2X": "1.39"
+                    "2X": "1.69"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "5.60",
-                    "2 [Home + 1]": "4.60"
-                }
-            },
-            "Verl vs RW Essen": {
-                "time": "14:00",
-                "single": {
-                    "home": "2.15",
-                    "draw": "3.55",
-                    "away": "3.15"
-                },
-                "double": {
-                    "1X": "1.32",
-                    "12": "1.26",
-                    "2X": "1.64"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "3.85",
-                    "2 [Home + 1]": "6.50"
-                }
-            },
-            "Hallescher vs Wehen": {
-                "time": "14:00",
-                "single": {
-                    "home": "3.15",
-                    "draw": "3.50",
-                    "away": "2.20"
-                },
-                "double": {
-                    "1X": "1.61",
-                    "12": "1.27",
-                    "2X": "1.33"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "6.40",
-                    "2 [Home + 1]": "3.98"
-                }
-            },
-            "Duisburg vs Waldhof Mannheim": {
-                "time": "19:00",
-                "single": {
-                    "home": "2.48",
-                    "draw": "3.45",
-                    "away": "2.70"
-                },
-                "double": {
-                    "1X": "1.42",
-                    "12": "1.27",
-                    "2X": "1.49"
-                },
-                "handicap": {
-                    "1 [Away + 1]": "4.65",
-                    "2 [Home + 1]": "5.20"
+                    "1 [Away + 1]": "0.00",
+                    "2 [Home + 1]": "0.00"
                 }
             }
         },
-        "GER - DFB Pokal": {
-            "Union Berlin vs Wolfsburg": {
-                "time": "20:45",
+        "Coupe de France": {
+            "Lille  vs Troyes": {
+                "time": "19:45",
                 "single": {
-                    "home": "2.15",
-                    "draw": "3.40",
-                    "away": "3.32"
+                    "home": "1.32",
+                    "draw": "1.29",
+                    "away": "5.40"
                 },
                 "double": {
-                    "1X": "1.29",
-                    "12": "1.28",
-                    "2X": "1.64"
+                    "1X": "9.90",
+                    "12": "1.03",
+                    "2X": "1.12"
                 },
                 "handicap": {
-                    "1 [Away + 1]": "3.95",
-                    "2 [Home + 1]": "7.20"
+                    "1 [Away + 1]": "1.70",
+                    "2 [Home + 1]": "22.50"
                 }
             }
         }

@@ -48,7 +48,7 @@ def Compile(all=False, category=None):
                 for g in betking[c][e]:
                     betking[c][e][g]["category"] = c
                     betking[c][e][g]["sub-category"] = e.replace(
-                        category[0:3].upper() + " - ", "")
+                        c[0:3].upper() + " - ", "")
                     data_2[g] = betking[c][e][g]
     else:
         for e in bet9ja[category]:
